@@ -1,100 +1,156 @@
 [
 	{
 		"date": "2016-11-16",
+		"resolvedDate": "2017-03-15",
 		"link": "https://www.warhammer-community.com/2016/11/16/the-rumour-engine/",
-		"re-image-url": "2016-11-16.jpg",
-		"re-image-cdn-url": "https://www.warhammer-community.com/wp-content/uploads/2016/11/FullSizeRender-366x500.jpg",
-		"resolved-date": "2017-03-15",
-		"resolved-re-image-url": "2016-11-16-resolved.jpg",
-		"resolved-re-image-cdn-url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120205018_ArkanautFrigate04.jpg",
-		"miniature-name": "Arkanaut Frigate",
-		"miniature-link": "https://www.warhammer.com/en-GB/shop/Kharadron-Overlords-Arkanaut-frigate-2017",
-		"miniature-image-url": "2016-11-16-miniature.jpg",
-		"miniature-image-cdn-url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120205018_ArkanautFrigate01.jpg",
+		"rumourEngineImage": {
+			"url": "2016-11-16.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2016/11/FullSizeRender-366x500.jpg"
+		},
+		"resolvedImage" : {
+			"url": "2016-11-16-resolved.jpg",
+			"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120205018_ArkanautFrigate04.jpg"
+		},
+		"miniature": {
+			"name": "Arkanaut Frigate",
+			"link": "https://www.warhammer.com/en-GB/shop/Kharadron-Overlords-Arkanaut-frigate-2017",
+			"image": {
+				"url": "2016-11-16-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120205018_ArkanautFrigate01.jpg"
+			}
+		},
 		"tags": ["Warhammer Age of Sigmar", "Order", "Kharadron Overlords"]
 	},
 	{
 		"date": "2016-11-23",
+		"resolvedDate": "2017-01-21",
 		"link": "https://www.warhammer-community.com/2016/11/23/the-rumour-engine-23rd-of-november/",
-		"re-image-url": "2016-11-23.jpg",
-		"re-image-cdn-url": "https://www.warhammer-community.com/wp-content/uploads/2016/11/rumour-header.jpg",
-		"resolved-date": "2017-01-21",
-		"resolved-re-image-url": "2016-11-23-resolved.jpg",
-		"resolved-re-image-cdn-url": "https://www.warhammer-community.com/wp-content/uploads/2016/12/rumourengine-3.jpg",
-		"miniature-name": "Tzaangor Shaman",
-		"miniature-link": "https://www.warhammer.com/en-GB/shop/Tzaangor-Shaman",
-		"miniature-image-url": "2016-11-23-miniature.jpg",
-		"miniature-image-cdn-url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070201021_TzaangorShamen01.jpg",
+		"rumourEngineImage": {
+			"url": "2016-11-23.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2016/11/rumour-header.jpg"
+		},
+		"resolvedImage" : {
+			"url": "2016-11-23-resolved.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2016/12/rumourengine-3.jpg"
+		},
+		"miniature": {
+			"name": "Tzaangor Shaman",
+			"link": "https://www.warhammer.com/en-GB/shop/Tzaangor-Shaman",
+			"image": {
+				"url": "2016-11-23-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070201021_TzaangorShamen01.jpg"
+			}
+		},
 		"tags": ["Warhammer Age of Sigmar", "Chaos", "Disciples of Tzeentch"]
 	},
 	{
 		"date": "2016-11-30",
+		"resolvedDate": "2017-01-07",
 		"link": "https://www.warhammer-community.com/2016/11/30/rumour-engine-november-30/",
-		"re-image-url": "2016-11-30.jpg",
-		"re-image-cdn-url": "https://www.warhammer-community.com/wp-content/uploads/2016/11/rumour-1.jpg",
-		"resolved-date": "2017-01-07",
-		"resolved-re-image-url": "2016-11-30-resolved.jpg",
-		"resolved-re-image-cdn-url": "https://www.warhammer-community.com/wp-content/uploads/2016/12/rumourengine-1.jpg",
-		"miniature-name": "Belisarius Cawl",
-		"miniature-link": "https://www.warhammer.com/en-GB/shop/Adeptus-Mechanicus-Belisarius-Cawl-2017",
-		"miniature-image-url": "2016-11-30-miniature.jpg",
-		"miniature-image-cdn-url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120108008_TriumvirateoftheImperium02.jpg",
+		"rumourEngineImage": {
+			"url": "2016-11-30.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2016/11/rumour-1.jpg"
+		},
+		"resolvedImage" : {
+			"url": "2016-11-30-resolved.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2016/12/rumourengine-1.jpg"
+		},
+		"miniature": {
+			"name": "Belisarius Cawl",
+			"link": "https://www.warhammer.com/en-GB/shop/Adeptus-Mechanicus-Belisarius-Cawl-2017",
+			"image": {
+				"url": "2016-11-30-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120108008_TriumvirateoftheImperium02.jpg"
+			}
+		},
 		"tags": ["Warhammer 40.000", "Armies of the Imperium", "Adeptus Mechanicus"]
 	},
 	{
 		"date": "2016-12-07",
-		"link": "https://www.warhammer-community.com/2016/12/07/rumour-engine-december-7th/",
-		"re-image-url": "2016-12-07.jpg",
-		"re-image-cdn-url": "https://www.warhammer-community.com/wp-content/uploads/2016/12/rumour-dec7.jpg",
-		"resolved-date": "2017-01-21",
-		"resolved-re-image-url": "2016-12-07-resolved.jpg",
-		"resolved-re-image-cdn-url": "https://www.warhammer-community.com/wp-content/uploads/2016/12/rumourengine-2.jpg",
-		"miniature-name": "Tzaangor Enlightened",
-		"miniature-link": "https://www.warhammer.com/en-GB/shop/Tzaangor-Enlightened",
-		"miniature-image-url": "2016-12-07-miniature.jpg",
-		"miniature-image-cdn-url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120201064_TzaangorEnlightened01.jpg",
+		"resolvedDate": "2017-01-21",
+		"link": "https://www.warhammer-community.com/wp-content/uploads/2016/12/rumour-dec7.jpg",
+		"rumourEngineImage": {
+			"url": "2016-12-07.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2016/12/rumour-dec7.jpg"
+		},
+		"resolvedImage" : {
+			"url": "2016-12-07-resolved.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2016/12/rumourengine-2.jpg"
+		},
+		"miniature": {
+			"name": "Tzaangor Enlightened",
+			"link": "https://www.warhammer.com/en-GB/shop/Tzaangor-Enlightened",
+			"image": {
+				"url": "2016-12-07-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120201064_TzaangorEnlightened01.jpg"
+			}
+		},
 		"tags": ["Warhammer Age of Sigmar", "Chaos", "Disciples of Tzeentch"]
 	},
 	{
 		"date": "2016-12-14",
+		"resolvedDate": "2017-01-22",
 		"link": "https://www.warhammer-community.com/2016/12/14/rumour-engine-december-14th/",
-		"re-image-url": "2016-12-14.jpg",
-		"re-image-cdn-url": "https://www.warhammer-community.com/wp-content/uploads/2016/12/Rumour-cog-image.jpg",
-		"resolved-date": "2017-01-22",
-		"resolved-re-image-url": "2016-12-14-resolved.jpg",
-		"resolved-re-image-cdn-url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120104056_YnnariTriumvirateOfYnnead09.jpg",
-		"miniature-name": "Yvraine",
-		"miniature-link": "https://www.warhammer.com/en-GB/shop/aeldari-yvraine-2022",
-		"miniature-image-url": "2016-12-14-miniature.jpg",
-		"miniature-image-cdn-url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070104009_AELYvraineLead.jpg",
+		"rumourEngineImage": {
+			"url": "2016-12-14.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2016/12/Rumour-cog-image.jpg"
+		},
+		"resolvedImage" : {
+			"url": "2016-12-14-resolved.jpg",
+			"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120104056_YnnariTriumvirateOfYnnead09.jpg"
+		},
+		"miniature": {
+			"name": "Yvraine",
+			"link": "https://www.warhammer.com/en-GB/shop/aeldari-yvraine-2022",
+			"image": {
+				"url": "2016-12-14-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070104009_AELYvraineLead.jpg"
+			}
+		},
 		"tags": ["Warhammer 40.000", "Xenos Armies", "Aeldari"]
 	},
 	{
 		"date": "2016-12-28",
+		"resolvedDate": "2017-01-22",
 		"link": "https://www.warhammer-community.com/2016/12/28/rumour-engine-december-28th/",
-		"re-image-url": "2016-12-28.jpg",
-		"re-image-cdn-url": "https://www.warhammer-community.com/wp-content/uploads/2016/12/2016-12-28.jpg",
-		"resolved-date": "2017-01-22",
-		"resolved-re-image-url": "",
-		"resolved-re-image-cdn-url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120104056_YnnariTriumvirateOfYnnead09.jpg",
-		"miniature-name": "Yvraine",
-		"miniature-link": "https://www.warhammer.com/en-GB/shop/aeldari-yvraine-2022",
-		"miniature-image-url": "2016-12-14-miniature.jpg",
-		"miniature-image-cdn-url": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070104009_AELYvraineLead.jpg",
+		"rumourEngineImage": {
+			"url": "2016-12-28.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2016/12/2016-12-28.jpg"
+		},
+		"resolvedImage" : {
+			"url": "",
+			"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070104009_AELYvraineLead.jpg"
+		},
+		"miniature": {
+			"name": "Yvraine",
+			"link": "https://www.warhammer.com/en-GB/shop/aeldari-yvraine-2022",
+			"image": {
+				"url": "2016-12-14-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070104009_AELYvraineLead.jpg"
+			}
+		},
 		"tags": ["Warhammer 40.000", "Xenos Armies", "Aeldari"]
 	},
 	{
 		"date": "",
+		"resolvedDate": "",
 		"link": "",
-		"re-image-url": ".jpg",
-		"re-image-cdn-url": "",
-		"resolved-date": "",
-		"resolved-re-image-url": "-resolved.jpg",
-		"resolved-re-image-cdn-url": "",
-		"miniature-name": "",
-		"miniature-link": "",
-		"miniature-image-url": "-miniature.jpg",
-		"miniature-image-cdn-url": "",
+		"rumourEngineImage": {
+			"url": ".jpg",
+			"cdn": ""
+		},
+		"resolvedImage" : {
+			"url": "-resolved.jpg",
+			"cdn": ""
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "-miniature.jpg",
+				"cdn": ""
+			}
+		},
 		"tags": []
 	}
 ]
