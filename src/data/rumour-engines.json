@@ -119,7 +119,7 @@
 		},
 		"resolvedImage" : {
 			"url": "",
-			"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070104009_AELYvraineLead.jpg"
+			"cdn": ""
 		},
 		"miniature": {
 			"name": "Yvraine",
@@ -130,6 +130,116 @@
 			}
 		},
 		"tags": ["Warhammer 40.000", "Xenos Armies", "Aeldari"]
+	},
+	{
+		"date": "2017-01-04",
+		"resolvedDate": "2017-03-15",
+		"link": "https://www.warhammer-community.com/2017/01/04/rumour-engine-january-4th/",
+		"rumourEngineImage": {
+			"url": "2017-01-04.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/01/3.jpg"
+		},
+		"resolvedImage" : {
+			"url": "",
+			"cdn": ""
+		},
+		"miniature": {
+			"name": "Skywardens",
+			"link": "https://www.warhammer.com/en-GB/shop/Skyriggers-2017",
+			"image": {
+				"url": "2017-01-04-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120205021_Skywardens01.jpg"
+			}
+		},
+		"tags": ["Warhammer Age of Sigmar", "Order", "Kharadron Overlords"]
+	},
+	{
+		"date": "2017-01-11",
+		"resolvedDate": "2017-02-11",
+		"link": "https://www.warhammer-community.com/2017/01/11/rumour-engine-january-11th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-01-11.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/01/rumour.jpg"
+		},
+		"resolvedImage" : {
+			"url": "",
+			"cdn": ""
+		},
+		"miniature": {
+			"name": "Vanguard Palladors",
+			"link": "https://www.warhammer.com/en-GB/shop/Stormcast-Eternals-Vanguard-Palladors-2017",
+			"image": {
+				"url": "2017-01-11-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120218022_PalladorsVanguard01.jpg"
+			}
+		},
+		"tags": ["Warhammer Age of Sigmar", "Order", "Stormcast Eternal"]
+	},
+	{
+		"date": "2017-01-18",
+		"resolvedDate": "2017-02-03",
+		"link": "https://www.warhammer-community.com/2017/01/18/rumour-engine-january-18th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-01-18.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/01/rumourcog2.jpg"
+		},
+		"resolvedImage" : {
+			"url": "2017-01-18-resolved.jpg",
+			"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120101177_TriumvirateofthePrimarch07.jpg"
+		},
+		"miniature": {
+			"name": "Cypher",
+			"link": "https://www.warhammer.com/en-GB/shop/Cypher-2018",
+			"image": {
+				"url": "2017-01-18-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120101177_TriumvirateofthePrimarch06.jpg"
+			}
+		},
+		"tags": ["Warhammer 40.000", "Space Marines", "Dark Angels"]
+	},
+	{
+		"date": "2017-01-25",
+		"resolvedDate": "2017-02-03",
+		"link": "https://www.warhammer-community.com/2017/01/25/rumour-engine/",
+		"rumourEngineImage": {
+			"url": "2017-01-25.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/01/rumour-engine.jpg"
+		},
+		"resolvedImage" : {
+			"url": "",
+			"cdn": ""
+		},
+		"miniature": {
+			"name": "Grand Master Voldus",
+			"link": "https://www.warhammer.com/en-GB/shop/Grey-Knights-Grand-Master-Voldus-2017",
+			"image": {
+				"url": "2017-01-25-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070107001_GrandMasterVoldus01.jpg"
+			}
+		},
+		"tags": ["Warhammer 40.000", "Space Marines", "Grey Knights"]
+	},
+	{
+		"date": "2017-02-01",
+		"resolvedDate": "2017-03-17",
+		"link": "https://www.warhammer-community.com/2017/02/01/rumour-engine-february-1st-2017/",
+		"rumourEngineImage": {
+			"url": "2017-02-01.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/01/SprueShot.jpg"
+		},
+		"resolvedImage" : {
+			"url": "",
+			"cdn": ""
+		},
+		"miniature": {
+			"name": "Sector Mechanicum Ferratonic Furnace",
+			"link": "https://www.warhammer.com/en-GB/shop/Sector-Mechanicum-Ferratonic-Furnace",
+			"image": {
+				"url": "2017-02-01-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": ["Warhammer 40.000"]
 	},
 	{
 		"date": "",
