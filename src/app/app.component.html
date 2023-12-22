@@ -1,36 +1,10 @@
-<div class="container summon-simulator">
+<div class="container">
 	<div class="row justify-content-center">
 		<div class="py-5 text-center">
-			<h3>Rumour Engines</h3>
+			<h2>Rumour Engines</h2>
 		</div>
 
-	<div *ngIf="rumourEngines.length > 0" class="row pb-5 justify-content-center">
-		<div class="col-3 justify-content-center" *ngFor="let rumourEngine of rumourEngines">
-			<div class="py-2" *ngIf="rumourEngine">
-				<p><strong>Miniature Name: {{ rumourEngine.miniature.name }}</strong></p>
-				<p>RE Date: {{ rumourEngine.date }} | RE Resolved Date: {{ rumourEngine.resolvedDate }}</p>
-				<a href="{{ rumourEngine.link }}">RE Link</a>
-			</div>
-
-			<div class="py-2" *ngIf="rumourEngine">
-				<p><strong>Rumour Engine Image</strong></p>
-				<img style="max-width: 100%;" src="{{  '../assets/images/' + rumourEngine.rumourEngineImage.url }}">
-				<img style="max-width: 100%;" src="{{ rumourEngine.rumourEngineImage.cdn }}">
-			</div>
-
-			<div class="py-2" *ngIf="rumourEngine">
-				<p><strong>Rumour Engine Resolved Miniature</strong></p>
-				<img style="max-width: 100%;" src="{{  '../assets/images/' + rumourEngine.miniature.image.url }}">
-				<img style="max-width: 100%;" src="{{ rumourEngine.miniature.image.cdn }}">
-				<a href="{{ rumourEngine.miniature.link }}">Miniature Link</a>
-			</div>
-
-			<div class="py-2" *ngIf="rumourEngine">
-				<p><strong>Tags</strong></p>
-				<span *ngFor="let tag of rumourEngine.tags">{{ tag }}, </span>
-			</div>
-		</div>
-	</div>
+	<vertical-timeline></vertical-timeline>
 </div>
 
 <router-outlet></router-outlet>

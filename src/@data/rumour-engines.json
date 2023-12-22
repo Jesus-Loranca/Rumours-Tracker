@@ -56,7 +56,7 @@
 	{
 		"date": "2016-12-07",
 		"resolvedDate": "2017-01-21",
-		"link": "https://www.warhammer-community.com/wp-content/uploads/2016/12/rumour-dec7.jpg",
+		"link": "https://www.warhammer-community.com/2016/12/07/rumour-engine-december-7th/",
 		"rumourEngineImage": {
 			"url": "2016-12-07.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2016/12/rumour-dec7.jpg"
@@ -192,7 +192,7 @@
 			"link": "https://www.warhammer.com/en-GB/shop/Sector-Mechanicum-Ferratonic-Furnace",
 			"image": {
 				"url": "2017-02-01-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://miniset.net/files/set/gw-99020199042_6.jpg"
 			}
 		},
 		"tags": ["40.000"]
@@ -638,7 +638,7 @@
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/07/July26RumourEngine.jpg"
 		},
 		"miniature": {
-			"name": "Escher-Gang",
+			"name": "Escher Gang",
 			"link": "https://www.warhammer.com/en-GB/shop/Necromunda-Escher-Gang-2017",
 			"image": {
 				"url": "2017-07-26-miniature.jpg",
@@ -1042,6 +1042,24 @@
 			}
 		},
 		"tags": ["Age of Sigmar"]
+	},
+	{
+		"date": "",
+		"resolvedDate": "",
+		"link": "",
+		"rumourEngineImage": {
+			"url": ".jpg",
+			"cdn": ""
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	},
 	{
 		"date": "",
