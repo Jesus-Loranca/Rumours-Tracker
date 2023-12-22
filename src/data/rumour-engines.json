@@ -7,10 +7,6 @@
 			"url": "2016-11-16.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2016/11/FullSizeRender-366x500.jpg"
 		},
-		"resolvedImage" : {
-			"url": "2016-11-16-resolved.jpg",
-			"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120205018_ArkanautFrigate04.jpg"
-		},
 		"miniature": {
 			"name": "Arkanaut Frigate",
 			"link": "https://www.warhammer.com/en-GB/shop/Kharadron-Overlords-Arkanaut-frigate-2017",
@@ -19,7 +15,7 @@
 				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120205018_ArkanautFrigate01.jpg"
 			}
 		},
-		"tags": ["Warhammer Age of Sigmar", "Order", "Kharadron Overlords"]
+		"tags": ["Age of Sigmar", "Order", "Kharadron Overlords"]
 	},
 	{
 		"date": "2016-11-23",
@@ -29,10 +25,6 @@
 			"url": "2016-11-23.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2016/11/rumour-header.jpg"
 		},
-		"resolvedImage" : {
-			"url": "2016-11-23-resolved.jpg",
-			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2016/12/rumourengine-3.jpg"
-		},
 		"miniature": {
 			"name": "Tzaangor Shaman",
 			"link": "https://www.warhammer.com/en-GB/shop/Tzaangor-Shaman",
@@ -41,7 +33,7 @@
 				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070201021_TzaangorShamen01.jpg"
 			}
 		},
-		"tags": ["Warhammer Age of Sigmar", "Chaos", "Disciples of Tzeentch"]
+		"tags": ["Age of Sigmar", "Chaos", "Disciples of Tzeentch"]
 	},
 	{
 		"date": "2016-11-30",
@@ -51,10 +43,6 @@
 			"url": "2016-11-30.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2016/11/rumour-1.jpg"
 		},
-		"resolvedImage" : {
-			"url": "2016-11-30-resolved.jpg",
-			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2016/12/rumourengine-1.jpg"
-		},
 		"miniature": {
 			"name": "Belisarius Cawl",
 			"link": "https://www.warhammer.com/en-GB/shop/Adeptus-Mechanicus-Belisarius-Cawl-2017",
@@ -63,7 +51,7 @@
 				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120108008_TriumvirateoftheImperium02.jpg"
 			}
 		},
-		"tags": ["Warhammer 40.000", "Armies of the Imperium", "Adeptus Mechanicus"]
+		"tags": ["40.000", "Armies of the Imperium", "Adeptus Mechanicus"]
 	},
 	{
 		"date": "2016-12-07",
@@ -73,10 +61,6 @@
 			"url": "2016-12-07.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2016/12/rumour-dec7.jpg"
 		},
-		"resolvedImage" : {
-			"url": "2016-12-07-resolved.jpg",
-			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2016/12/rumourengine-2.jpg"
-		},
 		"miniature": {
 			"name": "Tzaangor Enlightened",
 			"link": "https://www.warhammer.com/en-GB/shop/Tzaangor-Enlightened",
@@ -85,7 +69,7 @@
 				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120201064_TzaangorEnlightened01.jpg"
 			}
 		},
-		"tags": ["Warhammer Age of Sigmar", "Chaos", "Disciples of Tzeentch"]
+		"tags": ["Age of Sigmar", "Chaos", "Disciples of Tzeentch"]
 	},
 	{
 		"date": "2016-12-14",
@@ -95,10 +79,6 @@
 			"url": "2016-12-14.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2016/12/Rumour-cog-image.jpg"
 		},
-		"resolvedImage" : {
-			"url": "2016-12-14-resolved.jpg",
-			"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120104056_YnnariTriumvirateOfYnnead09.jpg"
-		},
 		"miniature": {
 			"name": "Yvraine",
 			"link": "https://www.warhammer.com/en-GB/shop/aeldari-yvraine-2022",
@@ -107,7 +87,7 @@
 				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070104009_AELYvraineLead.jpg"
 			}
 		},
-		"tags": ["Warhammer 40.000", "Xenos Armies", "Aeldari"]
+		"tags": ["40.000", "Xenos Armies", "Aeldari"]
 	},
 	{
 		"date": "2016-12-28",
@@ -117,10 +97,6 @@
 			"url": "2016-12-28.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2016/12/2016-12-28.jpg"
 		},
-		"resolvedImage" : {
-			"url": "",
-			"cdn": ""
-		},
 		"miniature": {
 			"name": "Yvraine",
 			"link": "https://www.warhammer.com/en-GB/shop/aeldari-yvraine-2022",
@@ -129,7 +105,7 @@
 				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070104009_AELYvraineLead.jpg"
 			}
 		},
-		"tags": ["Warhammer 40.000", "Xenos Armies", "Aeldari"]
+		"tags": ["40.000", "Xenos Armies", "Aeldari"]
 	},
 	{
 		"date": "2017-01-04",
@@ -139,10 +115,6 @@
 			"url": "2017-01-04.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/01/3.jpg"
 		},
-		"resolvedImage" : {
-			"url": "",
-			"cdn": ""
-		},
 		"miniature": {
 			"name": "Skywardens",
 			"link": "https://www.warhammer.com/en-GB/shop/Skyriggers-2017",
@@ -151,7 +123,7 @@
 				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120205021_Skywardens01.jpg"
 			}
 		},
-		"tags": ["Warhammer Age of Sigmar", "Order", "Kharadron Overlords"]
+		"tags": ["Age of Sigmar", "Order", "Kharadron Overlords"]
 	},
 	{
 		"date": "2017-01-11",
@@ -161,10 +133,6 @@
 			"url": "2017-01-11.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/01/rumour.jpg"
 		},
-		"resolvedImage" : {
-			"url": "",
-			"cdn": ""
-		},
 		"miniature": {
 			"name": "Vanguard Palladors",
 			"link": "https://www.warhammer.com/en-GB/shop/Stormcast-Eternals-Vanguard-Palladors-2017",
@@ -173,7 +141,7 @@
 				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120218022_PalladorsVanguard01.jpg"
 			}
 		},
-		"tags": ["Warhammer Age of Sigmar", "Order", "Stormcast Eternal"]
+		"tags": ["Age of Sigmar", "Order", "Stormcast Eternals"]
 	},
 	{
 		"date": "2017-01-18",
@@ -183,10 +151,6 @@
 			"url": "2017-01-18.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/01/rumourcog2.jpg"
 		},
-		"resolvedImage" : {
-			"url": "2017-01-18-resolved.jpg",
-			"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120101177_TriumvirateofthePrimarch07.jpg"
-		},
 		"miniature": {
 			"name": "Cypher",
 			"link": "https://www.warhammer.com/en-GB/shop/Cypher-2018",
@@ -195,7 +159,7 @@
 				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120101177_TriumvirateofthePrimarch06.jpg"
 			}
 		},
-		"tags": ["Warhammer 40.000", "Space Marines", "Dark Angels"]
+		"tags": ["40.000", "Space Marines", "Dark Angels"]
 	},
 	{
 		"date": "2017-01-25",
@@ -205,10 +169,6 @@
 			"url": "2017-01-25.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/01/rumour-engine.jpg"
 		},
-		"resolvedImage" : {
-			"url": "",
-			"cdn": ""
-		},
 		"miniature": {
 			"name": "Grand Master Voldus",
 			"link": "https://www.warhammer.com/en-GB/shop/Grey-Knights-Grand-Master-Voldus-2017",
@@ -217,7 +177,7 @@
 				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070107001_GrandMasterVoldus01.jpg"
 			}
 		},
-		"tags": ["Warhammer 40.000", "Space Marines", "Grey Knights"]
+		"tags": ["40.000", "Space Marines", "Grey Knights"]
 	},
 	{
 		"date": "2017-02-01",
@@ -227,10 +187,6 @@
 			"url": "2017-02-01.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/01/SprueShot.jpg"
 		},
-		"resolvedImage" : {
-			"url": "",
-			"cdn": ""
-		},
 		"miniature": {
 			"name": "Sector Mechanicum Ferratonic Furnace",
 			"link": "https://www.warhammer.com/en-GB/shop/Sector-Mechanicum-Ferratonic-Furnace",
@@ -239,7 +195,853 @@
 				"cdn": ""
 			}
 		},
-		"tags": ["Warhammer 40.000"]
+		"tags": ["40.000"]
+	},
+	{
+		"date": "2017-02-08",
+		"resolvedDate": "2018-08-18",
+		"link": "https://www.warhammer-community.com/2017/02/08/rumour-engine-2/",
+		"rumourEngineImage": {
+			"url": "2017-02-08.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/02/RumourEngine.jpg"
+		},
+		"miniature": {
+			"name": "Larsen van der Grauss",
+			"link": "https://www.warhammer.com/en-GB/shop/kill-team-elucidian-starstriders-2022",
+			"image": {
+				"url": "2017-02-08-miniature.png",
+				"cdn": "https://warhammer40000.com/games/wp-content/uploads/sites/2/2019/07/01-Larsen-van-der-Grauss-128.png"
+			}
+		},
+		"tags": ["40.000", "Kill Team", "Agents of the Imperium"]
+	},
+	{
+		"date": "2017-02-15",
+		"resolvedDate": "2017-04-13",
+		"link": "https://www.warhammer-community.com/2017/02/15/rumour-engine-february-15th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-02-15.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/02/RumourEngine15thFeb17Content.jpg"
+		},
+		"miniature": {
+			"name": "Sepulchral Guard",
+			"link": "https://www.warhammer.com/en-GB/shop/Wh-Underworlds-Sepulchral-Guard-2017-eng",
+			"image": {
+				"url": "2017-02-15-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/10/Shadespire-WarbandsSkeletons-Image1ur.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Underworlds", "Shadespire", "Death", "Soulblight Gravelords"]
+	},
+	{
+		"date": "2017-02-22",
+		"resolvedDate": "2017-08-31",
+		"link": "https://www.warhammer-community.com/2017/02/22/rumour-engine-february-22nd-2017/",
+		"rumourEngineImage": {
+			"url": "2017-02-22.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/02/Rumour-Engine.jpg"
+		},
+		"miniature": {
+			"name": "Ironskulls Boyz",
+			"link": "https://www.warhammer.com/en-GB/shop/Wh-Underworlds-Ironskulls-Boyz-2017-eng",
+			"image": {
+				"url": "2017-02-22-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/10/Shadespire-WarbandsIronjawz-Warband1kr.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Underworlds", "Shadespire", "Destruction", "Ironjawz"]
+	},
+	{
+		"date": "2017-03-01",
+		"resolvedDate": "2017-03-15",
+		"link": "https://www.warhammer-community.com/2017/03/01/rumour-engine-march-1st-2017/",
+		"rumourEngineImage": {
+			"url": "2017-03-01.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/03/RumourEngineArt1.jpg"
+		},
+		"miniature": {
+			"name": "Kharodron Overlords Battletome 2017",
+			"link": "https://www.warhammer.com/en-GB/shop/Kharodron-Overlords-battletome-HB-ENG-2017",
+			"image": {
+				"url": "2017-03-01-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/03/GAMA-KO-Battletome-Content-500x500.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Order", "Kharadron Overlords"]
+	},
+	{
+		"date": "2017-03-08",
+		"resolvedDate": "2017-03-23",
+		"link": "https://www.warhammer-community.com/2017/03/08/rumour-engine-march-8th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-03-08.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/03/RumourEngineMar8Content-1.jpg"
+		},
+		"miniature": {
+			"name": "Warhammer Underworlds Shadespire",
+			"link": "https://www.warhammer.com/en-GB/shop/Warhammer-Underworlds-Shadespire-2017-eng",
+			"image": {
+				"url": "2017-03-08-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/10/ShadespirePreOrder-Oct14-Content1jd.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Underworlds", "Sha"]
+	},
+	{
+		"date": "2017-03-15",
+		"resolvedDate": "2017-11-03",
+		"link": "https://www.warhammer-community.com/2017/03/15/rumour-engine-march-15th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-03-15.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/03/RumourEngine15thMarContent.jpg"
+		},
+		"miniature": {
+			"name": "Spiteclaws Swarm",
+			"link": "https://www.warhammer.com/en-GB/shop/Wh-Underworlds-Spiteclaws-Swarm-2018-ENG",
+			"image": {
+				"url": "2017-03-15-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/02/SpiteclawSwarm-Feb03-Content2bz.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Underworlds", "Shadespire", "Chaos", "Skaven"]
+	},
+	{
+		"date": "2017-03-22",
+		"resolvedDate": "2018-02-19",
+		"link": "https://www.warhammer-community.com/2017/03/22/rumour-engine-march-22nd-2017/",
+		"rumourEngineImage": {
+			"url": "2017-03-22.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/03/RumourEngineMar22.jpg"
+		},
+		"miniature": {
+			"name": "Melusai Blood Stalkers",
+			"link": "https://www.warhammer.com/en-GB/shop/Daughters-Of-Khaine-Melusai-Blood-Stalkers-2018",
+			"image": {
+				"url": "2017-03-22-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120212033_DoKBloodSistersLead02.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Order", "Daughters of Khaine"]
+	},
+	{
+		"date": "2017-03-29",
+		"resolvedDate": "2017-08-20",
+		"link": "https://www.warhammer-community.com/2017/03/29/rumour-engine-march-29th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-03-29.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/03/RumourEngine29Mar.jpg"
+		},
+		"miniature": {
+			"name": "Horticulous Slimux",
+			"link": "https://www.warhammer.com/en-GB/shop/Horticulous-Slimux-2018",
+			"image": {
+				"url": "2017-03-29-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60010299012_BlightWarENG03.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Chaos", "Maggotkin of Nurgle"]
+	},
+	{
+		"date": "2017-04-05",
+		"resolvedDate": "2017-08-20",
+		"link": "https://www.warhammer-community.com/2017/04/05/rumour-engine-april-5th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-04-05.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/04/IMG_7138-e1491389391219.jpg"
+		},
+		"miniature": {
+			"name": "Horticulous Slimux",
+			"link": "https://www.warhammer.com/en-GB/shop/Horticulous-Slimux-2018",
+			"image": {
+				"url": "2017-03-29-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60010299012_BlightWarENG03.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Chaos", "Maggotkin of Nurgle"]
+	},
+	{
+		"date": "2017-04-12",
+		"resolvedDate": "2017-08-20",
+		"link": "https://www.warhammer-community.com/2017/04/12/rumour-engine-april-12th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-04-12.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/04/RumourEngineApr12Content.jpg"
+		},
+		"miniature": {
+			"name": "Horticulous Slimux",
+			"link": "https://www.warhammer.com/en-GB/shop/Horticulous-Slimux-2018",
+			"image": {
+				"url": "2017-03-29-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60010299012_BlightWarENG03.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Chaos", "Maggotkin of Nurgle"]
+	},
+	{
+		"date": "2017-04-19",
+		"resolvedDate": "2017-11-03",
+		"link": "https://www.warhammer-community.com/2017/04/19/rumour-engine-april-19th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-04-19.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/04/2017-04-19.jpg"
+		},
+		"miniature": {
+			"name": "Spiteclaws Swarm",
+			"link": "https://www.warhammer.com/en-GB/shop/Wh-Underworlds-Spiteclaws-Swarm-2018-ENG",
+			"image": {
+				"url": "2017-03-15-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/02/SpiteclawSwarm-Feb03-Content2bz.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Underworlds", "Shadespire", "Chaos", "Skaven"]
+	},
+	{
+		"date": "2017-04-26",
+		"resolvedDate": "2017-05-23",
+		"link": "https://www.warhammer-community.com/2017/04/26/rumour-engine-april-26th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-04-26.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/04/RumourEngineApril26.jpg"
+		},
+		"miniature": {
+			"name": "Index: Xenos 1",
+			"link": "https://www.warhammer.com/en-GB/shop/Index-xenos-vol-1-eng-2017",
+			"image": {
+				"url": "2017-04-26-miniature.jpg",
+				"cdn": "https://wh40k.lexicanum.com/mediawiki/images/f/f6/IndexXenos1.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies"]
+	},
+	{
+		"date": "2017-05-03",
+		"resolvedDate": "2017-05-08",
+		"link": "https://www.warhammer-community.com/2017/05/03/rumour-engine-may-3rd-2017/",
+		"rumourEngineImage": {
+			"url": "2017-05-03.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/05/RumourEngineMay3.jpg"
+		},
+		"miniature": {
+			"name": "Goblin Secret Weapons",
+			"link": "https://www.warhammer.com/en-GB/shop/Goblin-secret-weapons-2017",
+			"image": {
+				"url": "2017-05-03-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99550999007_BBGoblinSecretWeapons01.jpg"
+			}
+		},
+		"tags": ["Blood Bowl", "Goblins"]
+	},
+	{
+		"date": "2017-05-10",
+		"resolvedDate": "2017-08-20",
+		"link": "https://www.warhammer-community.com/2017/05/10/rumour-engine-may-10th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-05-10.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/05/May10RumourEngine.jpg"
+		},
+		"miniature": {
+			"name": "Neave Blacktalon",
+			"link": "https://www.warhammer.com/en-GB/shop/Stormcast-Eternals-Neave-Blacktalon-2018",
+			"image": {
+				"url": "2017-05-10-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60010299012_BlightWarENG02.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Order", "Stormcast Eternals"]
+	},
+	{
+		"date": "2017-05-17",
+		"resolvedDate": "2018-01-06",
+		"link": "https://www.warhammer-community.com/2017/05/17/rumour-engine-may-17th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-05-17.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/05/RumourEngineMay17.jpg"
+		},
+		"miniature": {
+			"name": "Captain General Trajann Valoris",
+			"link": "https://www.warhammer.com/en-GB/shop/Captain-general-Trajann-Valoris-2018",
+			"image": {
+				"url": "2017-05-17-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120108012_GeneralTrajannValoris01.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of the Imperium", "Adeptus Custodes"]
+	},
+	{
+		"date": "2017-05-24",
+		"resolvedDate": "2018-10-16",
+		"link": "https://www.warhammer-community.com/2017/05/24/rumour-engine-may-24th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-05-24.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/05/RumourEngineMay24.jpg"
+		},
+		"miniature": {
+			"name": "Kustom Boosta Blasta",
+			"link": "https://www.warhammer.com/en-GB/shop/Orks-Kustom-Boosta-Blasta-2019",
+			"image": {
+				"url": "2017-05-24-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120103064_BoostaBlasta01.jpg"
+			}
+		},
+		"tags": ["40.000", "Speed Freeks", "Xenos Armies", "Orks"]
+	},
+	{
+		"date": "2017-05-31",
+		"resolvedDate": "2017-10-13",
+		"link": "https://www.warhammer-community.com/2017/05/31/rumour-engine-may-31st-2017/",
+		"rumourEngineImage": {
+			"url": "2017-05-31.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/05/May31RumourEngine.jpg"
+		},
+		"miniature": {
+			"name": "Ironskulls Boyz",
+			"link": "https://www.warhammer.com/en-GB/shop/Wh-Underworlds-Ironskulls-Boyz-2017-eng",
+			"image": {
+				"url": "2017-02-22-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/10/Shadespire-WarbandsIronjawz-Warband1kr.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Underworlds", "Shadespire", "Destruction", "Ironjawz"]
+	},
+	{
+		"date": "2017-06-07",
+		"resolvedDate": "2017-10-13",
+		"link": "https://www.warhammer-community.com/2017/06/07/rumour-engine-june-7th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-06-07.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/06/June7RumourEngine.jpg"
+		},
+		"miniature": {
+			"name": "Ironskulls Boyz",
+			"link": "https://www.warhammer.com/en-GB/shop/Wh-Underworlds-Ironskulls-Boyz-2017-eng",
+			"image": {
+				"url": "2017-02-22-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/10/Shadespire-WarbandsIronjawz-Warband1kr.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Underworlds", "Shadespire", "Destruction", "Ironjawz"]
+	},
+	{
+		"date": "2017-06-14",
+		"resolvedDate": "2017-07-23",
+		"link": "https://www.warhammer-community.com/2017/06/14/rumour-engine-june-14th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-06-14.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/06/June14RumourEngine.jpg"
+		},
+		"miniature": {
+			"name": "Space Marines Primaris Apothecary",
+			"link": "https://www.warhammer.com/en-GB/shop/Space-Marines-Primaris-Apothecary-2020",
+			"image": {
+				"url": "2017-06-14-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120101178_PrimarisApothecary01.jpg"
+			}
+		},
+		"tags": ["40.000", "Space Marines"]
+	},
+	{
+		"date": "2017-06-21",
+		"resolvedDate": "2018-06-24",
+		"link": "https://www.warhammer-community.com/2017/06/21/rumour-engine-june-21st-2017/",
+		"rumourEngineImage": {
+			"url": "2017-06-21.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/06/June21RumourEngine.jpg"
+		},
+		"miniature": {
+			"name": "Ethereal Court",
+			"link": "https://www.warhammer.com/en-GB/shop/nighthaunt-ethereal-court-2022",
+			"image": {
+				"url": "2017-06-21-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120207109_EtherealCourtLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Death", "Nighthaunt"]
+	},
+	{
+		"date": "2017-06-28",
+		"resolvedDate": "2018-06-05",
+		"link": "https://www.warhammer-community.com/2017/06/28/rumour-engine-june-28th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-06-28.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/06/June28RumourEngine.jpg"
+		},
+		"miniature": {
+			"name": "Celestar Ballista",
+			"link": "https://www.warhammer.com/en-GB/shop/Age-Of-Sigmar-Soul-Wars-2018-eng",
+			"image": {
+				"url": "2017-06-28-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/05/AoSStormcastFF-May15-Ballista2wv.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Order", "Stormcast Eternals"]
+	},
+	{
+		"date": "2017-07-05",
+		"resolvedDate": "2017-11-05",
+		"link": "https://www.warhammer-community.com/2017/07/05/rumour-engine-5th-july-2017/",
+		"rumourEngineImage": {
+			"url": "2017-07-05.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/07/July5RumourEngine.jpg"
+		},
+		"miniature": {
+			"name": "Necromunda Underhive Barricades and Objectives",
+			"link": "https://www.warhammer.com/en-GB/shop/Necromunda-Barricades-Objectives-2017",
+			"image": {
+				"url": "2017-07-05-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120599001_NecromundaBarricades03.jpg"
+			}
+		},
+		"tags": ["40.000", "Necromunda"]
+	},
+	{
+		"date": "2017-07-12",
+		"resolvedDate": "2017-11-05",
+		"link": "https://www.warhammer-community.com/2017/07/12/rumour-engine-july-12th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-07-12.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/07/RumourEngine_July12.jpg"
+		},
+		"miniature": {
+			"name": "Necromunda Underhive Barricades and Objectives",
+			"link": "https://www.warhammer.com/en-GB/shop/Necromunda-Barricades-Objectives-2017",
+			"image": {
+				"url": "2017-07-12-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120599001_NecromundaBarricades04.jpg"
+			}
+		},
+		"tags": ["40.000", "Necromunda"]
+	},
+	{
+		"date": "2017-07-19",
+		"resolvedDate": "2017-11-05",
+		"link": "https://www.warhammer-community.com/2017/07/19/rumour-engine-july-19th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-07-19.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/07/RumourEngineJuly19.jpg"
+		},
+		"miniature": {
+			"name": "Necromunda Underhive Barricades and Objectives",
+			"link": "https://www.warhammer.com/en-GB/shop/Necromunda-Barricades-Objectives-2017",
+			"image": {
+				"url": "2017-07-05-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120599001_NecromundaBarricades03.jpg"
+			}
+		},
+		"tags": ["40.000", "Necromunda"]
+	},
+	{
+		"date": "2017-07-26",
+		"resolvedDate": "2017-11-05",
+		"link": "https://www.warhammer-community.com/2017/07/26/rumour-engine-july-26th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-07-26.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/07/July26RumourEngine.jpg"
+		},
+		"miniature": {
+			"name": "Escher-Gang",
+			"link": "https://www.warhammer.com/en-GB/shop/Necromunda-Escher-Gang-2017",
+			"image": {
+				"url": "2017-07-26-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60010599001_NecromundaUnderhive02.jpg"
+			}
+		},
+		"tags": ["40.000", "Necromunda", "Escher"]
+	},
+	{
+		"date": "2017-08-02",
+		"resolvedDate": "2017-09-03",
+		"link": "https://www.warhammer-community.com/2017/08/02/rumour-engine-august-2nd-2017/",
+		"rumourEngineImage": {
+			"url": "2017-08-02.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/08/Aug2_RumourEngine6sbA.jpg"
+		},
+		"miniature": {
+			"name": "Death Guard Codex 2017",
+			"link": "https://www.warhammer.com/en-GB/shop/Codex-Death-Guard-hb-2017-eng",
+			"image": {
+				"url": "2017-08-02-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/08/DeathGuardCover_Content.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of Chaos", "Death Guard"]
+	},
+	{
+		"date": "2017-08-09",
+		"resolvedDate": "2017-09-11",
+		"link": "https://www.warhammer-community.com/2017/08/09/rumour-engine-august-9th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-08-09.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/08/Aug9RumourEngine.jpg"
+		},
+		"miniature": {
+			"name": "Elven Union Team: Elfheim Eagles",
+			"link": "https://www.warhammer.com/en-GB/shop/Elfheim-Eagles-Blood-Bowl-Team-2017",
+			"image": {
+				"url": "2017-08-09-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120999003_ElfheimEaglesTeam01.jpg"
+			}
+		},
+		"tags": ["Blood Bowl", "Elven Union"]
+	},
+	{
+		"date": "2017-08-16",
+		"resolvedDate": "2017-09-03",
+		"link": "https://www.warhammer-community.com/2017/08/16/rumour-engine-august-16th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-08-16.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/08/RumourEngine-Aug16gr.jpg"
+		},
+		"miniature": {
+			"name": "Biologus Putrifier",
+			"link": "https://www.warhammer.com/en-GB/shop/Death-Guard-Biologus-Putrifier-2020?slug=shop&slug=Death-Guard-Biologus-Putrifier-2020",
+			"image": {
+				"url": "2017-08-16-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070102005_BiologusPutrifier01.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of Chaos", "Death Guard"]
+	},
+	{
+		"date": "2017-08-23",
+		"resolvedDate": "2018-08-30",
+		"link": "https://www.warhammer-community.com/2017/08/23/rumour-engine-august-23rd-2017/",
+		"rumourEngineImage": {
+			"url": "2017-08-23.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/08/RumourEngine_Content.jpg"
+		},
+		"miniature": {
+			"name": "Deffkilla Wartrike",
+			"link": "https://www.warhammer.com/en-GB/shop/Orks-Deffkilla-Wartrike-2018",
+			"image": {
+				"url": "2017-08-23-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120103063_DeffkillaWartrike01.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Orks"]
+	},
+	{
+		"date": "2017-08-29",
+		"resolvedDate": "2017-12-31",
+		"link": "https://www.warhammer-community.com/2017/08/29/rumour-engine-august-29th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-08-29.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/08/RumourEngine-Aug29-320x320.jpg"
+		},
+		"miniature": {
+			"name": "Feculent Gnarlmaw",
+			"link": "https://www.warhammer.com/en-GB/shop/Feculent-Gnarlmaw-2018",
+			"image": {
+				"url": "2017-08-29-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915047_FeculentGnarlmaw01.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Chaos", "Maggotkin of Nurgle"]
+	},
+	{
+		"date": "2017-09-05",
+		"resolvedDate": "2018-05-06",
+		"link": "https://www.warhammer-community.com/2017/09/05/rumour-engine-september-5th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-09-05.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/09/RumourEngine_Content.jpg"
+		},
+		"miniature": {
+			"name": "Akhelian Morrsarr Guard",
+			"link": "https://www.warhammer.com/en-GB/shop/Idoneth-Deepkin-Akhelian-Guard-2018",
+			"image": {
+				"url": "2017-09-05-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120219008_IdonethMorrsarrGuard01.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Order", "Idoneth Deepkin"]
+	},
+	{
+		"date": "2017-09-12",
+		"resolvedDate": "2017-12-31",
+		"link": "https://www.warhammer-community.com/2017/09/12/rumour-engine-september-12th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-09-12.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/09/RumourEngine-Sep12hrvs.jpg"
+		},
+		"miniature": {
+			"name": "Spoilpox Scrivener",
+			"link": "https://www.warhammer.com/en-GB/shop/Spoilpox-Scrivener-Herald-Of-Nurgle-2018",
+			"image": {
+				"url": "2017-09-12-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/12/JanPreview-Dec19-Scrivenor7hwb.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of Chaos", "Chaos Daemons"]
+	},
+	{
+		"date": "2017-09-19",
+		"resolvedDate": "2018-04-12",
+		"link": "https://www.warhammer-community.com/2017/09/19/the-rumour-engine-september-19th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-09-19.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/09/RumourEngine-Sep191jd.jpg"
+		},
+		"miniature": {
+			"name": "Isharann Soulrender",
+			"link": "https://www.warhammer.com/en-GB/shop/Idoneth-Deepkin-Isharann-Soulrender-2018",
+			"image": {
+				"url": "2017-09-19-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070219004_IsharannSoulrender01.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Order", "Idoneth Deepkin"]
+	},
+	{
+		"date": "2017-09-26",
+		"resolvedDate": "2018-01-17",
+		"link": "https://www.warhammer-community.com/2017/09/26/the-rumour-engine-september-26th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-09-26.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/09/RumerEngine_Sep26.jpg"
+		},
+		"miniature": {
+			"name": "Vertus Praetors",
+			"link": "https://www.warhammer.com/en-GB/shop/Adeptus-Custodes-Vertus-Praetors-2018",
+			"image": {
+				"url": "2017-09-26-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120108014_VertusPraetors01.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of the Imperium", "Adeptus Custodes"]
+	},
+	{
+		"date": "2017-10-03",
+		"resolvedDate": "2017-11-11",
+		"link": "https://www.warhammer-community.com/2017/10/03/the-rumour-engine-october-3rd-2017/",
+		"rumourEngineImage": {
+			"url": "2017-10-03.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/10/Oct3-RumourEngine2kf.jpg"
+		},
+		"miniature": {
+			"name": "Thermic Plasma Conduits",
+			"link": "https://www.warhammer.com/en-GB/shop/Warhammer-40000-Thermic-Plasma-Conduits-2017",
+			"image": {
+				"url": "2017-10-03-miniature.jpg",
+				"cdn": "https://www.belloflostsouls.net/wp-content/uploads/2017/11/99120199063_PlasmaConduits02.jpg"
+			}
+		},
+		"tags": ["40.000"]
+	},
+	{
+		"date": "2017-10-10",
+		"resolvedDate": "2018-01-17",
+		"link": "https://www.warhammer-community.com/2017/10/10/the-rumour-engine-october-10th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-10-10.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/10/RumourEngine-Oct10.jpg"
+		},
+		"miniature": {
+			"name": "Vertus Praetors",
+			"link": "https://www.warhammer.com/en-GB/shop/Adeptus-Custodes-Vertus-Praetors-2018",
+			"image": {
+				"url": "2017-09-26-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120108014_VertusPraetors01.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of the Imperium", "Adeptus Custodes"]
+	},
+	{
+		"date": "2017-10-17",
+		"resolvedDate": "2018-08-30",
+		"link": "https://www.warhammer-community.com/2017/10/17/the-rumour-engine-october-17th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-10-17.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/10/RumourEngine-Oct17.jpg"
+		},
+		"miniature": {
+			"name": "Thorns of the Briar Queen",
+			"link": "https://www.warhammer.com/en-GB/shop/Thorns-of-the-Briar-Queen-Collection-2018-eng",
+			"image": {
+				"url": "2017-10-17-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/09/WHUWNighthaunt-Sep17-Warband7am.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Underworlds", "Nightvault ", "Death", "Nighthaunt"]
+	},
+	{
+		"date": "2017-10-24",
+		"resolvedDate": "2018-02-19",
+		"link": "https://www.warhammer-community.com/2017/10/24/the-rumour-engine-october-24th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-10-24.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/10/RumourEngineOct24.jpg"
+		},
+		"miniature": {
+			"name": "Khinerai Lifetakers",
+			"link": "https://www.warhammer.com/en-GB/shop/Daughters-Of-Khaine-Khinerai-Lifetakers-2018",
+			"image": {
+				"url": "2017-10-24-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120212032_DoKKhineraiHeartrendersLifetakersLead02_a.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Order", "Daughters of Khaine"]
+	},
+	{
+		"date": "2017-10-31",
+		"resolvedDate": "2018-02-19",
+		"link": "https://www.warhammer-community.com/2017/10/31/the-rumour-engine-october-31st-2017/",
+		"rumourEngineImage": {
+			"url": "2017-10-31.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/10/RumourEngine-Oct31.jpg"
+		},
+		"miniature": {
+			"name": "Melusai Blood Sisters",
+			"link": "https://www.warhammer.com/en-GB/shop/Daughters-Of-Khaine-Melusai-Blood-Sisters-2018",
+			"image": {
+				"url": "2017-10-31-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120212033_DoKBloodSistersLead01.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Order", "Daughters of Khaine"]
+	},
+	{
+		"date": "2017-11-07",
+		"resolvedDate": "2018-08-30",
+		"link": "https://www.warhammer-community.com/2017/11/07/rumour-engine-7th-november-2017/",
+		"rumourEngineImage": {
+			"url": "2017-11-07.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/11/RumourEngine-Nov7.jpg"
+		},
+		"miniature": {
+			"name": "Thorns of the Briar Queen",
+			"link": "https://www.warhammer.com/en-GB/shop/Thorns-of-the-Briar-Queen-Collection-2018-eng",
+			"image": {
+				"url": "2017-10-17-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/09/WHUWNighthaunt-Sep17-Warband7am.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Underworlds", "Nightvault ", "Death", "Nighthaunt"]
+	},
+	{
+		"date": "2017-11-14",
+		"resolvedDate": "2018-04-10",
+		"link": "https://www.warhammer-community.com/2017/11/14/rumour-engine-november-14th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-11-14.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/11/RumourEngine-Nov14hcsv.jpg"
+		},
+		"miniature": {
+			"name": "Namarti Reavers",
+			"link": "https://www.warhammer.com/en-GB/shop/Namarti-Reavers-2018",
+			"image": {
+				"url": "2017-11-14-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120219010_NamartiReavers01.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Order", "Idoneth Deepkin"]
+	},
+	{
+		"date": "2017-11-21",
+		"resolvedDate": "2018-04-11",
+		"link": "https://www.warhammer-community.com/2017/11/21/rumour-engine-november-21st-2017/",
+		"rumourEngineImage": {
+			"url": "2017-11-21.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/11/RumourEngine-Nov21-Image1ursv.jpg"
+		},
+		"miniature": {
+			"name": "Akhelian Leviadon",
+			"link": "https://www.warhammer.com/en-GB/shop/Idoneth-Deepkin-Akhelian-Leviadon-2018",
+			"image": {
+				"url": "2017-11-21-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120219009_AkhelianLeviadon01.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Order", "Idoneth Deepkin"]
+	},
+	{
+		"date": "2017-11-28",
+		"resolvedDate": "2018-01-17",
+		"link": "https://www.warhammer-community.com/2017/11/28/rumour-engine-28th-november-2017/",
+		"rumourEngineImage": {
+			"url": "2017-11-28.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/11/RumourEngine-Nov28mtf.jpg"
+		},
+		"miniature": {
+			"name": "Vertus Praetors",
+			"link": "https://www.warhammer.com/en-GB/shop/Adeptus-Custodes-Vertus-Praetors-2018",
+			"image": {
+				"url": "2017-09-26-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120108014_VertusPraetors01.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of the Imperium", "Adeptus Custodes"]
+	},
+	{
+		"date": "2017-12-05",
+		"resolvedDate": "2018-01-18",
+		"link": "https://www.warhammer-community.com/2017/12/05/rumour-engine-5th-december-2017/",
+		"rumourEngineImage": {
+			"url": "2017-12-05.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/12/RumourEngine-Dec54-Content2te.jpg"
+		},
+		"miniature": {
+			"name": "Custodian Warden",
+			"link": "https://www.warhammer.com/en-GB/shop/Adeptus-Custodes-Custodian-Wardens-2018",
+			"image": {
+				"url": "2017-12-05-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120108013_CustodianWardens01.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of the Imperium", "Adeptus Custodes"]
+	},
+	{
+		"date": "2017-12-12",
+		"resolvedDate": "2018-01-17",
+		"link": "https://www.warhammer-community.com/2017/12/12/rumour-engine-december-12th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-12-12.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/12/RumourEngine-Dec12-1hex.jpg"
+		},
+		"miniature": {
+			"name": "Vertus Praetors",
+			"link": "https://www.warhammer.com/en-GB/shop/Adeptus-Custodes-Vertus-Praetors-2018",
+			"image": {
+				"url": "2017-09-26-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120108014_VertusPraetors01.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of the Imperium", "Adeptus Custodes"]
+	},
+	{
+		"date": "2017-12-19",
+		"resolvedDate": "2018-04-27",
+		"link": "https://www.warhammer-community.com/2017/12/19/rumour-engine-december-19th-2017/",
+		"rumourEngineImage": {
+			"url": "2017-12-19.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/12/Dec19-RumourEngine2jre.jpg"
+		},
+		"miniature": {
+			"name": "Aeldari Webway Gate",
+			"link": "https://www.warhammer.com/en-GB/shop/Aeldari-Webway-Gate-2018",
+			"image": {
+				"url": "2017-12-19-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120104058_AeldariWebwayGateNEWLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Aeldari"]
+	},
+	{
+		"date": "2018-01-02",
+		"resolvedDate": "2018-06-24",
+		"link": "https://www.warhammer-community.com/2018/01/02/rumour-engine-january-2nd-2018/",
+		"rumourEngineImage": {
+			"url": "2018-01-02.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/12/Jan2-RumourEngine1yrcls.jpg"
+		},
+		"miniature": {
+			"name": "Ravenak’s Gnashing Jaws",
+			"link": "https://www.warhammer.com/en-GB/shop/Malign-Sorcery-Spells-2021",
+			"image": {
+				"url": "2018-01-02-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/threeSixty/60120299001_RavenaksGnashingJaws360/01.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar"]
 	},
 	{
 		"date": "",
@@ -247,10 +1049,6 @@
 		"link": "",
 		"rumourEngineImage": {
 			"url": ".jpg",
-			"cdn": ""
-		},
-		"resolvedImage" : {
-			"url": "-resolved.jpg",
 			"cdn": ""
 		},
 		"miniature": {
