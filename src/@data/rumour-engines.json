@@ -548,11 +548,11 @@
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/06/June21RumourEngine.jpg"
 		},
 		"miniature": {
-			"name": "Ethereal Court",
+			"name": "Spirit Torment",
 			"link": "https://www.warhammer.com/en-GB/shop/nighthaunt-ethereal-court-2022",
 			"image": {
 				"url": "2017-06-21-miniature.jpg",
-				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120207109_EtherealCourtLead.jpg"
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/threeSixty/99120207109_NHEtherialCourtOTT3360/01-01.jpg"
 			}
 		},
 		"tags": ["Age of Sigmar", "Death", "Nighthaunt"]
@@ -1042,6 +1042,294 @@
 			}
 		},
 		"tags": ["Age of Sigmar"]
+	},
+	{
+		"date": "2018-01-09 ",
+		"resolvedDate": "2018-04-09",
+		"link": "https://www.warhammer-community.com/2018/01/09/rumour-engine-january-9th-2018/",
+		"rumourEngineImage": {
+			"url": "2018-01-09.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/01/RumourEngine-Jan9jw.jpg"
+		},
+		"miniature": {
+			"name": "Lotann, Warden of the Soul Ledgers",
+			"link": "https://www.warhammer.com/en-GB/shop/Lotann-Warden-Of-The-Soul-Ledgers-2018",
+			"image": {
+				"url": "2018-01-09-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120219006_IdonethLotann01.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Order", "Idoneth Deepkin"]
+	},
+	{
+		"date": "2018-01-16",
+		"resolvedDate": "2018-04-09",
+		"link": "https://www.warhammer-community.com/2018/01/16/rumour-engine-january-16th-2018/",
+		"rumourEngineImage": {
+			"url": "2018-01-16.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/01/RumourEngine-Jan16-1urs.jpg"
+		},
+		"miniature": {
+			"name": "Lotann, Warden of the Soul Ledgers",
+			"link": "https://www.warhammer.com/en-GB/shop/Lotann-Warden-Of-The-Soul-Ledgers-2018",
+			"image": {
+				"url": "2018-01-09-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120219006_IdonethLotann01.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Order", "Idoneth Deepkin"]
+	},
+	{
+		"date": "2018-01-23",
+		"resolvedDate": "2018-06-05",
+		"link": "https://www.warhammer-community.com/2018/01/23/rumour-engine-23rd-january-2018/",
+		"rumourEngineImage": {
+			"url": "2018-01-23.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/01/Jan23-RumourEngine1ud.jpg"
+		},
+		"miniature": {
+			"name": "Knight of Shrouds",
+			"link": "https://www.warhammer.com/en-GB/shop/nighthaunt-ethereal-court-2022",
+			"image": {
+				"url": "2018-01-23-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/threeSixty/99120207109_NHEtherialCourtOTT1360/01-01.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Death", "Nighthaunt"]
+	},
+	{
+		"date": "2018-01-30",
+		"resolvedDate": "2018-06-05",
+		"link": "https://www.warhammer-community.com/2018/01/30/rumour-engine-30th-january-2018/",
+		"rumourEngineImage": {
+			"url": "2018-01-30.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/01/Jan30-RumourEngine1yc.jpg"
+		},
+		"miniature": {
+			"name": "Lord Executioner",
+			"link": "https://www.warhammer.com/en-GB/shop/Age-Of-Sigmar-Soul-Wars-2018-eng",
+			"image": {
+				"url": "2018-01-30-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/05/AoSNighthauntFF-May14-Executioner11dx.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Death", "Nighthaunt"]
+	},
+	{
+		"date": "2018-02-06",
+		"resolvedDate": "2018-06-05",
+		"link": "https://www.warhammer-community.com/2018/02/06/rumour-engine-6th-february-2018/",
+		"rumourEngineImage": {
+			"url": "2018-02-06.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/02/Feb6-RumourEngine1wnd.jpg"
+		},
+		"miniature": {
+			"name": "Knight of Shrouds",
+			"link": "https://www.warhammer.com/en-GB/shop/nighthaunt-ethereal-court-2022",
+			"image": {
+				"url": "2018-01-23-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/threeSixty/99120207109_NHEtherialCourtOTT1360/01-01.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Death", "Nighthaunt"]
+	},
+	{
+		"date": "2018-02-13",
+		"resolvedDate": "2018-07-05",
+		"link": "https://www.warhammer-community.com/2018/02/13/rumour-engine-13th-february-2018/",
+		"rumourEngineImage": {
+			"url": "2018-02-13.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/02/Feb13-RumourEngine2kes.jpg"
+		},
+		"miniature": {
+			"name": "Sector Imperialis: Imperial Sector",
+			"link": "https://www.warhammer.com/en-GB/shop/Warhammer-40000-Sector-Imperialis-2018",
+			"image": {
+				"url": "2018-02-13-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/07/SectorImperialisDetails-July28-BigStatues2y.jpg"
+			}
+		},
+		"tags": ["40.000"]
+	},
+	{
+		"date": "2018-02-20",
+		"resolvedDate": "2018-04-28",
+		"link": "https://www.warhammer-community.com/2018/02/20/rumour-engine-february-20th-2018/",
+		"rumourEngineImage": {
+			"url": "2018-02-20.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/02/Feb20-RumourEngine1tvg.jpg"
+		},
+		"miniature": {
+			"name": "Van Saar Gang",
+			"link": "https://www.warhammer.com/en-GB/shop/Necromunda-Van-Saar-Gang-2018",
+			"image": {
+				"url": "2018-02-20-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120599006_VanSaarGang01.jpg"
+			}
+		},
+		"tags": ["Necromunda", "Van Saar"]
+	},
+	{
+		"date": "2018-02-27",
+		"resolvedDate": "2018-04-28",
+		"link": "https://www.warhammer-community.com/2018/02/27/rumour-engine-february-27th-2018/",
+		"rumourEngineImage": {
+			"url": "2018-02-27.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/02/Feb27-RumourEngine1ud.jpg"
+		},
+		"miniature": {
+			"name": "Van Saar Gang",
+			"link": "https://www.warhammer.com/en-GB/shop/Necromunda-Van-Saar-Gang-2018",
+			"image": {
+				"url": "2018-02-20-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120599006_VanSaarGang01.jpg"
+			}
+		},
+		"tags": ["Necromunda", "Van Saar"]
+	},
+	{
+		"date": "2018-03-06",
+		"resolvedDate": "2018-07-05",
+		"link": "https://www.warhammer-community.com/2018/03/06/the-rumour-engine-march-6th-2018/",
+		"rumourEngineImage": {
+			"url": "2018-03-06.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/03/Mar6-RumourEngine1hs.jpg"
+		},
+		"miniature": {
+			"name": "Sector Imperialis: Imperial Sector",
+			"link": "https://www.warhammer.com/en-GB/shop/Warhammer-40000-Sector-Imperialis-2018",
+			"image": {
+				"url": "2018-02-13-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/07/SectorImperialisDetails-July28-BigStatues2y.jpg"
+			}
+		},
+		"tags": ["40.000"]
+	},
+	{
+		"date": "2018-03-13",
+		"resolvedDate": "2018-06-02",
+		"link": "https://www.warhammer-community.com/2018/03/13/the-rumour-engine-march-13th-2018/",
+		"rumourEngineImage": {
+			"url": "2018-03-13.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/03/Mar13-RumourEngine1vcs.jpg"
+		},
+		"miniature": {
+			"name": "Knight Castellan",
+			"link": "https://www.warhammer.com/en-GB/shop/imperial-knights-knight-dominus-knight-castellan-2022",
+			"image": {
+				"url": "2018-03-13-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120108016_IKCastellan01.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of the Imperium", "Imperial Knights"]
+	},
+	{
+		"date": "2018-03-20",
+		"resolvedDate": "2018-06-02",
+		"link": "https://www.warhammer-community.com/2018/03/20/the-rumour-engine-march-20th-2018/",
+		"rumourEngineImage": {
+			"url": "2018-03-20.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/03/Mar20-RumourEngine2jcs.jpg"
+		},
+		"miniature": {
+			"name": "Knight Castellan",
+			"link": "https://www.warhammer.com/en-GB/shop/imperial-knights-knight-dominus-knight-castellan-2022",
+			"image": {
+				"url": "2018-03-13-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120108016_IKCastellan01.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of the Imperium", "Imperial Knights"]
+	},
+	{
+		"date": "2018-03-27",
+		"resolvedDate": "2018-03-26",
+		"link": "https://www.warhammer-community.com/2018/03/27/the-rumour-engine-march-27th-2018/",
+		"rumourEngineImage": {
+			"url": "2018-03-27.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/03/Mar27-RumourEngine1tecvd.jpg"
+		},
+		"miniature": {
+			"name": "Sector Imperialis Administratum",
+			"link": "https://www.warhammer.com/en-GB/shop/Sector-Imperialis-Administratum-2018",
+			"image": {
+				"url": "2018-03-27-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/07/SectorImperialisDetails-July28-Stacking3k.jpg"
+			}
+		},
+		"tags": ["40.000"]
+	},
+	{
+		"date": "2018-04-03",
+		"resolvedDate": "2018-12-27",
+		"link": "https://www.warhammer-community.com/2018/04/03/the-rumour-engine-april-3rd-2018/",
+		"rumourEngineImage": {
+			"url": "2018-04-03.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/03/Apr3-RumourEngine2rlv.jpg"
+		},
+		"miniature": {
+			"name": "Flesh Hounds",
+			"link": "https://www.warhammer.com/en-GB/shop/Flesh-Hounds-2019",
+			"image": {
+				"url": "2018-04-03-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915050_BoKHFleshhounds01.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Chaos", "Blades of Khorne"]
+	},
+	{
+		"date": "2018-04-10",
+		"resolvedDate": "2018-08-08",
+		"link": "https://www.warhammer-community.com/2018/04/10/the-rumour-engine-april-10th-2018/",
+		"rumourEngineImage": {
+			"url": "2018-04-10.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/04/Apr10-RumourEngine15hw.jpg"
+		},
+		"miniature": {
+			"name": "Lord-Arcanum on Gryph-charger",
+			"link": "https://www.warhammer.com/en-GB/shop/stormcast-eternals-masters-of-the-sacrosanct-2021",
+			"image": {
+				"url": "2018-04-10-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/threeSixty/60010299013_LordArcanum360/01.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Order", "Stormcast Eternals"]
+	},
+	{
+		"date": "2018-04-17",
+		"resolvedDate": "2018-08-08",
+		"link": "https://www.warhammer-community.com/2018/04/17/the-rumour-engine-april-17th-2018/",
+		"rumourEngineImage": {
+			"url": "2018-04-17.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/04/Apr17-RumourEngine3kfe.jpg"
+		},
+		"miniature": {
+			"name": "Sector Imperialis Sanctum",
+			"link": "https://www.warhammer.com/en-GB/shop/Sector-Imperialis-Sanctum-2018",
+			"image": {
+				"url": "2018-04-17-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/07/KillTeamLaunch-July5-Imperialis3en.jpg"
+			}
+		},
+		"tags": ["40.000"]
+	},
+	{
+		"date": "2018-04-24",
+		"resolvedDate": "2018-12-27",
+		"link": "https://www.warhammer-community.com/2018/04/24/the-rumour-engine-april-24th-2018/",
+		"rumourEngineImage": {
+			"url": "2018-04-24.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/04/Apr24-RumourEngine1ch.jpg"
+		},
+		"miniature": {
+			"name": "Loonsmashag Fanatics",
+			"link": "https://www.warhammer.com/en-GB/shop/Gloomspite-Gitz:-Fanatics-2019",
+			"image": {
+				"url": "2018-04-24-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120209055_GloomspiteGitzFanatics01.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction", "Gloomspite Gitz"]
 	},
 	{
 		"date": "",
