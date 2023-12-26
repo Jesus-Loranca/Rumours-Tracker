@@ -8,13 +8,13 @@ $black-opacity-80: rgba(0, 0, 0, 0.08);
 
 .timeline {
   position: relative;
-	padding: 0 50px;
+	padding: 0px;
 
 	&::before {
 		content: '';
 		position: absolute;
 		top: 0;
-		left: 128px;
+		left: 30px;
 		height: 100%;
 		width: 4px;
 		background: $white;
@@ -42,21 +42,25 @@ $black-opacity-80: rgba(0, 0, 0, 0.08);
 	.content {
 		position: relative;
 		margin-left: 80px;
+		margin-bottom: 30px;
+		text-align: center;
 		background: $white;
 		border-radius: 0.25em;
 		padding: 2em 3em;
 		box-shadow: 0 3px 0 $medium-gray;
 
 		.tags {
-			padding: 1em 0 2em 0;
+			padding: 0;
 
 			span {
+				display: inline-block;
 				font-size: 0.75em;
 				font-weight: 500;
 				background-color: $light-gray;
 				border-radius: 500px;
 				padding: 0.5em 1em;
 				margin-right: 0.5em;
+				margin-bottom: 10px;
 			}
 		}
 
@@ -96,7 +100,7 @@ $black-opacity-80: rgba(0, 0, 0, 0.08);
 		}
 
 		.images {
-			padding-top: 2em !important;
+			padding-top: 0 !important;
 
 			img {
 				padding: 1em;
@@ -119,6 +123,28 @@ $black-opacity-80: rgba(0, 0, 0, 0.08);
 @media only screen and (min-width: 1170px) {
   .timeline {
     margin: 4em 0;
+		padding: 0 50px;
+
+		&::before {
+			left: 128px;
+		}
+
+		.content {
+			margin-bottom: 0;
+			text-align: left;
+
+			.tags {
+				padding: 1em 0 2em 0;
+			}
+
+			.tags, .titles {
+				margin-left: 1em;
+			}
+
+			.images {
+				padding-top: 1em !important;
+			}
+		}
   }
 }
 
