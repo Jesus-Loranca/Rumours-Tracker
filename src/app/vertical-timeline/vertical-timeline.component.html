@@ -1,6 +1,6 @@
 <div class="timeline animate" *ngIf="rumourEngines.length > 0">
 	<div class="timeline left" *ngFor="let rumourEngine of rumourEngines">
-		<div *ngIf="rumourEngine.link">
+		<div *ngIf="rumourEngine && rumourEngine.link">
 			<span class="icon bounce-in">{{ getYear(rumourEngine.date) }}</span>
 
 			<div class="content bounce-in">

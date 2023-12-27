@@ -4,8 +4,7 @@ import * as rumourEnginesData from '../../@data/rumour-engines.json';
 
 @Component({
   selector: 'vertical-timeline',
-  templateUrl: './vertical-timeline.component.html',
-  styleUrls: ['./vertical-timeline.component.scss']
+  templateUrl: './vertical-timeline.component.html'
 })
 
 export class VerticalTimelineComponent  {
@@ -23,12 +22,16 @@ export class VerticalTimelineComponent  {
 		});
 	}
 
-	getResolvedDate(createdString: string, resolvedString: string): number {
+	getResolvedDate(createdString: string, resolvedString: string): string {
 		const createdgDate = new Date(createdString);
 		const resolvedDate = new Date(resolvedString);
 		const timeDifference = resolvedDate.getTime() - createdgDate.getTime();
 
-		return Math.ceil(timeDifference / (1000 * 60 * 60 * 24));
+		if (!resolvedString) {
+			return '';
+		}
+
+		return String(Math.ceil(timeDifference / (1000 * 60 * 60 * 24)));
 	}
 
 	getYear(dateString: string): number {

@@ -1,0 +1,29 @@
+.container {
+	h2 {
+		color: $dark-gray !important;
+	}
+
+	.scroll-btn {
+		cursor: pointer;
+		position: fixed;
+		max-width: 3em;
+		bottom: 2em;
+		right: 2em;
+		padding: 0.5em;
+		background-color: $dark-gray;
+		color: $white;
+		border: none;
+		border-radius: 5px;
+		box-shadow: 0 3px 0 $dark-gray-hover;
+		transition: opacity 0.3s ease-in-out;
+
+		&.show {
+			display: block;
+		}
+
+		&:hover {
+			background-color: $dark-gray-hover;
+			box-shadow: 0 3px 0 $black;
+		}
+	}
+}
