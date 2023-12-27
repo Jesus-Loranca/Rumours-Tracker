@@ -37,4 +37,9 @@ export class VerticalTimelineComponent  {
 	getYear(dateString: string): number {
 		return new Date(dateString).getFullYear();
 	}
+
+  handleImageError(event: Event, fallbackImageUrl: string): void {
+    const imgElement = event.target as HTMLImageElement;
+    imgElement.src = '../assets/images/' + fallbackImageUrl;
+  }
 }
