@@ -1599,7 +1599,7 @@
 				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/07/fGWUcCeyErWiBIvr.jpg"
 			}
 		},
-		"tags": ["Warhammer Quest", "Blackstone Fortress"]
+		"tags": ["40.000", "Warhammer Quest", "Blackstone Fortress"]
 	},
 	{
 		"date": "2018-08-14",
@@ -1617,7 +1617,7 @@
 				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/07/fGWUcCeyErWiBIvr.jpg"
 			}
 		},
-		"tags": ["Warhammer Quest", "Blackstone Fortress"]
+		"tags": ["40.000", "Warhammer Quest", "Blackstone Fortress"]
 	},
 	{
 		"date": "2018-08-21",
@@ -1779,7 +1779,7 @@
 				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/08/PreOrderPreview-Aug18-BSF_EscalationHostiles14tt.jpg"
 			}
 		},
-		"tags": ["Warhammer Quest", "Blackstone Fortress"]
+		"tags": ["40.000", "Warhammer Quest", "Blackstone Fortress"]
 	},
 	{
 		"date": "2018-10-23",
@@ -1797,7 +1797,7 @@
 				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/09/ServingTheAbyss-Sep23-RT-j1y7f.jpg"
 			}
 		},
-		"tags": ["Warhammer Quest", "Blackstone Fortress"]
+		"tags": ["40.000", "Warhammer Quest", "Blackstone Fortress"]
 	},
 	{
 		"date": "2018-10-30",
@@ -1815,7 +1815,7 @@
 				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/09/ServingTheAbyss-Sep23-x101-g16c4.jpg"
 			}
 		},
-		"tags": ["Warhammer Quest", "Blackstone Fortress"]
+		"tags": ["40.000", "Warhammer Quest", "Blackstone Fortress"]
 	},
 	{
 		"date": "2018-11-06",
@@ -1833,7 +1833,7 @@
 				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/09/ServingTheAbyss-Sep23-RT-j1y7f.jpg"
 			}
 		},
-		"tags": ["Warhammer Quest", "Blackstone Fortress"]
+		"tags": ["40.000", "Warhammer Quest", "Blackstone Fortress"]
 	},
 	{
 		"date": "2018-11-13",
@@ -2481,7 +2481,7 @@
 				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/08/R7Iujch6AJQg8rng.jpg"
 			}
 		},
-		"tags": ["Warhammer Quest", "Blackstone Fortress"]
+		"tags": ["40.000", "Warhammer Quest", "Blackstone Fortress"]
 	},
 	{
 		"date": "2019-04-23",
@@ -2553,7 +2553,7 @@
 				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/03/33492ddc.jpg"
 			}
 		},
-		"tags": ["Warhammer Quest", "Blackstone Fortress"]
+		"tags": ["40.000", "Warhammer Quest", "Blackstone Fortress"]
 	},
 	{
 		"date": "2019-05-21",
@@ -2571,7 +2571,7 @@
 				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/03/33492ddc.jpg"
 			}
 		},
-		"tags": ["Warhammer Quest", "Blackstone Fortress"]
+		"tags": ["40.000", "Warhammer Quest", "Blackstone Fortress"]
 	},
 	{
 		"date": "2019-05-28",
@@ -3159,7 +3159,7 @@
 		},
 		"miniature": {
 			"name": "Catachan Colonel",
-			"link": "https://www.warhammer.com/en-GB/shop/warhammer-40000/armies-of-the-imperium/astra-militarum",
+			"link": "https://www.warhammer-community.com/2020/04/28/reopening-soon-games-workshop-com/",
 			"image": {
 				"url": "2020-01-07-miniature.jpg",
 				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/04/j_C9W-h7Ki-3Jl_7.jpg"
@@ -3274,6 +3274,1230 @@
 			}
 		},
 		"tags": ["Age of Sigmar", "Chaos", "Slaves to Darkness"]
+	},
+	{
+		"date": "2020-02-25",
+		"resolvedDate": "2020-03-01",
+		"link": "https://www.warhammer-community.com/2020/02/25/the-rumour-engine-february-25th-2020/",
+		"rumourEngineImage": {
+			"url": "2020-02-25.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/02/f7517218.jpg"
+		},
+		"miniature": {
+			"name": "Sergeant 'Ripper' Jackson",
+			"link": "https://www.warhammer.com/en-GB/shop/Ripper-Jackson",
+			"image": {
+				"url": "2020-02-25-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/09/AJ3R2eegf2zCBnJl.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of the Imperium", "Astra Militarum"]
+	},
+	{
+		"date": "2020-03-03",
+		"resolvedDate": "2020-12-25",
+		"link": "https://www.warhammer-community.com/2020/03/03/the-rumour-engine-march-3rd-2020/",
+		"rumourEngineImage": {
+			"url": "2020-03-03.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/03/00e3c3a6.jpg"
+		},
+		"miniature": {
+			"name": "Blissbarb Archers",
+			"link": "https://www.warhammer.com/en-GB/shop/Hedonites-Of-Slaanesh-Blissbarb-Archers-2020",
+			"image": {
+				"url": "2020-03-03-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120201104_BlissbarbArchersLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Chaos", "Hedonites of Slaanesh"]
+	},
+	{
+		"date": "2020-03-10",
+		"resolvedDate": "2021-03-20",
+		"link": "https://www.warhammer-community.com/2020/03/10/the-rumour-engine-march-10th-2020/",
+		"rumourEngineImage": {
+			"url": "2020-03-10.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/03/bc975d2d.jpg"
+		},
+		"miniature": {
+			"name": "Squighog Boyz",
+			"link": "https://www.warhammer.com/en-GB/shop/orks-squighog-boyz-2021",
+			"image": {
+				"url": "2020-03-10-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60010103001_BeastsnaggaHogzGroup2.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Orks"]
+	},
+	{
+		"date": "2020-03-17",
+		"resolvedDate": "2022-08-14",
+		"link": "https://www.warhammer-community.com/2020/03/17/the-rumour-engine-march-17th-2020/",
+		"rumourEngineImage": {
+			"url": "2020-03-17.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/03/af5c3c88.jpg"
+		},
+		"miniature": {
+			"name": "Mibyllorr Darkfang, Chaos Sorcerer Lord",
+			"link": "https://www.warhammer.com/en-GB/shop/mibyllorr-darkfang-chaos-sorcerer-lord-2022",
+			"image": {
+				"url": "2020-03-17-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120201100_MibyllorrDarkfangLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Chaos", "Slaves to Darkness"]
+	},
+	{
+		"date": "2020-03-24",
+		"resolvedDate": "2020-12-08",
+		"link": "https://www.warhammer-community.com/2020/03/24/the-rumour-engine-march-24th-2020/",
+		"rumourEngineImage": {
+			"url": "2020-03-24.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/03/cedbc0b8.jpg"
+		},
+		"miniature": {
+			"name": "Blissbarb Archers",
+			"link": "https://www.warhammer.com/en-GB/shop/Hedonites-Of-Slaanesh-Blissbarb-Archers-2020",
+			"image": {
+				"url": "2020-03-03-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120201104_BlissbarbArchersLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Chaos", "Hedonites of Slaanesh"]
+	},
+	{
+		"date": "2020-03-31",
+		"resolvedDate": "2021-03-16",
+		"link": "https://www.warhammer-community.com/2020/03/31/the-rumour-engine-march-31st-2020/",
+		"rumourEngineImage": {
+			"url": "2020-03-31.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/03/1bffc617.jpg"
+		},
+		"miniature": {
+			"name": "Kainan's Reapers",
+			"link": "https://www.warhammer.com/en-GB/shop/ossiarch-bonereapers-kainans-reapers-2022",
+			"image": {
+				"url": "2020-03-31-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60120707004_EngWHUKainansReapersGroup.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Underworlds", "Direchasm", "Death", "Ossiarch Bonereapers"]
+	},
+	{
+		"date": "2020-04-07",
+		"resolvedDate": "2022-12-12",
+		"link": "https://www.warhammer-community.com/2020/04/07/the-rumour-engine-april-7th-2020/",
+		"rumourEngineImage": {
+			"url": "2020-04-07.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/04/_j1K3-Olb_U1~4Ox.jpg"
+		},
+		"miniature": {
+			"name": "Abhorrant Ghoul King with Crown of Delusion",
+			"link": "https://www.warhammer-community.com/2022/12/12/this-years-boxing-day-miniature-has-a-next-level-party-hat/",
+			"image": {
+				"url": "2020-04-07-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/12/jjUDzJIodxeT9Kqb.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Death Guard", "Flesh-eater Courts"]
+	},
+	{
+		"date": "2020-04-14",
+		"resolvedDate": "2021-02-20",
+		"link": "https://www.warhammer-community.com/2020/04/14/the-rumour-engine-april-14th-2020/",
+		"rumourEngineImage": {
+			"url": "2020-04-14.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/04/J_h62-ZiS5t~5~Zs.jpg"
+		},
+		"miniature": {
+			"name": "Cleona Zeitengale",
+			"link": "https://www.warhammer.com/en-GB/shop/warhammer-quest-cursed-city-range-2022",
+			"image": {
+				"url": "2020-04-14-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/03/cEU1QI81Y8ZLYbBz.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Warhammer Quest", "Cursed City", "Order", "Cities of Sigmar"]
+	},
+	{
+		"date": "2020-04-21",
+		"resolvedDate": "2021-05-06",
+		"link": "https://www.warhammer-community.com/2020/04/21/the-rumour-engine-april-21st-2020/",
+		"rumourEngineImage": {
+			"url": "2020-04-21.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/04/Hu~6N-5zf~Z77G~c.jpg"
+		},
+		"miniature": {
+			"name": "Elathain's Soulraid",
+			"link": "https://www.warhammer.com/en-GB/shop/idoneth-deepkin-elathains-soulraid-2022",
+			"image": {
+				"url": "2020-04-21-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60120719001_EngElathainsSoulraidGroup.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Underworlds", "Direchasm", "Order", "Idoneth Deepkin"]
+	},
+	{
+		"date": "2020-04-28",
+		"resolvedDate": "2020-11-27",
+		"link": "https://www.warhammer-community.com/2020/04/28/the-rumour-engine-april-28th-2020/",
+		"rumourEngineImage": {
+			"url": "2020-04-28.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/04/W3~x6zX~~y6E-Wq6.jpg"
+		},
+		"miniature": {
+			"name": "The Starblood Stalkers",
+			"link": "https://www.warhammer.com/en-GB/shop/seraphon-the-starblood-stalkers-2022",
+			"image": {
+				"url": "2020-04-28-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60120708001_EngStabloodStalkersGroup.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Underworlds", "Direchasm", "Order", "Seraphon"]
+	},
+	{
+		"date": "2020-05-05",
+		"resolvedDate": "2022-12-12",
+		"link": "https://www.warhammer-community.com/2020/05/05/the-rumour-engine-may-5th-2020/",
+		"rumourEngineImage": {
+			"url": "2020-05-05.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/05/5w-B0s_E9_jKD_5n.jpg"
+		},
+		"miniature": {
+			"name": "Abhorrant Ghoul King with Crown of Delusion",
+			"link": "https://www.warhammer-community.com/2022/12/12/this-years-boxing-day-miniature-has-a-next-level-party-hat/",
+			"image": {
+				"url": "2020-04-07-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/12/jjUDzJIodxeT9Kqb.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Death Guard", "Flesh-eater Courts"]
+	},
+	{
+		"date": "2020-05-12",
+		"resolvedDate": "2022-08-14",
+		"link": "https://www.warhammer-community.com/2020/05/12/the-rumour-engine-may-12th-2020/",
+		"rumourEngineImage": {
+			"url": "2020-05-12.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/05/E_5a9iU~9z~SCw4_.jpg"
+		},
+		"miniature": {
+			"name": "Mibyllorr Darkfang, Chaos Sorcerer Lord",
+			"link": "https://www.warhammer.com/en-GB/shop/mibyllorr-darkfang-chaos-sorcerer-lord-2022",
+			"image": {
+				"url": "2020-03-17-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120201100_MibyllorrDarkfangLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Chaos", "Slaves to Darkness"]
+	},
+	{
+		"date": "2020-05-19",
+		"resolvedDate": "2021-01-23",
+		"link": "https://www.warhammer-community.com/2020/05/19/the-rumour-engine-may-19th-2020/",
+		"rumourEngineImage": {
+			"url": "2020-05-19.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/05/7N_mRu~6e_2DO3-w.jpg"
+		},
+		"miniature": {
+			"name": "The Crimson Court",
+			"link": "https://www.warhammer.com/en-GB/shop/solblight-gravelords-the-crimson-court-2022",
+			"image": {
+				"url": "2020-05-19-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60120707003_CrimsonCourtGroup.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Underworlds", "Direchasm", "Death", "Soulblight Gravelords"]
+	},
+	{
+		"date": "2020-05-26",
+		"resolvedDate": "2020-10-17",
+		"link": "https://www.warhammer-community.com/2020/05/26/the-rumour-engine-may-26th-2020/",
+		"rumourEngineImage": {
+			"url": "2020-05-26.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/05/N4tZ8qqE79SdyA41.jpg"
+		},
+		"miniature": {
+			"name": "Myari's Purifiers",
+			"link": "https://www.warhammer.com/en-GB/shop/Warhammer-Underworlds-Direchasm-EN-2020",
+			"image": {
+				"url": "2020-05-26-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/11/1lGkKDQ9PEMzpL8V.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Underworlds", "Direchasm", "Order", "Lumineth Realm-lords"]
+	},
+	{
+		"date": "2020-06-02",
+		"resolvedDate": "2020-07-01",
+		"link": "https://www.warhammer-community.com/2020/06/02/the-rumour-engine-june-2nd-2020/",
+		"rumourEngineImage": {
+			"url": "2020-06-02.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/06/0bDEs5aJ3Is8Y4js.jpg"
+		},
+		"miniature": {
+			"name": "Hammerfall Bunker",
+			"link": "https://www.warhammer.com/en-GB/shop/Hammerfall-Bunker-2020",
+			"image": {
+				"url": "2020-06-02-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120101294_SMHammerfallBunkerLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Space Marines"]
+	},
+	{
+		"date": "2020-06-09",
+		"resolvedDate": "2020-09-12",
+		"link": "https://www.warhammer-community.com/2020/06/09/the-rumour-engine-june-9th-2020/",
+		"rumourEngineImage": {
+			"url": "2020-06-09.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/06/7Ao6zA9nAEa48Ee6.jpg"
+		},
+		"miniature": {
+			"name": "Lord of Virulence",
+			"link": "https://www.warhammer.com/en-GB/shop/Death-Guard-Lord-of-Virulence-2020",
+			"image": {
+				"url": "2020-06-09-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102117_DGLordofVirulenceLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of Chaos", "Death Guard"]
+	},
+	{
+		"date": "2020-06-16",
+		"resolvedDate": "2021-03-20",
+		"link": "https://www.warhammer-community.com/2020/06/16/the-rumour-engine-june-16th-2020/",
+		"rumourEngineImage": {
+			"url": "2020-06-16.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/06/aA1bM3h5FM8wCn9p.jpg"
+		},
+		"miniature": {
+			"name": "Skitarii Marshall",
+			"link": "https://www.warhammer.com/en-GB/shop/Adeptus-Mechanicus-Skitarii-Marshall-2021",
+			"image": {
+				"url": "2020-06-16-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070116003_AMSkitariiMarshalLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of the Imperium", "Adeptus Mechanicus"]
+	},
+	{
+		"date": "2020-06-23",
+		"resolvedDate": "2020-09-12",
+		"link": "https://www.warhammer-community.com/2020/06/23/the-rumour-engine-june-23rd-2020/",
+		"rumourEngineImage": {
+			"url": "2020-06-23.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/06/T8yj5WB7mKg15Peq.jpg"
+		},
+		"miniature": {
+			"name": "Lord of Virulence",
+			"link": "https://www.warhammer.com/en-GB/shop/Death-Guard-Lord-of-Virulence-2020",
+			"image": {
+				"url": "2020-06-09-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102117_DGLordofVirulenceLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of Chaos", "Death Guard"]
+	},
+	{
+		"date": "2020-06-30",
+		"resolvedDate": "2020-12-25",
+		"link": "https://www.warhammer-community.com/2020/06/30/the-rumour-engine-june-30th-2020/",
+		"rumourEngineImage": {
+			"url": "2020-06-30.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/06/U2nl7XQ0z6dPg5N8.jpg"
+		},
+		"miniature": {
+			"name": "Lelith Hesperax",
+			"link": "https://www.warhammer.com/en-GB/shop/Drukhari-Lelith-Hesperax-2021",
+			"image": {
+				"url": "2020-06-30-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120112042_LelithHesperaxLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Drukhari"]
+	},
+	{
+		"date": "2020-07-07",
+		"resolvedDate": "2020-09-12",
+		"link": "https://www.warhammer-community.com/2020/07/07/the-rumour-engine-july-7th-2020/",
+		"rumourEngineImage": {
+			"url": "2020-07-07.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/07/M8w8tEdK1M4tCn51.jpg"
+		},
+		"miniature": {
+			"name": "Lord of Virulence",
+			"link": "https://www.warhammer.com/en-GB/shop/Death-Guard-Lord-of-Virulence-2020",
+			"image": {
+				"url": "2020-06-09-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102117_DGLordofVirulenceLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of Chaos", "Death Guard"]
+	},
+	{
+		"date": "2020-07-14",
+		"resolvedDate": "2020-12-25",
+		"link": "https://www.warhammer-community.com/2020/07/14/the-rumour-engine-july-14th-2020/",
+		"rumourEngineImage": {
+			"url": "2020-07-14.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/07/Dw8Me1oP2K2e4eK8.jpg"
+		},
+		"miniature": {
+			"name": "Lelith Hesperax",
+			"link": "https://www.warhammer.com/en-GB/shop/Drukhari-Lelith-Hesperax-2021",
+			"image": {
+				"url": "2020-06-30-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120112042_LelithHesperaxLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Drukhari"]
+	},
+	{
+		"date": "2020-07-21",
+		"resolvedDate": "2021-03-20",
+		"link": "https://www.warhammer-community.com/2020/07/21/the-rumour-engine-july-21st-2020/",
+		"rumourEngineImage": {
+			"url": "2020-07-21.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/07/67aZUQNxEsBYVWzx.jpg"
+		},
+		"miniature": {
+			"name": "Skitarii Marshall",
+			"link": "https://www.warhammer.com/en-GB/shop/Adeptus-Mechanicus-Skitarii-Marshall-2021",
+			"image": {
+				"url": "2020-06-16-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070116003_AMSkitariiMarshalLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of the Imperium", "Adeptus Mechanicus"]
+	},
+	{
+		"date": "2020-07-28",
+		"resolvedDate": "2021-02-20",
+		"link": "https://www.warhammer-community.com/2020/07/28/the-rumour-engine-july-28th-2020/",
+		"rumourEngineImage": {
+			"url": "2020-07-28.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/07/NTcFzSni6dik4Jdh.jpg"
+		},
+		"miniature": {
+			"name": "Objective Markers",
+			"link": "https://www.warhammer.com/en-GB/shop/warhammer-quest-cursed-city-range-2022",
+			"image": {
+				"url": "2020-07-28-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60220799019_WHQCursedCityGroup4.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Warhammer Quest", "Cursed City"]
+	},
+	{
+		"date": "2020-08-04",
+		"resolvedDate": "2021-02-04",
+		"link": "https://www.warhammer-community.com/2020/08/04/the-rumour-engine-august-4th-2020/",
+		"rumourEngineImage": {
+			"url": "2020-08-04.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/08/4WmLy8MEtTom1b3n.jpg"
+		},
+		"miniature": {
+			"name": "Watch Captain Halgrim",
+			"link": "https://www.warhammer.com/en-GB/shop/warhammer-quest-cursed-city-range-2022",
+			"image": {
+				"url": "2020-08-04-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/02/ls8vqovzwAwBVFkx.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Warhammer Quest", "Cursed City", "Death", "Soulblight Gravelords"]
+	},
+	{
+		"date": "2020-08-11",
+		"resolvedDate": "2021-07-10",
+		"link": "https://www.warhammer-community.com/2020/08/11/the-rumour-engine-august-11th-2020/",
+		"rumourEngineImage": {
+			"url": "2020-08-11.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/08/BZLx3gsoiDYdu9V7.jpg"
+		},
+		"miniature": {
+			"name": "Mozrog Skragbad",
+			"link": "https://www.warhammer.com/en-GB/shop/orks-mozrog-skragbad-2021",
+			"image": {
+				"url": "2020-08-11-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120103075_MozrogLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Orks"]
+	},
+	{
+		"date": "2020-08-18",
+		"resolvedDate": "2021-02-20",
+		"link": "https://www.warhammer-community.com/2020/08/18/the-rumour-engine-august-18th-2020/",
+		"rumourEngineImage": {
+			"url": "2020-08-18.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/08/QBB5oixTGBAZRwWx.jpg"
+		},
+		"miniature": {
+			"name": "Krulghast Cruciator",
+			"link": "https://www.warhammer.com/en-GB/shop/Nighthaunt-Krulghast-Cruciator-2021",
+			"image": {
+				"url": "2020-08-18-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120207090_NighthauntKrulghasttheCruciatorLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Death", "Nighthaunt"]
+	},
+	{
+		"date": "2020-08-25",
+		"resolvedDate": "2021-02-20",
+		"link": "https://www.warhammer-community.com/2020/08/25/the-rumour-engine-august-25th-2020/",
+		"rumourEngineImage": {
+			"url": "2020-08-25.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/08/rF8Kt8jiEzi7OoYq.jpg"
+		},
+		"miniature": {
+			"name": "Glaurio ven Alten III",
+			"link": "https://www.warhammer.com/en-GB/shop/warhammer-quest-cursed-city-range-2022",
+			"image": {
+				"url": "2020-08-25-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/threeSixty/60010799011_WarhammerQuestCursedCityOTT5360/01-01.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Warhammer Quest", "Cursed City", "Order", "Cities of Sigmar"]
+	},
+	{
+		"date": "2020-09-01",
+		"resolvedDate": "2021-07-10",
+		"link": "https://www.warhammer-community.com/2020/09/01/the-rumour-engine-september-01st-2020/",
+		"rumourEngineImage": {
+			"url": "2020-09-01.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/09/oUkLlH1g83tOuDGV.jpg"
+		},
+		"miniature": {
+			"name": "Mozrog Skragbad",
+			"link": "https://www.warhammer.com/en-GB/shop/orks-mozrog-skragbad-2021",
+			"image": {
+				"url": "2020-08-11-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120103075_MozrogLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Orks"]
+	},
+	{
+		"date": "2020-09-08",
+		"resolvedDate": "2021-01-20",
+		"link": "https://www.warhammer-community.com/2020/09/08/the-rumour-engine-september-8th-2020/",
+		"rumourEngineImage": {
+			"url": "2020-09-08.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/09/pbhCYcjuqM8QRPGn.jpg"
+		},
+		"miniature": {
+			"name": "The Crimson Court",
+			"link": "https://www.warhammer.com/en-GB/shop/solblight-gravelords-the-crimson-court-2022",
+			"image": {
+				"url": "2020-05-19-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60120707003_CrimsonCourtGroup.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Underworlds", "Direchasm", "Death", "Soulblight Gravelords"]
+	},
+	{
+		"date": "2020-09-15",
+		"resolvedDate": "2021-01-23",
+		"link": "https://www.warhammer-community.com/2020/09/15/the-rumour-engine-september-15th-2020/",
+		"rumourEngineImage": {
+			"url": "2020-09-15.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/09/bNZOmeaHekov7KJc.jpg"
+		},
+		"miniature": {
+			"name": "Gorslav the Gravekeeper",
+			"link": "https://www.warhammer.com/en-GB/shop/warhammer-quest-cursed-city-range-2022",
+			"image": {
+				"url": "2020-09-15-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/03/InonQhYEiLeZvwYR.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Warhammer Quest", "Cursed City", "Death", "Soulblight Gravelords"]
+	},
+	{
+		"date": "2020-09-22",
+		"resolvedDate": "2021-02-20",
+		"link": "https://www.warhammer-community.com/2020/09/22/the-rumour-engine-september-22nd-2020/",
+		"rumourEngineImage": {
+			"url": "2020-09-22.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/09/BHTsiI0YIB1e3ijf.jpg"
+		},
+		"miniature": {
+			"name": "Vyrkos Blood-born",
+			"link": "https://www.warhammer.com/en-GB/shop/warhammer-quest-cursed-city-range-2022",
+			"image": {
+				"url": "2020-09-22-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/threeSixty/60010799011_WarhammerQuestCursedCityOTT18360/01-01.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Warhammer Quest", "Cursed City", "Death", "Soulblight Gravelords"]
+	},
+	{
+		"date": "2020-09-29",
+		"resolvedDate": "2022-01-03",
+		"link": "https://www.warhammer-community.com/2020/09/29/the-rumour-engine-29th-september-2020/",
+		"rumourEngineImage": {
+			"url": "2020-09-29.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/09/3cFQi54T0s1meNNN.jpg"
+		},
+		"miniature": {
+			"name": "Haggok, Gutrippa Boss",
+			"link": "https://www.warhammer-community.com/2022/01/03/celebrate-this-years-store-anniversaries-with-a-brand-new-inquisitor-and-gutrippa-boss/",
+			"image": {
+				"url": "2020-09-29-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/01/eWNPPIlVQgsWQlla.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction", "Orruk Warclans", "Kruleboyz"]
+	},
+	{
+		"date": "2020-10-06",
+		"resolvedDate": "2021-03-08",
+		"link": "https://www.warhammer-community.com/2020/10/06/the-rumour-engine-6th-october-2020/",
+		"rumourEngineImage": {
+			"url": "2020-10-06.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/10/hoSRKpuYQmiNhCSx.jpg"
+		},
+		"miniature": {
+			"name": "Be'lakor, The Dark Master",
+			"link": "https://www.warhammer.com/en-GB/shop/Chaos-Daemons-Belakor-The-Dark-Master-2021",
+			"image": {
+				"url": "2020-10-06-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915058_ChaosDaemonsBelakortheDarkMasterLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Chaos", "Slaves to Darkness"]
+	},
+	{
+		"date": "2020-10-12",
+		"resolvedDate": "2020-10-17",
+		"link": "https://www.warhammer-community.com/2020/10/12/get-ready-for-gridiron-and-glory/",
+		"rumourEngineImage": {
+			"url": "2020-10-12.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/10/aKZhSul2nIq6qWx7.jpg"
+		},
+		"miniature": {
+			"name": "Dread Pageant",
+			"link": "https://www.warhammer.com/en-GB/shop/Warhammer-Underworlds-Direchasm-EN-2020",
+			"image": {
+				"url": "2020-10-12-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/11/0wWbmJXcN0Ew2bkk.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Underworlds", "Direchasm", "Chaos", "Hedonites of Slaanesh"]
+	},
+	{
+		"date": "2020-10-13",
+		"resolvedDate": "2021-04-25",
+		"link": "https://www.warhammer-community.com/2020/10/13/the-rumour-engine-13th-october-2020/",
+		"rumourEngineImage": {
+			"url": "2020-10-13.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/10/NIKPYZTQzFeEXiB7.jpg"
+		},
+		"miniature": {
+			"name": "Warsong Revenant",
+			"link": "https://www.warhammer.com/en-GB/shop/Sylvaneth-Warsong-Revenant-2021",
+			"image": {
+				"url": "2020-10-13-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120204027_WarsongRevLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Order", "Sylvaneth"]
+	},
+	{
+		"date": "2020-10-20",
+		"resolvedDate": "2021-03-08",
+		"link": "https://www.warhammer-community.com/2020/10/20/the-rumour-engine-20th-october-2020/",
+		"rumourEngineImage": {
+			"url": "2020-10-20.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/10/m2p3xW8YJ5koyt7d.jpg"
+		},
+		"miniature": {
+			"name": "Be'lakor, The Dark Master",
+			"link": "https://www.warhammer.com/en-GB/shop/Chaos-Daemons-Belakor-The-Dark-Master-2021",
+			"image": {
+				"url": "2020-10-06-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99129915058_ChaosDaemonsBelakortheDarkMasterLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Chaos", "Slaves to Darkness"]
+	},
+	{
+		"date": "2020-10-27",
+		"resolvedDate": "2022-01-03",
+		"link": "https://www.warhammer-community.com/2020/10/27/the-rumour-engine-27th-october-2020/",
+		"rumourEngineImage": {
+			"url": "2020-10-27.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/10/UxJUwpeevOL9x50w.jpg"
+		},
+		"miniature": {
+			"name": "Haggok, Gutrippa Boss",
+			"link": "https://www.warhammer-community.com/2022/01/03/celebrate-this-years-store-anniversaries-with-a-brand-new-inquisitor-and-gutrippa-boss/",
+			"image": {
+				"url": "2020-09-29-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/01/eWNPPIlVQgsWQlla.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction", "Orruk Warclans", "Kruleboyz"]
+	},
+	{
+		"date": "2020-11-03",
+		"resolvedDate": "2021-05-29",
+		"link": "https://www.warhammer-community.com/2020/11/03/the-rumour-engine-3rd-november-2020/",
+		"rumourEngineImage": {
+			"url": "2020-11-03.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/11/F2zitEYXAApKuiD6.jpg"
+		},
+		"miniature": {
+			"name": "Breaka-boss on Mirebrute Troggoth",
+			"link": "https://www.warhammer.com/en-GB/shop/orruk-warclans-breaka-boss-on-mirebrute-troggoth-2021",
+			"image": {
+				"url": "2020-11-03-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120209073_BreakaBossMirebruteTroggothLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction", "Orruk Warclans", "Kruleboyz"]
+	},
+	{
+		"date": "2020-11-10",
+		"resolvedDate": "2021-05-29",
+		"link": "https://www.warhammer-community.com/2020/11/10/the-rumour-engine-10th-november-2020/",
+		"rumourEngineImage": {
+			"url": "2020-11-10.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/11/Kc0rTgtbu1nsATvh.jpg"
+		},
+		"miniature": {
+			"name": "Knight-Judicator with Gryph-hounds",
+			"link": "https://www.warhammer.com/en-GB/shop/stormcast-eternals-knight-judicator-with-gryph-hounds-2021",
+			"image": {
+				"url": "2020-11-10-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120218050_KnightJudicatorGryphHoundsLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Order", "Stormcast Eternals"]
+	},
+	{
+		"date": "2020-11-17",
+		"resolvedDate": "2021-05-29",
+		"link": "https://www.warhammer-community.com/2020/11/17/the-rumour-engine-17th-november-2020/",
+		"rumourEngineImage": {
+			"url": "2020-11-17.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/11/03ELPFPURy9LTqfo.jpg"
+		},
+		"miniature": {
+			"name": "Breaka-boss on Mirebrute Troggoth",
+			"link": "https://www.warhammer.com/en-GB/shop/orruk-warclans-breaka-boss-on-mirebrute-troggoth-2021",
+			"image": {
+				"url": "2020-11-03-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120209073_BreakaBossMirebruteTroggothLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction", "Orruk Warclans", "Kruleboyz"]
+	},
+	{
+		"date": "2020-11-23",
+		"resolvedDate": "2020-12-10",
+		"link": "https://www.warhammer-community.com/2020/11/23/meet-blood-bowl-pitchside-report/",
+		"rumourEngineImage": {
+			"url": "2020-11-23.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/11/NKBHPEwS8oguozRx.jpg"
+		},
+		"miniature": {
+			"name": "Skrull Halfheight",
+			"link": "https://www.warhammer.com/en-GB/shop/Blood-Bowl-Skrull-Halfheight-2020",
+			"image": {
+				"url": "2020-11-23-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99550907001_BBSkrullHalfheightLead.jpg"
+			}
+		},
+		"tags": ["Blood Bowl", "Undead", "Dwarf"]
+	},
+	{
+		"date": "2020-11-24",
+		"resolvedDate": "2021-02-20",
+		"link": "https://www.warhammer-community.com/2020/11/24/the-rumour-engine-24th-november-2020/",
+		"rumourEngineImage": {
+			"url": "2020-11-24.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/11/tLnQ0eEQAODiyU7e.jpg"
+		},
+		"miniature": {
+			"name": "Vyrkos Blood-born",
+			"link": "https://www.warhammer.com/en-GB/shop/warhammer-quest-cursed-city-range-2022",
+			"image": {
+				"url": "2020-09-22-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/threeSixty/60010799011_WarhammerQuestCursedCityOTT18360/01-01.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Warhammer Quest", "Cursed City", "Death", "Soulblight Gravelords"]
+	},
+	{
+		"date": "2020-12-01",
+		"resolvedDate": "2021-01-23",
+		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"rumourEngineImage": {
+			"url": "2020-12-01.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/KujeXqGuN65UCBV7.png"
+		},
+		"miniature": {
+			"name": "Paragon Warsuit",
+			"link": "https://www.warhammer.com/en-GB/shop/Adepta-Sororitas-Paragon-Warsuit-2021",
+			"image": {
+				"url": "2020-12-01-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120108046_SoBParagonWarsuitsLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of the Imperium", "Adepta Sororitas"]
+	},
+	{
+		"date": "2020-12-02",
+		"resolvedDate": "2021-05-04",
+		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"rumourEngineImage": {
+			"url": "2020-12-02.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/McuVfwUUd2pPp1xH.png"
+		},
+		"miniature": {
+			"name": "Aestred Thurga, Relinquant at Arms",
+			"link": "https://www.warhammer.com/en-GB/shop/Aestred-Thurga-Relinquant-At-Arms",
+			"image": {
+				"url": "2020-12-02-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120108050_SoBAestredThurgaRelinquantatArmsLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of the Imperium", "Adepta Sororitas"]
+	},
+	{
+		"date": "2020-12-03",
+		"resolvedDate": "2021-01-01",
+		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"rumourEngineImage": {
+			"url": "2020-12-03.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/x1u6i0nfiZMvh7j0.png"
+		},
+		"miniature": {
+			"name": "Glutos Orscollion, Lord of Gluttony",
+			"link": "https://www.warhammer.com/en-GB/shop/Hedonites-Of-Slaanesh-Glutos-Orscollion-Lord-Of-Gluttony-2020",
+			"image": {
+				"url": "2020-12-03-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120201105_GlutosOrscollionLordofGluttonyLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Chaos", "Hedonites of Slaanesh"]
+	},
+	{
+		"date": "2020-12-04",
+		"resolvedDate": "2021-01-01",
+		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"rumourEngineImage": {
+			"url": "2020-12-04.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/BQ1eUvR2Kmsieery.png"
+		},
+		"miniature": {
+			"name": "Glutos Orscollion, Lord of Gluttony",
+			"link": "https://www.warhammer.com/en-GB/shop/Hedonites-Of-Slaanesh-Glutos-Orscollion-Lord-Of-Gluttony-2020",
+			"image": {
+				"url": "2020-12-03-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120201105_GlutosOrscollionLordofGluttonyLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Chaos", "Hedonites of Slaanesh"]
+	},
+	{
+		"date": "2020-12-05",
+		"resolvedDate": "2020-11-21",
+		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"rumourEngineImage": {
+			"url": "2020-12-05.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/mPBpwHAJWBMd4QCe.png"
+		},
+		"miniature": {
+			"name": "Symbaresh Twinsouls",
+			"link": "https://www.warhammer.com/en-GB/shop/Hedonites-Of-Slaanesh-Symbaresh-Twinsouls-2020",
+			"image": {
+				"url": "2020-12-05-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120201101_HoSSymbareshTwinsoulsLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Chaos", "Hedonites of Slaanesh"]
+	},
+	{
+		"date": "2020-12-06",
+		"resolvedDate": "2021-02-20",
+		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"rumourEngineImage": {
+			"url": "2020-12-06.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/bB2Q2dgzwt2bceaQ.png"
+		},
+		"miniature": {
+			"name": "Radukar the Wolf",
+			"link": "https://www.warhammer.com/en-GB/shop/warhammer-quest-cursed-city-range-2022",
+			"image": {
+				"url": "2020-12-06-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/02/IhuAjRVfMTxOVEH5.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Warhammer Quest", "Cursed City", "Death", "Soulblight Gravelords"]
+	},
+	{
+		"date": "2020-12-07",
+		"resolvedDate": "2021-03-29",
+		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"rumourEngineImage": {
+			"url": "2020-12-07.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/caANPSITHO9JwBKN.png"
+		},
+		"miniature": {
+			"name": "Sister Dogmata",
+			"link": "https://www.warhammer.com/en-GB/shop/Adepta-Sororitas-Sister-Dogmata-2021",
+			"image": {
+				"url": "2020-12-07-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070108008_SoBSisterDogmataLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Agents of the Imperium", "Adepta Sororitas"]
+	},
+	{
+		"date": "2020-12-08",
+		"resolvedDate": "2022-01-03",
+		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"rumourEngineImage": {
+			"url": "2020-12-08.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/o7rA5uuyECnoY1F0.png"
+		},
+		"miniature": {
+			"name": "Erasmus Cartavolnus, Ordo Malleus Inquisitor",
+			"link": "https://www.warhammer-community.com/2022/01/03/celebrate-this-years-store-anniversaries-with-a-brand-new-inquisitor-and-gutrippa-boss/",
+			"image": {
+				"url": "2020-12-08-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/01/8z1j132I4kyOfKXZ.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of the Imperium", "Agents of the Imperium"]
+	},
+	{
+		"date": "2020-12-09",
+		"resolvedDate": "2021-05-29",
+		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"rumourEngineImage": {
+			"url": "2020-12-09.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/P9Gx88daha5B5sbQ.jpg"
+		},
+		"miniature": {
+			"name": "Swampcalla Shaman",
+			"link": "https://www.warhammer.com/en-GB/shop/Age-Of-Sigmar-Dominion-EN-2021",
+			"image": {
+				"url": "2020-12-09-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/KGj61DqlIW4yalU7.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction", "Orruk Warclans", "Kruleboyz"]
+	},
+	{
+		"date": "2020-12-10",
+		"resolvedDate": "2021-07-03",
+		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"rumourEngineImage": {
+			"url": "2020-12-10.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/EMeqXqg21qSmavom.jpg"
+		},
+		"miniature": {
+			"name": "Marshcrawla Sloggoth",
+			"link": "https://www.warhammer.com/en-GB/shop/marshcrawla-sloggoth-2021",
+			"image": {
+				"url": "2020-12-10-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120209076_SloggothLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction", "Orruk Warclans", "Kruleboyz"]
+	},
+	{
+		"date": "2020-12-10",
+		"resolvedDate": "2021-01-14",
+		"link": "https://www.warhammer-community.com/2020/12/10/blood-bowl-pitchside-report-skrull-halfheight-revealed/",
+		"rumourEngineImage": {
+			"url": "2020-12-10b.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/5ZLrgwiylQNAxnrr.jpg"
+		},
+		"miniature": {
+			"name": "Gretchen Wachter",
+			"link": "https://www.warhammer.com/en-GB/shop/Blood-Bowl-Gretchen-Wachter-2021",
+			"image": {
+				"url": "2020-12-10b-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99550999031_BBS2GretchenWachterLead.jpg"
+			}
+		},
+		"tags": ["Blood Bowl", "Sylvanian"]
+	},
+	{
+		"date": "2020-12-11",
+		"resolvedDate": "2021-05-07",
+		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"rumourEngineImage": {
+			"url": "2020-12-11.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/OWRJhtZ5xqTfBhjo.png"
+		},
+		"miniature": {
+			"name": "Nob on Smasha Squig",
+			"link": "https://www.warhammer.com/en-GB/shop/nob-on-smasha-squig-2021",
+			"image": {
+				"url": "2020-12-11-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120103076_ORKSquighogBoyzGroup1.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Orks"]
+	},
+	{
+		"date": "2020-12-12",
+		"resolvedDate": "2021-02-20",
+		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"rumourEngineImage": {
+			"url": "2020-12-12.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/HhRVPCpjv4J0yngc.png"
+		},
+		"miniature": {
+			"name": "Kosargi Nightguard",
+			"link": "https://www.warhammer.com/en-GB/shop/warhammer-quest-cursed-city-range-2022",
+			"image": {
+				"url": "2020-12-12-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/threeSixty/60010799011_WarhammerQuestCursedCityOTT15360/01-01.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Warhammer Quest", "Cursed City", "Death", "Soulblight Gravelords"]
+	},
+	{
+		"date": "2020-12-13",
+		"resolvedDate": "2022-01-03",
+		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"rumourEngineImage": {
+			"url": "2020-12-13.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/M0hYVIqWZvnIbr9e.png"
+		},
+		"miniature": {
+			"name": "Erasmus Cartavolnus, Ordo Malleus Inquisitor",
+			"link": "https://www.warhammer-community.com/2022/01/03/celebrate-this-years-store-anniversaries-with-a-brand-new-inquisitor-and-gutrippa-boss/",
+			"image": {
+				"url": "2020-12-08-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/01/8z1j132I4kyOfKXZ.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of the Imperium", "Agents of the Imperium"]
+	},
+	{
+		"date": "2020-12-14",
+		"resolvedDate": "2021-05-04",
+		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"rumourEngineImage": {
+			"url": "2020-12-14.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/qtONWjEqCxsWH1nL.png"
+		},
+		"miniature": {
+			"name": "Aestred Thurga, Relinquant at Arms",
+			"link": "https://www.warhammer.com/en-GB/shop/Aestred-Thurga-Relinquant-At-Arms",
+			"image": {
+				"url": "2020-12-02-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120108050_SoBAestredThurgaRelinquantatArmsLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of the Imperium", "Adepta Sororitas"]
+	},
+	{
+		"date": "2020-12-15",
+		"resolvedDate": "2021-02-20",
+		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"rumourEngineImage": {
+			"url": "2020-12-15.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/P9QSqDfH6J22Lp3z.png"
+		},
+		"miniature": {
+			"name": "Octren Glimscry",
+			"link": "https://www.warhammer.com/en-GB/shop/warhammer-quest-cursed-city-range-2022",
+			"image": {
+				"url": "2020-12-15-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/03/86svIyjtU98EA9Nz.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Warhammer Quest", "Cursed City", "Order", "Cities of Sigmar"]
+	},
+	{
+		"date": "2020-12-16",
+		"resolvedDate": "2021-03-20",
+		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"rumourEngineImage": {
+			"url": "2020-12-16.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/t9uToTCAdaG7CrzS.png"
+		},
+		"miniature": {
+			"name": "Jelsen Darrock",
+			"link": "https://www.warhammer.com/en-GB/shop/warhammer-quest-cursed-city-range-2022",
+			"image": {
+				"url": "2020-12-16-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/03/iNYGeQahR5RySMGT.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Warhammer Quest", "Cursed City", "Order", "Cities of Sigmar"]
+	},
+	{
+		"date": "2020-12-17",
+		"resolvedDate": "2021-03-20",
+		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"rumourEngineImage": {
+			"url": "2020-12-17.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/XKTQV2F5gGZoCGUM.png"
+		},
+		"miniature": {
+			"name": "Ulfenwatch",
+			"link": "https://www.warhammer.com/en-GB/shop/warhammer-quest-cursed-city-range-2022",
+			"image": {
+				"url": "2020-12-17-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/02/ikPdnwRGJmGdFx0V.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Warhammer Quest", "Cursed City", "Order", "Cities of Sigmar"]
+	},
+	{
+		"date": "2020-12-18",
+		"resolvedDate": "2021-05-04",
+		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"rumourEngineImage": {
+			"url": "2020-12-18.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/ykR4UwqVNAUapvWI.png"
+		},
+		"miniature": {
+			"name": "Celestian Sacresants",
+			"link": "https://www.warhammer.com/en-GB/shop/Adepta-Sororitas-Celestian-Sacresants-2021",
+			"image": {
+				"url": "2020-12-18-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120108045_SoBCelestianSacresantsLead.jpg?fm=webp&w=920&h=948"
+			}
+		},
+		"tags": ["40.000", "Armies of the Imperium", "Adepta Sororitas"]
+	},
+	{
+		"date": "2020-12-19",
+		"resolvedDate": "2021-01-23",
+		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"rumourEngineImage": {
+			"url": "2020-12-19.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/D54SPptOyW27hPKX.png"
+		},
+		"miniature": {
+			"name": "Jelsen Darrock",
+			"link": "https://www.warhammer.com/en-GB/shop/warhammer-quest-cursed-city-range-2022",
+			"image": {
+				"url": "2020-12-16-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/03/iNYGeQahR5RySMGT.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Warhammer Quest", "Cursed City", "Order", "Cities of Sigmar"]
+	},
+	{
+		"date": "2020-12-20",
+		"resolvedDate": "2021-04-12",
+		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"rumourEngineImage": {
+			"url": "2020-12-20.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/NOKyMg7KtwsGQ8MZ.png"
+		},
+		"miniature": {
+			"name": "Celestian Sacresants",
+			"link": "https://www.warhammer.com/en-GB/shop/Adepta-Sororitas-Celestian-Sacresants-2021",
+			"image": {
+				"url": "2020-12-18-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120108045_SoBCelestianSacresantsLead.jpg?fm=webp&w=920&h=948"
+			}
+		},
+		"tags": ["40.000", "Armies of the Imperium", "Adepta Sororitas"]
+	},
+	{
+		"date": "2020-12-21",
+		"resolvedDate": "2021-05-04",
+		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"rumourEngineImage": {
+			"url": "2020-12-21.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/Fkq38S25TzSAxf6I.png"
+		},
+		"miniature": {
+			"name": "Gaunt's Ghosts",
+			"link": "https://www.warhammer.com/en-GB/shop/Astra-Militarum-Gaunts-Ghosts-2021",
+			"image": {
+				"url": "2020-12-21-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120105087_GauntsGhostsLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of the Imperium", "Astra Militarum"]
+	},
+	{
+		"date": "2020-12-22",
+		"resolvedDate": "2021-03-20",
+		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"rumourEngineImage": {
+			"url": "2020-12-22.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/ndwCD0COwQVDevNX.png"
+		},
+		"miniature": {
+			"name": "Fell Bats",
+			"link": "https://www.warhammer.com/en-GB/shop/Soulblight-Gravelords-Fell-Bats-2021",
+			"image": {
+				"url": "2020-12-22-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120207094_SBGravelordsFellBatsLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Death", "Soulblight Gravelords"]
+	},
+	{
+		"date": "2020-12-23",
+		"resolvedDate": "2021-03-20",
+		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"rumourEngineImage": {
+			"url": "2020-12-23.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/CQ823zP4BiVMbkso.png"
+		},
+		"miniature": {
+			"name": "Blood Knights",
+			"link": "https://www.warhammer.com/en-GB/shop/Soulblight-Gravelords-Blood-Knights-2021",
+			"image": {
+				"url": "2020-12-23-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120207095_SBGravelordsBloodKnightsLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Death", "Soulblight Gravelords"]
+	},
+	{
+		"date": "2020-12-24",
+		"resolvedDate": "2021-05-04",
+		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"rumourEngineImage": {
+			"url": "2020-12-24.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/JLOpCFf29CeO3KbR.png"
+		},
+		"miniature": {
+			"name": "Gaunt's Ghosts",
+			"link": "https://www.warhammer.com/en-GB/shop/Astra-Militarum-Gaunts-Ghosts-2021",
+			"image": {
+				"url": "2020-12-21-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120105087_GauntsGhostsLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of the Imperium", "Astra Militarum"]
+	},
+	{
+		"date": "2021-01-05",
+		"resolvedDate": "2021-05-07",
+		"link": "https://www.warhammer-community.com/2021/01/05/the-rumour-engine-5th-january-2021/",
+		"rumourEngineImage": {
+			"url": "2021-01-05.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/01/PoPxKwMslqp0zlRh.jpg"
+		},
+		"miniature": {
+			"name": "Nob on Smasha Squig",
+			"link": "https://www.warhammer.com/en-GB/shop/nob-on-smasha-squig-2021",
+			"image": {
+				"url": "2020-12-11-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120103076_ORKSquighogBoyzGroup1.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Orks"]
 	},
 	{
 		"date": "",
