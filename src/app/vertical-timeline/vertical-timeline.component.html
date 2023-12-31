@@ -11,19 +11,21 @@
 					</div>
 
 					<div class="py-2 col-12 titles">
-						<a href="{{ rumourEngine.miniature.link }}" class="miniature-name">{{ rumourEngine.miniature.name }}
-							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
-								<path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5"/>
-								<path fill-rule="evenodd" d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0z"/>
-							</svg>
-						</a>
-						<a href="{{ rumourEngine.link }}" class="rumour-engine-dates">{{ getDetailedDate(rumourEngine.date) }}
-							<span class="resolved-time">Solved after {{ getResolvedDate(rumourEngine.date, rumourEngine.resolvedDate) }} days</span>
-							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
-								<path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5"/>
-								<path fill-rule="evenodd" d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0z"/>
-							</svg>
-						</a>
+						<div *ngIf="rumourEngine.miniature.name && rumourEngine.miniature.link">
+							<a href="{{ rumourEngine.miniature.link }}" class="miniature-name">
+								{{ rumourEngine.miniature.name }}<i class="bi bi-box-arrow-up-right"></i>
+							</a>
+						</div>
+
+						<div *ngIf="rumourEngine.miniature.name && !rumourEngine.miniature.link">
+							<h3 class="miniature-name">{{ rumourEngine.miniature.name }}</h3>
+						</div>
+
+						<div *ngIf="!rumourEngine.miniature.name">
+							<h3 class="miniature-name pending">Waiting to be Revealed<i class="bi bi-stopwatch"></i></h3>
+						</div>
+
+						<a href="{{ rumourEngine.link }}" class="rumour-engine-dates">{{ getDetailedDate(rumourEngine.date) }}<span class="resolved-time" *ngIf="rumourEngine.resolvedDate">Solved after {{ getResolvedDate(rumourEngine.date, rumourEngine.resolvedDate) }} days</span><i class="bi bi-box-arrow-up-right"></i></a>
 					</div>
 
 					<div class="py-2 col-12 images">
@@ -38,6 +40,7 @@
 							(error)="handleImageError($event, rumourEngine.rumourEngineImage.url)"
 						>
 						<img
+							*ngIf="rumourEngine.miniature.image.cdn && rumourEngine.miniature.image.url"
 							class="col-12 col-md-6"
 							[src]="rumourEngine.miniature.image.cdn"
 							(error)="handleImageError($event, rumourEngine.miniature.image.url)"
