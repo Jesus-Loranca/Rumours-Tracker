@@ -4184,7 +4184,7 @@
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/P9Gx88daha5B5sbQ.jpg"
 		},
 		"miniature": {
-			"name": "Swampcalla Shaman",
+			"name": "Swampcalla Shaman and Pot-grot",
 			"link": "https://www.warhammer.com/en-GB/shop/Age-Of-Sigmar-Dominion-EN-2021",
 			"image": {
 				"url": "2020-12-09-miniature.jpg",
@@ -4498,6 +4498,1518 @@
 			}
 		},
 		"tags": ["40.000", "Xenos Armies", "Orks"]
+	},
+	{
+		"date": "2021-01-12",
+		"resolvedDate": "2021-05-03",
+		"link": "https://www.warhammer-community.com/2021/01/12/the-rumour-engine-12th-january-2021/",
+		"rumourEngineImage": {
+			"url": "2021-01-12.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/01/EpibC2wdbcgskUwJ.jpg"
+		},
+		"miniature": {
+			"name": "Kragnos, the End of Empires",
+			"link": "https://www.warhammer.com/en-GB/shop/Kragnos-The-End-Of-Empires-2021",
+			"image": {
+				"url": "2021-01-12-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120209080_KragnosLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction"]
+	},
+	{
+		"date": "2021-01-18",
+		"resolvedDate": "2021-01-23",
+		"link": "https://www.warhammer-community.com/2021/01/18/prepare-for-big-reveals-in-the-next-warhammer-preview-online/",
+		"rumourEngineImage": {
+			"url": "2021-01-18.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/01/TF1SITvLXqOAECY7.jpg"
+		},
+		"miniature": {
+			"name": "Sevireth, Lord of the Seventh Wind",
+			"link": "https://www.warhammer.com/en-GB/shop/Lumineth-Realm-lords-Sevireth-Lord-of-the-Seventh-Wind-2021",
+			"image": {
+				"url": "2021-01-18-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120210027_SevirethLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Order", "Lumineth Realm-lords"]
+	},
+	{
+		"date": "2021-01-19",
+		"resolvedDate": "2021-05-29",
+		"link": "https://www.warhammer-community.com/2021/01/19/the-rumour-engine-19th-january-2021/",
+		"rumourEngineImage": {
+			"url": "2021-01-19.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/01/m8aDWplazJCIzvot.jpg"
+		},
+		"miniature": {
+			"name": "Killaboss on Great Gnashtoof",
+			"link": "https://www.warhammer.com/en-GB/shop/Age-Of-Sigmar-Dominion-EN-2021",
+			"image": {
+				"url": "2021-01-19-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/xmgxozHhkAQDPtga.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction", "Orruk Warclans", "Kruleboyz"]
+	},
+	{
+		"date": "2021-01-26",
+		"resolvedDate": "2022-03-08",
+		"link": "https://www.warhammer-community.com/2021/01/26/the-rumour-engine-26th-january-2021/",
+		"rumourEngineImage": {
+			"url": "2021-01-26.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/01/idOGIwrPQE3rzgKW.jpg"
+		},
+		"miniature": {
+			"name": "Parasite of Mortrex",
+			"link": "https://www.warhammer.com/en-GB/shop/tyranids-parasite-of-mortrex-2022",
+			"image": {
+				"url": "2021-01-26-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120106050_TYRParasiteofMortrexLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Tyranids"]
+	},
+	{
+		"date": "2021-02-02",
+		"resolvedDate": "2021-05-03",
+		"link": "https://www.warhammer-community.com/2021/02/02/the-rumour-engine-2nd-february-2021/",
+		"rumourEngineImage": {
+			"url": "2021-02-02.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/02/uoF64bS7RKCprRDb.jpg"
+		},
+		"miniature": {
+			"name": "Kragnos, the End of Empires",
+			"link": "https://www.warhammer.com/en-GB/shop/Kragnos-The-End-Of-Empires-2021",
+			"image": {
+				"url": "2021-01-12-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120209080_KragnosLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction"]
+	},
+	{
+		"date": "2021-02-09",
+		"resolvedDate": "2021-05-29",
+		"link": "https://www.warhammer-community.com/2021/02/09/the-rumour-engine-9th-february-2021/",
+		"rumourEngineImage": {
+			"url": "2021-02-09.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/02/DzuhKLq4OW2LszIf.jpg"
+		},
+		"miniature": {
+			"name": "Killaboss on Great Gnashtoof",
+			"link": "https://www.warhammer.com/en-GB/shop/Age-Of-Sigmar-Dominion-EN-2021",
+			"image": {
+				"url": "2021-01-19-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/xmgxozHhkAQDPtga.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction", "Orruk Warclans", "Kruleboyz"]
+	},
+	{
+		"date": "2021-02-12",
+		"resolvedDate": "2021-03-20",
+		"link": "https://www.warhammer-community.com/2021/02/12/underhive-informant-the-firebombers-setting-necromunda-ablaze/",
+		"rumourEngineImage": {
+			"url": "2021-02-12.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/02/5WguPZiv5aEJctbE.jpg"
+		},
+		"miniature": {
+			"name": "Cawdor Redemptionists",
+			"link": "https://www.warhammer.com/en-GB/shop/Necromunda-Cawdor-Redemptionists-2021",
+			"image": {
+				"url": "2021-02-12-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120599025_CawdorRedemptionistsLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Necromunda", "Cawdor"]
+	},
+	{
+		"date": "2021-02-16",
+		"resolvedDate": "2022-03-24",
+		"link": "https://www.warhammer-community.com/2021/02/16/the-rumour-engine-16th-february-2021/",
+		"rumourEngineImage": {
+			"url": "2021-02-16.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/02/o5TFgMX7MrDUmlqr.jpg"
+		},
+		"miniature": {
+			"name": "War Dog Brigand",
+			"link": "https://www.warhammer.com/en-GB/shop/chaos-knights-war-dog-brigand-2022",
+			"image": {
+				"url": "2021-02-16-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102139_CKWarDogBrigandLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of Chaos", "Chaos Knights"]
+	},
+	{
+		"date": "2021-02-23",
+		"resolvedDate": "2022-05-06",
+		"link": "https://www.warhammer-community.com/2021/02/23/the-rumour-engine-23rd-february-2021/",
+		"rumourEngineImage": {
+			"url": "2021-02-23.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/02/7EefOS9RhfUVh6bb-395x500.jpg"
+		},
+		"miniature": {
+			"name": "Centaurion Marshal",
+			"link": "https://www.warhammer.com/en-GB/shop/warcry-centaurion-marshal-2022",
+			"image": {
+				"url": "2021-02-23-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120201137_WCMarshallGroup.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Warcry", "Chaos", "Slaves to Darkness"]
+	},
+	{
+		"date": "2021-03-02",
+		"resolvedDate": "2021-07-10",
+		"link": "https://www.warhammer-community.com/2021/03/02/the-rumour-engine-2nd-march-2021/",
+		"rumourEngineImage": {
+			"url": "2021-03-02.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/03/A7nOWIeAkLcev1pA.jpg"
+		},
+		"miniature": {
+			"name": "Veteran Guardsmen",
+			"link": "https://www.warhammer.com/en-GB/shop/kill-team-veteran-guardsmen-2022",
+			"image": {
+				"url": "2021-03-02-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60010199037_KT2Group1.jpg"
+			}
+		},
+		"tags": ["40.000", "Kill Team", "Armies of the Imperium", "Astra Militarum"]
+	},
+	{
+		"date": "2021-03-09",
+		"resolvedDate": "2022-05-06",
+		"link": "https://www.warhammer-community.com/2021/03/09/the-rumour-engine-9th-march-2021/",
+		"rumourEngineImage": {
+			"url": "2021-03-09.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/03/ouQxf96fVBAWlAMh.jpg"
+		},
+		"miniature": {
+			"name": "Centaurion Marshal",
+			"link": "https://www.warhammer.com/en-GB/shop/warcry-centaurion-marshal-2022",
+			"image": {
+				"url": "2021-02-23-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120201137_WCMarshallGroup.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Warcry", "Chaos", "Slaves to Darkness"]
+	},
+	{
+		"date": "2021-03-16",
+		"resolvedDate": "2021-07-10",
+		"link": "https://www.warhammer-community.com/2021/03/16/the-rumour-engine-16th-march-2021/",
+		"rumourEngineImage": {
+			"url": "2021-03-16.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/03/pkeRg7baOwnpSKk6.jpg"
+		},
+		"miniature": {
+			"name": "Ork Buildings & Scrap Piles",
+			"link": "https://www.warhammer.com/en-GB/shop/kill-team-octarius-2021-eng",
+			"image": {
+				"url": "2021-03-16-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/07/yWx8RHoibw0PvpkL.jpg"
+			}
+		},
+		"tags": ["40.000", "Kill Team"]
+	},
+	{
+		"date": "2021-03-23",
+		"resolvedDate": "2022-03-24",
+		"link": "https://www.warhammer-community.com/2021/03/23/the-rumour-engine-23rd-march-2021/",
+		"rumourEngineImage": {
+			"url": "2021-03-23.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/03/m18yw3pbetlxZxMK.jpg"
+		},
+		"miniature": {
+			"name": "Knight Abominant",
+			"link": "https://www.warhammer.com/en-GB/shop/chaos-knights-knight-abominant-2022",
+			"image": {
+				"url": "2021-03-23-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102137_CKKnightAbominantLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of Chaos", "Chaos Knights"]
+	},
+	{
+		"date": "2021-03-30",
+		"resolvedDate": "2022-05-06",
+		"link": "https://www.warhammer-community.com/2021/03/30/the-rumour-engine-30th-march-2021/",
+		"rumourEngineImage": {
+			"url": "2021-03-30.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/03/SimziYrauuODjDMZ.jpg"
+		},
+		"miniature": {
+			"name": "Centaurion Marshal",
+			"link": "https://www.warhammer.com/en-GB/shop/warcry-centaurion-marshal-2022",
+			"image": {
+				"url": "2021-02-23-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120201137_WCMarshallGroup.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Warcry", "Chaos", "Slaves to Darkness"]
+	},
+	{
+		"date": "2021-04-06",
+		"resolvedDate": "2022-01-28",
+		"link": "https://www.warhammer-community.com/2021/04/06/the-rumour-engine-6th-april-2021/",
+		"rumourEngineImage": {
+			"url": "2021-04-06.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/04/EXyIHGIQAo0mLz9S.jpg"
+		},
+		"miniature": {
+			"name": "Scriptor Mortis",
+			"link": "https://www.warhammer.com/en-GB/shop/nighthaunt-scriptor-mortis-2022",
+			"image": {
+				"url": "2021-04-06-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120207127_ScriptorMortisLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Death", "Nighthaunt"]
+	},
+	{
+		"date": "2021-04-13",
+		"resolvedDate": "2021-10-30",
+		"link": "https://www.warhammer-community.com/2021/04/13/the-rumour-engine-13th-april-2021/",
+		"rumourEngineImage": {
+			"url": "2021-04-13.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/04/vZ5rohmupeaFBUK0.jpg"
+		},
+		"miniature": {
+			"name": "Reductus Saboteur",
+			"link": "https://www.warhammer.com/en-GB/shop/genestealer-cults-reductus-saboteur-2022",
+			"image": {
+				"url": "2021-04-13-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070117011_GCReductusSaboteurLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Genestealer Cults"]
+	},
+	{
+		"date": "2021-04-20",
+		"resolvedDate": "2021-12-25",
+		"link": "https://www.warhammer-community.com/2021/04/20/the-rumour-engine-20th-april-2021/",
+		"rumourEngineImage": {
+			"url": "2021-04-20.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/04/0MwHN6iRJnAIzq98.jpg"
+		},
+		"miniature": {
+			"name": "Rangers",
+			"link": "https://www.warhammer.com/en-GB/shop/aeldari-rangers-2022",
+			"image": {
+				"url": "2021-04-20-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120104073_AELRangersLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Aeldari"]
+	},
+	{
+		"date": "2021-04-27",
+		"resolvedDate": "2022-06-27",
+		"link": "https://www.warhammer-community.com/2021/04/27/the-rumour-engine-27th-april-2021/",
+		"rumourEngineImage": {
+			"url": "2021-04-27.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/04/JTeqcR7wNfPSSv6U.jpg"
+		},
+		"miniature": {
+			"name": "Curseling, Eye of Tzeentch",
+			"link": "https://www.warhammer.com/en-GB/shop/tzeentch-curseling-eye-of-tzeentch-2022",
+			"image": {
+				"url": "2021-04-27-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60010299033_EAoSArcaneCataclysmSingle02.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Chaos", "Disciples of Tzeentch"]
+	},
+	{
+		"date": "2021-05-04",
+		"resolvedDate": "2021-10-30",
+		"link": "https://www.warhammer-community.com/2021/05/04/the-rumour-engine-4th-may-2021/",
+		"rumourEngineImage": {
+			"url": "2021-05-04.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/GbLQcrcEoTV9ExQ2.jpg"
+		},
+		"miniature": {
+			"name": "Reductus Saboteur",
+			"link": "https://www.warhammer.com/en-GB/shop/genestealer-cults-reductus-saboteur-2022",
+			"image": {
+				"url": "2021-04-13-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070117011_GCReductusSaboteurLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Genestealer Cults"]
+	},
+	{
+		"date": "2021-05-11",
+		"resolvedDate": "2022-09-01",
+		"link": "https://www.warhammer-community.com/2021/05/11/the-rumour-engine-11th-may-2021/",
+		"rumourEngineImage": {
+			"url": "2021-05-11.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/IBR6dWhsmH88cqBC.jpg"
+		},
+		"miniature": {
+			"name": "Bloodpelt Hunter",
+			"link": "https://www.warhammer.com/en-GB/shop/ogor-mawtribes-bloodpelt-hunter-2022",
+			"image": {
+				"url": "2021-05-11-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120213025_BloodpeltHunterLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction", "Ogor Mawtribes"]
+	},
+	{
+		"date": "2021-05-18",
+		"resolvedDate": "2021-05-29",
+		"link": "https://www.warhammer-community.com/2021/05/18/the-rumour-engine-visions-of-beasts-part-1/",
+		"rumourEngineImage": {
+			"url": "2021-05-18.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/KnnrX3omJPa8nOyS.jpg"
+		},
+		"miniature": {
+			"name": "Murknob with Belcha-banna",
+			"link": "https://www.warhammer.com/en-GB/shop/Age-Of-Sigmar-Dominion-EN-2021",
+			"image": {
+				"url": "2021-05-18-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/lSRcfHca75xi56Nu.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction", "Orruk Warclans", "Kruleboyz"]
+	},
+	{
+		"date": "2021-05-19",
+		"resolvedDate": "2021-05-29",
+		"link": "https://www.warhammer-community.com/2021/05/19/the-rumour-engine-visions-of-beasts-part-2/",
+		"rumourEngineImage": {
+			"url": "2021-05-19.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/aug9GKse2ZzRikIT.jpg"
+		},
+		"miniature": {
+			"name": "Hobgrot Slittaz",
+			"link": "https://www.warhammer.com/en-GB/shop/orruk-warclans-hobgrot-slittas-2021",
+			"image": {
+				"url": "2021-05-19-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120209079_OWHobgrotSlittasLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction", "Orruk Warclans", "Kruleboyz"]
+	},
+	{
+		"date": "2021-05-20",
+		"resolvedDate": "2021-05-29",
+		"link": "https://www.warhammer-community.com/2021/05/20/the-rumour-engine-visions-of-beasts-part-3/",
+		"rumourEngineImage": {
+			"url": "2021-05-20.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/bbn5ZPf5BKIadStY.jpg"
+		},
+		"miniature": {
+			"name": "Swampcalla Shaman and Pot-grot",
+			"link": "https://www.warhammer.com/en-GB/shop/Age-Of-Sigmar-Dominion-EN-2021",
+			"image": {
+				"url": "2020-12-09-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/KGj61DqlIW4yalU7.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction", "Orruk Warclans", "Kruleboyz"]
+	},
+	{
+		"date": "2021-05-21",
+		"resolvedDate": "2021-05-29",
+		"link": "https://www.warhammer-community.com/2021/05/21/the-rumour-engine-visions-of-beasts-part-4/",
+		"rumourEngineImage": {
+			"url": "2021-05-21.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/ASXiOPMO2SjIYrya.jpg"
+		},
+		"miniature": {
+			"name": "Hobgrot Slittaz",
+			"link": "https://www.warhammer.com/en-GB/shop/orruk-warclans-hobgrot-slittas-2021",
+			"image": {
+				"url": "2021-05-19-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120209079_OWHobgrotSlittasLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction", "Orruk Warclans", "Kruleboyz"]
+	},
+	{
+		"date": "2021-05-22",
+		"resolvedDate": "2021-05-29",
+		"link": "https://www.warhammer-community.com/2021/05/22/the-rumour-engine-visions-of-beasts-part-5/",
+		"rumourEngineImage": {
+			"url": "2021-05-22.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/OwZNKAbIHDVKyzv0.jpg"
+		},
+		"miniature": {
+			"name": "Swampcalla Shaman and Pot-grot",
+			"link": "https://www.warhammer.com/en-GB/shop/Age-Of-Sigmar-Dominion-EN-2021",
+			"image": {
+				"url": "2020-12-09-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/KGj61DqlIW4yalU7.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction", "Orruk Warclans", "Kruleboyz"]
+	},
+	{
+		"date": "2021-05-23",
+		"resolvedDate": "2021-05-29",
+		"link": "https://www.warhammer-community.com/2021/05/23/the-rumour-engine-visions-of-beasts-part-6/",
+		"rumourEngineImage": {
+			"url": "2021-05-23.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/BwusSYVwrZgfnd6L.jpg"
+		},
+		"miniature": {
+			"name": "Killaboss with Stab-grot",
+			"link": "https://www.warhammer.com/en-GB/shop/Age-Of-Sigmar-Dominion-EN-2021",
+			"image": {
+				"url": "2021-05-23-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/f3pib2gxvQGzLoz9.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction", "Orruk Warclans", "Kruleboyz"]
+	},
+	{
+		"date": "2021-05-24",
+		"resolvedDate": "2021-05-29",
+		"link": "https://www.warhammer-community.com/2021/05/24/the-rumour-engine-visions-of-beasts-part-7/",
+		"rumourEngineImage": {
+			"url": "2021-05-24.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/dR2tRXuGsIhNZhc1.jpg"
+		},
+		"miniature": {
+			"name": "Killaboss on Great Gnashtoof",
+			"link": "https://www.warhammer.com/en-GB/shop/Age-Of-Sigmar-Dominion-EN-2021",
+			"image": {
+				"url": "2021-01-19-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/xmgxozHhkAQDPtga.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction", "Orruk Warclans", "Kruleboyz"]
+	},
+	{
+		"date": "2021-05-25",
+		"resolvedDate": "2021-05-29",
+		"link": "https://www.warhammer-community.com/2021/05/25/the-rumour-engine-visions-of-beasts-part-8/",
+		"rumourEngineImage": {
+			"url": "2021-05-25.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/dRSZF0RTUaKuj20v.jpg"
+		},
+		"miniature": {
+			"name": "Killaboss with Stab-grot",
+			"link": "https://www.warhammer.com/en-GB/shop/Age-Of-Sigmar-Dominion-EN-2021",
+			"image": {
+				"url": "2021-05-23-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/f3pib2gxvQGzLoz9.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction", "Orruk Warclans", "Kruleboyz"]
+	},
+	{
+		"date": "2021-05-26",
+		"resolvedDate": "2021-05-29",
+		"link": "https://www.warhammer-community.com/2021/05/26/the-rumour-engine-visions-of-beasts-part-9/",
+		"rumourEngineImage": {
+			"url": "2021-05-26.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/HLPeyicvMsqFgG5f.jpg"
+		},
+		"miniature": {
+			"name": "Swampcalla Shaman and Pot-grot",
+			"link": "https://www.warhammer.com/en-GB/shop/Age-Of-Sigmar-Dominion-EN-2021",
+			"image": {
+				"url": "2020-12-09-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/KGj61DqlIW4yalU7.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction", "Orruk Warclans", "Kruleboyz"]
+	},
+	{
+		"date": "2021-05-27",
+		"resolvedDate": "2021-05-29",
+		"link": "https://www.warhammer-community.com/2021/05/27/the-rumour-engine-visions-of-beasts-part-10/",
+		"rumourEngineImage": {
+			"url": "2021-05-27.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/ATEX8vrYp1Lqa0xT.jpg"
+		},
+		"miniature": {
+			"name": "Man-skewer Boltboyz",
+			"link": "https://www.warhammer.com/en-GB/shop/Age-Of-Sigmar-Dominion-EN-2021",
+			"image": {
+				"url": "2021-05-27-miniature.png",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/fK95Trh2AtbS1pku.png"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction", "Orruk Warclans", "Kruleboyz"]
+	},
+	{
+		"date": "2021-05-28",
+		"resolvedDate": "2021-05-29",
+		"link": "https://www.warhammer-community.com/2021/05/28/the-rumour-engine-visions-of-beasts-part-11/",
+		"rumourEngineImage": {
+			"url": "2021-05-28.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/k06MLoUsR913r3Ww.jpg"
+		},
+		"miniature": {
+			"name": "Killaboss on Great Gnashtoof",
+			"link": "https://www.warhammer.com/en-GB/shop/Age-Of-Sigmar-Dominion-EN-2021",
+			"image": {
+				"url": "2021-01-19-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/xmgxozHhkAQDPtga.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction", "Orruk Warclans", "Kruleboyz"]
+	},
+	{
+		"date": "2021-06-01",
+		"resolvedDate": "2022-06-20",
+		"link": "https://www.warhammer-community.com/2021/06/01/the-rumour-engine-1st-june-2021/",
+		"rumourEngineImage": {
+			"url": "2021-06-01.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/06/GzeMcrsQ0j7DimP0.jpg"
+		},
+		"miniature": {
+			"name": "Hearthkyn Warriors",
+			"link": "https://www.warhammer.com/en-GB/shop/lov-hearthkyn-warriors-2022",
+			"image": {
+				"url": "2021-06-01-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120118007_LoVHearthkynWarriorsLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Leagues of Votann"]
+	},
+	{
+		"date": "2021-06-08",
+		"resolvedDate": "2021-09-27",
+		"link": "https://www.warhammer-community.com/2021/06/08/the-rumour-engine-8th-june-2021/",
+		"rumourEngineImage": {
+			"url": "2021-06-08.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/06/qNwoyi57HmwLmL5n.jpg"
+		},
+		"miniature": {
+			"name": "Grimaldus and Retinue",
+			"link": "https://www.warhammer.com/en-GB/shop/black-templars-grimaldus-and-retinue-2021",
+			"image": {
+				"url": "2021-06-08-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120101364_BTChaplainGrimaldusandRetinueLead.jpg?fm=webp&w=920&h=948"
+			}
+		},
+		"tags": ["40.000", "Space Marines", "Black Templars"]
+	},
+	{
+		"date": "2021-06-15",
+		"resolvedDate": "2022-12-12",
+		"link": "https://www.warhammer-community.com/2021/06/15/the-rumour-engine-15th-june-2021/",
+		"rumourEngineImage": {
+			"url": "2021-06-15.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/06/m30rtkOsekWpJrOg.jpg"
+		},
+		"miniature": {
+			"name": "Abhorrant Ghoul King with Crown of Delusion",
+			"link": "https://www.warhammer-community.com/2022/12/12/this-years-boxing-day-miniature-has-a-next-level-party-hat/",
+			"image": {
+				"url": "2020-04-07-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/12/jjUDzJIodxeT9Kqb.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Death Guard", "Flesh-eater Courts"]
+	},
+	{
+		"date": "2021-06-22",
+		"resolvedDate": "2021-07-10",
+		"link": "https://www.warhammer-community.com/2021/06/22/the-rumour-engine-22nd-june-2021/",
+		"rumourEngineImage": {
+			"url": "2021-06-22.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/06/ZQzYVilx6RYuGwG1.jpg"
+		},
+		"miniature": {
+			"name": "Beastboss",
+			"link": "https://www.warhammer.com/en-GB/shop/orks-beastboss-2021",
+			"image": {
+				"url": "2021-06-22-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120103078_BeastbossLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Orks"]
+	},
+	{
+		"date": "2021-06-29",
+		"resolvedDate": "2022-09-01",
+		"link": "https://www.warhammer-community.com/2021/06/29/the-rumour-engine-29th-june-2021/",
+		"rumourEngineImage": {
+			"url": "2021-06-29.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/06/NtrZMEhqtjm8ooOk.jpg"
+		},
+		"miniature": {
+			"name": "Brokhyr Iron-master",
+			"link": "https://www.warhammer.com/en-GB/shop/lov-brokhyr-iron-master-2022",
+			"image": {
+				"url": "2021-06-29-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120118010_BrokhyrIronMasterLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Leagues of Votann"]
+	},
+	{
+		"date": "2021-07-06",
+		"resolvedDate": "2022-09-01",
+		"link": "https://www.warhammer-community.com/2021/07/06/the-rumour-engine-6th-july-2021/",
+		"rumourEngineImage": {
+			"url": "2021-07-06.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/07/9h4v8GJIMYZO56Vo.jpg"
+		},
+		"miniature": {
+			"name": "Grimnyr",
+			"link": "https://www.warhammer.com/en-GB/shop/lov-grimnyr-2022",
+			"image": {
+				"url": "2021-07-06-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120118004_GrymnyrLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Leagues of Votann"]
+	},
+	{
+		"date": "2021-07-13",
+		"resolvedDate": "2022-09-01",
+		"link": "https://www.warhammer-community.com/2021/07/13/the-rumour-engine-13th-july-2021/",
+		"rumourEngineImage": {
+			"url": "2021-07-13.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/07/eVpp4OguVqNs1Ztr.jpg"
+		},
+		"miniature": {
+			"name": "Gorechosen of Dromm",
+			"link": "https://www.warhammer.com/en-GB/shop/blades-of-khorne-gorechosen-of-dromm-2023",
+			"image": {
+				"url": "2021-07-13-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60120701007_ENGWHUWNMGorechosenofDrommGroup.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Underworlds", "Nethermaze", "Chaos", "Blades of Khorne"]
+	},
+	{
+		"date": "2021-07-20",
+		"resolvedDate": "2022-06-10",
+		"link": "https://www.warhammer-community.com/2021/07/20/the-rumour-engine-20th-july-2021/",
+		"rumourEngineImage": {
+			"url": "2021-07-20.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/07/HlaoJCMsypp3VxwW.jpg"
+		},
+		"miniature": {
+			"name": "Hexbane's Hunters",
+			"link": "https://www.warhammer.com/en-GB/shop/warhammer-underworlds-hexbanes-hunters-2022-eng",
+			"image": {
+				"url": "2021-07-20-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60120702001_EWHUWNMHexbanesHuntersGroup.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Underworlds", "Nethermaze", "Order", "Cities of Sigmar"]
+	},
+	{
+		"date": "2021-07-27",
+		"resolvedDate": "2022-07-18",
+		"link": "https://www.warhammer-community.com/2021/07/27/the-rumour-engine-27th-july-2021/",
+		"rumourEngineImage": {
+			"url": "2021-07-27.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/07/sHrF2z0qBHMSTjV0.jpg"
+		},
+		"miniature": {
+			"name": "Sagitaur",
+			"link": "https://www.warhammer.com/en-GB/shop/lov-sagitaur-2022",
+			"image": {
+				"url": "2021-07-27-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120118003_LoVSagitarLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Leagues of Votann"]
+	},
+	{
+		"date": "2021-08-03",
+		"resolvedDate": "2022-01-27",
+		"link": "https://www.warhammer-community.com/2021/08/03/the-rumour-engine-3rd-august-2021/",
+		"rumourEngineImage": {
+			"url": "2021-08-03.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/08/WHxWAzGg0Y2jg0jq.jpg"
+		},
+		"miniature": {
+			"name": "Avatar of Khaine",
+			"link": "https://www.warhammer.com/en-GB/shop/aeldari-avatar-of-khaine-2022",
+			"image": {
+				"url": "2021-08-03-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120104072_AELAvatarofKhaineLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Aeldari"]
+	},
+	{
+		"date": "2021-08-10",
+		"resolvedDate": "2022-09-01",
+		"link": "https://www.warhammer-community.com/2021/08/10/the-rumour-engine-10th-august-2021/",
+		"rumourEngineImage": {
+			"url": "2021-08-10.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/08/qlFJbHSl2yDyNTF6.jpg"
+		},
+		"miniature": {
+			"name": "Grimnyr",
+			"link": "https://www.warhammer.com/en-GB/shop/lov-grimnyr-2022",
+			"image": {
+				"url": "2021-07-06-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120118004_GrymnyrLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Leagues of Votann"]
+	},
+	{
+		"date": "2021-08-17",
+		"resolvedDate": "2022-08-01",
+		"link": "https://www.warhammer-community.com/2021/08/17/the-rumour-engine-17th-august-2021/",
+		"rumourEngineImage": {
+			"url": "2021-08-17.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/08/G0AFzGqeq7H5BoIf.jpg"
+		},
+		"miniature": {
+			"name": "Cthonian Berserks",
+			"link": "https://www.warhammer.com/en-GB/shop/lov-chonian-berserks-2022",
+			"image": {
+				"url": "2021-08-17-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120118002_LoVCthonianBeserksLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Leagues of Votann"]
+	},
+	{
+		"date": "2021-08-24",
+		"resolvedDate": "2022-09-01",
+		"link": "https://www.warhammer-community.com/2021/08/24/the-rumour-engine-24th-of-august-2021/",
+		"rumourEngineImage": {
+			"url": "2021-08-24.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/08/2VB5alkrn8udJv8i.jpg"
+		},
+		"miniature": {
+			"name": "Gorechosen of Dromm",
+			"link": "https://www.warhammer.com/en-GB/shop/blades-of-khorne-gorechosen-of-dromm-2023",
+			"image": {
+				"url": "2021-07-13-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60120701007_ENGWHUWNMGorechosenofDrommGroup.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Underworlds", "Nethermaze", "Chaos", "Blades of Khorne"]
+	},
+	{
+		"date": "2021-08-31",
+		"resolvedDate": "2022-07-18",
+		"link": "https://www.warhammer-community.com/2021/08/31/the-rumour-engine-31st-august-2021/",
+		"rumourEngineImage": {
+			"url": "2021-08-31.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/08/D4lsgfOzJyggqSg1.jpg"
+		},
+		"miniature": {
+			"name": "Sagitaur",
+			"link": "https://www.warhammer.com/en-GB/shop/lov-sagitaur-2022",
+			"image": {
+				"url": "2021-07-27-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120118003_LoVSagitarLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Leagues of Votann"]
+	},
+	{
+		"date": "2021-09-07",
+		"resolvedDate": "2022-11-19",
+		"link": "https://www.warhammer-community.com/2021/09/07/the-rumour-engine-7th-september-2021/",
+		"rumourEngineImage": {
+			"url": "2021-09-07.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/09/Vk2NoykLbbC15PYw.jpg"
+		},
+		"miniature": {
+			"name": "Vashtorr the Arkifane",
+			"link": "https://www.warhammer.com/en-GB/shop/chaos-space-marines-vashtorr-the-arkifane-2023",
+			"image": {
+				"url": "2021-09-07-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102180_CSMVashtorrTheArkifane01.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines"]
+	},
+	{
+		"date": "2021-09-14",
+		"resolvedDate": "2022-05-05",
+		"link": "https://www.warhammer-community.com/2021/09/14/the-rumour-engine-14th-september-2021/",
+		"rumourEngineImage": {
+			"url": "2021-09-14.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/09/9JQj6a4X0SeRoNtH.jpg"
+		},
+		"miniature": {
+			"name": "Cado Ezechiar, the Hollow King",
+			"link": "https://www.warhammer.com/en-GB/shop/soulblight-gravelords-cado-ezechiar-the-hollow-king-2022",
+			"image": {
+				"url": "2021-09-14-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120207113_CadoLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Death", "Soulblight Gravelords"]
+	},
+	{
+		"date": "2021-09-21",
+		"resolvedDate": "2022-05-05",
+		"link": "https://www.warhammer-community.com/2021/09/21/the-rumour-engine-21st-september-2021/",
+		"rumourEngineImage": {
+			"url": "2021-09-21.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/09/eVJUgm02LYsdiRzz.jpg"
+		},
+		"miniature": {
+			"name": "Cado Ezechiar, the Hollow King",
+			"link": "https://www.warhammer.com/en-GB/shop/soulblight-gravelords-cado-ezechiar-the-hollow-king-2022",
+			"image": {
+				"url": "2021-09-14-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120207113_CadoLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Death", "Soulblight Gravelords"]
+	},
+	{
+		"date": "2021-09-28",
+		"resolvedDate": "2022-03-24",
+		"link": "https://www.warhammer-community.com/2021/09/28/the-rumour-engine-28th-september-2021/",
+		"rumourEngineImage": {
+			"url": "2021-09-28.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/09/4nBFRKTb69w1Ntir.jpg"
+		},
+		"miniature": {
+			"name": "Awlrach the Drowner",
+			"link": "https://www.warhammer.com/en-GB/shop/nighthaunt-awlrach-the-drowner-2022",
+			"image": {
+				"url": "2021-09-28-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120207105_AwlrachDrownerLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Death", "Nighthaunt"]
+	},
+	{
+		"date": "2021-10-05",
+		"resolvedDate": "2022-01-15",
+		"link": "https://www.warhammer-community.com/2021/10/05/the-rumour-engine-5th-october-2021/",
+		"rumourEngineImage": {
+			"url": "2021-10-05.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/10/i4wqa7Qrt8RK14KB.jpg"
+		},
+		"miniature": {
+			"name": "Blackpowder's Buccaneers",
+			"link": "https://www.warhammer.com/en-GB/shop/ogor-mawtribes-blackpowders-buccaneers-2023",
+			"image": {
+				"url": "2021-10-05-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120213031_OMBlackpowdersBuccaneers02.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Underworlds", "Harrowdeep", "Destruction", "Ogor Mawtribes"]
+	},
+	{
+		"date": "2021-10-12",
+		"resolvedDate": "2022-03-24",
+		"link": "https://www.warhammer-community.com/2021/10/12/the-rumour-engine-12th-october-2021/",
+		"rumourEngineImage": {
+			"url": "2021-10-12.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/10/FJJ0R5S0dzpFS1iJ.jpg"
+		},
+		"miniature": {
+			"name": "Awlrach the Drowner",
+			"link": "https://www.warhammer.com/en-GB/shop/nighthaunt-awlrach-the-drowner-2022",
+			"image": {
+				"url": "2021-09-28-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120207105_AwlrachDrownerLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Death", "Nighthaunt"]
+	},
+	{
+		"date": "2021-10-19",
+		"resolvedDate": "2022-11-19",
+		"link": "https://www.warhammer-community.com/2021/10/19/the-rumour-engine-19th-october-2021/",
+		"rumourEngineImage": {
+			"url": "2021-10-19.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/10/YTb1py3hhzyHqgCp.jpg"
+		},
+		"miniature": {
+			"name": "Vashtorr the Arkifane",
+			"link": "https://www.warhammer.com/en-GB/shop/chaos-space-marines-vashtorr-the-arkifane-2023",
+			"image": {
+				"url": "2021-09-07-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102180_CSMVashtorrTheArkifane01.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines"]
+	},
+	{
+		"date": "2021-10-26",
+		"resolvedDate": "2023-01-27",
+		"link": "https://www.warhammer-community.com/2021/10/26/the-rumour-engine-26th-october-2021/",
+		"rumourEngineImage": {
+			"url": "2021-10-26.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/10/HTEUI1ELFT0tdAwG.jpg"
+		},
+		"miniature": {
+			"name": "Desolation Squad",
+			"link": "https://www.warhammer.com/en-GB/shop/space-marines-desolation-squad-2023",
+			"image": {
+				"url": "2021-10-26-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120101377_SMDesolationSquad2.jpg"
+			}
+		},
+		"tags": ["40.000", "Space Marines"]
+	},
+	{
+		"date": "2021-11-02",
+		"resolvedDate": "2022-05-05",
+		"link": "https://www.warhammer-community.com/2021/11/02/the-rumour-engine-2nd-november-2021/",
+		"rumourEngineImage": {
+			"url": "2021-11-02.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/11/wURYiE0tZx3akvOD.jpg"
+		},
+		"miniature": {
+			"name": "Revenant Seekers",
+			"link": "https://www.warhammer.com/en-GB/shop/sylvaneth-revenant-seekers-2022",
+			"image": {
+				"url": "2021-11-02-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120204031_SpiteriderLancersLead2.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Order", "Sylvaneth"]
+	},
+	{
+		"date": "2021-11-09",
+		"resolvedDate": "2022-04-15",
+		"link": "https://www.warhammer-community.com/2021/11/09/the-rumour-engine-9th-november-2021/",
+		"rumourEngineImage": {
+			"url": "2021-11-09.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/11/6xGUjrsazrurilGh-395x500.jpg"
+		},
+		"miniature": {
+			"name": "Skittershank's Clawpack",
+			"link": "https://www.warhammer.com/en-GB/shop/skaven-skittershanks-clawpack-2023",
+			"image": {
+				"url": "2021-11-09-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60010799017_ENGNethermazeGroup2.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Underworlds", "Nethermaze", "Chaos", "Skaven"]
+	},
+	{
+		"date": "2021-11-16",
+		"resolvedDate": "2023-10-30",
+		"link": "https://www.warhammer-community.com/2021/11/16/the-rumour-engine-16th-november-2021/",
+		"rumourEngineImage": {
+			"url": "2021-11-16.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/11/IsZu487UA9lTJcXp.jpg"
+		},
+		"miniature": {
+			"name": "Overlord with Translocation Shroud",
+			"link": "https://www.warhammer.com/en-GB/shop/necrons-overlord-and-translocation-shroud-2023",
+			"image": {
+				"url": "2021-11-16-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120110079_NECOverlordWithTanslocationShroud01.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Necrons"]
+	},
+	{
+		"date": "2021-11-23",
+		"resolvedDate": "2021-12-27",
+		"link": "https://www.warhammer-community.com/2021/11/23/the-rumour-engine-23rd-november-2021/",
+		"rumourEngineImage": {
+			"url": "2021-11-23.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/11/A9Q7sVYFVYMWSPyg.jpg"
+		},
+		"miniature": {
+			"name": "Akhelian Thrallmaster",
+			"link": "https://www.warhammer.com/en-GB/shop/idoneth-deepkin-akhelian-thrallmaster-2022",
+			"image": {
+				"url": "2021-11-23-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070219007_IDAhkelianThrallmasterLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Order", "Idoneth Deepkin"]
+	},
+	{
+		"date": "2021-11-30",
+		"resolvedDate": "2021-12-27",
+		"link": "https://www.warhammer-community.com/2021/11/30/the-rumour-engine-30th-november-2021/",
+		"rumourEngineImage": {
+			"url": "2021-11-30.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/11/hmifbQkO94NJoLEu.jpg"
+		},
+		"miniature": {
+			"name": "Auric Flamekeeper",
+			"link": "https://www.warhammer.com/en-GB/shop/fyreslayers-auric-flamekeeper-2022",
+			"image": {
+				"url": "2021-11-30-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070205014_FYRAuricFlamekeeperLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Order", "Fyreslayers"]
+	},
+	{
+		"date": "2021-12-01",
+		"resolvedDate": "2021-12-25",
+		"link": "https://www.warhammer-community.com/2021/12/01/the-advent-engine-1st-december-2021/",
+		"rumourEngineImage": {
+			"url": "2021-12-01.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/xoY7kmyCzKIlXHRe.jpg"
+		},
+		"miniature": {
+			"name": "Shroud Runners",
+			"link": "https://www.warhammer.com/en-GB/shop/aeldari-shroud-runners-2022",
+			"image": {
+				"url": "2021-12-01-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120104074_ShroudRunnersLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Aeldari"]
+	},
+	{
+		"date": "2021-12-02",
+		"resolvedDate": "2021-12-25",
+		"link": "https://www.warhammer-community.com/2021/12/02/the-advent-engine-2nd-december-2021/",
+		"rumourEngineImage": {
+			"url": "2021-12-02.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/ys2yzciopWqpZato.jpg"
+		},
+		"miniature": {
+			"name": "Shroud Runners",
+			"link": "https://www.warhammer.com/en-GB/shop/aeldari-shroud-runners-2022",
+			"image": {
+				"url": "2021-12-01-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120104074_ShroudRunnersLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Aeldari"]
+	},
+	{
+		"date": "2021-12-03",
+		"resolvedDate": "2021-12-25",
+		"link": "https://www.warhammer-community.com/2021/12/03/the-advent-engine-3rd-december-2021/",
+		"rumourEngineImage": {
+			"url": "2021-12-03.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/uPOFpoWVmLThEQLy.jpg"
+		},
+		"miniature": {
+			"name": "Rangers",
+			"link": "https://www.warhammer.com/en-GB/shop/aeldari-rangers-2022",
+			"image": {
+				"url": "2021-04-20-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120104073_AELRangersLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Aeldari"]
+	},
+	{
+		"date": "2021-12-04",
+		"resolvedDate": "2021-12-25",
+		"link": "https://www.warhammer-community.com/2021/12/04/the-advent-engine-4th-december-2021/",
+		"rumourEngineImage": {
+			"url": "2021-12-04.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/Z95m9m0x5Y8m2yhT.jpg"
+		},
+		"miniature": {
+			"name": "Rangers",
+			"link": "https://www.warhammer.com/en-GB/shop/aeldari-rangers-2022",
+			"image": {
+				"url": "2021-04-20-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120104073_AELRangersLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Aeldari"]
+	},
+	{
+		"date": "2021-12-05",
+		"resolvedDate": "2022-02-05",
+		"link": "https://www.warhammer-community.com/2021/12/05/the-advent-engine-5th-december-2021/",
+		"rumourEngineImage": {
+			"url": "2021-12-05.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/EzQLV1RmbK83aiWM.jpg"
+		},
+		"miniature": {
+			"name": "Eldritch Omens",
+			"link": "https://www.warhammer-community.com/2022/02/05/saturday-pre-orders-aeldari-and-chaos-face-off-over-a-maiden-world/",
+			"image": {
+				"url": "2021-12-05-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/01/ePUDYxA1PhXDzPue.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines", "Xenos Armies", "Aeldari"]
+	},
+	{
+		"date": "2021-12-06",
+		"resolvedDate": "2021-12-25",
+		"link": "https://www.warhammer-community.com/2021/12/06/the-advent-engine-6th-december-2021/",
+		"rumourEngineImage": {
+			"url": "2021-12-06.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/uaNkhhIs7STvdFM0.jpg"
+		},
+		"miniature": {
+			"name": "Rangers",
+			"link": "https://www.warhammer.com/en-GB/shop/aeldari-rangers-2022",
+			"image": {
+				"url": "2021-04-20-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120104073_AELRangersLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Aeldari"]
+	},
+	{
+		"date": "2021-12-07",
+		"resolvedDate": "2022-01-10",
+		"link": "https://www.warhammer-community.com/2021/12/07/the-advent-engine-7th-december-2021/",
+		"rumourEngineImage": {
+			"url": "2021-12-07.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/AtZ5qfAQvnD7frX3.jpg"
+		},
+		"miniature": {
+			"name": "Autarch",
+			"link": "https://www.warhammer.com/en-GB/shop/aeldari-autarch-2022",
+			"image": {
+				"url": "2021-12-07-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120104077_AELAutarchLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Aeldari"]
+	},
+	{
+		"date": "2021-12-08",
+		"resolvedDate": "2021-12-25",
+		"link": "https://www.warhammer-community.com/2021/12/08/the-advent-engine-8th-december-2021/",
+		"rumourEngineImage": {
+			"url": "2021-12-08.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/smPjCyoJkyHa7QyH.jpg"
+		},
+		"miniature": {
+			"name": "Autarch",
+			"link": "https://www.warhammer.com/en-GB/shop/aeldari-autarch-2022",
+			"image": {
+				"url": "2021-12-07-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120104077_AELAutarchLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Aeldari"]
+	},
+	{
+		"date": "2021-12-09",
+		"resolvedDate": "2021-12-25",
+		"link": "https://www.warhammer-community.com/2021/12/09/the-advent-engine-9th-december-2021/",
+		"rumourEngineImage": {
+			"url": "2021-12-09.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/RaAuaDnm23S5ccvj.jpg"
+		},
+		"miniature": {
+			"name": "Autarch",
+			"link": "https://www.warhammer.com/en-GB/shop/aeldari-autarch-2022",
+			"image": {
+				"url": "2021-12-07-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120104077_AELAutarchLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Aeldari"]
+	},
+	{
+		"date": "2021-12-10",
+		"resolvedDate": "2022-02-05",
+		"link": "https://www.warhammer-community.com/2021/12/10/the-advent-engine-10th-december-2021/",
+		"rumourEngineImage": {
+			"url": "2021-12-10.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/MOWVj9Sz8REfhPmA.jpg"
+		},
+		"miniature": {
+			"name": "Eldritch Omens",
+			"link": "https://www.warhammer-community.com/2022/02/05/saturday-pre-orders-aeldari-and-chaos-face-off-over-a-maiden-world/",
+			"image": {
+				"url": "2021-12-05-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/01/ePUDYxA1PhXDzPue.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines", "Xenos Armies", "Aeldari"]
+	},
+	{
+		"date": "2021-12-11",
+		"resolvedDate": "2021-12-25",
+		"link": "https://www.warhammer-community.com/2021/12/11/the-advent-engine-11th-december-2021/",
+		"rumourEngineImage": {
+			"url": "2021-12-11.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/8LlGcI4TYIDAL54N.jpg"
+		},
+		"miniature": {
+			"name": "Chosen",
+			"link": "https://www.warhammer.com/en-GB/shop/chaos-space-marines-chosen-2022",
+			"image": {
+				"url": "2021-12-11-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102141_ChosenLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines"]
+	},
+	{
+		"date": "2021-12-12",
+		"resolvedDate": "2022-01-10",
+		"link": "https://www.warhammer-community.com/2021/12/12/the-advent-engine-12th-december-2021/",
+		"rumourEngineImage": {
+			"url": "2021-12-12.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/Dty6qATkGa0s7c4H.jpg"
+		},
+		"miniature": {
+			"name": "Autarch",
+			"link": "https://www.warhammer.com/en-GB/shop/aeldari-autarch-2022",
+			"image": {
+				"url": "2021-12-07-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120104077_AELAutarchLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Aeldari"]
+	},
+	{
+		"date": "2021-12-13",
+		"resolvedDate": "2021-12-25",
+		"link": "https://www.warhammer-community.com/2021/12/13/the-advent-engine-13th-december-2021/",
+		"rumourEngineImage": {
+			"url": "2021-12-13.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/VzGukgwxIk1Xz0a5.jpg"
+		},
+		"miniature": {
+			"name": "Warpsmith",
+			"link": "https://www.warhammer.com/en-GB/shop/chaos-space-marines-warpsmith-2022",
+			"image": {
+				"url": "2021-12-13-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102138_CSMWarpsmithLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines"]
+	},
+	{
+		"date": "2021-12-14",
+		"resolvedDate": "2021-12-25",
+		"link": "https://www.warhammer-community.com/2021/12/14/the-advent-engine-14th-december-2021/",
+		"rumourEngineImage": {
+			"url": "2021-12-14.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/qr1xNLfO9a8yk4hg.jpg"
+		},
+		"miniature": {
+			"name": "Rangers",
+			"link": "https://www.warhammer.com/en-GB/shop/aeldari-rangers-2022",
+			"image": {
+				"url": "2021-04-20-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120104073_AELRangersLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Aeldari"]
+	},
+	{
+		"date": "2021-12-15",
+		"resolvedDate": "2022-02-05",
+		"link": "https://www.warhammer-community.com/2021/12/15/the-advent-engine-15th-december/",
+		"rumourEngineImage": {
+			"url": "2021-12-15.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/seL4VfqHcGmOtsmj.jpg"
+		},
+		"miniature": {
+			"name": "Eldritch Omens",
+			"link": "https://www.warhammer-community.com/2022/02/05/saturday-pre-orders-aeldari-and-chaos-face-off-over-a-maiden-world/",
+			"image": {
+				"url": "2021-12-05-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/01/ePUDYxA1PhXDzPue.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines", "Xenos Armies", "Aeldari"]
+	},
+	{
+		"date": "2021-12-16",
+		"resolvedDate": "2021-12-25",
+		"link": "https://www.warhammer-community.com/2021/12/16/the-advent-engine-16th-december-2021/",
+		"rumourEngineImage": {
+			"url": "2021-12-16.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/A3c79jaQz2bYYxbc.jpg"
+		},
+		"miniature": {
+			"name": "Chosen",
+			"link": "https://www.warhammer.com/en-GB/shop/chaos-space-marines-chosen-2022",
+			"image": {
+				"url": "2021-12-11-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102141_ChosenLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines"]
+	},
+	{
+		"date": "2021-12-17",
+		"resolvedDate": "2021-12-25",
+		"link": "https://www.warhammer-community.com/2021/12/17/the-advent-engine-17th-december-2021/",
+		"rumourEngineImage": {
+			"url": "2021-12-17.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/ChgXo1noYgOCxFUV.jpg"
+		},
+		"miniature": {
+			"name": "Chosen",
+			"link": "https://www.warhammer.com/en-GB/shop/chaos-space-marines-chosen-2022",
+			"image": {
+				"url": "2021-12-11-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102141_ChosenLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines"]
+	},
+	{
+		"date": "2021-12-18",
+		"resolvedDate": "2021-12-25",
+		"link": "https://www.warhammer-community.com/2021/12/18/the-advent-engine-18th-december-2021/",
+		"rumourEngineImage": {
+			"url": "2021-12-18.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/aWLGCe5lD8nGGymh.jpg"
+		},
+		"miniature": {
+			"name": "Chosen",
+			"link": "https://www.warhammer.com/en-GB/shop/chaos-space-marines-chosen-2022",
+			"image": {
+				"url": "2021-12-11-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102141_ChosenLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines"]
+	},
+	{
+		"date": "2021-12-19",
+		"resolvedDate": "2021-12-25",
+		"link": "https://www.warhammer-community.com/2021/12/19/the-advent-engine-19th-december-2021/",
+		"rumourEngineImage": {
+			"url": "2021-12-19.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/y3PZBCEmY1w9sXts.jpg"
+		},
+		"miniature": {
+			"name": "Warpsmith",
+			"link": "https://www.warhammer.com/en-GB/shop/chaos-space-marines-warpsmith-2022",
+			"image": {
+				"url": "2021-12-13-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102138_CSMWarpsmithLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines"]
+	},
+	{
+		"date": "2021-12-20",
+		"resolvedDate": "2022-02-05",
+		"link": "https://www.warhammer-community.com/2021/12/20/the-advent-engine-20th-december-2021/",
+		"rumourEngineImage": {
+			"url": "2021-12-20.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/qrxOMvHHZFSSlXLH.jpg"
+		},
+		"miniature": {
+			"name": "Eldritch Omens",
+			"link": "https://www.warhammer-community.com/2022/02/05/saturday-pre-orders-aeldari-and-chaos-face-off-over-a-maiden-world/",
+			"image": {
+				"url": "2021-12-05-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/01/ePUDYxA1PhXDzPue.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines", "Xenos Armies", "Aeldari"]
+	},
+	{
+		"date": "2021-12-21",
+		"resolvedDate": "2021-12-25",
+		"link": "https://www.warhammer-community.com/2021/12/21/the-advent-engine-21st-december-2021/",
+		"rumourEngineImage": {
+			"url": "2021-12-21.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/ijMp8lhBUyv3Yb61.jpg"
+		},
+		"miniature": {
+			"name": "Chosen",
+			"link": "https://www.warhammer.com/en-GB/shop/chaos-space-marines-chosen-2022",
+			"image": {
+				"url": "2021-12-11-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102141_ChosenLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines"]
+	},
+	{
+		"date": "2021-12-22",
+		"resolvedDate": "2021-12-25",
+		"link": "https://www.warhammer-community.com/2021/12/22/the-advent-engine-22nd-december-2021/",
+		"rumourEngineImage": {
+			"url": "2021-12-22.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/ruta1F5Qypm7ueth.jpg"
+		},
+		"miniature": {
+			"name": "Chosen",
+			"link": "https://www.warhammer.com/en-GB/shop/chaos-space-marines-chosen-2022",
+			"image": {
+				"url": "2021-12-11-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102141_ChosenLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines"]
+	},
+	{
+		"date": "2021-12-23",
+		"resolvedDate": "2021-12-25",
+		"link": "https://www.warhammer-community.com/2021/12/23/the-advent-engine-23rd-december-2021/",
+		"rumourEngineImage": {
+			"url": "2021-12-23.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/X6UQY74MEKpD4gIK.jpg"
+		},
+		"miniature": {
+			"name": "Warpsmith",
+			"link": "https://www.warhammer.com/en-GB/shop/chaos-space-marines-warpsmith-2022",
+			"image": {
+				"url": "2021-12-13-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102138_CSMWarpsmithLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines"]
+	},
+	{
+		"date": "2021-12-24",
+		"resolvedDate": "2022-02-05",
+		"link": "https://www.warhammer-community.com/2021/12/24/the-advent-engine-24th-december-2021/",
+		"rumourEngineImage": {
+			"url": "2021-12-24.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/Wg95R03cLgbJickt.jpg"
+		},
+		"miniature": {
+			"name": "Eldritch Omens",
+			"link": "https://www.warhammer-community.com/2022/02/05/saturday-pre-orders-aeldari-and-chaos-face-off-over-a-maiden-world/",
+			"image": {
+				"url": "2021-12-05-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/01/ePUDYxA1PhXDzPue.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines", "Xenos Armies", "Aeldari"]
+	},
+	{
+		"date": "2021-12-28",
+		"resolvedDate": "2022-01-28",
+		"link": "https://www.warhammer-community.com/2021/12/28/the-rumour-engine-28th-december-2021/",
+		"rumourEngineImage": {
+			"url": "2021-12-28.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/mvjIiisDROzhtma9.jpg"
+		},
+		"miniature": {
+			"name": "High Gladiatrix",
+			"link": "https://www.warhammer.com/en-GB/shop/daughters-of-khaine-high-gladiatrix-2022",
+			"image": {
+				"url": "2021-12-28-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070212004_DokHighGladiatorixLead.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Order", "Daughters of Khaine"]
+	},
+	{
+		"date": "2022-01-04",
+		"resolvedDate": "2022-03-24",
+		"link": "https://www.warhammer-community.com/2022/01/04/the-rumour-engine-4th-january-2022/",
+		"rumourEngineImage": {
+			"url": "2022-01-04.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/01/FmrkLwbCEEE9eKlD.jpg"
+		},
+		"miniature": {
+			"name": "Knight Abominant",
+			"link": "https://www.warhammer.com/en-GB/shop/chaos-knights-knight-abominant-2022",
+			"image": {
+				"url": "2021-03-23-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120102137_CKKnightAbominantLead.jpg"
+			}
+		},
+		"tags": ["40.000", "Armies of Chaos", "Chaos Knights"]
 	},
 	{
 		"date": "",

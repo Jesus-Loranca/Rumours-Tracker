@@ -10,7 +10,7 @@
 						<span *ngFor="let tag of rumourEngine.tags">{{ tag }}</span>
 					</div>
 
-					<div class="py-2 col-12 titles" *ngIf="rumourEngine">
+					<div class="py-2 col-12 titles">
 						<a href="{{ rumourEngine.miniature.link }}" class="miniature-name">{{ rumourEngine.miniature.name }}
 							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
 								<path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5"/>
@@ -26,7 +26,7 @@
 						</a>
 					</div>
 
-					<div class="py-2 col-12 images" *ngIf="rumourEngine">
+					<div class="py-2 col-12 images">
 						<img class="col-12 col-md-3" src="{{  '../assets/images/' + rumourEngine.rumourEngineImage.url }}">
 						<img class="col-12 col-md-3" src="{{ rumourEngine.rumourEngineImage.cdn }}">
 						<img class="col-12 col-md-3" src="{{  '../assets/images/' + rumourEngine.miniature.image.url }}">
