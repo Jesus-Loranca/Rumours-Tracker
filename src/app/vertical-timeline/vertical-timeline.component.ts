@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, HostListener } from '@angular/core';
 import { RumourEngine } from 'src/@types/RumourEngine';
 import * as rumourEnginesData from '../../@data/rumour-engines.json';
 
@@ -13,6 +13,19 @@ export class VerticalTimelineComponent  {
 	constructor() {
 		this.rumourEngines = Object.keys(rumourEnginesData).map(key => rumourEnginesData[Number(key)]);
 	}
+
+	@HostListener('window:scroll', ['$event'])
+  onWindowScroll(): void {
+    const rumours = document.querySelectorAll('.bounce');
+
+    rumours.forEach((rumour: Element, index: number) => {
+      const distanceToTop = rumour.getBoundingClientRect().top;
+
+      if (index > 1 && (distanceToTop - 150) < window.innerHeight)  {
+				rumour.classList.add('bounce-in');
+      }
+    });
+  }
 
 	getDetailedDate(dateString: string): string {
 		return new Date(dateString).toLocaleDateString('en-US', {

@@ -1,9 +1,9 @@
 <div class="timeline animate" *ngIf="rumourEngines.length > 0">
 	<div class="timeline left" *ngFor="let rumourEngine of rumourEngines">
 		<div *ngIf="rumourEngine && rumourEngine.link">
-			<span class="icon bounce-in">{{ getYear(rumourEngine.date) }}</span>
+			<span class="icon bounce">{{ getYear(rumourEngine.date) }}</span>
 
-			<div class="content bounce-in">
+			<div class="content bounce">
 				<div class="content-arrow"></div>
 				<div class="row">
 					<div class="tags" *ngIf="rumourEngine.tags.length > 0">

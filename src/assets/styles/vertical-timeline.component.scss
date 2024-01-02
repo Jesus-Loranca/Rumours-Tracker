@@ -158,9 +158,9 @@
 
 .timeline.animate .icon.bounce-in {
   visibility: visible;
-  -webkit-animation: cd-bounce-1 0.6s;
-  -moz-animation: cd-bounce-1 0.6s;
-  animation: cd-bounce-1 0.6s;
+  -webkit-animation: cd-bounce-1 1.2s;
+  -moz-animation: cd-bounce-1 1.2s;
+  animation: cd-bounce-1 1.2s;
 }
 
 @-webkit-keyframes cd-bounce-1 {
@@ -230,17 +230,17 @@
 
 .timeline.animate .content.bounce-in {
   visibility: visible;
-  -webkit-animation: cd-bounce-2 0.6s;
-  -moz-animation: cd-bounce-2 0.6s;
-  animation: cd-bounce-2 0.6s;
+  -webkit-animation: cd-bounce-2 1.2s;
+  -moz-animation: cd-bounce-2 1.2s;
+  animation: cd-bounce-2 1.2s;
 }
 
 @media only screen and (max-width: 1169px) {
   .timeline.animate .content.bounce-in {
     visibility: visible;
-    -webkit-animation: cd-bounce-2-inverse 0.6s;
-    -moz-animation: cd-bounce-2-inverse 0.6s;
-    animation: cd-bounce-2-inverse 0.6s;
+    -webkit-animation: cd-bounce-2-inverse 1.2s;
+    -moz-animation: cd-bounce-2-inverse 1.2s;
+    animation: cd-bounce-2-inverse 1.2s;
   }
 }
 
