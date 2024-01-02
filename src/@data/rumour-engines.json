@@ -6661,21 +6661,21 @@
 	},
 	{
 		"date": "2022-10-11",
-		"resolvedDate": "",
+		"resolvedDate": "2024-01-01",
 		"link": "https://www.warhammer-community.com/2022/10/11/the-rumour-engine-11th-october-2022/",
 		"rumourEngineImage": {
 			"url": "2022-10-11.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/10/n4qODupP8DikbBdC.jpg"
 		},
 		"miniature": {
-			"name": "",
-			"link": "",
+			"name": "Invocation of the Elements",
+			"link": "https://www.warhammer-community.com/2024/01/01/celebrate-this-years-store-anniversaries-with-a-fyreslayer-and-a-tau-empire-ethereal/",
 			"image": {
 				"url": "2022-10-11-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/12/CdGQZLzGynqZEPV6.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Xenos Armies", "T'au Empire"]
 	},
 	{
 		"date": "2022-10-18",
@@ -6895,21 +6895,21 @@
 	},
 	{
 		"date": "2023-01-10",
-		"resolvedDate": "",
+		"resolvedDate": "2024-01-01",
 		"link": "https://www.warhammer-community.com/2023/01/10/the-rumour-engine-10th-january-2023/",
 		"rumourEngineImage": {
 			"url": "2023-01-10.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/01/ugxFZPv5uLpYC1VX.jpg"
 		},
 		"miniature": {
-			"name": "",
-			"link": "",
+			"name": "Invocation of the Elements",
+			"link": "https://www.warhammer-community.com/2024/01/01/celebrate-this-years-store-anniversaries-with-a-fyreslayer-and-a-tau-empire-ethereal/",
 			"image": {
-				"url": "2023-01-10-miniature.jpg",
-				"cdn": ""
+				"url": "2022-10-11-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/12/CdGQZLzGynqZEPV6.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Xenos Armies", "T'au Empire"]
 	},
 	{
 		"date": "2023-01-17",
@@ -6930,21 +6930,1245 @@
 		"tags": ["40.000", "Kill Team", "Gallowfall", "Armies of the Imperium", "Astra Militarum"]
 	},
 	{
-		"date": "",
-		"resolvedDate": "",
-		"link": "",
+		"date": "2023-01-24",
+		"resolvedDate": "2023-01-27",
+		"link": "https://www.warhammer-community.com/2023/01/24/the-rumour-engine-24th-january-2023/",
 		"rumourEngineImage": {
-			"url": ".jpg",
-			"cdn": ""
+			"url": "2023-01-24.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/01/8irvLVyvtHB0PBPt.jpg"
+		},
+		"miniature": {
+			"name": "Claws of Karanak",
+			"link": "https://www.warhammer.com/en GB/shop/warcry-claws-of-karanak-2023",
+			"image": {
+				"url": "2023-01-24-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60010299039_Bloodhunt4.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Warcry", "Chaos", "Blades of Khorne"]
+	},
+	{
+		"date": "2023-01-31",
+		"resolvedDate": "2023-03-23",
+		"link": "https://www.warhammer-community.com/2023/01/31/the-rumour-engine-31st-january-2023/",
+		"rumourEngineImage": {
+			"url": "2023-01-31.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/01/1wtjga9lo8mZaSJN.jpg"
+		},
+		"miniature": {
+			"name": "Kroxigor",
+			"link": "https://www.warhammer.com/en-GB/shop/seraphon-kroxigor-2023",
+			"image": {
+				"url": "2023-01-31-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120208032_SERKroxigor01.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Order", "Seraphon"]
+	},
+	{
+		"date": "2023-02-07",
+		"resolvedDate": "2023-03-23",
+		"link": "https://www.warhammer-community.com/2023/02/07/the-rumour-engine-7th-february-2023/",
+		"rumourEngineImage": {
+			"url": "2023-02-07.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/02/PsPX3XHKzP36K6CW.jpg"
+		},
+		"miniature": {
+			"name": "Saurus Scar-Veteran on Aggradon",
+			"link": "https://www.warhammer.com/en-GB/shop/seraphon-saurus-scar-veteran-on-aggradon-2023",
+			"image": {
+				"url": "2023-02-07-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120208031_SERSaurusScarVeteranOnAggradon01.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Order", "Age of Sigmar"]
+	},
+	{
+		"date": "2023-02-14",
+		"resolvedDate": "2023-03-23",
+		"link": "https://www.warhammer-community.com/2023/02/14/the-rumour-engine-14th-february-2023/",
+		"rumourEngineImage": {
+			"url": "2023-02-14.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/02/IqUcHQVK3qVLMzSo.jpg"
+		},
+		"miniature": {
+			"name": "Librarian Consul",
+			"link": "https://www.warhammer.com/en-GB/shop/horus-heresy-librarian-consul-2023",
+			"image": {
+				"url": "2023-02-14-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99853001680_HHLiberarianConsulHero01.jpg"
+			}
+		},
+		"tags": ["Horus Heresy", "Loyalist Space Marine Legions", "Loyalist Legiones Astartes"]
+	},
+	{
+		"date": "2023-02-21",
+		"resolvedDate": "2023-03-04",
+		"link": "https://www.warhammer-community.com/2023/02/21/the-rumour-engine-21st-february-2023/",
+		"rumourEngineImage": {
+			"url": "2023-02-21.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/02/IEraSYPKb7DhVOzq.jpg"
+		},
+		"miniature": {
+			"name": "Boss Snikrot",
+			"link": "https://www.warhammer.com/en-GB/shop/orks-boss-snikrot-2023",
+			"image": {
+				"url": "2023-02-21-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120103114_Snikrot1.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Orks"]
+	},
+	{
+		"date": "2023-02-28",
+		"resolvedDate": "2023-03-04",
+		"link": "https://www.warhammer-community.com/2023/02/28/the-rumour-engine-28th-february-2023/",
+		"rumourEngineImage": {
+			"url": "2023-02-28.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/02/LSau66KQyKFzrkHH.jpg"
+		},
+		"miniature": {
+			"name": "Realmgore Ritualist",
+			"link": "https://www.warhammer.com/en-GB/shop/blades-of-khorne-realmgore-ritualist-2023",
+			"image": {
+				"url": "2023-02-28-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070201031_RealmgoreRitualist1.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Chaos", "Blades of Khorne"]
+	},
+	{
+		"date": "2023-03-07",
+		"resolvedDate": "2023-04-13",
+		"link": "https://www.warhammer-community.com/2023/03/07/the-rumour-engine-7th-march-2023/",
+		"rumourEngineImage": {
+			"url": "2023-03-07.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/03/pORjDAxZGZR3qbMr.jpg"
+		},
+		"miniature": {
+			"name": "Librarian Consul",
+			"link": "https://www.warhammer.com/en-GB/shop/horus-heresy-librarian-consul-2023",
+			"image": {
+				"url": "2023-02-14-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99853001680_HHLiberarianConsulHero01.jpg"
+			}
+		},
+		"tags": ["Horus Heresy", "Loyalist Space Marine Legions", "Loyalist Legiones Astartes"]
+	},
+	{
+		"date": "2023-03-14",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/03/14/the-rumour-engine-14th-march-2023/",
+		"rumourEngineImage": {
+			"url": "2023-03-14.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/03/sSPpqPhdIznAuKJD.jpg"
 		},
 		"miniature": {
 			"name": "",
 			"link": "",
 			"image": {
-				"url": "-miniature.jpg",
+				"url": "2023-03-14-miniature.jpg",
 				"cdn": ""
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2023-03-21",
+		"resolvedDate": "2023-08-31",
+		"link": "https://www.warhammer-community.com/2023/03/21/the-rumour-engine-21st-march-2023/",
+		"rumourEngineImage": {
+			"url": "2023-03-21.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/03/9lAAvjEgtiwv9Gtl.jpg"
+		},
+		"miniature": {
+			"name": "Gorger Mawpack",
+			"link": "https://www.warhammer.com/en-GB/shop/warcry-hunter-and-hunted-2023-eng",
+			"image": {
+				"url": "2023-03-21-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60120299003_WCHandHCoreGame4.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Warcry", "Destruction", "Ogor Mawtribes"]
+	},
+	{
+		"date": "2023-03-28",
+		"resolvedDate": "2023-08-31",
+		"link": "https://www.warhammer-community.com/2023/03/28/the-rumour-engine-28th-march-2023/",
+		"rumourEngineImage": {
+			"url": "2023-03-28.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/03/dkxyf1JbGAummz6S.jpg"
+		},
+		"miniature": {
+			"name": "Gorger Mawpack",
+			"link": "https://www.warhammer.com/en-GB/shop/warcry-hunter-and-hunted-2023-eng",
+			"image": {
+				"url": "2023-03-21-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60120299003_WCHandHCoreGame4.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Warcry", "Destruction", "Ogor Mawtribes"]
+	},
+	{
+		"date": "2023-04-04",
+		"resolvedDate": "2023-04-30",
+		"link": "https://www.warhammer-community.com/2023/04/04/the-rumour-engine-4th-april-2023/",
+		"rumourEngineImage": {
+			"url": "2023-04-04.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/04/LxEDX92EimlBe9Tn.jpg"
+		},
+		"miniature": {
+			"name": "Harbinger of Decay",
+			"link": "https://www.warhammer.com/en-GB/shop/harbinger-of-decay-2023",
+			"image": {
+				"url": "2023-04-04-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120201162_MaggothkinPhulgothsShudderhood1.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Chaos", "Maggotkin of Nurgle"]
+	},
+	{
+		"date": "2023-04-11",
+		"resolvedDate": "2023-08-31",
+		"link": "https://www.warhammer-community.com/2023/04/11/the-rumour-engine-11th-april-2023/",
+		"rumourEngineImage": {
+			"url": "2023-04-11.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/04/0s5zu3p6myJDghCw.jpg"
+		},
+		"miniature": {
+			"name": "Cyreni's Razors",
+			"link": "https://www.warhammer.com/en-GB/shop/warhammer-underworlds-deathgorge-2023-eng",
+			"image": {
+				"url": "2023-04-11-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/10/LyKGSTi0koI4iFLw.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Underworlds", "Deathgorge", "Order", "Idoneth Deepkin"]
+	},
+	{
+		"date": "2023-04-18",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/04/18/the-rumour-engine-18th-april-2023/",
+		"rumourEngineImage": {
+			"url": "2023-04-18.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/04/HfaHAdiNoHy1zW9e.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-04-18-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-04-25",
+		"resolvedDate": "2023-12-09",
+		"link": "https://www.warhammer-community.com/2023/04/25/the-rumour-engine-25th-april-2023/",
+		"rumourEngineImage": {
+			"url": "2023-04-25.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/04/KnifjC4A8xJ9eFSK.jpg"
+		},
+		"miniature": {
+			"name": "Ufthak Blackhawk",
+			"link": "",
+			"image": {
+				"url": "2023-04-25-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/12/JbLyPH6w1EYrZVT7.jpg"
+			}
+		},
+		"tags": ["40.000", "Xenos Armies", "Orks"]
+	},
+	{
+		"date": "2023-05-02",
+		"resolvedDate": "2023-11-18",
+		"link": "https://www.warhammer-community.com/2023/05/02/the-rumour-engine-2nd-of-may-2023/",
+		"rumourEngineImage": {
+			"url": "2023-05-02.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/05/Ix2pHSSW5pUa8iLa.jpg"
+		},
+		"miniature": {
+			"name": "Nemesis Claws",
+			"link": "",
+			"image": {
+				"url": "2023-05-02-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/wS8Cx6ehTuV4VwCV.jpg"
+			}
+		},
+		"tags": ["40.000", "Kill Team", "Armies of Chaos", "Chaos Space Marines"]
+	},
+	{
+		"date": "2023-05-09",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/05/09/the-rumour-engine-9th-of-may-2023/",
+		"rumourEngineImage": {
+			"url": "2023-05-09.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/05/Z98BP5YD0W92O8wT.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-05-09-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-05-16",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/05/16/the-rumour-engine-16th-of-may-2023/",
+		"rumourEngineImage": {
+			"url": "2023-05-16.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/05/FdYwRAKwc4e5XQ74.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-05-16-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-05-23",
+		"resolvedDate": "2023-11-18",
+		"link": "https://www.warhammer-community.com/2023/05/23/the-rumour-engine-23rd-of-may-2023/",
+		"rumourEngineImage": {
+			"url": "2023-05-23.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/05/rqPXPux4hEdKOtOn.jpg"
+		},
+		"miniature": {
+			"name": "Nemesis Claws",
+			"link": "",
+			"image": {
+				"url": "2023-05-02-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/wS8Cx6ehTuV4VwCV.jpg"
+			}
+		},
+		"tags": ["40.000", "Kill Team", "Armies of Chaos", "Chaos Space Marines"]
+	},
+	{
+		"date": "2023-05-30",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/05/30/the-rumour-engine-30th-may-2023/",
+		"rumourEngineImage": {
+			"url": "2023-05-30.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/05/IIhDnheezEcQ54gB.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-05-30-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-06-06",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/06/06/the-rumour-engine-6th-june-2023/",
+		"rumourEngineImage": {
+			"url": "2023-06-06.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/06/HUzVP1AsIyIFaUky.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-06-06-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-06-13",
+		"resolvedDate": "2023-08-31",
+		"link": "https://www.warhammer-community.com/2023/06/13/the-rumour-engine-13th-june-2023/",
+		"rumourEngineImage": {
+			"url": "2023-06-13.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/06/J1NOT1f8V4uGtTfb.jpg"
+		},
+		"miniature": {
+			"name": "Cyreni's Razors",
+			"link": "https://www.warhammer.com/en-GB/shop/warhammer-underworlds-deathgorge-2023-eng",
+			"image": {
+				"url": "2023-04-11-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/10/LyKGSTi0koI4iFLw.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Underworlds", "Deathgorge", "Order", "Idoneth Deepkin"]
+	},
+	{
+		"date": "2023-06-20",
+		"resolvedDate": "2023-08-31",
+		"link": "https://www.warhammer-community.com/2023/06/20/the-rumour-engine-20th-june-2023/",
+		"rumourEngineImage": {
+			"url": "2023-06-20.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/06/QCcWkfOp12JbW332.jpg"
+		},
+		"miniature": {
+			"name": "Gorger Mawpack",
+			"link": "https://www.warhammer.com/en-GB/shop/warcry-hunter-and-hunted-2023-eng",
+			"image": {
+				"url": "2023-03-21-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60120299003_WCHandHCoreGame4.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Warcry", "Destruction", "Ogor Mawtribes"]
+	},
+	{
+		"date": "2023-06-27",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/06/27/the-rumour-engine-27th-june-2023/",
+		"rumourEngineImage": {
+			"url": "2023-06-27.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/06/ZdNFAF0p7IGVEfAW.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-06-27-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-07-04",
+		"resolvedDate": "2023-08-31",
+		"link": "https://www.warhammer-community.com/2023/07/04/the-rumour-engine-4th-july-2023/",
+		"rumourEngineImage": {
+			"url": "2023-07-04.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/07/DdO61eAVGR1iN3U5.jpg"
+		},
+		"miniature": {
+			"name": "Gorger Mawpack",
+			"link": "https://www.warhammer.com/en-GB/shop/warcry-hunter-and-hunted-2023-eng",
+			"image": {
+				"url": "2023-03-21-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60120299003_WCHandHCoreGame4.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Warcry", "Destruction", "Ogor Mawtribes"]
+	},
+	{
+		"date": "2023-07-11",
+		"resolvedDate": "2023-11-18",
+		"link": "https://www.warhammer-community.com/2023/07/11/the-rumour-engine-11th-july-2023/",
+		"rumourEngineImage": {
+			"url": "2023-07-11.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/07/ne4k15366E3ooxfb.jpg"
+		},
+		"miniature": {
+			"name": "Abhorrant Cardinal",
+			"link": "",
+			"image": {
+				"url": "2023-07-11-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/FXwBXoqQWBaZ700F.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Death", "Flesh-eater Courts"]
+	},
+	{
+		"date": "2023-07-18",
+		"resolvedDate": "2023-08-31",
+		"link": "https://www.warhammer-community.com/2023/07/18/the-rumour-engine-18th-july-2023/",
+		"rumourEngineImage": {
+			"url": "2023-07-18.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/07/7fbrKjYxRTAonOca.jpg"
+		},
+		"miniature": {
+			"name": "Trugg the Troggoth King",
+			"link": "https://www.warhammer.com/en-GB/shop/gloomspite-gitz-truggs-great-troggherd-2023",
+			"image": {
+				"url": "2023-07-18-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120209121_GSGTruggsGreatTroggherd1.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction", "Gloomspite Gitz"]
+	},
+	{
+		"date": "2023-07-25",
+		"resolvedDate": "2023-11-18",
+		"link": "https://www.warhammer-community.com/2023/07/25/the-rumour-engine-25th-july-2023/",
+		"rumourEngineImage": {
+			"url": "2023-07-25.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/07/Z7exipug4WwF67Yp.jpg"
+		},
+		"miniature": {
+			"name": "Abhorrant Cardinal",
+			"link": "",
+			"image": {
+				"url": "2023-07-11-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/FXwBXoqQWBaZ700F.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Death", "Flesh-eater Courts"]
+	},
+	{
+		"date": "2023-08-01",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/08/01/the-rumour-engine-1st-august-2023/",
+		"rumourEngineImage": {
+			"url": "2023-08-01.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/07/MUcryJYw2mQdxsRD.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-08-01-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-08-08",
+		"resolvedDate": "2023-08-31",
+		"link": "https://www.warhammer-community.com/2023/08/08/the-rumour-engine-8th-august-2023/",
+		"rumourEngineImage": {
+			"url": "2023-08-08.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/08/32d8RRCd2pdn8Mrl.jpg"
+		},
+		"miniature": {
+			"name": "Trugg the Troggoth King",
+			"link": "https://www.warhammer.com/en-GB/shop/gloomspite-gitz-truggs-great-troggherd-2023",
+			"image": {
+				"url": "2023-07-18-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120209121_GSGTruggsGreatTroggherd1.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction", "Gloomspite Gitz"]
+	},
+	{
+		"date": "2023-08-15",
+		"resolvedDate": "2023-11-13",
+		"link": "https://www.warhammer-community.com/2023/08/15/the-rumour-engine-15th-august-2023/",
+		"rumourEngineImage": {
+			"url": "2023-08-15.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/08/hlU0qXkBECUlX40V.jpg"
+		},
+		"miniature": {
+			"name": "Grand Justice Gormayne",
+			"link": "",
+			"image": {
+				"url": "2023-08-15-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/08/rTBSuV15dM5DqJC2.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Death", "Flesh-eater Courts"]
+	},
+	{
+		"date": "2023-08-22",
+		"resolvedDate": "2023-08-31",
+		"link": "https://www.warhammer-community.com/2023/08/22/the-rumour-engine-22nd-august-2023/",
+		"rumourEngineImage": {
+			"url": "2023-08-22.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/08/lE8k7OiZiGPVdi4G.jpg"
+		},
+		"miniature": {
+			"name": "Trugg the Troggoth King",
+			"link": "https://www.warhammer.com/en-GB/shop/gloomspite-gitz-truggs-great-troggherd-2023",
+			"image": {
+				"url": "2023-07-18-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120209121_GSGTruggsGreatTroggherd1.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction", "Gloomspite Gitz"]
+	},
+	{
+		"date": "2023-08-29",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/08/29/the-rumour-engine-29th-august-2023/",
+		"rumourEngineImage": {
+			"url": "2023-08-29.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/08/bCK9CSI4r2m0dHAI.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-08-29-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-09-05",
+		"resolvedDate": "2023-11-18",
+		"link": "https://www.warhammer-community.com/2023/09/05/the-rumour-engine-5th-september-2023/",
+		"rumourEngineImage": {
+			"url": "2023-09-05.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/09/syPiz0ZwMfsf818H.jpg"
+		},
+		"miniature": {
+			"name": "Morbheg Knights",
+			"link": "https://www.warhammer.com/en-GB/shop/flesh-eater-courts-army-set-eng-2023",
+			"image": {
+				"url": "2023-09-05-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/0PPrQSyqiwW1MH35.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Death", "Flesh-eater Courts"]
+	},
+	{
+		"date": "2023-09-12",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/09/12/the-rumour-engine-12th-september-2023/",
+		"rumourEngineImage": {
+			"url": "2023-09-12.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/09/Rkvwl99GzJK9292M.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-09-12-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-09-19",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/09/19/the-rumour-engine-19th-september-2023/",
+		"rumourEngineImage": {
+			"url": "2023-09-19.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/09/F10bM2HqIX3Y9C7V.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-09-19-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-09-26",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/09/26/the-rumour-engine-26th-september-2023/",
+		"rumourEngineImage": {
+			"url": "2023-09-26.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/09/fOjtU9CYZtMieAGE.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-09-26-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-10-03",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/10/03/the-rumour-engine-3rd-october-2023/",
+		"rumourEngineImage": {
+			"url": "2023-10-03.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/10/LPYFDzt92cpfYWKv.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-10-03-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-10-10",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/10/10/the-rumour-engine-10th-october-2023/",
+		"rumourEngineImage": {
+			"url": "2023-10-10.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/10/Xkhi4juO6CMrx3oB.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-10-10-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-10-17",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/10/17/the-rumour-engine-17th-october-2023/",
+		"rumourEngineImage": {
+			"url": "2023-10-17.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/10/jTRzQBWMdMibirxx.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-10-17-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-10-24",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/10/24/the-rumour-engine-24th-october-2023/",
+		"rumourEngineImage": {
+			"url": "2023-10-24.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/10/dMIncHk9yyDVg2Bk.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-10-24-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-10-31",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/10/31/the-rumour-engine-31st-october-2023/",
+		"rumourEngineImage": {
+			"url": "2023-10-31.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/10/hrL6OYc2Y5IgmOyF.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-10-31-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-11-07",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/11/07/the-rumour-engine-7th-november-2023/",
+		"rumourEngineImage": {
+			"url": "2023-11-07.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/3tiqPznI3obS7seI.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-11-07-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-11-14",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/11/14/the-rumour-engine-14th-november-2023/",
+		"rumourEngineImage": {
+			"url": "2023-11-14.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/hZBWFU4wyVJoyUqb.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-11-14-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-11-21",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/11/21/the-rumour-engine-21st-november-2023/",
+		"rumourEngineImage": {
+			"url": "2023-11-21.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/EtqaYFbAQp5oHtFN.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-11-21-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-11-28",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/11/28/the-rumour-engine-28th-november-2023/",
+		"rumourEngineImage": {
+			"url": "2023-11-28.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/9o6jgcJay573r3aE.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-11-28-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-12-01",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/12/01/the-advent-engine-1st-december-2023/",
+		"rumourEngineImage": {
+			"url": "2023-12-01.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/WskDkUG5KUJVu4an.png"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-12-01-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-12-02",
+		"resolvedDate": "2023-12-25",
+		"link": "https://www.warhammer-community.com/2023/12/02/the-advent-engine-2nd-december-2023/",
+		"rumourEngineImage": {
+			"url": "2023-12-02.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/nnOdluROyq1z5y0c.png"
+		},
+		"miniature": {
+			"name": "Belial",
+			"link": "",
+			"image": {
+				"url": "2023-12-02-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/12/MwT05OLotTxbwus7.jpg"
+			}
+		},
+		"tags": ["40.000", "Space Marines", "Dark Angels"]
+	},
+	{
+		"date": "2023-12-03",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/12/03/the-advent-engine-3rd-december-2023/",
+		"rumourEngineImage": {
+			"url": "2023-12-03.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/B1ykBI0ma9OQKElh.png"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-12-03-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-12-04",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/12/04/the-advent-engine-4th-december-2023/",
+		"rumourEngineImage": {
+			"url": "2023-12-04.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/iiOq58Sohf5HlWd8.png"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-12-04-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-12-05",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/12/05/the-advent-engine-5th-december-2023/",
+		"rumourEngineImage": {
+			"url": "2023-12-05.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/3mmKMWwbEOgXjkGp.png"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-12-05-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-12-06",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/12/06/the-advent-engine-6th-december-2023/",
+		"rumourEngineImage": {
+			"url": "2023-12-06.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/3wqplOyJYjeY1ITT.png"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-12-06-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-12-07",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/12/07/the-advent-engine-7th-december-2023/",
+		"rumourEngineImage": {
+			"url": "2023-12-07.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/cndFe6mxyifTpH1k.png"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-12-07-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-12-08",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/12/08/the-advent-engine-8th-december-2023/",
+		"rumourEngineImage": {
+			"url": "2023-12-08.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/4dEqrWTwiTO8PKfA.png"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-12-08-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-12-09",
+		"resolvedDate": "2023-12-25",
+		"link": "https://www.warhammer-community.com/2023/12/09/the-advent-engine-9th-december-2023/",
+		"rumourEngineImage": {
+			"url": "2023-12-09.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/wIpZlaw8aQsQbE3Q.png"
+		},
+		"miniature": {
+			"name": "Inner Circle Companions",
+			"link": "",
+			"image": {
+				"url": "2023-12-09-miniature.png",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/12/SAAASdeXoN154dO3.png"
+			}
+		},
+		"tags": ["40.000", "Space Marines", "Dark Angels"]
+	},
+	{
+		"date": "2023-12-10",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/12/10/the-advent-engine-10th-december-2023/",
+		"rumourEngineImage": {
+			"url": "2023-12-10.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/wLePl2Hn5SgdTwYV.png"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-12-10-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-12-11",
+		"resolvedDate": "2023-12-25",
+		"link": "https://www.warhammer-community.com/2023/12/11/the-advent-engine-11th-december-2023/",
+		"rumourEngineImage": {
+			"url": "2023-12-11.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/XKtFkVbJGL1Y0FeW.png"
+		},
+		"miniature": {
+			"name": "Inner Circle Companions",
+			"link": "",
+			"image": {
+				"url": "2023-12-11-miniature.png",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/12/SwHmxVKqdib3thYw.png"
+			}
+		},
+		"tags": ["40.000", "Space Marines", "Dark Angels"]
+	},
+	{
+		"date": "2023-12-12",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/12/12/the-advent-engine-12th-december-2023/",
+		"rumourEngineImage": {
+			"url": "2023-12-12.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/TtzAjRgplKpEQYYO.png"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-12-12-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-12-13",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/12/13/the-advent-engine-13th-december-2023/",
+		"rumourEngineImage": {
+			"url": "2023-12-13.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/FJBh3yINPixFNixa.png"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-12-13-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-12-14",
+		"resolvedDate": "2023-12-25",
+		"link": "https://www.warhammer-community.com/2023/12/14/the-advent-engine-14th-december-2023/",
+		"rumourEngineImage": {
+			"url": "2023-12-14.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/8EoK3ah2Kj3WVBcK.png"
+		},
+		"miniature": {
+			"name": "Belial",
+			"link": "",
+			"image": {
+				"url": "2023-12-02-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/12/MwT05OLotTxbwus7.jpg"
+			}
+		},
+		"tags": ["40.000", "Space Marines", "Dark Angels"]
+	},
+	{
+		"date": "2023-12-15",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/12/15/the-advent-engine-15th-december-2023/",
+		"rumourEngineImage": {
+			"url": "2023-12-15.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/LFMP8q7SzARbPttz.png"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-12-15-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-12-16",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/12/16/the-advent-engine-16th-december-2023/",
+		"rumourEngineImage": {
+			"url": "2023-12-16.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/Zj4fScO3QYXzdwbY.png"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-12-16-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-12-17",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/12/17/the-advent-engine-17th-december-2023/",
+		"rumourEngineImage": {
+			"url": "2023-12-17.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/Ooq2GjEM7tVDdyUO.png"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-12-17-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-12-18",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/12/18/the-advent-engine-18th-december-2023/",
+		"rumourEngineImage": {
+			"url": "2023-12-18.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/J8w2cZQ9eCzqqnyL.png"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-12-18-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-12-19",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/12/19/the-advent-engine-19th-december-2023/",
+		"rumourEngineImage": {
+			"url": "2023-12-19.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/D389zvVOqKdoClnx.png"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-12-19-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-12-20",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/12/20/the-advent-engine-20th-december-2023/",
+		"rumourEngineImage": {
+			"url": "2023-12-20.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/12/bGNtWgNuT2EauJJj.png"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-12-20-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-12-21",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/12/21/the-advent-engine-21st-december-2023/",
+		"rumourEngineImage": {
+			"url": "2023-12-21.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/xgETvPfJ87NAbmG9.png"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-12-21-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-12-22",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/12/22/the-advent-engine-22nd-december-2023/",
+		"rumourEngineImage": {
+			"url": "2023-12-22.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/gnDCFAxKXj1gXZhl.png"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-12-22-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-12-23",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2023/12/23/the-advent-engine-23rd-december-2023/",
+		"rumourEngineImage": {
+			"url": "2023-12-23.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/GXhTk72hzQYS2V2D.png"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2023-12-23-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2023-12-24",
+		"resolvedDate": "2023-12-25",
+		"link": "https://www.warhammer-community.com/2023/12/24/the-advent-engine-24th-december-2023/",
+		"rumourEngineImage": {
+			"url": "2023-12-24.png",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/LyvAB0Q749fIT50B.png"
+		},
+		"miniature": {
+			"name": "Inner Circle Companions",
+			"link": "",
+			"image": {
+				"url": "2023-12-11-miniature.png",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/12/SwHmxVKqdib3thYw.png"
+			}
+		},
+		"tags": ["40.000", "Space Marines", "Dark Angels"]
 	}
 ]
