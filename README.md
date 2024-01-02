@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2cd55708-0b0f-4814-bc86-97e2eafd8fe6/deploy-status)](https://app.netlify.com/sites/rumour-engines/deploys)
+
 # RumourEngines
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
