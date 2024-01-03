@@ -11,6 +11,8 @@ export class RumoursComponent {
 	rumourEngines: Array<RumourEngine> = [];
 
 	constructor() {
-		this.rumourEngines = Object.keys(rumourEnginesData).map(key => rumourEnginesData[Number(key)]);
+		this.rumourEngines = Object.keys(rumourEnginesData)
+			.map(key => rumourEnginesData[Number(key)])
+			.filter(value => value !== undefined);
 	}
 }
