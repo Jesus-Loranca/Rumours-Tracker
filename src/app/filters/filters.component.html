@@ -1,5 +1,5 @@
 <form class="row filters">
-	<div class="col-3">
+	<div class="col-md-3">
 			<select class="form-control" id="filterByYear" name="filterByYear" [(ngModel)]="filterByYear" (change)="onFilterByYearChange()">
 				<option value="">-</option>
 				<option value="{{ year }}" *ngFor="let year of years">{{ year }}</option>
@@ -7,7 +7,7 @@
 			<label for="filterByYear">Filter by Year</label>
 	</div>
 
-	<div class="col-3">
+	<div class="col-md-3">
 		<select class="form-control" id="filterByTag" name="filterByTag" [(ngModel)]="filterByTag" (change)="onFilterByTagChange()">
 			<option value="">-</option>
 			<option value="{{ tag }}" *ngFor="let tag of tags">{{ tag }}</option>
@@ -15,7 +15,7 @@
 		<label for="filterByTag">Filter by Tag</label>
 	</div>
 
-	<div class="col-3">
+	<div class="col-md-3">
 		<select class="form-control" id="orderBy" name="orderBy" [(ngModel)]="orderBy" (change)="onOrderByChange()">
 				<option value="oldest">Oldest First</option>
 				<option value="current">Current First</option>
@@ -23,11 +23,11 @@
 		<label for="orderBy">Order By</label>
 	</div>
 
-	<div class="col-2">
+	<div class="col-8 col-md-2">
 		<button type="button" class="btn btn-primary" (click)="triggerUnresolvedButton()">{{ unresolvedButtonText }}</button>
 	</div>
 
-	<div class="col-1">
-
+	<div class="col-4 col-md-1">
+		<button type="button" class="btn btn-primary" (click)="triggerUnresolvedButton()">Grid <i class="bi bi-grid"></i></button>
 	</div>
 </form>
