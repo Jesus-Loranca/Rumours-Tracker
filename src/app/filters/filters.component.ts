@@ -33,7 +33,7 @@ export class FiltersComponent {
 
 	triggerUnresolvedButton(): void {
 		this.unresolvedOnly = !this.unresolvedOnly;
-		this.unresolvedButtonText = !this.unresolvedOnly ? 'Unresolved Only': 'Resolved Only';
+		this.unresolvedButtonText = !this.unresolvedOnly ? 'Unresolved Only': 'All the Rumours';
 		this.unresolvedButtonEvent.emit(this.unresolvedOnly);
 	}
 
