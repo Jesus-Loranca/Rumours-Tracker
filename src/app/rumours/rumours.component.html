@@ -1,3 +1,10 @@
-<filters></filters>
+<filters
+	[years]="uniqueYears"
+	(filterByYearEvent)="filterByYearEventHandler($event)"
+	[tags]="uniqueTags"
+	(filterByTagEvent)="filterByTagEventHandler($event)"
+	(orderByEvent)="orderByEventHandler($event)"
+	(unresolvedButtonEvent)="unresolvedButtonEventHandler($event)">
+</filters>
 <vertical-timeline [rumourEngines]="rumourEngines"></vertical-timeline>
 <back-to-top></back-to-top>

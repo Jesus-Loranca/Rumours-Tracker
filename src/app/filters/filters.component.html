@@ -1,20 +1,22 @@
-<div class="row filters">
+<form class="row filters">
 	<div class="col-3">
-			<select class="form-control" id="orderBy" name="orderBy">
-				<option value="descending">Descending</option>
+			<select class="form-control" id="filterByYear" name="filterByYear" [(ngModel)]="filterByYear" (change)="onFilterByYearChange()">
+				<option value="">-</option>
+				<option value="{{ year }}" *ngFor="let year of years">{{ year }}</option>
 			</select>
-			<label for="filterBy">Filter by Date</label>
+			<label for="filterByYear">Filter by Year</label>
 	</div>
 
 	<div class="col-3">
-		<select class="form-control" id="orderBy" name="orderBy">
-			<option value="descending">Descending</option>
+		<select class="form-control" id="filterByTag" name="filterByTag" [(ngModel)]="filterByTag" (change)="onFilterByTagChange()">
+			<option value="">-</option>
+			<option value="{{ tag }}" *ngFor="let tag of tags">{{ tag }}</option>
 		</select>
-		<label for="filterBy">Filter by Tag</label>
+		<label for="filterByTag">Filter by Tag</label>
 	</div>
 
 	<div class="col-3">
-		<select class="form-control" id="orderBy" name="orderBy">
+		<select class="form-control" id="orderBy" name="orderBy" [(ngModel)]="orderBy" (change)="onOrderByChange()">
 				<option value="oldest">Oldest First</option>
 				<option value="current">Current First</option>
 		</select>
@@ -22,10 +24,10 @@
 	</div>
 
 	<div class="col-2">
-		<button type="button" class="btn btn-primary" id="showUnresolved">Unresolved Only</button>
+		<button type="button" class="btn btn-primary" (click)="triggerUnresolvedButton()">{{ unresolvedButtonText }}</button>
 	</div>
 
 	<div class="col-1">
-			<button type="button" class="btn btn-primary scroll-btn down" id="goToLatest"><i class="bi bi-chevron-double-down"></i></button>
+			<button type="button" class="btn btn-primary scroll-btn down" (click)="scrollToBottom()"><i class="bi bi-chevron-double-down"></i></button>
 	</div>
-</div>
+</form>

@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { FormsModule } from '@angular/forms';
 import { RumoursComponent } from './rumours.component';
 import { FiltersComponent } from '../filters/filters.component';
 import { VerticalTimelineComponent } from '../vertical-timeline/vertical-timeline.component';
@@ -13,7 +14,8 @@ import { BackToTopComponent } from '../back-to-top/back-to-top.component';
     BackToTopComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+		FormsModule
   ],
 	exports: [
 		RumoursComponent
