@@ -31,13 +31,17 @@ export class VerticalTimelineComponent  {
 	}
 
 	getResolvedDate(createdString: string, resolvedString: string): string {
-		const createdgDate = new Date(createdString);
+		const createdDate = new Date(createdString);
 		const resolvedDate = new Date(resolvedString);
-		const timeDifference = resolvedDate.getTime() - createdgDate.getTime();
+		const timeDifference = resolvedDate.getTime() - createdDate.getTime();
 
-		if (!resolvedString) {
-			return '';
-		}
+		return String(Math.ceil(timeDifference / (1000 * 60 * 60 * 24)));
+	}
+
+	getUnresolvedDate(createdString: string):string {
+		const createdDate = new Date(createdString);
+		const currentDate = new Date();
+		const timeDifference = currentDate.getTime() - createdDate.getTime();
 
 		return String(Math.ceil(timeDifference / (1000 * 60 * 60 * 24)));
 	}
