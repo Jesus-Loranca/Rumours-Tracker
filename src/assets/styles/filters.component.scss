@@ -8,5 +8,12 @@
 
 	button {
 		margin-bottom: 2em;
+
+		&.disabled {
+			cursor: not-allowed;
+			pointer-events: all !important;
+			background-color: $dark-gray;
+			box-shadow: 0 3px 0 $black;
+		}
 	}
 }
