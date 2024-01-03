@@ -36,12 +36,4 @@ export class FiltersComponent {
 		this.unresolvedButtonText = !this.unresolvedOnly ? 'Unresolved Only': 'All the Rumours';
 		this.unresolvedButtonEvent.emit(this.unresolvedOnly);
 	}
-
-	scrollToBottom(): void {
-		window.scroll({
-			top: document.body.scrollHeight,
-			left: 0,
-			behavior: 'smooth'
-		});
-	}
 }

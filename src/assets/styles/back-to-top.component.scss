@@ -1,9 +1,11 @@
 .scroll-btn.up {
 	position: fixed;
+	bottom: 6em;
+	right: 2em;
+}
+
+.scroll-btn.down {
+	position: fixed;
 	bottom: 2em;
 	right: 2em;
-
-	&.show {
-		display: block;
-	}
 }
