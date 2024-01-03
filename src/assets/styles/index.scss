@@ -1,8 +1,39 @@
 @import './variables.scss';
 @import './app.component.scss';
+@import './filters.component.scss';
 @import './vertical-timeline.component.scss';
 
 body {
 	background-color: #e3e3e3 !important;
 	margin-bottom: 60px;
+
+	.btn {
+		color: $white;
+		background-color: $dark-gray;
+		border: none;
+		border-radius: 5px;
+		box-shadow: 0 3px 0 $dark-gray-hover;
+		transition: opacity 0.3s ease-in-out;
+		padding: 0.5em;
+		width: 100%;
+
+		&:hover {
+			background-color: $dark-gray-hover;
+			box-shadow: 0 3px 0 $black;
+		}
+
+		&.scroll-btn {
+			max-width: 3em;
+		}
+	}
+
+	select.form-control {
+		padding: 0.6em;
+	}
+
+	label {
+		color: $dark-gray;
+		margin: 0.5em;
+		font-size: 0.8em;
+	}
 }
