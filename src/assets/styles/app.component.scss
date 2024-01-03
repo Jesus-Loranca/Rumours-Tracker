@@ -2,4 +2,24 @@
 	h2 {
 		color: $dark-gray !important;
 	}
+
+	.donate {
+		position: absolute;
+		top: 2em;
+		right: 2em;
+		max-width: 6.5em;
+		color: $white;
+		background-color: $pal-blue;
+		box-shadow: 0 3px 0 $pay-blue;
+
+		&:hover {
+			background-color: $pay-blue;
+			box-shadow: 0 3px 0 $black;
+		}
+
+		&:focus {
+			background-color: $pal-blue !important;
+			box-shadow: 0 3px 0 $pay-blue !important;
+		}
+	}
 }
