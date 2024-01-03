@@ -1,6 +1,5 @@
-import { Component, HostListener } from '@angular/core';
+import { Component, HostListener, Input } from '@angular/core';
 import { RumourEngine } from 'src/@types/RumourEngine';
-import * as rumourEnginesData from '../../@data/rumour-engines.json';
 
 @Component({
   selector: 'vertical-timeline',
@@ -8,11 +7,7 @@ import * as rumourEnginesData from '../../@data/rumour-engines.json';
 })
 
 export class VerticalTimelineComponent  {
-	rumourEngines: Array<RumourEngine> = [];
-
-	constructor() {
-		this.rumourEngines = Object.keys(rumourEnginesData).map(key => rumourEnginesData[Number(key)]);
-	}
+	@Input() rumourEngines: Array<RumourEngine> = [];
 
 	@HostListener('window:scroll', ['$event'])
   onWindowScroll(): void {
