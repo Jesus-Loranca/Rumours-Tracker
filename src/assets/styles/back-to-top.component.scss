@@ -1,0 +1,9 @@
+.scroll-btn.up {
+	position: fixed;
+	bottom: 2em;
+	right: 2em;
+
+	&.show {
+		display: block;
+	}
+}
