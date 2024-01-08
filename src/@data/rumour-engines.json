@@ -8170,5 +8170,23 @@
 			}
 		},
 		"tags": ["40.000", "Space Marines", "Dark Angels"]
+	},
+	{
+		"date": "2024-01-08",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2024/01/08/las-vegas-open-2024-tune-in-to-the-next-warhammer-preview/",
+		"rumourEngineImage": {
+			"url": "2024-01-08.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/01/DqG9uwEP37vymJMi.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2024-01-08-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
