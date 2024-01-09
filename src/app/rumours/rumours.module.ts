@@ -4,6 +4,7 @@ import { FormsModule } from '@angular/forms';
 import { RumoursComponent } from './rumours.component';
 import { FiltersComponent } from '../filters/filters.component';
 import { VerticalTimelineComponent } from '../vertical-timeline/vertical-timeline.component';
+import { GridViewComponent } from '../grid-view/grid-view.component';
 import { BackToTopComponent } from '../back-to-top/back-to-top.component';
 
 @NgModule({
@@ -11,6 +12,7 @@ import { BackToTopComponent } from '../back-to-top/back-to-top.component';
 		RumoursComponent,
 		FiltersComponent,
     VerticalTimelineComponent,
+		GridViewComponent,
     BackToTopComponent
   ],
   imports: [
