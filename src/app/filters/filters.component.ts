@@ -12,11 +12,13 @@ export class FiltersComponent {
 	@Output() filterByTagEvent: EventEmitter<string> = new EventEmitter<string>();
 	@Output() orderByEvent: EventEmitter<string> = new EventEmitter<string>();
 	@Output() unresolvedButtonEvent: EventEmitter<boolean> = new EventEmitter<boolean>();
+	@Output() useGridViewButtonEvent: EventEmitter<boolean> = new EventEmitter<boolean>();
 
 	filterByYear: string = '';
 	filterByTag: string = '';
-	unresolvedOnly: boolean = false;
 	orderBy: string = 'oldest';
+	unresolvedOnly: boolean = false;
+	useGridView: boolean = false;
 	unresolvedButtonText: string = 'Unresolved Only';
 
 	onFilterByYearChange(): void {
@@ -34,6 +36,21 @@ export class FiltersComponent {
 	triggerUnresolvedButton(): void {
 		this.unresolvedOnly = !this.unresolvedOnly;
 		this.unresolvedButtonText = !this.unresolvedOnly ? 'Unresolved Only': 'All the Rumours';
+
+		if (!this.unresolvedOnly) {
+			this.useGridView = false;
+		}
+
 		this.unresolvedButtonEvent.emit(this.unresolvedOnly);
+		this.useGridViewButtonEvent.emit(this.useGridView);
+	}
+
+	triggerGridView(): void {
+		if (!this.unresolvedOnly) {
+			return;
+		}
+
+		this.useGridView = !this.useGridView;
+		this.useGridViewButtonEvent.emit(this.useGridView);
 	}
 }

@@ -4,7 +4,10 @@
 	[tags]="uniqueTags"
 	(filterByTagEvent)="filterByTagEventHandler($event)"
 	(orderByEvent)="orderByEventHandler($event)"
-	(unresolvedButtonEvent)="unresolvedButtonEventHandler($event)">
+	(unresolvedButtonEvent)="unresolvedButtonEventHandler($event)"
+	(useGridViewButtonEvent)="useGridViewButtonEventHandler($event)"
+>
 </filters>
-<vertical-timeline [rumourEngines]="rumourEngines"></vertical-timeline>
+<vertical-timeline [rumourEngines]="rumourEngines" *ngIf="!useGridView"></vertical-timeline>
+<grid-view> [rumourEngines]="rumourEngines" *ngIf="useGridView"</grid-view>
 <back-to-top></back-to-top>

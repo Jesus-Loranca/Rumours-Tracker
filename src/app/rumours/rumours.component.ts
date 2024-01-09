@@ -15,6 +15,7 @@ export class RumoursComponent {
 	filteredTag: string = '';
 	orderByValue: string = 'oldest';
 	unresolvedOnly: boolean = false;
+	useGridView: boolean = false;
 
 	constructor() {
 		this.getRumourEnginesData();
@@ -91,5 +92,9 @@ export class RumoursComponent {
 		if (this.orderByValue === 'current') {
 			this.flipRumoursOrder();
 		}
+	}
+
+	useGridViewButtonEventHandler(useGridView: boolean): void {
+		this.useGridView = useGridView;
 	}
 }
