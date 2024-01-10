@@ -1,0 +1,30 @@
+.grid {
+	padding: 0 3em 3em 3em;
+	background-color: $white;
+
+	.rumour-engine-dates {
+		display: inline-block;
+		font-size: 1em;
+		font-weight: 450;
+		color: $dark-gray;
+		text-decoration: none;
+		margin-bottom: 1em;
+
+		.resolved-time {
+			display: block;
+			font-size: 0.9em;
+			font-weight: 350;
+			margin: 0.5em 0;
+
+			i {
+				padding-left: 0.5em;
+				font-size: 0.8em;
+			}
+		}
+	}
+}
+
+.no-results {
+	text-align: center;
+	margin: 10em 0 30em 0;
+}

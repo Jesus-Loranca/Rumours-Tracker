@@ -1,1 +1,19 @@
-<p>grid-view works!</p>
+<div class="grid" *ngIf="rumourEngines.length > 0">
+  <div class="row">
+    <div *ngFor="let rumourEngine of rumourEngines" class="col-6 col-md-3 pt-5">
+      <div *ngIf="rumourEngine && rumourEngine.link">
+        <a href="{{ rumourEngine.link }}" target="_blank" class="rumour-engine-dates" *ngIf="!rumourEngine.resolvedDate">{{ getDetailedDate(rumourEngine.date) }}<span class="resolved-time">Pending since {{ getUnresolvedDate(rumourEngine.date) }} days<i class="bi bi-box-arrow-up-right"></i></span></a>
+
+        <img
+          class="col-12"
+          [src]="rumourEngine.rumourEngineImage.cdn"
+          (error)="handleImageError($event, rumourEngine.rumourEngineImage.url)"
+        >
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="no-results" *ngIf="rumourEngines.length == 0">
+	<h3>There's no results for the current filters</h3>
+</div>
