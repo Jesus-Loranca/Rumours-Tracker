@@ -8206,5 +8206,23 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2024-01-16",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2024/01/16/the-rumour-engine-16th-january-2024/",
+		"rumourEngineImage": {
+			"url": "2024-01-16.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/01/aC98IbVCYRnTbyfC.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2024-01-16-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
