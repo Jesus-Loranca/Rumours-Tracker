@@ -7147,21 +7147,21 @@
 	},
 	{
 		"date": "2023-04-18",
-		"resolvedDate": "",
+		"resolvedDate": "2024-01-19",
 		"link": "https://www.warhammer-community.com/2023/04/18/the-rumour-engine-18th-april-2023/",
 		"rumourEngineImage": {
 			"url": "2023-04-18.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/04/HfaHAdiNoHy1zW9e.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Mandrakes",
 			"link": "",
 			"image": {
-				"url": "2023-04-18-miniature.jpg",
-				"cdn": ""
+				"url": "2023-04-18-miniature.png",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/01/vpuRTGUczDsA74Bw.png"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Xenos Armies", "T'au Empire"]
 	},
 	{
 		"date": "2023-04-25",
@@ -7273,21 +7273,21 @@
 	},
 	{
 		"date": "2023-06-06",
-		"resolvedDate": "",
+		"resolvedDate": "2024-01-19",
 		"link": "https://www.warhammer-community.com/2023/06/06/the-rumour-engine-6th-june-2023/",
 		"rumourEngineImage": {
 			"url": "2023-06-06.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/06/HUzVP1AsIyIFaUky.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Kroot War Shaper",
 			"link": "",
 			"image": {
 				"url": "2023-06-06-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/01/19BeN1HqsJMJC6SY.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Xenos Armies", "T'au Empire"]
 	},
 	{
 		"date": "2023-06-13",
@@ -7417,21 +7417,21 @@
 	},
 	{
 		"date": "2023-08-01",
-		"resolvedDate": "",
+		"resolvedDate": "2024-01-19",
 		"link": "https://www.warhammer-community.com/2023/08/01/the-rumour-engine-1st-august-2023/",
 		"rumourEngineImage": {
 			"url": "2023-08-01.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/07/MUcryJYw2mQdxsRD.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Krootox Rampagers",
 			"link": "",
 			"image": {
-				"url": "2023-08-01-miniature.jpg",
-				"cdn": ""
+				"url": "2023-08-01-miniature.png",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/01/lQkrxTcQ4TWMPA7b.png"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Xenos Armies", "T'au Empire"]
 	},
 	{
 		"date": "2023-08-08",
@@ -7525,21 +7525,21 @@
 	},
 	{
 		"date": "2023-09-12",
-		"resolvedDate": "",
+		"resolvedDate": "2024-01-19",
 		"link": "https://www.warhammer-community.com/2023/09/12/the-rumour-engine-12th-september-2023/",
 		"rumourEngineImage": {
 			"url": "2023-09-12.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/09/Rkvwl99GzJK9292M.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Krootox Rampagers",
 			"link": "",
 			"image": {
-				"url": "2023-09-12-miniature.jpg",
-				"cdn": ""
+				"url": "2023-09-12-miniature.png",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/01/oExmw5bFY3qR3nGJ.png"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Xenos Armies", "T'au Empire"]
 	},
 	{
 		"date": "2023-09-19",
@@ -7561,39 +7561,39 @@
 	},
 	{
 		"date": "2023-09-26",
-		"resolvedDate": "",
+		"resolvedDate": "2024-01-19",
 		"link": "https://www.warhammer-community.com/2023/09/26/the-rumour-engine-26th-september-2023/",
 		"rumourEngineImage": {
 			"url": "2023-09-26.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/09/fOjtU9CYZtMieAGE.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Krootox Rider",
 			"link": "",
 			"image": {
 				"url": "2023-09-26-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/01/n5NWV5ivD9uMNfbi.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Xenos Armies", "T'au Empire"]
 	},
 	{
 		"date": "2023-10-03",
-		"resolvedDate": "",
+		"resolvedDate": "2024-01-19",
 		"link": "https://www.warhammer-community.com/2023/10/03/the-rumour-engine-3rd-october-2023/",
 		"rumourEngineImage": {
 			"url": "2023-10-03.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/10/LPYFDzt92cpfYWKv.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Krethusa the Croneseer",
 			"link": "",
 			"image": {
 				"url": "2023-10-03-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/01/JHvmB8UP8XX00vve.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Order", "Daughters of Khaine"]
 	},
 	{
 		"date": "2023-10-10",
@@ -7633,21 +7633,21 @@
 	},
 	{
 		"date": "2023-10-24",
-		"resolvedDate": "",
+		"resolvedDate": "2024-01-19",
 		"link": "https://www.warhammer-community.com/2023/10/24/the-rumour-engine-24th-october-2023/",
 		"rumourEngineImage": {
 			"url": "2023-10-24.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/10/dMIncHk9yyDVg2Bk.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Krethusa the Croneseer",
 			"link": "",
 			"image": {
-				"url": "2023-10-24-miniature.jpg",
-				"cdn": ""
+				"url": "2023-10-03-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/01/JHvmB8UP8XX00vve.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Order", "Daughters of Khaine"]
 	},
 	{
 		"date": "2023-10-31",
@@ -7741,21 +7741,21 @@
 	},
 	{
 		"date": "2023-12-01",
-		"resolvedDate": "",
+		"resolvedDate": "2024-01-19",
 		"link": "https://www.warhammer-community.com/2023/12/01/the-advent-engine-1st-december-2023/",
 		"rumourEngineImage": {
 			"url": "2023-12-01.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/WskDkUG5KUJVu4an.png"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Krethusa the Croneseer",
 			"link": "",
 			"image": {
-				"url": "2023-12-01-miniature.jpg",
-				"cdn": ""
+				"url": "2023-10-03-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/01/JHvmB8UP8XX00vve.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Order", "Daughters of Khaine"]
 	},
 	{
 		"date": "2023-12-02",
@@ -8173,21 +8173,21 @@
 	},
 	{
 		"date": "2024-01-08",
-		"resolvedDate": "",
+		"resolvedDate": "2024-01-19",
 		"link": "https://www.warhammer-community.com/2024/01/08/las-vegas-open-2024-tune-in-to-the-next-warhammer-preview/",
 		"rumourEngineImage": {
 			"url": "2024-01-08.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/01/DqG9uwEP37vymJMi.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Mistress Verentia, the Weaver of Secrets",
 			"link": "",
 			"image": {
-				"url": "2024-01-08-miniature.jpg",
-				"cdn": ""
+				"url": "2024-01-08-miniature.png",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/01/uSX11H3SAwQUa10i.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Order", "Cities of Sigmar"]
 	},
 	{
 		"date": "2024-01-09",
