@@ -8224,5 +8224,23 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2024-01-23",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2024/01/23/the-rumour-engine-23rd-january-2024/",
+		"rumourEngineImage": {
+			"url": "2024-01-23.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/01/ps1VQ3t4wIBk4oL3.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2024-01-23-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
