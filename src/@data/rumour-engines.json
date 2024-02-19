@@ -7057,21 +7057,21 @@
 	},
 	{
 		"date": "2023-03-14",
-		"resolvedDate": "",
+		"resolvedDate": "2024-02-19",
 		"link": "https://www.warhammer-community.com/2023/03/14/the-rumour-engine-14th-march-2023/",
 		"rumourEngineImage": {
 			"url": "2023-03-14.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/03/sSPpqPhdIznAuKJD.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Kroot Lone-spear",
 			"link": "",
 			"image": {
 				"url": "2023-03-14-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/02/VELyVs61QHcmnoe5.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Xenos Armies", "T'au Empire"]
 	},
 	{
 		"date": "2023-03-21",
@@ -7201,21 +7201,21 @@
 	},
 	{
 		"date": "2023-05-09",
-		"resolvedDate": "",
+		"resolvedDate": "2024-02-19",
 		"link": "https://www.warhammer-community.com/2023/05/09/the-rumour-engine-9th-of-may-2023/",
 		"rumourEngineImage": {
 			"url": "2023-05-09.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/05/Z98BP5YD0W92O8wT.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Kroot Lone-spear",
 			"link": "",
 			"image": {
-				"url": "2023-05-09-miniature.jpg",
-				"cdn": ""
+				"url": "2023-03-14-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/02/VELyVs61QHcmnoe5.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Xenos Armies", "T'au Empire"]
 	},
 	{
 		"date": "2023-05-16",
@@ -7255,21 +7255,21 @@
 	},
 	{
 		"date": "2023-05-30",
-		"resolvedDate": "",
+		"resolvedDate": "2024-02-19",
 		"link": "https://www.warhammer-community.com/2023/05/30/the-rumour-engine-30th-may-2023/",
 		"rumourEngineImage": {
 			"url": "2023-05-30.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/05/IIhDnheezEcQ54gB.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Kroot Lone-spear",
 			"link": "",
 			"image": {
-				"url": "2023-05-30-miniature.jpg",
-				"cdn": ""
+				"url": "2023-03-14-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/02/VELyVs61QHcmnoe5.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Xenos Armies", "T'au Empire"]
 	},
 	{
 		"date": "2023-06-06",
