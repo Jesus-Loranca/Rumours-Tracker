@@ -25,7 +25,13 @@
 							<h3 class="miniature-name pending">Waiting to be Revealed<i class="bi bi-stopwatch"></i></h3>
 						</div>
 
-						<a href="{{ rumourEngine.link }}" target="_blank" class="rumour-engine-dates" *ngIf="rumourEngine.resolvedDate">{{ getDetailedDate(rumourEngine.date) }}<span class="resolved-time">Solved after {{ getResolvedDate(rumourEngine.date, rumourEngine.resolvedDate) }} days</span><i class="bi bi-box-arrow-up-right"></i></a>
+						<a href="{{ rumourEngine.link }}" target="_blank" class="rumour-engine-dates" *ngIf="rumourEngine.resolvedDate">
+							<span class="published-time">{{ getDetailedDate(rumourEngine.date) }}</span><i class="bi bi-box-arrow-up-right"></i>
+						</a>
+
+						<a href="{{ rumourEngine.resolvedLink || rumourEngine.link }}" target="_blank" class="rumour-engine-dates" *ngIf="rumourEngine.resolvedDate">
+							<span class="resolved-time">Solved after {{ getResolvedDate(rumourEngine.date, rumourEngine.resolvedDate) }} days</span><i class="bi bi-box-arrow-up-right"></i>
+						</a>
 
 						<a href="{{ rumourEngine.link }}" target="_blank" class="rumour-engine-dates" *ngIf="!rumourEngine.resolvedDate">{{ getDetailedDate(rumourEngine.date) }}<span class="resolved-time">Pending since {{ getUnresolvedDate(rumourEngine.date) }} days</span><i class="bi bi-box-arrow-up-right"></i></a>
 					</div>

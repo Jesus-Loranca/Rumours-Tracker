@@ -83,11 +83,15 @@
 		}
 
 		.rumour-engine-dates {
-			display: block;
+			display: inline-block;
 			font-size: 0.9em;
 			font-weight: 450;
 			color: $dark-gray;
 			text-decoration: none;
+
+			.published-time ~ i {
+				padding-right: 5px;
+			}
 
 			.resolved-time::before {
 				font-weight: 350;
