@@ -3,6 +3,7 @@
 		"date": "2016-11-16",
 		"resolvedDate": "2017-03-15",
 		"link": "https://www.warhammer-community.com/2016/11/16/the-rumour-engine/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2016-11-16.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2016/11/FullSizeRender-366x500.jpg"
@@ -21,6 +22,7 @@
 		"date": "2016-11-23",
 		"resolvedDate": "2017-01-21",
 		"link": "https://www.warhammer-community.com/2016/11/23/the-rumour-engine-23rd-of-november/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2016-11-23.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2016/11/rumour-header.jpg"
@@ -39,6 +41,7 @@
 		"date": "2016-11-30",
 		"resolvedDate": "2017-01-07",
 		"link": "https://www.warhammer-community.com/2016/11/30/rumour-engine-november-30/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2016-11-30.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2016/11/rumour-1.jpg"
@@ -57,6 +60,7 @@
 		"date": "2016-12-07",
 		"resolvedDate": "2017-01-21",
 		"link": "https://www.warhammer-community.com/2016/12/07/rumour-engine-december-7th/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2016-12-07.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2016/12/rumour-dec7.jpg"
@@ -75,6 +79,7 @@
 		"date": "2016-12-14",
 		"resolvedDate": "2017-01-22",
 		"link": "https://www.warhammer-community.com/2016/12/14/rumour-engine-december-14th/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2016-12-14.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2016/12/Rumour-cog-image.jpg"
@@ -93,6 +98,7 @@
 		"date": "2016-12-28",
 		"resolvedDate": "2017-01-22",
 		"link": "https://www.warhammer-community.com/2016/12/28/rumour-engine-december-28th/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2016-12-28.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2016/12/2016-12-28.jpg"
@@ -111,6 +117,7 @@
 		"date": "2017-01-04",
 		"resolvedDate": "2017-03-15",
 		"link": "https://www.warhammer-community.com/2017/01/04/rumour-engine-january-4th/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-01-04.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/01/3.jpg"
@@ -129,6 +136,7 @@
 		"date": "2017-01-11",
 		"resolvedDate": "2017-02-11",
 		"link": "https://www.warhammer-community.com/2017/01/11/rumour-engine-january-11th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-01-11.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/01/rumour.jpg"
@@ -147,6 +155,7 @@
 		"date": "2017-01-18",
 		"resolvedDate": "2017-02-03",
 		"link": "https://www.warhammer-community.com/2017/01/18/rumour-engine-january-18th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-01-18.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/01/rumourcog2.jpg"
@@ -165,6 +174,7 @@
 		"date": "2017-01-25",
 		"resolvedDate": "2017-02-03",
 		"link": "https://www.warhammer-community.com/2017/01/25/rumour-engine/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-01-25.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/01/rumour-engine.jpg"
@@ -183,6 +193,7 @@
 		"date": "2017-02-01",
 		"resolvedDate": "2017-03-17",
 		"link": "https://www.warhammer-community.com/2017/02/01/rumour-engine-february-1st-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-02-01.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/01/SprueShot.jpg"
@@ -201,6 +212,7 @@
 		"date": "2017-02-08",
 		"resolvedDate": "2018-08-18",
 		"link": "https://www.warhammer-community.com/2017/02/08/rumour-engine-2/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-02-08.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/02/RumourEngine.jpg"
@@ -219,6 +231,7 @@
 		"date": "2017-02-15",
 		"resolvedDate": "2017-04-13",
 		"link": "https://www.warhammer-community.com/2017/02/15/rumour-engine-february-15th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-02-15.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/02/RumourEngine15thFeb17Content.jpg"
@@ -237,6 +250,7 @@
 		"date": "2017-02-22",
 		"resolvedDate": "2017-08-31",
 		"link": "https://www.warhammer-community.com/2017/02/22/rumour-engine-february-22nd-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-02-22.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/02/Rumour-Engine.jpg"
@@ -255,6 +269,7 @@
 		"date": "2017-03-01",
 		"resolvedDate": "2017-03-15",
 		"link": "https://www.warhammer-community.com/2017/03/01/rumour-engine-march-1st-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-03-01.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/03/RumourEngineArt1.jpg"
@@ -273,6 +288,7 @@
 		"date": "2017-03-08",
 		"resolvedDate": "2017-03-23",
 		"link": "https://www.warhammer-community.com/2017/03/08/rumour-engine-march-8th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-03-08.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/03/RumourEngineMar8Content-1.jpg"
@@ -291,6 +307,7 @@
 		"date": "2017-03-15",
 		"resolvedDate": "2017-11-03",
 		"link": "https://www.warhammer-community.com/2017/03/15/rumour-engine-march-15th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-03-15.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/03/RumourEngine15thMarContent.jpg"
@@ -309,6 +326,7 @@
 		"date": "2017-03-22",
 		"resolvedDate": "2018-02-19",
 		"link": "https://www.warhammer-community.com/2017/03/22/rumour-engine-march-22nd-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-03-22.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/03/RumourEngineMar22.jpg"
@@ -327,6 +345,7 @@
 		"date": "2017-03-29",
 		"resolvedDate": "2017-08-20",
 		"link": "https://www.warhammer-community.com/2017/03/29/rumour-engine-march-29th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-03-29.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/03/RumourEngine29Mar.jpg"
@@ -345,6 +364,7 @@
 		"date": "2017-04-05",
 		"resolvedDate": "2017-08-20",
 		"link": "https://www.warhammer-community.com/2017/04/05/rumour-engine-april-5th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-04-05.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/04/IMG_7138-e1491389391219.jpg"
@@ -363,6 +383,7 @@
 		"date": "2017-04-12",
 		"resolvedDate": "2017-08-20",
 		"link": "https://www.warhammer-community.com/2017/04/12/rumour-engine-april-12th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-04-12.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/04/RumourEngineApr12Content.jpg"
@@ -381,6 +402,7 @@
 		"date": "2017-04-19",
 		"resolvedDate": "2017-11-03",
 		"link": "https://www.warhammer-community.com/2017/04/19/rumour-engine-april-19th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-04-19.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/04/2017-04-19.jpg"
@@ -399,6 +421,7 @@
 		"date": "2017-04-26",
 		"resolvedDate": "2017-05-23",
 		"link": "https://www.warhammer-community.com/2017/04/26/rumour-engine-april-26th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-04-26.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/04/RumourEngineApril26.jpg"
@@ -417,6 +440,7 @@
 		"date": "2017-05-03",
 		"resolvedDate": "2017-05-08",
 		"link": "https://www.warhammer-community.com/2017/05/03/rumour-engine-may-3rd-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-05-03.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/05/RumourEngineMay3.jpg"
@@ -435,6 +459,7 @@
 		"date": "2017-05-10",
 		"resolvedDate": "2017-08-20",
 		"link": "https://www.warhammer-community.com/2017/05/10/rumour-engine-may-10th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-05-10.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/05/May10RumourEngine.jpg"
@@ -453,6 +478,7 @@
 		"date": "2017-05-17",
 		"resolvedDate": "2018-01-06",
 		"link": "https://www.warhammer-community.com/2017/05/17/rumour-engine-may-17th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-05-17.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/05/RumourEngineMay17.jpg"
@@ -471,6 +497,7 @@
 		"date": "2017-05-24",
 		"resolvedDate": "2018-10-16",
 		"link": "https://www.warhammer-community.com/2017/05/24/rumour-engine-may-24th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-05-24.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/05/RumourEngineMay24.jpg"
@@ -489,6 +516,7 @@
 		"date": "2017-05-31",
 		"resolvedDate": "2017-10-13",
 		"link": "https://www.warhammer-community.com/2017/05/31/rumour-engine-may-31st-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-05-31.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/05/May31RumourEngine.jpg"
@@ -507,6 +535,7 @@
 		"date": "2017-06-07",
 		"resolvedDate": "2017-10-13",
 		"link": "https://www.warhammer-community.com/2017/06/07/rumour-engine-june-7th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-06-07.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/06/June7RumourEngine.jpg"
@@ -525,6 +554,7 @@
 		"date": "2017-06-14",
 		"resolvedDate": "2017-07-23",
 		"link": "https://www.warhammer-community.com/2017/06/14/rumour-engine-june-14th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-06-14.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/06/June14RumourEngine.jpg"
@@ -543,6 +573,7 @@
 		"date": "2017-06-21",
 		"resolvedDate": "2018-06-24",
 		"link": "https://www.warhammer-community.com/2017/06/21/rumour-engine-june-21st-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-06-21.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/06/June21RumourEngine.jpg"
@@ -561,6 +592,7 @@
 		"date": "2017-06-28",
 		"resolvedDate": "2018-06-05",
 		"link": "https://www.warhammer-community.com/2017/06/28/rumour-engine-june-28th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-06-28.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/06/June28RumourEngine.jpg"
@@ -579,6 +611,7 @@
 		"date": "2017-07-05",
 		"resolvedDate": "2017-11-05",
 		"link": "https://www.warhammer-community.com/2017/07/05/rumour-engine-5th-july-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-07-05.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/07/July5RumourEngine.jpg"
@@ -597,6 +630,7 @@
 		"date": "2017-07-12",
 		"resolvedDate": "2017-11-05",
 		"link": "https://www.warhammer-community.com/2017/07/12/rumour-engine-july-12th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-07-12.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/07/RumourEngine_July12.jpg"
@@ -615,6 +649,7 @@
 		"date": "2017-07-19",
 		"resolvedDate": "2017-11-05",
 		"link": "https://www.warhammer-community.com/2017/07/19/rumour-engine-july-19th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-07-19.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/07/RumourEngineJuly19.jpg"
@@ -633,6 +668,7 @@
 		"date": "2017-07-26",
 		"resolvedDate": "2017-11-05",
 		"link": "https://www.warhammer-community.com/2017/07/26/rumour-engine-july-26th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-07-26.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/07/July26RumourEngine.jpg"
@@ -651,6 +687,7 @@
 		"date": "2017-08-02",
 		"resolvedDate": "2017-09-03",
 		"link": "https://www.warhammer-community.com/2017/08/02/rumour-engine-august-2nd-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-08-02.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/08/Aug2_RumourEngine6sbA.jpg"
@@ -669,6 +706,7 @@
 		"date": "2017-08-09",
 		"resolvedDate": "2017-09-11",
 		"link": "https://www.warhammer-community.com/2017/08/09/rumour-engine-august-9th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-08-09.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/08/Aug9RumourEngine.jpg"
@@ -687,6 +725,7 @@
 		"date": "2017-08-16",
 		"resolvedDate": "2017-09-03",
 		"link": "https://www.warhammer-community.com/2017/08/16/rumour-engine-august-16th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-08-16.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/08/RumourEngine-Aug16gr.jpg"
@@ -705,6 +744,7 @@
 		"date": "2017-08-23",
 		"resolvedDate": "2018-08-30",
 		"link": "https://www.warhammer-community.com/2017/08/23/rumour-engine-august-23rd-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-08-23.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/08/RumourEngine_Content.jpg"
@@ -723,6 +763,7 @@
 		"date": "2017-08-29",
 		"resolvedDate": "2017-12-31",
 		"link": "https://www.warhammer-community.com/2017/08/29/rumour-engine-august-29th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-08-29.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/08/RumourEngine-Aug29-320x320.jpg"
@@ -741,6 +782,7 @@
 		"date": "2017-09-05",
 		"resolvedDate": "2018-05-06",
 		"link": "https://www.warhammer-community.com/2017/09/05/rumour-engine-september-5th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-09-05.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/09/RumourEngine_Content.jpg"
@@ -759,6 +801,7 @@
 		"date": "2017-09-12",
 		"resolvedDate": "2017-12-31",
 		"link": "https://www.warhammer-community.com/2017/09/12/rumour-engine-september-12th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-09-12.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/09/RumourEngine-Sep12hrvs.jpg"
@@ -777,6 +820,7 @@
 		"date": "2017-09-19",
 		"resolvedDate": "2018-04-12",
 		"link": "https://www.warhammer-community.com/2017/09/19/the-rumour-engine-september-19th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-09-19.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/09/RumourEngine-Sep191jd.jpg"
@@ -795,6 +839,7 @@
 		"date": "2017-09-26",
 		"resolvedDate": "2018-01-17",
 		"link": "https://www.warhammer-community.com/2017/09/26/the-rumour-engine-september-26th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-09-26.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/09/RumerEngine_Sep26.jpg"
@@ -813,6 +858,7 @@
 		"date": "2017-10-03",
 		"resolvedDate": "2017-11-11",
 		"link": "https://www.warhammer-community.com/2017/10/03/the-rumour-engine-october-3rd-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-10-03.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/10/Oct3-RumourEngine2kf.jpg"
@@ -831,6 +877,7 @@
 		"date": "2017-10-10",
 		"resolvedDate": "2018-01-17",
 		"link": "https://www.warhammer-community.com/2017/10/10/the-rumour-engine-october-10th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-10-10.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/10/RumourEngine-Oct10.jpg"
@@ -849,6 +896,7 @@
 		"date": "2017-10-17",
 		"resolvedDate": "2018-08-30",
 		"link": "https://www.warhammer-community.com/2017/10/17/the-rumour-engine-october-17th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-10-17.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/10/RumourEngine-Oct17.jpg"
@@ -867,6 +915,7 @@
 		"date": "2017-10-24",
 		"resolvedDate": "2018-02-19",
 		"link": "https://www.warhammer-community.com/2017/10/24/the-rumour-engine-october-24th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-10-24.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/10/RumourEngineOct24.jpg"
@@ -885,6 +934,7 @@
 		"date": "2017-10-31",
 		"resolvedDate": "2018-02-19",
 		"link": "https://www.warhammer-community.com/2017/10/31/the-rumour-engine-october-31st-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-10-31.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/10/RumourEngine-Oct31.jpg"
@@ -903,6 +953,7 @@
 		"date": "2017-11-07",
 		"resolvedDate": "2018-08-30",
 		"link": "https://www.warhammer-community.com/2017/11/07/rumour-engine-7th-november-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-11-07.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/11/RumourEngine-Nov7.jpg"
@@ -921,6 +972,7 @@
 		"date": "2017-11-14",
 		"resolvedDate": "2018-04-10",
 		"link": "https://www.warhammer-community.com/2017/11/14/rumour-engine-november-14th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-11-14.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/11/RumourEngine-Nov14hcsv.jpg"
@@ -939,6 +991,7 @@
 		"date": "2017-11-21",
 		"resolvedDate": "2018-04-11",
 		"link": "https://www.warhammer-community.com/2017/11/21/rumour-engine-november-21st-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-11-21.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/11/RumourEngine-Nov21-Image1ursv.jpg"
@@ -957,6 +1010,7 @@
 		"date": "2017-11-28",
 		"resolvedDate": "2018-01-17",
 		"link": "https://www.warhammer-community.com/2017/11/28/rumour-engine-28th-november-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-11-28.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/11/RumourEngine-Nov28mtf.jpg"
@@ -975,6 +1029,7 @@
 		"date": "2017-12-05",
 		"resolvedDate": "2018-01-18",
 		"link": "https://www.warhammer-community.com/2017/12/05/rumour-engine-5th-december-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-12-05.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/12/RumourEngine-Dec54-Content2te.jpg"
@@ -993,6 +1048,7 @@
 		"date": "2017-12-12",
 		"resolvedDate": "2018-01-17",
 		"link": "https://www.warhammer-community.com/2017/12/12/rumour-engine-december-12th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-12-12.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/12/RumourEngine-Dec12-1hex.jpg"
@@ -1011,6 +1067,7 @@
 		"date": "2017-12-19",
 		"resolvedDate": "2018-04-27",
 		"link": "https://www.warhammer-community.com/2017/12/19/rumour-engine-december-19th-2017/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2017-12-19.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/12/Dec19-RumourEngine2jre.jpg"
@@ -1029,6 +1086,7 @@
 		"date": "2018-01-02",
 		"resolvedDate": "2018-06-24",
 		"link": "https://www.warhammer-community.com/2018/01/02/rumour-engine-january-2nd-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-01-02.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/12/Jan2-RumourEngine1yrcls.jpg"
@@ -1047,6 +1105,7 @@
 		"date": "2018-01-09 ",
 		"resolvedDate": "2018-04-09",
 		"link": "https://www.warhammer-community.com/2018/01/09/rumour-engine-january-9th-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-01-09.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/01/RumourEngine-Jan9jw.jpg"
@@ -1065,6 +1124,7 @@
 		"date": "2018-01-16",
 		"resolvedDate": "2018-04-09",
 		"link": "https://www.warhammer-community.com/2018/01/16/rumour-engine-january-16th-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-01-16.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/01/RumourEngine-Jan16-1urs.jpg"
@@ -1083,6 +1143,7 @@
 		"date": "2018-01-23",
 		"resolvedDate": "2018-06-05",
 		"link": "https://www.warhammer-community.com/2018/01/23/rumour-engine-23rd-january-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-01-23.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/01/Jan23-RumourEngine1ud.jpg"
@@ -1101,6 +1162,7 @@
 		"date": "2018-01-30",
 		"resolvedDate": "2018-06-05",
 		"link": "https://www.warhammer-community.com/2018/01/30/rumour-engine-30th-january-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-01-30.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/01/Jan30-RumourEngine1yc.jpg"
@@ -1119,6 +1181,7 @@
 		"date": "2018-02-06",
 		"resolvedDate": "2018-06-05",
 		"link": "https://www.warhammer-community.com/2018/02/06/rumour-engine-6th-february-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-02-06.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/02/Feb6-RumourEngine1wnd.jpg"
@@ -1137,6 +1200,7 @@
 		"date": "2018-02-13",
 		"resolvedDate": "2018-07-05",
 		"link": "https://www.warhammer-community.com/2018/02/13/rumour-engine-13th-february-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-02-13.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/02/Feb13-RumourEngine2kes.jpg"
@@ -1155,6 +1219,7 @@
 		"date": "2018-02-20",
 		"resolvedDate": "2018-04-28",
 		"link": "https://www.warhammer-community.com/2018/02/20/rumour-engine-february-20th-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-02-20.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/02/Feb20-RumourEngine1tvg.jpg"
@@ -1173,6 +1238,7 @@
 		"date": "2018-02-27",
 		"resolvedDate": "2018-04-28",
 		"link": "https://www.warhammer-community.com/2018/02/27/rumour-engine-february-27th-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-02-27.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/02/Feb27-RumourEngine1ud.jpg"
@@ -1191,6 +1257,7 @@
 		"date": "2018-03-06",
 		"resolvedDate": "2018-07-05",
 		"link": "https://www.warhammer-community.com/2018/03/06/the-rumour-engine-march-6th-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-03-06.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/03/Mar6-RumourEngine1hs.jpg"
@@ -1209,6 +1276,7 @@
 		"date": "2018-03-13",
 		"resolvedDate": "2018-06-02",
 		"link": "https://www.warhammer-community.com/2018/03/13/the-rumour-engine-march-13th-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-03-13.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/03/Mar13-RumourEngine1vcs.jpg"
@@ -1227,6 +1295,7 @@
 		"date": "2018-03-20",
 		"resolvedDate": "2018-06-02",
 		"link": "https://www.warhammer-community.com/2018/03/20/the-rumour-engine-march-20th-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-03-20.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/03/Mar20-RumourEngine2jcs.jpg"
@@ -1245,6 +1314,7 @@
 		"date": "2018-03-27",
 		"resolvedDate": "2018-03-26",
 		"link": "https://www.warhammer-community.com/2018/03/27/the-rumour-engine-march-27th-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-03-27.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/03/Mar27-RumourEngine1tecvd.jpg"
@@ -1263,6 +1333,7 @@
 		"date": "2018-04-03",
 		"resolvedDate": "2018-12-27",
 		"link": "https://www.warhammer-community.com/2018/04/03/the-rumour-engine-april-3rd-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-04-03.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/03/Apr3-RumourEngine2rlv.jpg"
@@ -1281,6 +1352,7 @@
 		"date": "2018-04-10",
 		"resolvedDate": "2018-08-08",
 		"link": "https://www.warhammer-community.com/2018/04/10/the-rumour-engine-april-10th-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-04-10.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/04/Apr10-RumourEngine15hw.jpg"
@@ -1299,6 +1371,7 @@
 		"date": "2018-04-17",
 		"resolvedDate": "2018-08-08",
 		"link": "https://www.warhammer-community.com/2018/04/17/the-rumour-engine-april-17th-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-04-17.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/04/Apr17-RumourEngine3kfe.jpg"
@@ -1317,6 +1390,7 @@
 		"date": "2018-04-24",
 		"resolvedDate": "2018-12-27",
 		"link": "https://www.warhammer-community.com/2018/04/24/the-rumour-engine-april-24th-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-04-24.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/04/Apr24-RumourEngine1ch.jpg"
@@ -1335,6 +1409,7 @@
 		"date": "2018-05-01",
 		"resolvedDate": "2018-12-27",
 		"link": "https://www.warhammer-community.com/2018/05/01/the-rumour-engine-may-1st-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-05-01.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/04/May1-RumourEngine1yecvds.jpg"
@@ -1353,6 +1428,7 @@
 		"date": "2018-05-08",
 		"resolvedDate": "2018-12-27",
 		"link": "https://www.warhammer-community.com/2018/05/08/rumour-engine-may-8th-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-05-08.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/05/May8-RumourEngine1oc.jpg"
@@ -1371,6 +1447,7 @@
 		"date": "2018-05-15",
 		"resolvedDate": "2019-02-28",
 		"link": "https://www.warhammer-community.com/2018/05/15/rumour-engine-may-8th-2018-2/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-05-15.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/05/May15-RumourEngine4vbgk.jpg"
@@ -1389,6 +1466,7 @@
 		"date": "2018-05-22",
 		"resolvedDate": "2018-11-05",
 		"link": "https://www.warhammer-community.com/2018/05/22/rumour-engine-may-22nd-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-05-22.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/05/May22-RumourEngine1nvdvs.jpg"
@@ -1407,6 +1485,7 @@
 		"date": "2018-05-29",
 		"resolvedDate": "2018-10-26",
 		"link": "https://www.warhammer-community.com/2018/05/29/rumour-engine-may-29th-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-05-29.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/05/May29-RumourEngine1jcd.jpg"
@@ -1425,6 +1504,7 @@
 		"date": "2018-06-05",
 		"resolvedDate": "2019-01-07",
 		"link": "https://www.warhammer-community.com/2018/06/05/rumour-engine-june-5th-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-06-05.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/06/June5-RumourEngine1ugx.jpg"
@@ -1443,6 +1523,7 @@
 		"date": "2018-06-12",
 		"resolvedDate": "2019-01-16",
 		"link": "https://www.warhammer-community.com/2018/06/12/rumour-engine-june-12th-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-06-12.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/06/June12-RumourEngine1ug.jpg"
@@ -1461,6 +1542,7 @@
 		"date": "2018-06-19",
 		"resolvedDate": "2019-01-16",
 		"link": "https://www.warhammer-community.com/2018/06/19/rumour-engine-june-19th-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-06-19.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/06/June18-RumourEngine1yegh.jpg"
@@ -1479,6 +1561,7 @@
 		"date": "2018-06-26",
 		"resolvedDate": "2018-10-18",
 		"link": "https://www.warhammer-community.com/2018/06/26/the-rumour-engine-26th-june-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-06-26.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/06/June26-RumourEngine1ydg.jpg"
@@ -1497,6 +1580,7 @@
 		"date": "2018-07-03",
 		"resolvedDate": "2018-11-05",
 		"link": "https://www.warhammer-community.com/2018/07/03/the-rumour-engine-3rd-july-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-07-03.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/07/July3-RumourEngine1ycl.jpg"
@@ -1515,6 +1599,7 @@
 		"date": "2018-07-10",
 		"resolvedDate": "2019-04-17",
 		"link": "https://www.warhammer-community.com/2018/07/10/the-rumour-engine-10th-july-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-07-10.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/07/July10-RumourEngine3hrx.jpg"
@@ -1533,6 +1618,7 @@
 		"date": "2018-07-17",
 		"resolvedDate": "2019-03-28",
 		"link": "https://www.warhammer-community.com/2018/07/17/the-rumour-engine-17th-july-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-07-17.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/07/July17-RumourEngine20ge.jpg"
@@ -1551,6 +1637,7 @@
 		"date": "2018-07-24",
 		"resolvedDate": "2019-03-28",
 		"link": "https://www.warhammer-community.com/2018/07/24/the-rumour-engine-24th-july-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-07-24.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/07/July24-RumourEngine6qdo.jpg"
@@ -1569,6 +1656,7 @@
 		"date": "2018-07-31",
 		"resolvedDate": "2019-03-28",
 		"link": "https://www.warhammer-community.com/2018/07/31/the-rumour-engine-31st-july-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-07-31.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/07/July31-RumourEngine8hex.jpg"
@@ -1587,6 +1675,7 @@
 		"date": "2018-08-07",
 		"resolvedDate": "2019-01-07",
 		"link": "https://www.warhammer-community.com/2018/08/07/the-rumour-engine-7th-aug-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-08-07.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/08/Aug7-RumourEngine6hvr.jpg"
@@ -1605,6 +1694,7 @@
 		"date": "2018-08-14",
 		"resolvedDate": "2019-01-07",
 		"link": "https://www.warhammer-community.com/2018/08/14/the-rumour-engine-14th-august-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-08-14.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/08/Aug14-RumourEngine3ihan.jpg"
@@ -1623,6 +1713,7 @@
 		"date": "2018-08-21",
 		"resolvedDate": "2019-05-02",
 		"link": "https://www.warhammer-community.com/2018/08/21/the-rumour-engine-21st-august-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-08-21.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/08/Aug21-RumourEngine.jpg"
@@ -1641,6 +1732,7 @@
 		"date": "2018-08-28",
 		"resolvedDate": "2019-03-24",
 		"link": "https://www.warhammer-community.com/2018/08/28/the-rumour-engine-24th-aug-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-08-28.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/08/Aug28-RumourEngine-2qs.jpg"
@@ -1659,6 +1751,7 @@
 		"date": "2018-09-04",
 		"resolvedDate": "2019-05-12",
 		"link": "https://www.warhammer-community.com/2018/09/04/the-rumour-engine-4th-september-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-09-04.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/09/Sep4-RumourEngine.jpg"
@@ -1677,6 +1770,7 @@
 		"date": "2018-09-09",
 		"resolvedDate": "2019-08-06",
 		"link": "https://www.warhammer-community.com/2018/09/11/the-rumour-engine-11th-sept-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-09-09.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/09/Sep11-RumourEngine3jvf.jpg"
@@ -1695,6 +1789,7 @@
 		"date": "2018-09-18",
 		"resolvedDate": "2019-08-01",
 		"link": "https://www.warhammer-community.com/2018/09/18/the-rumour-engine-18th-september-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-09-18.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/09/Sep18-RumourEngine1hvdg.jpg"
@@ -1713,6 +1808,7 @@
 		"date": "2018-09-25",
 		"resolvedDate": "2019-11-02",
 		"link": "https://www.warhammer-community.com/2018/09/25/the-rumour-engine-25th-september-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-09-25.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/09/Sep25-RumourEngine8gr.jpg"
@@ -1731,6 +1827,7 @@
 		"date": "2018-10-02",
 		"resolvedDate": "2019-03-05",
 		"link": "https://www.warhammer-community.com/2018/10/02/rumour-engine-2nd-october-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-10-02.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/10/Oct2-RumourEngine5hx.jpg"
@@ -1749,6 +1846,7 @@
 		"date": "2018-10-09",
 		"resolvedDate": "2019-02-08",
 		"link": "https://www.warhammer-community.com/2018/10/09/the-rumour-engine-tuesday-9th-october/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-10-09.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/10/Oct9-RumourEngine3jvfr.jpg"
@@ -1767,6 +1865,7 @@
 		"date": "2018-10-16",
 		"resolvedDate": "2019-06-02",
 		"link": "https://www.warhammer-community.com/2018/10/16/the-rumour-engine-tuesday-16th-october/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-10-16.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/10/Oct16-RumourEngine4jjv.jpg"
@@ -1785,6 +1884,7 @@
 		"date": "2018-10-23",
 		"resolvedDate": "2019-02-15",
 		"link": "https://www.warhammer-community.com/2018/10/23/the-rumour-engine-tuesday-23rd-october/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-10-23.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/10/Oct23-RumourEngine95gbir.jpg"
@@ -1803,6 +1903,7 @@
 		"date": "2018-10-30",
 		"resolvedDate": "2019-08-29",
 		"link": "https://www.warhammer-community.com/2018/10/30/the-rumour-engine-tuesday-30th-october/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-10-30.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/10/Oct30-RumourEngine26gfev.jpg"
@@ -1821,6 +1922,7 @@
 		"date": "2018-11-06",
 		"resolvedDate": "2019-02-15",
 		"link": "https://www.warhammer-community.com/2018/11/06/the-rumour-engine-tuesday-6th-november/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-11-06.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/11/Nov6-RumourEngine53hvr.jpg"
@@ -1839,6 +1941,7 @@
 		"date": "2018-11-13",
 		"resolvedDate": "2019-03-08",
 		"link": "https://www.warhammer-community.com/2018/11/13/the-rumour-engine-tuesday-13th-november/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-11-13.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/11/Nov13-RumourEngine6vehsbheh.jpg"
@@ -1857,6 +1960,7 @@
 		"date": "2018-11-20",
 		"resolvedDate": "2018-11-25",
 		"link": "https://www.warhammer-community.com/2018/11/20/the-rumour-engine-tuesday-20th-november/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-11-20.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/11/Nov20-RumourEngine5jvfewh.jpg"
@@ -1875,6 +1979,7 @@
 		"date": "2018-11-27",
 		"resolvedDate": "2019-03-24",
 		"link": "https://www.warhammer-community.com/2018/11/27/the-rumour-engine-tuesday-27th-november/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-11-27.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/11/Nov27-RumourEngine9hjberh.jpg"
@@ -1893,6 +1998,7 @@
 		"date": "2018-12-04",
 		"resolvedDate": "2019-10-13",
 		"link": "https://www.warhammer-community.com/2018/12/04/the-rumour-engine-4th-december-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-12-04.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/12/Dec4-RumourEngine5jvferh.jpg"
@@ -1911,6 +2017,7 @@
 		"date": "2018-12-11",
 		"resolvedDate": "2019-10-13",
 		"link": "https://www.warhammer-community.com/2018/12/11/the-rumour-engine-11th-december-2018/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-12-11.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/12/Dec11-RumourEngine2jvfrhn.jpg"
@@ -1929,6 +2036,7 @@
 		"date": "2018-12-18",
 		"resolvedDate": "2019-08-18",
 		"link": "https://www.warhammer-community.com/2018/12/18/the-rumour-engine-11th-december-2018-2/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2018-12-18.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2018/12/Dec18-RumourEngine8bterh.jpg"
@@ -1947,6 +2055,7 @@
 		"date": "2019-01-08",
 		"resolvedDate": "2019-10-13",
 		"link": "https://www.warhammer-community.com/2019/01/08/the-rumour-engine-8th-january-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-01-08.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/01/Jan8-RumourEngine9bgrnd.jpg"
@@ -1965,6 +2074,7 @@
 		"date": "2019-01-15",
 		"resolvedDate": "2019-04-28",
 		"link": "https://www.warhammer-community.com/2019/01/15/the-rumour-engine-15th-january-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-01-15.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/01/Jan15-RumourEngine3jhvfhg.jpg"
@@ -1983,6 +2093,7 @@
 		"date": "2019-01-22",
 		"resolvedDate": "2019-08-18",
 		"link": "https://www.warhammer-community.com/2019/01/22/the-rumour-engine-15th-january-2019-2/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-01-22.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/01/Jan22-RumourEngine7vrhrc.jpg"
@@ -2001,6 +2112,7 @@
 		"date": "2019-01-29",
 		"resolvedDate": "2019-03-28",
 		"link": "https://www.warhammer-community.com/2019/01/29/the-rumour-engine-29th-january-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-01-29.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/01/Jan29-RumourEngine8ebfgx.jpg"
@@ -2019,6 +2131,7 @@
 		"date": "2019-02-05",
 		"resolvedDate": "2019-03-28",
 		"link": "https://www.warhammer-community.com/2019/02/05/the-rumour-engine-5th-february-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-02-05.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/02/Feb5-RumourEngine7hjvfbfr.jpg"
@@ -2037,6 +2150,7 @@
 		"date": "2019-02-12",
 		"resolvedDate": "2019-03-11",
 		"link": "https://www.warhammer-community.com/2019/02/12/the-rumour-daemon-engine/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-02-12.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/02/DaemonEngine1-Feb12-Image2irrh.jpg"
@@ -2055,6 +2169,7 @@
 		"date": "2019-02-13",
 		"resolvedDate": "2019-03-11",
 		"link": "https://www.warhammer-community.com/2019/02/13/the-daemon-engine-13th-february-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-02-13.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/02/DaemonEngine2-Feb13-Image1hvrgxc.jpg"
@@ -2073,6 +2188,7 @@
 		"date": "2019-02-14",
 		"resolvedDate": "2019-03-03",
 		"link": "https://www.warhammer-community.com/2019/02/14/the-daemon-engine-14th-february-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-02-14.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/02/DaemonEngine3-Feb14-Image1uwvhmz.jpg"
@@ -2091,6 +2207,7 @@
 		"date": "2019-02-15",
 		"resolvedDate": "2019-03-24",
 		"link": "https://www.warhammer-community.com/2019/02/15/the-daemon-engine-15th-february-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-02-15.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/02/DaemonEngine4-Feb15-Image4juvdfax.jpg"
@@ -2109,6 +2226,7 @@
 		"date": "2019-02-16",
 		"resolvedDate": "2019-03-18",
 		"link": "https://www.warhammer-community.com/2019/02/16/the-daemon-engine-16th-february-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-02-16.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/02/DaemonEngine5-Feb16-Imageqqivdn.jpg"
@@ -2127,6 +2245,7 @@
 		"date": "2019-02-17",
 		"resolvedDate": "2019-03-13",
 		"link": "https://www.warhammer-community.com/2019/02/17/the-daemon-engine-17th-february-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-02-17.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/02/DaemonEngine6-Fab17mmfcd-Images.jpg"
@@ -2145,6 +2264,7 @@
 		"date": "2019-02-18",
 		"resolvedDate": "2019-03-13",
 		"link": "https://www.warhammer-community.com/2019/02/18/the-daemon-engine-18th-february-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-02-18.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/02/DaemonEngine7-Fab18-Imagerehnvdg.jpg"
@@ -2163,6 +2283,7 @@
 		"date": "2019-02-19",
 		"resolvedDate": "2019-03-19",
 		"link": "https://www.warhammer-community.com/2019/02/19/the-daemon-engine-19th-february-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-02-19.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/02/DaemonEngine8-Feb19-Image1uvrcs.jpg"
@@ -2181,6 +2302,7 @@
 		"date": "2019-02-20",
 		"resolvedDate": "2019-03-19",
 		"link": "https://www.warhammer-community.com/2019/02/20/the-daemon-engine-20th-february-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-02-20.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/02/DaemonEngine9-Feb20-Image7hgvrj.jpg"
@@ -2199,6 +2321,7 @@
 		"date": "2019-02-21",
 		"resolvedDate": "2019-03-24",
 		"link": "https://www.warhammer-community.com/2019/02/21/the-daemon-engine-21st-february-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-02-21.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/02/DaemonEngine10-Feb21-Image2rcjbr.jpg"
@@ -2217,6 +2340,7 @@
 		"date": "2019-02-22",
 		"resolvedDate": "2019-03-03",
 		"link": "https://www.warhammer-community.com/2019/02/22/the-daemon-engine-22th-february-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-02-22.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/02/DaemonEngine11-Feb22-Image73jvbrhmy.jpg"
@@ -2235,6 +2359,7 @@
 		"date": "2019-02-23",
 		"resolvedDate": "2019-03-24",
 		"link": "https://www.warhammer-community.com/2019/02/23/the-daemon-engine-23rd-february-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-02-23.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/02/DaemonEngine12-Feb23-Image9jnnnnr.jpg"
@@ -2253,6 +2378,7 @@
 		"date": "2019-02-24",
 		"resolvedDate": "2019-03-17",
 		"link": "https://www.warhammer-community.com/2019/02/24/the-daemon-engine-24th-february-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-02-24.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/02/DaemonEngine13-Feb24-Image3hvegs.jpg"
@@ -2271,6 +2397,7 @@
 		"date": "2019-02-25",
 		"resolvedDate": "2019-03-24",
 		"link": "https://www.warhammer-community.com/2019/02/25/the-daemon-engine-25th-february-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-02-25.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/02/DaemonEngine14-Feb25-Image2unklh.jpg"
@@ -2289,6 +2416,7 @@
 		"date": "2019-02-26",
 		"resolvedDate": "2019-03-24",
 		"link": "https://www.warhammer-community.com/2019/02/26/the-daemon-engine-26th-february-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-02-26.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/02/DaemonEngine15-Feb26-Image8vjkwklc.jpg"
@@ -2307,6 +2435,7 @@
 		"date": "2019-02-27",
 		"resolvedDate": "2019-03-24",
 		"link": "https://www.warhammer-community.com/2019/02/27/the-daemon-engine-27th-february-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-02-27.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/02/DaemonEngine16-Feb27-Image2urrrr.jpg"
@@ -2325,6 +2454,7 @@
 		"date": "2019-02-28",
 		"resolvedDate": "2019-03-13",
 		"link": "https://www.warhammer-community.com/2019/02/28/the-daemon-engine-28th-february-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-02-28.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/02/DaemonEngine17-Feb28-Image0wwjvfrgh.jpg"
@@ -2343,6 +2473,7 @@
 		"date": "2019-03-01",
 		"resolvedDate": "2019-03-24",
 		"link": "https://www.warhammer-community.com/2019/03/01/the-daemon-engine-1st-march-2019-2/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-03-01.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/03/DaemonEngine18-Mar1-Image1aaskvgr.jpg"
@@ -2361,6 +2492,7 @@
 		"date": "2019-03-05",
 		"resolvedDate": "2019-04-21",
 		"link": "https://www.warhammer-community.com/2019/03/05/the-rumour-engine-5th-march-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-03-05.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/03/RumourEngine-Mar5-Image20tveg.jpg"
@@ -2379,6 +2511,7 @@
 		"date": "2019-03-12",
 		"resolvedDate": "2019-04-29",
 		"link": "https://www.warhammer-community.com/2019/03/12/the-rumour-engine-12th-march-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-03-12.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/03/RumourEngine-Mar12-Content1teg.jpg"
@@ -2397,6 +2530,7 @@
 		"date": "2019-03-19",
 		"resolvedDate": "2019-05-12",
 		"link": "https://www.warhammer-community.com/2019/03/19/the-rumour-engine-19th-march-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-03-19.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/03/RumourEngine-Mar19-Conten1hcvet.jpg"
@@ -2415,6 +2549,7 @@
 		"date": "2019-03-26",
 		"resolvedDate": "2019-08-01",
 		"link": "https://www.warhammer-community.com/2019/03/26/the-rumour-engine-4th-december-2018-2/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-03-26.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/03/RumourEngine-Mar26-Content.2ivdhfwf.jpg"
@@ -2433,6 +2568,7 @@
 		"date": "2019-04-02",
 		"resolvedDate": "2019-12-08",
 		"link": "https://www.warhammer-community.com/2019/04/02/the-rumour-engine-2nd-april-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-04-02.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/04/RumourEngine-Apr2-Content3ivhrs.jpg"
@@ -2451,6 +2587,7 @@
 		"date": "2019-04-09",
 		"resolvedDate": "2019-10-27",
 		"link": "https://www.warhammer-community.com/2019/04/09/the-rumour-engine-tuesday-9th-april/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-04-09.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/04/RumourEngine-Apr9-Content2vrd.jpg"
@@ -2469,6 +2606,7 @@
 		"date": "2019-04-16",
 		"resolvedDate": "2020-04-18",
 		"link": "https://www.warhammer-community.com/2019/04/16/the-rumour-engine-tuesday-16th-april/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-04-16.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/04/RumourEngine-Apr16-Content2ujcds.jpg"
@@ -2487,6 +2625,7 @@
 		"date": "2019-04-23",
 		"resolvedDate": "2019-10-07",
 		"link": "https://www.warhammer-community.com/2019/04/23/the-rumour-engine-23rd-april-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-04-23.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/04/RumourEngine-Apr23-Content2jjvr.jpg"
@@ -2505,6 +2644,7 @@
 		"date": "2019-04-30",
 		"resolvedDate": "2019-11-02",
 		"link": "https://www.warhammer-community.com/2019/04/30/the-rumour-engine-29th-april-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-04-30.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/04/RumourEngine-Apr30-Content2ohch.jpg"
@@ -2523,6 +2663,7 @@
 		"date": "2019-05-07",
 		"resolvedDate": "2019-10-27",
 		"link": "https://www.warhammer-community.com/2019/05/07/the-rumour-engine-7th-may-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-05-07.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/05/RumourEngine-May7-Content2jce.jpg"
@@ -2541,6 +2682,7 @@
 		"date": "2019-05-14",
 		"resolvedDate": "2020-06-13",
 		"link": "https://www.warhammer-community.com/2019/05/14/the-rumour-engine-14th-may-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-05-14.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/05/RumourEngine-May14-Content2ys.jpg"
@@ -2559,6 +2701,7 @@
 		"date": "2019-05-21",
 		"resolvedDate": "2020-01-24",
 		"link": "https://www.warhammer-community.com/2019/05/21/the-rumour-engine-21st-may-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-05-21.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/05/RumourEngine-May21-Content2ujcs.jpg"
@@ -2577,6 +2720,7 @@
 		"date": "2019-05-28",
 		"resolvedDate": "2020-02-13",
 		"link": "https://www.warhammer-community.com/2019/05/28/the-rumour-engine-28th-may-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-05-28.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/05/RumourEngine-May28-Content2am-1.jpg"
@@ -2595,6 +2739,7 @@
 		"date": "2019-06-04",
 		"resolvedDate": "2019-09-30",
 		"link": "https://www.warhammer-community.com/2019/06/04/the-rumour-engine-4th-june-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-06-04.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/06/RumourEngine-June4-Content1ukd.jpg"
@@ -2613,6 +2758,7 @@
 		"date": "2019-06-11",
 		"resolvedDate": "2019-07-20",
 		"link": "https://www.warhammer-community.com/2019/06/11/the-rumour-engine-11th-june-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-06-11.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/06/RumourEngine-Jun11-Content2ijf.jpg"
@@ -2631,6 +2777,7 @@
 		"date": "2019-06-18",
 		"resolvedDate": "2020-06-13",
 		"link": "https://www.warhammer-community.com/2019/06/18/the-rumour-engine-18th-june-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-06-18.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/06/RumourEngine-Jun18-Content2it.jpg"
@@ -2649,6 +2796,7 @@
 		"date": "2019-06-25",
 		"resolvedDate": "2019-11-02",
 		"link": "https://www.warhammer-community.com/2019/06/25/the-rumour-engine-25th-june-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-06-25.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/06/RumourEngine-Jun25-Content2pe.jpg"
@@ -2667,6 +2815,7 @@
 		"date": "2019-07-02",
 		"resolvedDate": "2019-11-02",
 		"link": "https://www.warhammer-community.com/2019/07/02/the-rumour-engine-july-2nd-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-07-02.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/07/RumourEngine-Jul2-Content2hhsw.jpg"
@@ -2685,6 +2834,7 @@
 		"date": "2019-07-09",
 		"resolvedDate": "2019-10-21",
 		"link": "https://www.warhammer-community.com/2019/07/09/the-rumour-engine-july-9th-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-07-09.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/07/RumourEngine-Jul9-Image2ooc.jpg"
@@ -2703,6 +2853,7 @@
 		"date": "2019-07-16",
 		"resolvedDate": "2019-10-13",
 		"link": "https://www.warhammer-community.com/2019/07/16/the-rumour-engine-july-16th-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-07-16.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/07/RumourEngine-Jul16-Image2jnxsw.jpg"
@@ -2721,6 +2872,7 @@
 		"date": "2019-07-23",
 		"resolvedDate": "2019-10-29",
 		"link": "https://www.warhammer-community.com/2019/07/23/the-rumour-engine-july-23rd-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-07-23.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/07/RumourEngine-Jul23-Image2jnceh.jpg"
@@ -2739,6 +2891,7 @@
 		"date": "2019-07-30",
 		"resolvedDate": "2020-08-22",
 		"link": "https://www.warhammer-community.com/2019/07/30/the-rumour-engine-july-30th-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-07-30.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/07/RumourEngine-Jul30-Image2hhcef.jpg"
@@ -2757,6 +2910,7 @@
 		"date": "2019-08-06",
 		"resolvedDate": "2020-01-04",
 		"link": "https://www.warhammer-community.com/2019/08/06/the-rumour-engine-august-6th-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-08-06.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/08/RumourEngine-Aug6-Content2jvhwg.jpg"
@@ -2775,6 +2929,7 @@
 		"date": "2019-08-13",
 		"resolvedDate": "2019-11-02",
 		"link": "https://www.warhammer-community.com/2019/08/13/the-rumour-engine-august-13th-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-08-13.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/08/RumourEngine-Aug13-Image2ujbjrhd.jpg"
@@ -2793,6 +2948,7 @@
 		"date": "2019-08-20",
 		"resolvedDate": "2019-11-02",
 		"link": "https://www.warhammer-community.com/2019/08/20/the-rumour-engine-august-20th-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-08-20.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/08/RumourEngine-Aug20-Image2ijvh.jpg"
@@ -2811,6 +2967,7 @@
 		"date": "2019-08-27",
 		"resolvedDate": "2020-01-03",
 		"link": "https://www.warhammer-community.com/2019/08/27/the-rumour-engine-august-27th-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-08-27.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/08/RumourEngine-Aug27-Content2ujs.jpg"
@@ -2829,6 +2986,7 @@
 		"date": "2019-09-03",
 		"resolvedDate": "2020-08-22",
 		"link": "https://www.warhammer-community.com/2019/09/03/the-rumour-engine-september-3rd-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-09-03.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/09/RumourEngine-Sep3-Content2wks.jpg"
@@ -2847,6 +3005,7 @@
 		"date": "2019-09-10",
 		"resolvedDate": "2020-04-18",
 		"link": "https://www.warhammer-community.com/2019/09/10/the-rumour-engine-september-10th-2019gw-homepage-post-2/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-09-10.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/09/RumourEngine-Sep10-Image2jhd.jpg"
@@ -2865,6 +3024,7 @@
 		"date": "2019-09-17",
 		"resolvedDate": "2020-08-22",
 		"link": "https://www.warhammer-community.com/2019/09/17/the-rumour-engine-september-17th-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-09-17.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/09/RumourEngine-Sep17-Image2kjvhhrj.jpg"
@@ -2883,6 +3043,7 @@
 		"date": "2019-09-23",
 		"resolvedDate": "2020-08-22",
 		"link": "https://www.warhammer-community.com/2019/09/24/the-rumour-engine-september-24th-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-09-23.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/09/RumourEngine-Sep24-Image2ojkbjkh.jpg"
@@ -2901,6 +3062,7 @@
 		"date": "2019-10-01",
 		"resolvedDate": "2020-03-28",
 		"link": "https://www.warhammer-community.com/2019/10/01/the-rumour-engine-october-1st-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-10-01.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/10/RumourEngine-Oct1-Content2imcvgs.jpg"
@@ -2919,6 +3081,7 @@
 		"date": "2019-10-08",
 		"resolvedDate": "2019-12-03",
 		"link": "https://www.warhammer-community.com/2019/10/08/the-rumour-engine-october-8th-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-10-08.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/10/RumourEngine-Oct8-Conten2ijcgat.jpg"
@@ -2937,6 +3100,7 @@
 		"date": "2019-10-15",
 		"resolvedDate": "2020-03-10",
 		"link": "https://www.warhammer-community.com/2019/10/15/the-rumour-engine-october-15th-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-10-15.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/10/RumourEngine-Oct15-Content937jfvghsah.jpg"
@@ -2955,6 +3119,7 @@
 		"date": "2019-10-22",
 		"resolvedDate": "2020-05-14",
 		"link": "https://www.warhammer-community.com/2019/10/22/the-rumour-engine-october-22nd-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-10-22.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/10/RumourEngine-Oct22-Content209cmhfgw.jpg"
@@ -2973,6 +3138,7 @@
 		"date": "2019-10-29",
 		"resolvedDate": "2020-03-10",
 		"link": "https://www.warhammer-community.com/2019/10/29/the-rumour-engine-october-29th-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-10-29.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/10/RumourEngine-Oct29-Content3iujvgh.jpg"
@@ -2991,6 +3157,7 @@
 		"date": "2019-11-05",
 		"resolvedDate": "2020-01-24",
 		"link": "https://www.warhammer-community.com/2019/11/05/the-rumour-engine-november-5th-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-11-05.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/10/RumourEngine-Nov5-Content6hvbbs.jpg"
@@ -3009,6 +3176,7 @@
 		"date": "2019-11-12",
 		"resolvedDate": "2020-03-28",
 		"link": "https://www.warhammer-community.com/2019/11/12/the-rumour-engine-november-12th-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-11-12.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/11/RumourEngine-Nov12-Content2jnvgs.jpg"
@@ -3027,6 +3195,7 @@
 		"date": "2019-11-19",
 		"resolvedDate": "2020-04-18",
 		"link": "https://www.warhammer-community.com/2019/11/19/the-rumour-engine-november-19th-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-11-19.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/11/c38e2c12.jpg"
@@ -3045,6 +3214,7 @@
 		"date": "2019-11-26",
 		"resolvedDate": "2020-04-18",
 		"link": "https://www.warhammer-community.com/2019/11/26/the-rumour-engine-november-26th-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-11-26.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/11/703d42b2.jpg"
@@ -3063,6 +3233,7 @@
 		"date": "2019-12-03",
 		"resolvedDate": "2020-01-24",
 		"link": "https://www.warhammer-community.com/2019/12/03/the-rumour-engine-december-3rd-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-12-03.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/12/446a005e.jpg"
@@ -3081,6 +3252,7 @@
 		"date": "2019-12-10",
 		"resolvedDate": "2020-01-24",
 		"link": "https://www.warhammer-community.com/2019/12/10/the-rumour-engine-december-10th-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-12-10.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/12/8abc5984.jpg"
@@ -3099,6 +3271,7 @@
 		"date": "2019-12-17",
 		"resolvedDate": "2020-04-18",
 		"link": "https://www.warhammer-community.com/2019/12/17/the-rumour-engine-december-17th-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-12-17.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/12/4f9a1cf2.jpg"
@@ -3117,6 +3290,7 @@
 		"date": "2019-12-24",
 		"resolvedDate": "2020-12-13",
 		"link": "https://www.warhammer-community.com/2019/12/24/the-rumour-engine-december-24th-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-12-24.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/12/d92d496f.jpg"
@@ -3135,6 +3309,7 @@
 		"date": "2019-12-31",
 		"resolvedDate": "2020-01-24",
 		"link": "https://www.warhammer-community.com/2019/12/31/the-rumour-engine-december-31st-2019/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2019-12-31.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/12/5fe55893.jpg"
@@ -3153,6 +3328,7 @@
 		"date": "2020-01-07",
 		"resolvedDate": "2020-04-28",
 		"link": "https://www.warhammer-community.com/2020/01/07/the-rumour-engine-january-7th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-01-07.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/12/5d9856c2.jpg"
@@ -3171,6 +3347,7 @@
 		"date": "2020-01-14",
 		"resolvedDate": "2020-10-05",
 		"link": "https://www.warhammer-community.com/2020/01/14/the-rumour-engine-january-14th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-01-14.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2019/12/ae198b66.jpg"
@@ -3189,6 +3366,7 @@
 		"date": "2020-01-21",
 		"resolvedDate": "2020-01-24",
 		"link": "https://www.warhammer-community.com/2020/01/21/the-rumour-engine-january-21st-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-01-21.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/01/aff8de95.jpg"
@@ -3207,6 +3385,7 @@
 		"date": "2020-01-28",
 		"resolvedDate": "2020-04-18",
 		"link": "https://www.warhammer-community.com/2020/01/28/the-rumour-engine-january-28th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-01-28.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/01/23d72f91.jpg"
@@ -3225,6 +3404,7 @@
 		"date": "2020-02-04",
 		"resolvedDate": "2020-03-28",
 		"link": "https://www.warhammer-community.com/2020/02/04/the-rumour-engine-february-4th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-02-04.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/02/c3bb5445.jpg"
@@ -3243,6 +3423,7 @@
 		"date": "2020-02-11",
 		"resolvedDate": "2020-03-28",
 		"link": "https://www.warhammer-community.com/2020/02/11/the-rumour-engine-february-11th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-02-11.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/02/1e8232b9.jpg"
@@ -3261,6 +3442,7 @@
 		"date": "2020-02-18",
 		"resolvedDate": "2021-05-21",
 		"link": "https://www.warhammer-community.com/2020/02/18/the-rumour-engine-february-18th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-02-18.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/02/d48edd43.jpg"
@@ -3279,6 +3461,7 @@
 		"date": "2020-02-25",
 		"resolvedDate": "2020-03-01",
 		"link": "https://www.warhammer-community.com/2020/02/25/the-rumour-engine-february-25th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-02-25.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/02/f7517218.jpg"
@@ -3297,6 +3480,7 @@
 		"date": "2020-03-03",
 		"resolvedDate": "2020-12-25",
 		"link": "https://www.warhammer-community.com/2020/03/03/the-rumour-engine-march-3rd-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-03-03.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/03/00e3c3a6.jpg"
@@ -3315,6 +3499,7 @@
 		"date": "2020-03-10",
 		"resolvedDate": "2021-03-20",
 		"link": "https://www.warhammer-community.com/2020/03/10/the-rumour-engine-march-10th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-03-10.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/03/bc975d2d.jpg"
@@ -3333,6 +3518,7 @@
 		"date": "2020-03-17",
 		"resolvedDate": "2022-08-14",
 		"link": "https://www.warhammer-community.com/2020/03/17/the-rumour-engine-march-17th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-03-17.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/03/af5c3c88.jpg"
@@ -3351,6 +3537,7 @@
 		"date": "2020-03-24",
 		"resolvedDate": "2020-12-08",
 		"link": "https://www.warhammer-community.com/2020/03/24/the-rumour-engine-march-24th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-03-24.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/03/cedbc0b8.jpg"
@@ -3369,6 +3556,7 @@
 		"date": "2020-03-31",
 		"resolvedDate": "2021-03-16",
 		"link": "https://www.warhammer-community.com/2020/03/31/the-rumour-engine-march-31st-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-03-31.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/03/1bffc617.jpg"
@@ -3387,6 +3575,7 @@
 		"date": "2020-04-07",
 		"resolvedDate": "2022-12-12",
 		"link": "https://www.warhammer-community.com/2020/04/07/the-rumour-engine-april-7th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-04-07.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/04/_j1K3-Olb_U1~4Ox.jpg"
@@ -3405,6 +3594,7 @@
 		"date": "2020-04-14",
 		"resolvedDate": "2021-02-20",
 		"link": "https://www.warhammer-community.com/2020/04/14/the-rumour-engine-april-14th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-04-14.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/04/J_h62-ZiS5t~5~Zs.jpg"
@@ -3423,6 +3613,7 @@
 		"date": "2020-04-21",
 		"resolvedDate": "2021-05-06",
 		"link": "https://www.warhammer-community.com/2020/04/21/the-rumour-engine-april-21st-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-04-21.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/04/Hu~6N-5zf~Z77G~c.jpg"
@@ -3441,6 +3632,7 @@
 		"date": "2020-04-28",
 		"resolvedDate": "2020-11-27",
 		"link": "https://www.warhammer-community.com/2020/04/28/the-rumour-engine-april-28th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-04-28.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/04/W3~x6zX~~y6E-Wq6.jpg"
@@ -3459,6 +3651,7 @@
 		"date": "2020-05-05",
 		"resolvedDate": "2022-12-12",
 		"link": "https://www.warhammer-community.com/2020/05/05/the-rumour-engine-may-5th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-05-05.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/05/5w-B0s_E9_jKD_5n.jpg"
@@ -3477,6 +3670,7 @@
 		"date": "2020-05-12",
 		"resolvedDate": "2022-08-14",
 		"link": "https://www.warhammer-community.com/2020/05/12/the-rumour-engine-may-12th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-05-12.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/05/E_5a9iU~9z~SCw4_.jpg"
@@ -3495,6 +3689,7 @@
 		"date": "2020-05-19",
 		"resolvedDate": "2021-01-23",
 		"link": "https://www.warhammer-community.com/2020/05/19/the-rumour-engine-may-19th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-05-19.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/05/7N_mRu~6e_2DO3-w.jpg"
@@ -3513,6 +3708,7 @@
 		"date": "2020-05-26",
 		"resolvedDate": "2020-10-17",
 		"link": "https://www.warhammer-community.com/2020/05/26/the-rumour-engine-may-26th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-05-26.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/05/N4tZ8qqE79SdyA41.jpg"
@@ -3531,6 +3727,7 @@
 		"date": "2020-06-02",
 		"resolvedDate": "2020-07-01",
 		"link": "https://www.warhammer-community.com/2020/06/02/the-rumour-engine-june-2nd-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-06-02.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/06/0bDEs5aJ3Is8Y4js.jpg"
@@ -3549,6 +3746,7 @@
 		"date": "2020-06-09",
 		"resolvedDate": "2020-09-12",
 		"link": "https://www.warhammer-community.com/2020/06/09/the-rumour-engine-june-9th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-06-09.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/06/7Ao6zA9nAEa48Ee6.jpg"
@@ -3567,6 +3765,7 @@
 		"date": "2020-06-16",
 		"resolvedDate": "2021-03-20",
 		"link": "https://www.warhammer-community.com/2020/06/16/the-rumour-engine-june-16th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-06-16.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/06/aA1bM3h5FM8wCn9p.jpg"
@@ -3585,6 +3784,7 @@
 		"date": "2020-06-23",
 		"resolvedDate": "2020-09-12",
 		"link": "https://www.warhammer-community.com/2020/06/23/the-rumour-engine-june-23rd-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-06-23.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/06/T8yj5WB7mKg15Peq.jpg"
@@ -3603,6 +3803,7 @@
 		"date": "2020-06-30",
 		"resolvedDate": "2020-12-25",
 		"link": "https://www.warhammer-community.com/2020/06/30/the-rumour-engine-june-30th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-06-30.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/06/U2nl7XQ0z6dPg5N8.jpg"
@@ -3621,6 +3822,7 @@
 		"date": "2020-07-07",
 		"resolvedDate": "2020-09-12",
 		"link": "https://www.warhammer-community.com/2020/07/07/the-rumour-engine-july-7th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-07-07.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/07/M8w8tEdK1M4tCn51.jpg"
@@ -3639,6 +3841,7 @@
 		"date": "2020-07-14",
 		"resolvedDate": "2020-12-25",
 		"link": "https://www.warhammer-community.com/2020/07/14/the-rumour-engine-july-14th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-07-14.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/07/Dw8Me1oP2K2e4eK8.jpg"
@@ -3657,6 +3860,7 @@
 		"date": "2020-07-21",
 		"resolvedDate": "2021-03-20",
 		"link": "https://www.warhammer-community.com/2020/07/21/the-rumour-engine-july-21st-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-07-21.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/07/67aZUQNxEsBYVWzx.jpg"
@@ -3675,6 +3879,7 @@
 		"date": "2020-07-28",
 		"resolvedDate": "2021-02-20",
 		"link": "https://www.warhammer-community.com/2020/07/28/the-rumour-engine-july-28th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-07-28.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/07/NTcFzSni6dik4Jdh.jpg"
@@ -3693,6 +3898,7 @@
 		"date": "2020-08-04",
 		"resolvedDate": "2021-02-04",
 		"link": "https://www.warhammer-community.com/2020/08/04/the-rumour-engine-august-4th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-08-04.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/08/4WmLy8MEtTom1b3n.jpg"
@@ -3711,6 +3917,7 @@
 		"date": "2020-08-11",
 		"resolvedDate": "2021-07-10",
 		"link": "https://www.warhammer-community.com/2020/08/11/the-rumour-engine-august-11th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-08-11.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/08/BZLx3gsoiDYdu9V7.jpg"
@@ -3729,6 +3936,7 @@
 		"date": "2020-08-18",
 		"resolvedDate": "2021-02-20",
 		"link": "https://www.warhammer-community.com/2020/08/18/the-rumour-engine-august-18th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-08-18.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/08/QBB5oixTGBAZRwWx.jpg"
@@ -3747,6 +3955,7 @@
 		"date": "2020-08-25",
 		"resolvedDate": "2021-02-20",
 		"link": "https://www.warhammer-community.com/2020/08/25/the-rumour-engine-august-25th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-08-25.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/08/rF8Kt8jiEzi7OoYq.jpg"
@@ -3765,6 +3974,7 @@
 		"date": "2020-09-01",
 		"resolvedDate": "2021-07-10",
 		"link": "https://www.warhammer-community.com/2020/09/01/the-rumour-engine-september-01st-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-09-01.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/09/oUkLlH1g83tOuDGV.jpg"
@@ -3783,6 +3993,7 @@
 		"date": "2020-09-08",
 		"resolvedDate": "2021-01-20",
 		"link": "https://www.warhammer-community.com/2020/09/08/the-rumour-engine-september-8th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-09-08.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/09/pbhCYcjuqM8QRPGn.jpg"
@@ -3801,6 +4012,7 @@
 		"date": "2020-09-15",
 		"resolvedDate": "2021-01-23",
 		"link": "https://www.warhammer-community.com/2020/09/15/the-rumour-engine-september-15th-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-09-15.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/09/bNZOmeaHekov7KJc.jpg"
@@ -3819,6 +4031,7 @@
 		"date": "2020-09-22",
 		"resolvedDate": "2021-02-20",
 		"link": "https://www.warhammer-community.com/2020/09/22/the-rumour-engine-september-22nd-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-09-22.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/09/BHTsiI0YIB1e3ijf.jpg"
@@ -3837,6 +4050,7 @@
 		"date": "2020-09-29",
 		"resolvedDate": "2022-01-03",
 		"link": "https://www.warhammer-community.com/2020/09/29/the-rumour-engine-29th-september-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-09-29.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/09/3cFQi54T0s1meNNN.jpg"
@@ -3855,6 +4069,7 @@
 		"date": "2020-10-06",
 		"resolvedDate": "2021-03-08",
 		"link": "https://www.warhammer-community.com/2020/10/06/the-rumour-engine-6th-october-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-10-06.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/10/hoSRKpuYQmiNhCSx.jpg"
@@ -3873,6 +4088,7 @@
 		"date": "2020-10-12",
 		"resolvedDate": "2020-10-17",
 		"link": "https://www.warhammer-community.com/2020/10/12/get-ready-for-gridiron-and-glory/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-10-12.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/10/aKZhSul2nIq6qWx7.jpg"
@@ -3891,6 +4107,7 @@
 		"date": "2020-10-13",
 		"resolvedDate": "2021-04-25",
 		"link": "https://www.warhammer-community.com/2020/10/13/the-rumour-engine-13th-october-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-10-13.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/10/NIKPYZTQzFeEXiB7.jpg"
@@ -3909,6 +4126,7 @@
 		"date": "2020-10-20",
 		"resolvedDate": "2021-03-08",
 		"link": "https://www.warhammer-community.com/2020/10/20/the-rumour-engine-20th-october-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-10-20.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/10/m2p3xW8YJ5koyt7d.jpg"
@@ -3927,6 +4145,7 @@
 		"date": "2020-10-27",
 		"resolvedDate": "2022-01-03",
 		"link": "https://www.warhammer-community.com/2020/10/27/the-rumour-engine-27th-october-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-10-27.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/10/UxJUwpeevOL9x50w.jpg"
@@ -3945,6 +4164,7 @@
 		"date": "2020-11-03",
 		"resolvedDate": "2021-05-29",
 		"link": "https://www.warhammer-community.com/2020/11/03/the-rumour-engine-3rd-november-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-11-03.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/11/F2zitEYXAApKuiD6.jpg"
@@ -3963,6 +4183,7 @@
 		"date": "2020-11-10",
 		"resolvedDate": "2021-05-29",
 		"link": "https://www.warhammer-community.com/2020/11/10/the-rumour-engine-10th-november-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-11-10.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/11/Kc0rTgtbu1nsATvh.jpg"
@@ -3981,6 +4202,7 @@
 		"date": "2020-11-17",
 		"resolvedDate": "2021-05-29",
 		"link": "https://www.warhammer-community.com/2020/11/17/the-rumour-engine-17th-november-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-11-17.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/11/03ELPFPURy9LTqfo.jpg"
@@ -3999,6 +4221,7 @@
 		"date": "2020-11-23",
 		"resolvedDate": "2020-12-10",
 		"link": "https://www.warhammer-community.com/2020/11/23/meet-blood-bowl-pitchside-report/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-11-23.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/11/NKBHPEwS8oguozRx.jpg"
@@ -4017,6 +4240,7 @@
 		"date": "2020-11-24",
 		"resolvedDate": "2021-02-20",
 		"link": "https://www.warhammer-community.com/2020/11/24/the-rumour-engine-24th-november-2020/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-11-24.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/11/tLnQ0eEQAODiyU7e.jpg"
@@ -4035,6 +4259,7 @@
 		"date": "2020-12-01",
 		"resolvedDate": "2021-01-23",
 		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-12-01.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/KujeXqGuN65UCBV7.png"
@@ -4053,6 +4278,7 @@
 		"date": "2020-12-02",
 		"resolvedDate": "2021-05-04",
 		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-12-02.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/McuVfwUUd2pPp1xH.png"
@@ -4071,6 +4297,7 @@
 		"date": "2020-12-03",
 		"resolvedDate": "2021-01-01",
 		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-12-03.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/x1u6i0nfiZMvh7j0.png"
@@ -4089,6 +4316,7 @@
 		"date": "2020-12-04",
 		"resolvedDate": "2021-01-01",
 		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-12-04.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/BQ1eUvR2Kmsieery.png"
@@ -4107,6 +4335,7 @@
 		"date": "2020-12-05",
 		"resolvedDate": "2020-11-21",
 		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-12-05.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/mPBpwHAJWBMd4QCe.png"
@@ -4125,6 +4354,7 @@
 		"date": "2020-12-06",
 		"resolvedDate": "2021-02-20",
 		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-12-06.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/bB2Q2dgzwt2bceaQ.png"
@@ -4143,6 +4373,7 @@
 		"date": "2020-12-07",
 		"resolvedDate": "2021-03-29",
 		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-12-07.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/caANPSITHO9JwBKN.png"
@@ -4161,6 +4392,7 @@
 		"date": "2020-12-08",
 		"resolvedDate": "2022-01-03",
 		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-12-08.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/o7rA5uuyECnoY1F0.png"
@@ -4179,6 +4411,7 @@
 		"date": "2020-12-09",
 		"resolvedDate": "2021-05-29",
 		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-12-09.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/P9Gx88daha5B5sbQ.jpg"
@@ -4197,6 +4430,7 @@
 		"date": "2020-12-10",
 		"resolvedDate": "2021-07-03",
 		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-12-10.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/EMeqXqg21qSmavom.jpg"
@@ -4215,6 +4449,7 @@
 		"date": "2020-12-10",
 		"resolvedDate": "2021-01-14",
 		"link": "https://www.warhammer-community.com/2020/12/10/blood-bowl-pitchside-report-skrull-halfheight-revealed/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-12-10b.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/5ZLrgwiylQNAxnrr.jpg"
@@ -4233,6 +4468,7 @@
 		"date": "2020-12-11",
 		"resolvedDate": "2021-05-07",
 		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-12-11.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/OWRJhtZ5xqTfBhjo.png"
@@ -4251,6 +4487,7 @@
 		"date": "2020-12-12",
 		"resolvedDate": "2021-02-20",
 		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-12-12.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/HhRVPCpjv4J0yngc.png"
@@ -4269,6 +4506,7 @@
 		"date": "2020-12-13",
 		"resolvedDate": "2022-01-03",
 		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-12-13.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/M0hYVIqWZvnIbr9e.png"
@@ -4287,6 +4525,7 @@
 		"date": "2020-12-14",
 		"resolvedDate": "2021-05-04",
 		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-12-14.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/qtONWjEqCxsWH1nL.png"
@@ -4305,6 +4544,7 @@
 		"date": "2020-12-15",
 		"resolvedDate": "2021-02-20",
 		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-12-15.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/P9QSqDfH6J22Lp3z.png"
@@ -4323,6 +4563,7 @@
 		"date": "2020-12-16",
 		"resolvedDate": "2021-03-20",
 		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-12-16.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/t9uToTCAdaG7CrzS.png"
@@ -4341,6 +4582,7 @@
 		"date": "2020-12-17",
 		"resolvedDate": "2021-03-20",
 		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-12-17.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/XKTQV2F5gGZoCGUM.png"
@@ -4359,6 +4601,7 @@
 		"date": "2020-12-18",
 		"resolvedDate": "2021-05-04",
 		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-12-18.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/ykR4UwqVNAUapvWI.png"
@@ -4377,6 +4620,7 @@
 		"date": "2020-12-19",
 		"resolvedDate": "2021-01-23",
 		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-12-19.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/D54SPptOyW27hPKX.png"
@@ -4395,6 +4639,7 @@
 		"date": "2020-12-20",
 		"resolvedDate": "2021-04-12",
 		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-12-20.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/NOKyMg7KtwsGQ8MZ.png"
@@ -4413,6 +4658,7 @@
 		"date": "2020-12-21",
 		"resolvedDate": "2021-05-04",
 		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-12-21.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/Fkq38S25TzSAxf6I.png"
@@ -4431,6 +4677,7 @@
 		"date": "2020-12-22",
 		"resolvedDate": "2021-03-20",
 		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-12-22.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/ndwCD0COwQVDevNX.png"
@@ -4449,6 +4696,7 @@
 		"date": "2020-12-23",
 		"resolvedDate": "2021-03-20",
 		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-12-23.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/CQ823zP4BiVMbkso.png"
@@ -4467,6 +4715,7 @@
 		"date": "2020-12-24",
 		"resolvedDate": "2021-05-04",
 		"link": "https://www.warhammer-community.com/2020/12/24/the-advent-rumour-engine-24-days-of-warhammer-sneak-peeks/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2020-12-24.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2020/12/JLOpCFf29CeO3KbR.png"
@@ -4485,6 +4734,7 @@
 		"date": "2021-01-05",
 		"resolvedDate": "2021-05-07",
 		"link": "https://www.warhammer-community.com/2021/01/05/the-rumour-engine-5th-january-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-01-05.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/01/PoPxKwMslqp0zlRh.jpg"
@@ -4503,6 +4753,7 @@
 		"date": "2021-01-12",
 		"resolvedDate": "2021-05-03",
 		"link": "https://www.warhammer-community.com/2021/01/12/the-rumour-engine-12th-january-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-01-12.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/01/EpibC2wdbcgskUwJ.jpg"
@@ -4521,6 +4772,7 @@
 		"date": "2021-01-18",
 		"resolvedDate": "2021-01-23",
 		"link": "https://www.warhammer-community.com/2021/01/18/prepare-for-big-reveals-in-the-next-warhammer-preview-online/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-01-18.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/01/TF1SITvLXqOAECY7.jpg"
@@ -4539,6 +4791,7 @@
 		"date": "2021-01-19",
 		"resolvedDate": "2021-05-29",
 		"link": "https://www.warhammer-community.com/2021/01/19/the-rumour-engine-19th-january-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-01-19.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/01/m8aDWplazJCIzvot.jpg"
@@ -4557,6 +4810,7 @@
 		"date": "2021-01-26",
 		"resolvedDate": "2022-03-08",
 		"link": "https://www.warhammer-community.com/2021/01/26/the-rumour-engine-26th-january-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-01-26.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/01/idOGIwrPQE3rzgKW.jpg"
@@ -4575,6 +4829,7 @@
 		"date": "2021-02-02",
 		"resolvedDate": "2021-05-03",
 		"link": "https://www.warhammer-community.com/2021/02/02/the-rumour-engine-2nd-february-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-02-02.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/02/uoF64bS7RKCprRDb.jpg"
@@ -4593,6 +4848,7 @@
 		"date": "2021-02-09",
 		"resolvedDate": "2021-05-29",
 		"link": "https://www.warhammer-community.com/2021/02/09/the-rumour-engine-9th-february-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-02-09.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/02/DzuhKLq4OW2LszIf.jpg"
@@ -4611,6 +4867,7 @@
 		"date": "2021-02-12",
 		"resolvedDate": "2021-03-20",
 		"link": "https://www.warhammer-community.com/2021/02/12/underhive-informant-the-firebombers-setting-necromunda-ablaze/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-02-12.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/02/5WguPZiv5aEJctbE.jpg"
@@ -4629,6 +4886,7 @@
 		"date": "2021-02-16",
 		"resolvedDate": "2022-03-24",
 		"link": "https://www.warhammer-community.com/2021/02/16/the-rumour-engine-16th-february-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-02-16.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/02/o5TFgMX7MrDUmlqr.jpg"
@@ -4647,6 +4905,7 @@
 		"date": "2021-02-23",
 		"resolvedDate": "2022-05-06",
 		"link": "https://www.warhammer-community.com/2021/02/23/the-rumour-engine-23rd-february-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-02-23.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/02/7EefOS9RhfUVh6bb-395x500.jpg"
@@ -4665,6 +4924,7 @@
 		"date": "2021-03-02",
 		"resolvedDate": "2021-07-10",
 		"link": "https://www.warhammer-community.com/2021/03/02/the-rumour-engine-2nd-march-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-03-02.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/03/A7nOWIeAkLcev1pA.jpg"
@@ -4683,6 +4943,7 @@
 		"date": "2021-03-09",
 		"resolvedDate": "2022-05-06",
 		"link": "https://www.warhammer-community.com/2021/03/09/the-rumour-engine-9th-march-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-03-09.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/03/ouQxf96fVBAWlAMh.jpg"
@@ -4701,6 +4962,7 @@
 		"date": "2021-03-16",
 		"resolvedDate": "2021-07-10",
 		"link": "https://www.warhammer-community.com/2021/03/16/the-rumour-engine-16th-march-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-03-16.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/03/pkeRg7baOwnpSKk6.jpg"
@@ -4719,6 +4981,7 @@
 		"date": "2021-03-23",
 		"resolvedDate": "2022-03-24",
 		"link": "https://www.warhammer-community.com/2021/03/23/the-rumour-engine-23rd-march-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-03-23.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/03/m18yw3pbetlxZxMK.jpg"
@@ -4737,6 +5000,7 @@
 		"date": "2021-03-30",
 		"resolvedDate": "2022-05-06",
 		"link": "https://www.warhammer-community.com/2021/03/30/the-rumour-engine-30th-march-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-03-30.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/03/SimziYrauuODjDMZ.jpg"
@@ -4755,6 +5019,7 @@
 		"date": "2021-04-06",
 		"resolvedDate": "2022-01-28",
 		"link": "https://www.warhammer-community.com/2021/04/06/the-rumour-engine-6th-april-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-04-06.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/04/EXyIHGIQAo0mLz9S.jpg"
@@ -4773,6 +5038,7 @@
 		"date": "2021-04-13",
 		"resolvedDate": "2021-10-30",
 		"link": "https://www.warhammer-community.com/2021/04/13/the-rumour-engine-13th-april-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-04-13.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/04/vZ5rohmupeaFBUK0.jpg"
@@ -4791,6 +5057,7 @@
 		"date": "2021-04-20",
 		"resolvedDate": "2021-12-25",
 		"link": "https://www.warhammer-community.com/2021/04/20/the-rumour-engine-20th-april-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-04-20.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/04/0MwHN6iRJnAIzq98.jpg"
@@ -4809,6 +5076,7 @@
 		"date": "2021-04-27",
 		"resolvedDate": "2022-06-27",
 		"link": "https://www.warhammer-community.com/2021/04/27/the-rumour-engine-27th-april-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-04-27.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/04/JTeqcR7wNfPSSv6U.jpg"
@@ -4827,6 +5095,7 @@
 		"date": "2021-05-04",
 		"resolvedDate": "2021-10-30",
 		"link": "https://www.warhammer-community.com/2021/05/04/the-rumour-engine-4th-may-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-05-04.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/GbLQcrcEoTV9ExQ2.jpg"
@@ -4845,6 +5114,7 @@
 		"date": "2021-05-11",
 		"resolvedDate": "2022-09-01",
 		"link": "https://www.warhammer-community.com/2021/05/11/the-rumour-engine-11th-may-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-05-11.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/IBR6dWhsmH88cqBC.jpg"
@@ -4863,6 +5133,7 @@
 		"date": "2021-05-18",
 		"resolvedDate": "2021-05-29",
 		"link": "https://www.warhammer-community.com/2021/05/18/the-rumour-engine-visions-of-beasts-part-1/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-05-18.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/KnnrX3omJPa8nOyS.jpg"
@@ -4881,6 +5152,7 @@
 		"date": "2021-05-19",
 		"resolvedDate": "2021-05-29",
 		"link": "https://www.warhammer-community.com/2021/05/19/the-rumour-engine-visions-of-beasts-part-2/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-05-19.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/aug9GKse2ZzRikIT.jpg"
@@ -4899,6 +5171,7 @@
 		"date": "2021-05-20",
 		"resolvedDate": "2021-05-29",
 		"link": "https://www.warhammer-community.com/2021/05/20/the-rumour-engine-visions-of-beasts-part-3/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-05-20.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/bbn5ZPf5BKIadStY.jpg"
@@ -4917,6 +5190,7 @@
 		"date": "2021-05-21",
 		"resolvedDate": "2021-05-29",
 		"link": "https://www.warhammer-community.com/2021/05/21/the-rumour-engine-visions-of-beasts-part-4/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-05-21.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/ASXiOPMO2SjIYrya.jpg"
@@ -4935,6 +5209,7 @@
 		"date": "2021-05-22",
 		"resolvedDate": "2021-05-29",
 		"link": "https://www.warhammer-community.com/2021/05/22/the-rumour-engine-visions-of-beasts-part-5/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-05-22.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/OwZNKAbIHDVKyzv0.jpg"
@@ -4953,6 +5228,7 @@
 		"date": "2021-05-23",
 		"resolvedDate": "2021-05-29",
 		"link": "https://www.warhammer-community.com/2021/05/23/the-rumour-engine-visions-of-beasts-part-6/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-05-23.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/BwusSYVwrZgfnd6L.jpg"
@@ -4971,6 +5247,7 @@
 		"date": "2021-05-24",
 		"resolvedDate": "2021-05-29",
 		"link": "https://www.warhammer-community.com/2021/05/24/the-rumour-engine-visions-of-beasts-part-7/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-05-24.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/dR2tRXuGsIhNZhc1.jpg"
@@ -4989,6 +5266,7 @@
 		"date": "2021-05-25",
 		"resolvedDate": "2021-05-29",
 		"link": "https://www.warhammer-community.com/2021/05/25/the-rumour-engine-visions-of-beasts-part-8/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-05-25.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/dRSZF0RTUaKuj20v.jpg"
@@ -5007,6 +5285,7 @@
 		"date": "2021-05-26",
 		"resolvedDate": "2021-05-29",
 		"link": "https://www.warhammer-community.com/2021/05/26/the-rumour-engine-visions-of-beasts-part-9/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-05-26.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/HLPeyicvMsqFgG5f.jpg"
@@ -5025,6 +5304,7 @@
 		"date": "2021-05-27",
 		"resolvedDate": "2021-05-29",
 		"link": "https://www.warhammer-community.com/2021/05/27/the-rumour-engine-visions-of-beasts-part-10/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-05-27.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/ATEX8vrYp1Lqa0xT.jpg"
@@ -5043,6 +5323,7 @@
 		"date": "2021-05-28",
 		"resolvedDate": "2021-05-29",
 		"link": "https://www.warhammer-community.com/2021/05/28/the-rumour-engine-visions-of-beasts-part-11/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-05-28.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/05/k06MLoUsR913r3Ww.jpg"
@@ -5061,6 +5342,7 @@
 		"date": "2021-06-01",
 		"resolvedDate": "2022-06-20",
 		"link": "https://www.warhammer-community.com/2021/06/01/the-rumour-engine-1st-june-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-06-01.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/06/GzeMcrsQ0j7DimP0.jpg"
@@ -5079,6 +5361,7 @@
 		"date": "2021-06-08",
 		"resolvedDate": "2021-09-27",
 		"link": "https://www.warhammer-community.com/2021/06/08/the-rumour-engine-8th-june-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-06-08.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/06/qNwoyi57HmwLmL5n.jpg"
@@ -5097,6 +5380,7 @@
 		"date": "2021-06-15",
 		"resolvedDate": "2022-12-12",
 		"link": "https://www.warhammer-community.com/2021/06/15/the-rumour-engine-15th-june-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-06-15.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/06/m30rtkOsekWpJrOg.jpg"
@@ -5115,6 +5399,7 @@
 		"date": "2021-06-22",
 		"resolvedDate": "2021-07-10",
 		"link": "https://www.warhammer-community.com/2021/06/22/the-rumour-engine-22nd-june-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-06-22.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/06/ZQzYVilx6RYuGwG1.jpg"
@@ -5133,6 +5418,7 @@
 		"date": "2021-06-29",
 		"resolvedDate": "2022-09-01",
 		"link": "https://www.warhammer-community.com/2021/06/29/the-rumour-engine-29th-june-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-06-29.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/06/NtrZMEhqtjm8ooOk.jpg"
@@ -5151,6 +5437,7 @@
 		"date": "2021-07-06",
 		"resolvedDate": "2022-09-01",
 		"link": "https://www.warhammer-community.com/2021/07/06/the-rumour-engine-6th-july-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-07-06.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/07/9h4v8GJIMYZO56Vo.jpg"
@@ -5169,6 +5456,7 @@
 		"date": "2021-07-13",
 		"resolvedDate": "2022-09-01",
 		"link": "https://www.warhammer-community.com/2021/07/13/the-rumour-engine-13th-july-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-07-13.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/07/eVpp4OguVqNs1Ztr.jpg"
@@ -5187,6 +5475,7 @@
 		"date": "2021-07-20",
 		"resolvedDate": "2022-06-10",
 		"link": "https://www.warhammer-community.com/2021/07/20/the-rumour-engine-20th-july-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-07-20.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/07/HlaoJCMsypp3VxwW.jpg"
@@ -5205,6 +5494,7 @@
 		"date": "2021-07-27",
 		"resolvedDate": "2022-07-18",
 		"link": "https://www.warhammer-community.com/2021/07/27/the-rumour-engine-27th-july-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-07-27.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/07/sHrF2z0qBHMSTjV0.jpg"
@@ -5223,6 +5513,7 @@
 		"date": "2021-08-03",
 		"resolvedDate": "2022-01-27",
 		"link": "https://www.warhammer-community.com/2021/08/03/the-rumour-engine-3rd-august-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-08-03.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/08/WHxWAzGg0Y2jg0jq.jpg"
@@ -5241,6 +5532,7 @@
 		"date": "2021-08-10",
 		"resolvedDate": "2022-09-01",
 		"link": "https://www.warhammer-community.com/2021/08/10/the-rumour-engine-10th-august-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-08-10.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/08/qlFJbHSl2yDyNTF6.jpg"
@@ -5259,6 +5551,7 @@
 		"date": "2021-08-17",
 		"resolvedDate": "2022-08-01",
 		"link": "https://www.warhammer-community.com/2021/08/17/the-rumour-engine-17th-august-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-08-17.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/08/G0AFzGqeq7H5BoIf.jpg"
@@ -5277,6 +5570,7 @@
 		"date": "2021-08-24",
 		"resolvedDate": "2022-09-01",
 		"link": "https://www.warhammer-community.com/2021/08/24/the-rumour-engine-24th-of-august-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-08-24.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/08/2VB5alkrn8udJv8i.jpg"
@@ -5295,6 +5589,7 @@
 		"date": "2021-08-31",
 		"resolvedDate": "2022-07-18",
 		"link": "https://www.warhammer-community.com/2021/08/31/the-rumour-engine-31st-august-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-08-31.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/08/D4lsgfOzJyggqSg1.jpg"
@@ -5313,6 +5608,7 @@
 		"date": "2021-09-07",
 		"resolvedDate": "2022-11-19",
 		"link": "https://www.warhammer-community.com/2021/09/07/the-rumour-engine-7th-september-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-09-07.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/09/Vk2NoykLbbC15PYw.jpg"
@@ -5331,6 +5627,7 @@
 		"date": "2021-09-14",
 		"resolvedDate": "2022-05-05",
 		"link": "https://www.warhammer-community.com/2021/09/14/the-rumour-engine-14th-september-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-09-14.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/09/9JQj6a4X0SeRoNtH.jpg"
@@ -5349,6 +5646,7 @@
 		"date": "2021-09-21",
 		"resolvedDate": "2022-05-05",
 		"link": "https://www.warhammer-community.com/2021/09/21/the-rumour-engine-21st-september-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-09-21.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/09/eVJUgm02LYsdiRzz.jpg"
@@ -5367,6 +5665,7 @@
 		"date": "2021-09-28",
 		"resolvedDate": "2022-03-24",
 		"link": "https://www.warhammer-community.com/2021/09/28/the-rumour-engine-28th-september-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-09-28.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/09/4nBFRKTb69w1Ntir.jpg"
@@ -5385,6 +5684,7 @@
 		"date": "2021-10-05",
 		"resolvedDate": "2022-01-15",
 		"link": "https://www.warhammer-community.com/2021/10/05/the-rumour-engine-5th-october-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-10-05.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/10/i4wqa7Qrt8RK14KB.jpg"
@@ -5403,6 +5703,7 @@
 		"date": "2021-10-12",
 		"resolvedDate": "2022-03-24",
 		"link": "https://www.warhammer-community.com/2021/10/12/the-rumour-engine-12th-october-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-10-12.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/10/FJJ0R5S0dzpFS1iJ.jpg"
@@ -5421,6 +5722,7 @@
 		"date": "2021-10-19",
 		"resolvedDate": "2022-11-19",
 		"link": "https://www.warhammer-community.com/2021/10/19/the-rumour-engine-19th-october-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-10-19.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/10/YTb1py3hhzyHqgCp.jpg"
@@ -5439,6 +5741,7 @@
 		"date": "2021-10-26",
 		"resolvedDate": "2023-01-27",
 		"link": "https://www.warhammer-community.com/2021/10/26/the-rumour-engine-26th-october-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-10-26.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/10/HTEUI1ELFT0tdAwG.jpg"
@@ -5457,6 +5760,7 @@
 		"date": "2021-11-02",
 		"resolvedDate": "2022-05-05",
 		"link": "https://www.warhammer-community.com/2021/11/02/the-rumour-engine-2nd-november-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-11-02.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/11/wURYiE0tZx3akvOD.jpg"
@@ -5475,6 +5779,7 @@
 		"date": "2021-11-09",
 		"resolvedDate": "2022-04-15",
 		"link": "https://www.warhammer-community.com/2021/11/09/the-rumour-engine-9th-november-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-11-09.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/11/6xGUjrsazrurilGh-395x500.jpg"
@@ -5493,6 +5798,7 @@
 		"date": "2021-11-16",
 		"resolvedDate": "2023-10-30",
 		"link": "https://www.warhammer-community.com/2021/11/16/the-rumour-engine-16th-november-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-11-16.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/11/IsZu487UA9lTJcXp.jpg"
@@ -5511,6 +5817,7 @@
 		"date": "2021-11-23",
 		"resolvedDate": "2021-12-27",
 		"link": "https://www.warhammer-community.com/2021/11/23/the-rumour-engine-23rd-november-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-11-23.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/11/A9Q7sVYFVYMWSPyg.jpg"
@@ -5529,6 +5836,7 @@
 		"date": "2021-11-30",
 		"resolvedDate": "2021-12-27",
 		"link": "https://www.warhammer-community.com/2021/11/30/the-rumour-engine-30th-november-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-11-30.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/11/hmifbQkO94NJoLEu.jpg"
@@ -5547,6 +5855,7 @@
 		"date": "2021-12-01",
 		"resolvedDate": "2021-12-25",
 		"link": "https://www.warhammer-community.com/2021/12/01/the-advent-engine-1st-december-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-12-01.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/xoY7kmyCzKIlXHRe.jpg"
@@ -5565,6 +5874,7 @@
 		"date": "2021-12-02",
 		"resolvedDate": "2021-12-25",
 		"link": "https://www.warhammer-community.com/2021/12/02/the-advent-engine-2nd-december-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-12-02.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/ys2yzciopWqpZato.jpg"
@@ -5583,6 +5893,7 @@
 		"date": "2021-12-03",
 		"resolvedDate": "2021-12-25",
 		"link": "https://www.warhammer-community.com/2021/12/03/the-advent-engine-3rd-december-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-12-03.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/uPOFpoWVmLThEQLy.jpg"
@@ -5601,6 +5912,7 @@
 		"date": "2021-12-04",
 		"resolvedDate": "2021-12-25",
 		"link": "https://www.warhammer-community.com/2021/12/04/the-advent-engine-4th-december-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-12-04.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/Z95m9m0x5Y8m2yhT.jpg"
@@ -5619,6 +5931,7 @@
 		"date": "2021-12-05",
 		"resolvedDate": "2022-02-05",
 		"link": "https://www.warhammer-community.com/2021/12/05/the-advent-engine-5th-december-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-12-05.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/EzQLV1RmbK83aiWM.jpg"
@@ -5637,6 +5950,7 @@
 		"date": "2021-12-06",
 		"resolvedDate": "2021-12-25",
 		"link": "https://www.warhammer-community.com/2021/12/06/the-advent-engine-6th-december-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-12-06.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/uaNkhhIs7STvdFM0.jpg"
@@ -5655,6 +5969,7 @@
 		"date": "2021-12-07",
 		"resolvedDate": "2022-01-10",
 		"link": "https://www.warhammer-community.com/2021/12/07/the-advent-engine-7th-december-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-12-07.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/AtZ5qfAQvnD7frX3.jpg"
@@ -5673,6 +5988,7 @@
 		"date": "2021-12-08",
 		"resolvedDate": "2021-12-25",
 		"link": "https://www.warhammer-community.com/2021/12/08/the-advent-engine-8th-december-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-12-08.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/smPjCyoJkyHa7QyH.jpg"
@@ -5691,6 +6007,7 @@
 		"date": "2021-12-09",
 		"resolvedDate": "2021-12-25",
 		"link": "https://www.warhammer-community.com/2021/12/09/the-advent-engine-9th-december-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-12-09.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/RaAuaDnm23S5ccvj.jpg"
@@ -5709,6 +6026,7 @@
 		"date": "2021-12-10",
 		"resolvedDate": "2022-02-05",
 		"link": "https://www.warhammer-community.com/2021/12/10/the-advent-engine-10th-december-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-12-10.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/MOWVj9Sz8REfhPmA.jpg"
@@ -5727,6 +6045,7 @@
 		"date": "2021-12-11",
 		"resolvedDate": "2021-12-25",
 		"link": "https://www.warhammer-community.com/2021/12/11/the-advent-engine-11th-december-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-12-11.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/8LlGcI4TYIDAL54N.jpg"
@@ -5745,6 +6064,7 @@
 		"date": "2021-12-12",
 		"resolvedDate": "2022-01-10",
 		"link": "https://www.warhammer-community.com/2021/12/12/the-advent-engine-12th-december-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-12-12.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/Dty6qATkGa0s7c4H.jpg"
@@ -5763,6 +6083,7 @@
 		"date": "2021-12-13",
 		"resolvedDate": "2021-12-25",
 		"link": "https://www.warhammer-community.com/2021/12/13/the-advent-engine-13th-december-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-12-13.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/VzGukgwxIk1Xz0a5.jpg"
@@ -5781,6 +6102,7 @@
 		"date": "2021-12-14",
 		"resolvedDate": "2021-12-25",
 		"link": "https://www.warhammer-community.com/2021/12/14/the-advent-engine-14th-december-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-12-14.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/qr1xNLfO9a8yk4hg.jpg"
@@ -5799,6 +6121,7 @@
 		"date": "2021-12-15",
 		"resolvedDate": "2022-02-05",
 		"link": "https://www.warhammer-community.com/2021/12/15/the-advent-engine-15th-december/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-12-15.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/seL4VfqHcGmOtsmj.jpg"
@@ -5817,6 +6140,7 @@
 		"date": "2021-12-16",
 		"resolvedDate": "2021-12-25",
 		"link": "https://www.warhammer-community.com/2021/12/16/the-advent-engine-16th-december-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-12-16.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/A3c79jaQz2bYYxbc.jpg"
@@ -5835,6 +6159,7 @@
 		"date": "2021-12-17",
 		"resolvedDate": "2021-12-25",
 		"link": "https://www.warhammer-community.com/2021/12/17/the-advent-engine-17th-december-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-12-17.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/ChgXo1noYgOCxFUV.jpg"
@@ -5853,6 +6178,7 @@
 		"date": "2021-12-18",
 		"resolvedDate": "2021-12-25",
 		"link": "https://www.warhammer-community.com/2021/12/18/the-advent-engine-18th-december-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-12-18.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/aWLGCe5lD8nGGymh.jpg"
@@ -5871,6 +6197,7 @@
 		"date": "2021-12-19",
 		"resolvedDate": "2021-12-25",
 		"link": "https://www.warhammer-community.com/2021/12/19/the-advent-engine-19th-december-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-12-19.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/y3PZBCEmY1w9sXts.jpg"
@@ -5889,6 +6216,7 @@
 		"date": "2021-12-20",
 		"resolvedDate": "2022-02-05",
 		"link": "https://www.warhammer-community.com/2021/12/20/the-advent-engine-20th-december-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-12-20.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/qrxOMvHHZFSSlXLH.jpg"
@@ -5907,6 +6235,7 @@
 		"date": "2021-12-21",
 		"resolvedDate": "2021-12-25",
 		"link": "https://www.warhammer-community.com/2021/12/21/the-advent-engine-21st-december-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-12-21.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/ijMp8lhBUyv3Yb61.jpg"
@@ -5925,6 +6254,7 @@
 		"date": "2021-12-22",
 		"resolvedDate": "2021-12-25",
 		"link": "https://www.warhammer-community.com/2021/12/22/the-advent-engine-22nd-december-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-12-22.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/ruta1F5Qypm7ueth.jpg"
@@ -5943,6 +6273,7 @@
 		"date": "2021-12-23",
 		"resolvedDate": "2021-12-25",
 		"link": "https://www.warhammer-community.com/2021/12/23/the-advent-engine-23rd-december-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-12-23.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/X6UQY74MEKpD4gIK.jpg"
@@ -5961,6 +6292,7 @@
 		"date": "2021-12-24",
 		"resolvedDate": "2022-02-05",
 		"link": "https://www.warhammer-community.com/2021/12/24/the-advent-engine-24th-december-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-12-24.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/Wg95R03cLgbJickt.jpg"
@@ -5979,6 +6311,7 @@
 		"date": "2021-12-28",
 		"resolvedDate": "2022-01-28",
 		"link": "https://www.warhammer-community.com/2021/12/28/the-rumour-engine-28th-december-2021/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2021-12-28.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/mvjIiisDROzhtma9.jpg"
@@ -5997,6 +6330,7 @@
 		"date": "2022-01-04",
 		"resolvedDate": "2022-03-24",
 		"link": "https://www.warhammer-community.com/2022/01/04/the-rumour-engine-4th-january-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-01-04.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/01/FmrkLwbCEEE9eKlD.jpg"
@@ -6015,6 +6349,7 @@
 		"date": "2022-01-11",
 		"resolvedDate": "2022-04-11",
 		"link": "https://www.warhammer-community.com/2022/01/11/the-rumour-engine-11th-january-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-01-11.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/01/pHk8vvSy0Zu8BuFF.jpg"
@@ -6033,6 +6368,7 @@
 		"date": "2022-01-18",
 		"resolvedDate": "2022-04-11",
 		"link": "https://www.warhammer-community.com/2022/01/18/the-rumour-engine-18th-january-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-01-18.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/01/OPTaDFsPSvKhKStW.jpg"
@@ -6051,6 +6387,7 @@
 		"date": "2022-01-25",
 		"resolvedDate": "2022-03-24",
 		"link": "https://www.warhammer-community.com/2022/01/25/the-rumour-engine-25th-january-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-01-25.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/01/wy5o7Ba2hL11wGtv.jpg"
@@ -6069,6 +6406,7 @@
 		"date": "2022-02-08",
 		"resolvedDate": "2022-03-24",
 		"link": "https://www.warhammer-community.com/2022/02/08/the-rumour-engine-8th-february-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-02-08.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/02/9vA88RbLasmfbC61.jpg"
@@ -6087,6 +6425,7 @@
 		"date": "2022-02-15",
 		"resolvedDate": "2022-05-04",
 		"link": "https://www.warhammer-community.com/2022/02/15/the-rumour-engine-15th-february-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-02-15.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/02/0LNCIVaPIRbbWq5A.jpg"
@@ -6105,6 +6444,7 @@
 		"date": "2022-02-22",
 		"resolvedDate": "2022-05-04",
 		"link": "https://www.warhammer-community.com/2022/02/22/the-rumour-engine-22-february-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-02-22.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/02/7XVbDgcLiqi5iik1.jpg"
@@ -6123,6 +6463,7 @@
 		"date": "2022-03-01",
 		"resolvedDate": "2022-06-06",
 		"link": "https://www.warhammer-community.com/2022/03/01/the-rumour-engine-1st-march-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-03-01.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/03/iBDCoyKtRhXFOt9b.jpg"
@@ -6141,6 +6482,7 @@
 		"date": "2022-03-08",
 		"resolvedDate": "2022-09-01",
 		"link": "https://www.warhammer-community.com/2022/03/08/the-rumour-engine-8th-march-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-03-08.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/03/SbweiseUTIjo9MgL.jpg"
@@ -6159,6 +6501,7 @@
 		"date": "2022-03-15",
 		"resolvedDate": "2022-10-17",
 		"link": "https://www.warhammer-community.com/2022/03/15/the-rumour-engine-15th-march-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-03-15.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/03/OZT8cm6XIEgE29IX.jpg"
@@ -6177,6 +6520,7 @@
 		"date": "2022-03-22",
 		"resolvedDate": "2020-04-23",
 		"link": "https://www.warhammer-community.com/2022/03/22/the-rumour-engine-22nd-march-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-03-22.jpg",
 			"cdn": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH165yTPxjUWdAeJ-1CzEQ5YSOhEOqWUS_dnbQCOc9Dui3ZwQOiHmhyfq4SbgobDBg-oVUT822cMGS0nqaMadZKoCB7enl5rlQaz34BzyUJYg4g-OkiX6fNyJvkSDz8qiNSd5l54ja7gK8ftbzxc52HIYDyrgq_3lBHTYVk-Wdjg4wDhcQHBP7CQt0oA/s633/2022-03-22.jpg"
@@ -6195,6 +6539,7 @@
 		"date": "2022-03-22",
 		"resolvedDate": "2022-06-10",
 		"link": "https://www.warhammer-community.com/2022/03/22/the-rumour-engine-22nd-march-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-03-22-b.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/03/owrD5GvIT6Q3GCwd.jpg"
@@ -6213,6 +6558,7 @@
 		"date": "2022-04-05",
 		"resolvedDate": "2022-09-01",
 		"link": "https://www.warhammer-community.com/2022/04/05/the-rumour-engine-5th-april-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-04-05.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/04/ZSBWTdSIT6nOQZAi.jpg"
@@ -6231,6 +6577,7 @@
 		"date": "2022-04-12",
 		"resolvedDate": "2023-03-04",
 		"link": "https://www.warhammer-community.com/2022/04/12/the-rumour-engine-12th-april-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-04-12.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/04/j4VC5cLFc8wjabMs.jpg"
@@ -6249,6 +6596,7 @@
 		"date": "2022-04-19",
 		"resolvedDate": "2022-11-19",
 		"link": "https://www.warhammer-community.com/2022/04/19/the-rumour-engine-19th-april-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-04-19.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/04/gd0MnGpentIMjhQ4.jpg"
@@ -6267,6 +6615,7 @@
 		"date": "2022-04-26",
 		"resolvedDate": "2022-06-10",
 		"link": "https://www.warhammer-community.com/2022/04/26/the-rumour-engine-26th-april-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-04-26.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/04/YJ6APEWaKUpIaDLp.jpg"
@@ -6285,6 +6634,7 @@
 		"date": "2022-05-10",
 		"resolvedDate": "2023-04-19",
 		"link": "https://www.warhammer-community.com/2022/05/10/the-rumour-engine-10th-may-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-05-10.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/05/iqtVQZxah18mBiT7.jpg"
@@ -6303,6 +6653,7 @@
 		"date": "2022-05-17",
 		"resolvedDate": "2022-09-01",
 		"link": "https://www.warhammer-community.com/2022/05/17/the-rumour-engine-17th-may-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-05-17.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/05/N3DD0jkz47taSR7d.jpg"
@@ -6321,6 +6672,7 @@
 		"date": "2022-05-24",
 		"resolvedDate": "2023-02-13",
 		"link": "https://www.warhammer-community.com/2022/05/24/the-rumour-engine-24th-may-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-05-24.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/05/McS0lV1VCjDZM8Z2.jpg"
@@ -6339,6 +6691,7 @@
 		"date": "2022-05-31",
 		"resolvedDate": "2022-08-01",
 		"link": "https://www.warhammer-community.com/2022/05/31/the-rumour-engine-31st-may-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-05-31.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/05/w1YIaiAArH9AmcOy.jpg"
@@ -6357,6 +6710,7 @@
 		"date": "2022-06-07",
 		"resolvedDate": "2023-03-04",
 		"link": "https://www.warhammer-community.com/2022/06/07/the-rumour-engine-7th-june-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-06-07.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/06/unKmeKDrdUSbjhCv.jpg"
@@ -6375,6 +6729,7 @@
 		"date": "2022-06-14",
 		"resolvedDate": "2023-01-27",
 		"link": "https://www.warhammer-community.com/2022/06/14/the-rumour-engine-14th-june-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-06-14.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/06/AK2CM1xNUPvfc4A7.jpg"
@@ -6393,6 +6748,7 @@
 		"date": "2022-06-21",
 		"resolvedDate": "2023-03-23",
 		"link": "https://www.warhammer-community.com/2022/06/21/the-rumour-engine-21st-june-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-06-21.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/06/00VMQn2tOifMjPbW.jpg"
@@ -6411,6 +6767,7 @@
 		"date": "2022-06-28",
 		"resolvedDate": "2023-04-29",
 		"link": "https://www.warhammer-community.com/2022/06/28/the-rumour-engine-28th-june-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-06-28.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/06/9ZmfHEL00DgOlR4X.jpg"
@@ -6429,6 +6786,7 @@
 		"date": "2022-07-05",
 		"resolvedDate": "2023-01-27",
 		"link": "https://www.warhammer-community.com/2022/07/05/the-rumour-engine-5th-july-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-07-05.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/07/r1XQhGS2muFRscXw.jpg"
@@ -6447,6 +6805,7 @@
 		"date": "2022-07-12",
 		"resolvedDate": "2022-10-24",
 		"link": "https://www.warhammer-community.com/2022/07/12/the-rumour-engine-12th-july-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-07-12.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/07/5IF3HeDZ9sh70Zdy.jpg"
@@ -6465,6 +6824,7 @@
 		"date": "2022-07-19",
 		"resolvedDate": "2023-05-01",
 		"link": "https://www.warhammer-community.com/2022/07/19/the-rumour-engine-19th-july-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-07-19.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/07/tG3FyX9aTo25JN8I.jpg"
@@ -6483,6 +6843,7 @@
 		"date": "2022-07-26",
 		"resolvedDate": "2023-05-01",
 		"link": "https://www.warhammer-community.com/2022/07/26/the-rumour-engine-26th-july-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-07-26.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/07/uSlzvGG1rYR7cRZT.jpg"
@@ -6501,6 +6862,7 @@
 		"date": "2022-08-02",
 		"resolvedDate": "2023-04-29",
 		"link": "https://www.warhammer-community.com/2022/08/02/the-rumour-engine-2nd-august-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-08-02.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/08/71rcPDZlXWSE8J5t.jpg"
@@ -6519,6 +6881,7 @@
 		"date": "2022-08-09",
 		"resolvedDate": "2023-02-06",
 		"link": "https://www.warhammer-community.com/2022/08/09/the-rumour-engine-9th-august-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-08-09.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/08/bnKQHA1uIJEMpjQp.jpg"
@@ -6537,6 +6900,7 @@
 		"date": "2022-08-16",
 		"resolvedDate": "2022-10-24",
 		"link": "https://www.warhammer-community.com/2022/08/16/the-rumour-engine-16th-august-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-08-16.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/08/yMBwfgcEe2gxCTWd.jpg"
@@ -6555,6 +6919,7 @@
 		"date": "2022-08-23",
 		"resolvedDate": "2023-01-27",
 		"link": "https://www.warhammer-community.com/2022/08/23/the-rumour-engine-23rd-august-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-08-23.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/08/Tjbzjdf6sl0QP9dq.jpg"
@@ -6573,6 +6938,7 @@
 		"date": "2022-08-30",
 		"resolvedDate": "2022-12-24",
 		"link": "https://www.warhammer-community.com/2022/08/30/the-rumour-engine-30th-august-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-08-30.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/08/91N40TNFqoHjWE6S.jpg"
@@ -6591,6 +6957,7 @@
 		"date": "2022-09-13",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2022/09/13/the-rumour-engine-13th-september-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-09-13.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/09/wywzpsk5AUCefXnu.jpg"
@@ -6609,6 +6976,7 @@
 		"date": "2022-09-20",
 		"resolvedDate": "2023-01-27",
 		"link": "https://www.warhammer-community.com/2022/09/20/the-rumour-engine-20th-september-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-09-20.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/08/Tjbzjdf6sl0QP9dq.jpg"
@@ -6627,6 +6995,7 @@
 		"date": "2022-09-27",
 		"resolvedDate": "2023-01-27",
 		"link": "https://www.warhammer-community.com/2022/09/27/the-rumour-engine-27th-september-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-09-27.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/09/MOb6SEjR2BPHteSk.jpg"
@@ -6645,6 +7014,7 @@
 		"date": "2022-10-04",
 		"resolvedDate": "2023-04-30",
 		"link": "https://www.warhammer-community.com/2022/10/04/the-rumour-engine-4th-october-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-10-04.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/10/7PBceBkc3hT3Z9Zf.jpg"
@@ -6663,6 +7033,7 @@
 		"date": "2022-10-11",
 		"resolvedDate": "2024-01-01",
 		"link": "https://www.warhammer-community.com/2022/10/11/the-rumour-engine-11th-october-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-10-11.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/10/n4qODupP8DikbBdC.jpg"
@@ -6681,6 +7052,7 @@
 		"date": "2022-10-18",
 		"resolvedDate": "2023-01-27",
 		"link": "https://www.warhammer-community.com/2022/10/18/the-rumour-engine-18th-october-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-10-18.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/10/l4u8DAYuSAiVamLC.jpg"
@@ -6699,6 +7071,7 @@
 		"date": "2022-10-25",
 		"resolvedDate": "2023-02-16",
 		"link": "https://www.warhammer-community.com/2022/10/25/the-rumour-engine-25th-october-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-10-25.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/10/pagXlLGA6JeyvQx6.jpg"
@@ -6717,6 +7090,7 @@
 		"date": "2022-11-01",
 		"resolvedDate": "2023-10-14",
 		"link": "https://www.warhammer-community.com/2022/11/01/the-rumour-engine-1st-november-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-11-01.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/10/cF1kCj6k5Yd5RENh.jpg"
@@ -6735,6 +7109,7 @@
 		"date": "2022-11-08",
 		"resolvedDate": "2023-03-23",
 		"link": "https://www.warhammer-community.com/2022/11/08/the-rumour-engine-8th-november-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-11-08.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/11/XorLnwCdjZbcDT5C.jpg"
@@ -6753,6 +7128,7 @@
 		"date": "2022-11-15",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2022/11/15/the-rumour-engine-15th-november-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-11-15.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/11/gAXUnVioKqXGAADn.jpg"
@@ -6771,6 +7147,7 @@
 		"date": "2022-11-22",
 		"resolvedDate": "2023-03-23",
 		"link": "https://www.warhammer-community.com/2022/11/22/the-rumour-engine-22nd-november-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-11-22.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/11/dsN2vbTRXem8q5oQ.jpg"
@@ -6789,6 +7166,7 @@
 		"date": "2022-11-29",
 		"resolvedDate": "2023-03-23",
 		"link": "https://www.warhammer-community.com/2022/11/29/the-rumour-engine-29th-november-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-11-29.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/11/ernjeFluhFE5PuUo.jpg"
@@ -6807,6 +7185,7 @@
 		"date": "2022-12-06",
 		"resolvedDate": "2023-03-23",
 		"link": "https://www.warhammer-community.com/2022/12/06/the-rumour-engine-6th-december-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-12-06.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/12/ngcgVZOS37VWohvu.jpg"
@@ -6825,6 +7204,7 @@
 		"date": "2022-12-13",
 		"resolvedDate": "2023-03-23",
 		"link": "https://www.warhammer-community.com/2022/12/13/the-rumour-engine-13th-december-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-12-13.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/12/kJfAmEkWDAtBx6OT.jpg"
@@ -6843,6 +7223,7 @@
 		"date": "2022-12-20",
 		"resolvedDate": "2023-03-23",
 		"link": "https://www.warhammer-community.com/2022/12/20/the-rumour-engine-20th-december-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-12-20.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/12/k3yRlWBbZtstA5CR.jpg"
@@ -6861,6 +7242,7 @@
 		"date": "2022-12-27",
 		"resolvedDate": "2023-02-16",
 		"link": "https://www.warhammer-community.com/2022/12/27/the-rumour-engine-27th-december-2022/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2022-12-27.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/12/FeRLiAaKjA32dtST.jpg"
@@ -6879,6 +7261,7 @@
 		"date": "2023-01-03",
 		"resolvedDate": "2023-03-23",
 		"link": "https://www.warhammer-community.com/2023/01/03/the-rumour-engine-3rd-january-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-01-03.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/01/r0O4jj1Muem0iZEl.jpg"
@@ -6897,6 +7280,7 @@
 		"date": "2023-01-10",
 		"resolvedDate": "2024-01-01",
 		"link": "https://www.warhammer-community.com/2023/01/10/the-rumour-engine-10th-january-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-01-10.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/01/ugxFZPv5uLpYC1VX.jpg"
@@ -6915,6 +7299,7 @@
 		"date": "2023-01-17",
 		"resolvedDate": "2023-01-27",
 		"link": "https://www.warhammer-community.com/2023/01/17/the-rumour-engine-17th-january-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-01-17.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/01/CsgIY5Xya8xseATy.jpg"
@@ -6933,6 +7318,7 @@
 		"date": "2023-01-24",
 		"resolvedDate": "2023-01-27",
 		"link": "https://www.warhammer-community.com/2023/01/24/the-rumour-engine-24th-january-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-01-24.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/01/8irvLVyvtHB0PBPt.jpg"
@@ -6951,6 +7337,7 @@
 		"date": "2023-01-31",
 		"resolvedDate": "2023-03-23",
 		"link": "https://www.warhammer-community.com/2023/01/31/the-rumour-engine-31st-january-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-01-31.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/01/1wtjga9lo8mZaSJN.jpg"
@@ -6969,6 +7356,7 @@
 		"date": "2023-02-07",
 		"resolvedDate": "2023-03-23",
 		"link": "https://www.warhammer-community.com/2023/02/07/the-rumour-engine-7th-february-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-02-07.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/02/PsPX3XHKzP36K6CW.jpg"
@@ -6987,6 +7375,7 @@
 		"date": "2023-02-14",
 		"resolvedDate": "2023-03-23",
 		"link": "https://www.warhammer-community.com/2023/02/14/the-rumour-engine-14th-february-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-02-14.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/02/IqUcHQVK3qVLMzSo.jpg"
@@ -7005,6 +7394,7 @@
 		"date": "2023-02-21",
 		"resolvedDate": "2023-03-04",
 		"link": "https://www.warhammer-community.com/2023/02/21/the-rumour-engine-21st-february-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-02-21.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/02/IEraSYPKb7DhVOzq.jpg"
@@ -7023,6 +7413,7 @@
 		"date": "2023-02-28",
 		"resolvedDate": "2023-03-04",
 		"link": "https://www.warhammer-community.com/2023/02/28/the-rumour-engine-28th-february-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-02-28.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/02/LSau66KQyKFzrkHH.jpg"
@@ -7041,6 +7432,7 @@
 		"date": "2023-03-07",
 		"resolvedDate": "2023-04-13",
 		"link": "https://www.warhammer-community.com/2023/03/07/the-rumour-engine-7th-march-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-03-07.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/03/pORjDAxZGZR3qbMr.jpg"
@@ -7059,6 +7451,7 @@
 		"date": "2023-03-14",
 		"resolvedDate": "2024-02-19",
 		"link": "https://www.warhammer-community.com/2023/03/14/the-rumour-engine-14th-march-2023/",
+		"resolvedLink": "https://www.warhammer-community.com/2024/02/19/kroot-lone-spears-snipe-specialists-bust-tanks-and-slink-back-into-the-underbrush/",
 		"rumourEngineImage": {
 			"url": "2023-03-14.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/03/sSPpqPhdIznAuKJD.jpg"
@@ -7077,6 +7470,7 @@
 		"date": "2023-03-21",
 		"resolvedDate": "2023-08-31",
 		"link": "https://www.warhammer-community.com/2023/03/21/the-rumour-engine-21st-march-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-03-21.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/03/9lAAvjEgtiwv9Gtl.jpg"
@@ -7095,6 +7489,7 @@
 		"date": "2023-03-28",
 		"resolvedDate": "2023-08-31",
 		"link": "https://www.warhammer-community.com/2023/03/28/the-rumour-engine-28th-march-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-03-28.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/03/dkxyf1JbGAummz6S.jpg"
@@ -7113,6 +7508,7 @@
 		"date": "2023-04-04",
 		"resolvedDate": "2023-04-30",
 		"link": "https://www.warhammer-community.com/2023/04/04/the-rumour-engine-4th-april-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-04-04.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/04/LxEDX92EimlBe9Tn.jpg"
@@ -7131,6 +7527,7 @@
 		"date": "2023-04-11",
 		"resolvedDate": "2023-08-31",
 		"link": "https://www.warhammer-community.com/2023/04/11/the-rumour-engine-11th-april-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-04-11.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/04/0s5zu3p6myJDghCw.jpg"
@@ -7149,6 +7546,7 @@
 		"date": "2023-04-18",
 		"resolvedDate": "2024-01-19",
 		"link": "https://www.warhammer-community.com/2023/04/18/the-rumour-engine-18th-april-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-04-18.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/04/HfaHAdiNoHy1zW9e.jpg"
@@ -7167,6 +7565,7 @@
 		"date": "2023-04-25",
 		"resolvedDate": "2023-12-09",
 		"link": "https://www.warhammer-community.com/2023/04/25/the-rumour-engine-25th-april-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-04-25.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/04/KnifjC4A8xJ9eFSK.jpg"
@@ -7185,6 +7584,7 @@
 		"date": "2023-05-02",
 		"resolvedDate": "2023-11-18",
 		"link": "https://www.warhammer-community.com/2023/05/02/the-rumour-engine-2nd-of-may-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-05-02.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/05/Ix2pHSSW5pUa8iLa.jpg"
@@ -7203,6 +7603,7 @@
 		"date": "2023-05-09",
 		"resolvedDate": "2024-02-19",
 		"link": "https://www.warhammer-community.com/2023/05/09/the-rumour-engine-9th-of-may-2023/",
+		"resolvedLink": "https://www.warhammer-community.com/2024/02/19/kroot-lone-spears-snipe-specialists-bust-tanks-and-slink-back-into-the-underbrush/",
 		"rumourEngineImage": {
 			"url": "2023-05-09.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/05/Z98BP5YD0W92O8wT.jpg"
@@ -7221,6 +7622,7 @@
 		"date": "2023-05-16",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/05/16/the-rumour-engine-16th-of-may-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-05-16.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/05/FdYwRAKwc4e5XQ74.jpg"
@@ -7239,6 +7641,7 @@
 		"date": "2023-05-23",
 		"resolvedDate": "2023-11-18",
 		"link": "https://www.warhammer-community.com/2023/05/23/the-rumour-engine-23rd-of-may-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-05-23.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/05/rqPXPux4hEdKOtOn.jpg"
@@ -7257,6 +7660,7 @@
 		"date": "2023-05-30",
 		"resolvedDate": "2024-02-19",
 		"link": "https://www.warhammer-community.com/2023/05/30/the-rumour-engine-30th-may-2023/",
+		"resolvedLink": "https://www.warhammer-community.com/2024/02/19/kroot-lone-spears-snipe-specialists-bust-tanks-and-slink-back-into-the-underbrush/",
 		"rumourEngineImage": {
 			"url": "2023-05-30.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/05/IIhDnheezEcQ54gB.jpg"
@@ -7275,6 +7679,7 @@
 		"date": "2023-06-06",
 		"resolvedDate": "2024-01-19",
 		"link": "https://www.warhammer-community.com/2023/06/06/the-rumour-engine-6th-june-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-06-06.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/06/HUzVP1AsIyIFaUky.jpg"
@@ -7293,6 +7698,7 @@
 		"date": "2023-06-13",
 		"resolvedDate": "2023-08-31",
 		"link": "https://www.warhammer-community.com/2023/06/13/the-rumour-engine-13th-june-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-06-13.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/06/J1NOT1f8V4uGtTfb.jpg"
@@ -7311,6 +7717,7 @@
 		"date": "2023-06-20",
 		"resolvedDate": "2023-08-31",
 		"link": "https://www.warhammer-community.com/2023/06/20/the-rumour-engine-20th-june-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-06-20.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/06/QCcWkfOp12JbW332.jpg"
@@ -7329,6 +7736,7 @@
 		"date": "2023-06-27",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/06/27/the-rumour-engine-27th-june-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-06-27.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/06/ZdNFAF0p7IGVEfAW.jpg"
@@ -7347,6 +7755,7 @@
 		"date": "2023-07-04",
 		"resolvedDate": "2023-08-31",
 		"link": "https://www.warhammer-community.com/2023/07/04/the-rumour-engine-4th-july-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-07-04.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/07/DdO61eAVGR1iN3U5.jpg"
@@ -7365,6 +7774,7 @@
 		"date": "2023-07-11",
 		"resolvedDate": "2023-11-18",
 		"link": "https://www.warhammer-community.com/2023/07/11/the-rumour-engine-11th-july-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-07-11.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/07/ne4k15366E3ooxfb.jpg"
@@ -7383,6 +7793,7 @@
 		"date": "2023-07-18",
 		"resolvedDate": "2023-08-31",
 		"link": "https://www.warhammer-community.com/2023/07/18/the-rumour-engine-18th-july-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-07-18.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/07/7fbrKjYxRTAonOca.jpg"
@@ -7401,6 +7812,7 @@
 		"date": "2023-07-25",
 		"resolvedDate": "2023-11-18",
 		"link": "https://www.warhammer-community.com/2023/07/25/the-rumour-engine-25th-july-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-07-25.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/07/Z7exipug4WwF67Yp.jpg"
@@ -7419,6 +7831,7 @@
 		"date": "2023-08-01",
 		"resolvedDate": "2024-01-19",
 		"link": "https://www.warhammer-community.com/2023/08/01/the-rumour-engine-1st-august-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-08-01.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/07/MUcryJYw2mQdxsRD.jpg"
@@ -7437,6 +7850,7 @@
 		"date": "2023-08-08",
 		"resolvedDate": "2023-08-31",
 		"link": "https://www.warhammer-community.com/2023/08/08/the-rumour-engine-8th-august-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-08-08.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/08/32d8RRCd2pdn8Mrl.jpg"
@@ -7455,6 +7869,7 @@
 		"date": "2023-08-15",
 		"resolvedDate": "2023-11-13",
 		"link": "https://www.warhammer-community.com/2023/08/15/the-rumour-engine-15th-august-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-08-15.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/08/hlU0qXkBECUlX40V.jpg"
@@ -7473,6 +7888,7 @@
 		"date": "2023-08-22",
 		"resolvedDate": "2023-08-31",
 		"link": "https://www.warhammer-community.com/2023/08/22/the-rumour-engine-22nd-august-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-08-22.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/08/lE8k7OiZiGPVdi4G.jpg"
@@ -7491,6 +7907,7 @@
 		"date": "2023-08-29",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/08/29/the-rumour-engine-29th-august-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-08-29.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/08/bCK9CSI4r2m0dHAI.jpg"
@@ -7509,6 +7926,7 @@
 		"date": "2023-09-05",
 		"resolvedDate": "2023-11-18",
 		"link": "https://www.warhammer-community.com/2023/09/05/the-rumour-engine-5th-september-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-09-05.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/09/syPiz0ZwMfsf818H.jpg"
@@ -7527,6 +7945,7 @@
 		"date": "2023-09-12",
 		"resolvedDate": "2024-01-19",
 		"link": "https://www.warhammer-community.com/2023/09/12/the-rumour-engine-12th-september-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-09-12.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/09/Rkvwl99GzJK9292M.jpg"
@@ -7545,6 +7964,7 @@
 		"date": "2023-09-19",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/09/19/the-rumour-engine-19th-september-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-09-19.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/09/F10bM2HqIX3Y9C7V.jpg"
@@ -7563,6 +7983,7 @@
 		"date": "2023-09-26",
 		"resolvedDate": "2024-01-19",
 		"link": "https://www.warhammer-community.com/2023/09/26/the-rumour-engine-26th-september-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-09-26.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/09/fOjtU9CYZtMieAGE.jpg"
@@ -7581,6 +8002,7 @@
 		"date": "2023-10-03",
 		"resolvedDate": "2024-01-19",
 		"link": "https://www.warhammer-community.com/2023/10/03/the-rumour-engine-3rd-october-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-10-03.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/10/LPYFDzt92cpfYWKv.jpg"
@@ -7599,6 +8021,7 @@
 		"date": "2023-10-10",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/10/10/the-rumour-engine-10th-october-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-10-10.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/10/Xkhi4juO6CMrx3oB.jpg"
@@ -7617,6 +8040,7 @@
 		"date": "2023-10-17",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/10/17/the-rumour-engine-17th-october-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-10-17.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/10/jTRzQBWMdMibirxx.jpg"
@@ -7635,6 +8059,7 @@
 		"date": "2023-10-24",
 		"resolvedDate": "2024-01-19",
 		"link": "https://www.warhammer-community.com/2023/10/24/the-rumour-engine-24th-october-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-10-24.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/10/dMIncHk9yyDVg2Bk.jpg"
@@ -7653,6 +8078,7 @@
 		"date": "2023-10-31",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/10/31/the-rumour-engine-31st-october-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-10-31.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/10/hrL6OYc2Y5IgmOyF.jpg"
@@ -7671,6 +8097,7 @@
 		"date": "2023-11-07",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/11/07/the-rumour-engine-7th-november-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-11-07.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/3tiqPznI3obS7seI.jpg"
@@ -7689,6 +8116,7 @@
 		"date": "2023-11-14",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/11/14/the-rumour-engine-14th-november-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-11-14.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/hZBWFU4wyVJoyUqb.jpg"
@@ -7707,6 +8135,7 @@
 		"date": "2023-11-21",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/11/21/the-rumour-engine-21st-november-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-11-21.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/EtqaYFbAQp5oHtFN.jpg"
@@ -7725,6 +8154,7 @@
 		"date": "2023-11-28",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/11/28/the-rumour-engine-28th-november-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-11-28.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/9o6jgcJay573r3aE.jpg"
@@ -7743,6 +8173,7 @@
 		"date": "2023-12-01",
 		"resolvedDate": "2024-01-19",
 		"link": "https://www.warhammer-community.com/2023/12/01/the-advent-engine-1st-december-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-12-01.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/WskDkUG5KUJVu4an.png"
@@ -7761,6 +8192,7 @@
 		"date": "2023-12-02",
 		"resolvedDate": "2023-12-25",
 		"link": "https://www.warhammer-community.com/2023/12/02/the-advent-engine-2nd-december-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-12-02.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/nnOdluROyq1z5y0c.png"
@@ -7779,6 +8211,7 @@
 		"date": "2023-12-03",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/12/03/the-advent-engine-3rd-december-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-12-03.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/B1ykBI0ma9OQKElh.png"
@@ -7797,6 +8230,7 @@
 		"date": "2023-12-04",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/12/04/the-advent-engine-4th-december-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-12-04.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/iiOq58Sohf5HlWd8.png"
@@ -7815,6 +8249,7 @@
 		"date": "2023-12-05",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/12/05/the-advent-engine-5th-december-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-12-05.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/3mmKMWwbEOgXjkGp.png"
@@ -7833,6 +8268,7 @@
 		"date": "2023-12-06",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/12/06/the-advent-engine-6th-december-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-12-06.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/3wqplOyJYjeY1ITT.png"
@@ -7851,6 +8287,7 @@
 		"date": "2023-12-07",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/12/07/the-advent-engine-7th-december-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-12-07.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/cndFe6mxyifTpH1k.png"
@@ -7869,6 +8306,7 @@
 		"date": "2023-12-08",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/12/08/the-advent-engine-8th-december-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-12-08.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/4dEqrWTwiTO8PKfA.png"
@@ -7887,6 +8325,7 @@
 		"date": "2023-12-09",
 		"resolvedDate": "2023-12-25",
 		"link": "https://www.warhammer-community.com/2023/12/09/the-advent-engine-9th-december-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-12-09.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/wIpZlaw8aQsQbE3Q.png"
@@ -7905,6 +8344,7 @@
 		"date": "2023-12-10",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/12/10/the-advent-engine-10th-december-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-12-10.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/wLePl2Hn5SgdTwYV.png"
@@ -7923,6 +8363,7 @@
 		"date": "2023-12-11",
 		"resolvedDate": "2023-12-25",
 		"link": "https://www.warhammer-community.com/2023/12/11/the-advent-engine-11th-december-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-12-11.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/XKtFkVbJGL1Y0FeW.png"
@@ -7941,6 +8382,7 @@
 		"date": "2023-12-12",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/12/12/the-advent-engine-12th-december-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-12-12.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/TtzAjRgplKpEQYYO.png"
@@ -7959,6 +8401,7 @@
 		"date": "2023-12-13",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/12/13/the-advent-engine-13th-december-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-12-13.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/FJBh3yINPixFNixa.png"
@@ -7977,6 +8420,7 @@
 		"date": "2023-12-14",
 		"resolvedDate": "2023-12-25",
 		"link": "https://www.warhammer-community.com/2023/12/14/the-advent-engine-14th-december-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-12-14.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/8EoK3ah2Kj3WVBcK.png"
@@ -7995,6 +8439,7 @@
 		"date": "2023-12-15",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/12/15/the-advent-engine-15th-december-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-12-15.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/LFMP8q7SzARbPttz.png"
@@ -8013,6 +8458,7 @@
 		"date": "2023-12-16",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/12/16/the-advent-engine-16th-december-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-12-16.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/Zj4fScO3QYXzdwbY.png"
@@ -8031,6 +8477,7 @@
 		"date": "2023-12-17",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/12/17/the-advent-engine-17th-december-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-12-17.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/Ooq2GjEM7tVDdyUO.png"
@@ -8049,6 +8496,7 @@
 		"date": "2023-12-18",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/12/18/the-advent-engine-18th-december-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-12-18.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/J8w2cZQ9eCzqqnyL.png"
@@ -8067,6 +8515,7 @@
 		"date": "2023-12-19",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/12/19/the-advent-engine-19th-december-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-12-19.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/D389zvVOqKdoClnx.png"
@@ -8085,6 +8534,7 @@
 		"date": "2023-12-20",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/12/20/the-advent-engine-20th-december-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-12-20.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/12/bGNtWgNuT2EauJJj.png"
@@ -8103,6 +8553,7 @@
 		"date": "2023-12-21",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/12/21/the-advent-engine-21st-december-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-12-21.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/xgETvPfJ87NAbmG9.png"
@@ -8121,6 +8572,7 @@
 		"date": "2023-12-22",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/12/22/the-advent-engine-22nd-december-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-12-22.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/gnDCFAxKXj1gXZhl.png"
@@ -8139,6 +8591,7 @@
 		"date": "2023-12-23",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2023/12/23/the-advent-engine-23rd-december-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-12-23.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/GXhTk72hzQYS2V2D.png"
@@ -8157,6 +8610,7 @@
 		"date": "2023-12-24",
 		"resolvedDate": "2023-12-25",
 		"link": "https://www.warhammer-community.com/2023/12/24/the-advent-engine-24th-december-2023/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2023-12-24.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/LyvAB0Q749fIT50B.png"
@@ -8175,6 +8629,7 @@
 		"date": "2024-01-08",
 		"resolvedDate": "2024-01-19",
 		"link": "https://www.warhammer-community.com/2024/01/08/las-vegas-open-2024-tune-in-to-the-next-warhammer-preview/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2024-01-08.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/01/DqG9uwEP37vymJMi.jpg"
@@ -8193,6 +8648,7 @@
 		"date": "2024-01-09",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2024/01/09/the-rumour-engine-9th-january-2024/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2024-01-09.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/01/QPEjrnvL63Mlwdp6.jpg"
@@ -8211,6 +8667,7 @@
 		"date": "2024-01-16",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2024/01/16/the-rumour-engine-16th-january-2024/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2024-01-16.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/01/aC98IbVCYRnTbyfC.jpg"
@@ -8229,6 +8686,7 @@
 		"date": "2024-01-23",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2024/01/23/the-rumour-engine-23rd-january-2024/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2024-01-23.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/01/ps1VQ3t4wIBk4oL3.jpg"
@@ -8247,6 +8705,7 @@
 		"date": "2024-01-30",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2024/01/30/the-rumour-engine-30th-january-2024/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2024-01-30.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/01/zlkCWDQSunKCsSFC.jpg"
@@ -8265,6 +8724,7 @@
 		"date": "2024-02-06",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2024/02/06/the-rumour-engine-6th-february-2024/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2024-02-06.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/02/PEbN9jniUuoF46wu.jpg"
@@ -8283,6 +8743,7 @@
 		"date": "2024-02-13",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2024/02/13/the-rumour-engine-13th-february-2024/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2024-02-13.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/02/6LK0mHCYWktWeyOL.jpg"
@@ -8301,6 +8762,7 @@
 		"date": "2024-02-19",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2024/02/19/its-the-warhammer-world-anniversary-next-month-and-weve-got-reveals/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2024-02-19.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/02/yfeC8cRGezdeqMA7.jpg"
@@ -8319,6 +8781,7 @@
 		"date": "2024-02-20",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2024/02/20/the-rumour-engine-20th-february-2024/",
+		"resolvedLink": "",
 		"rumourEngineImage": {
 			"url": "2024-02-20.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/02/UlV4zVoRCLp4kO47.jpg"
