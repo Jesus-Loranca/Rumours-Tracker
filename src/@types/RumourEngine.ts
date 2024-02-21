@@ -3,6 +3,7 @@ export interface RumourEngine {
 		resolvedDate: string;
 		link: string;
 		resolvedLink: string;
+		resolvedEvent: string;
 		rumourEngineImage: {
 			url: string;
 			cdn: string;
