@@ -7501,23 +7501,23 @@
 	},
 	{
 		"date": "2022-11-15",
-		"resolvedDate": "",
+		"resolvedDate": "2023-12-23",
 		"link": "https://www.warhammer-community.com/2022/11/15/the-rumour-engine-15th-november-2022/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer.com/en-GB/shop/killzone-bheta-decima-2023",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2022-11-15.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/11/gAXUnVioKqXGAADn.jpg"
 		},
 		"miniature": {
-			"name": "",
-			"link": "",
+			"name": "Bheta-Decima Objective Markers",
+			"link": "https://www.warhammer.com/en-GB/shop/killzone-bheta-decima-2023",
 			"image": {
 				"url": "2022-11-15-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120199110_KTKZBhetaDecima03.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Kill Team"]
 	},
 	{
 		"date": "2022-11-22",
