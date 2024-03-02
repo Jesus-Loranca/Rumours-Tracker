@@ -9221,62 +9221,62 @@
 	},
 	{
 		"date": "2024-02-19",
-		"resolvedDate": "",
+		"resolvedDate": "2024-03-02",
 		"link": "https://www.warhammer-community.com/2024/02/19/its-the-warhammer-world-anniversary-next-month-and-weve-got-reveals/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/03/02/warhammer-world-anniversary-gnomes-bring-animals-illusions-and-pointy-hats-to-blood-bowl/",
+		"resolvedEvent": "Warhammer World Open Day",
 		"rumourEngineImage": {
 			"url": "2024-02-19.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/02/yfeC8cRGezdeqMA7.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Glimdwarrow Groundhogs",
 			"link": "",
 			"image": {
 				"url": "2024-02-19-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/mduIugFL9ju6EqlV.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Blood Bowl", "Gnomes"]
 	},
 	{
 		"date": "2024-02-20",
-		"resolvedDate": "",
+		"resolvedDate": "2024-03-02",
 		"link": "https://www.warhammer-community.com/2024/02/20/the-rumour-engine-20th-february-2024/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/03/02/warhammer-world-anniversary-gunnar-brand-leads-the-oathbound-into-the-mortal-realms/",
+		"resolvedEvent": "Warhammer World Open Day",
 		"rumourEngineImage": {
 			"url": "2024-02-20.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/02/UlV4zVoRCLp4kO47.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Broken Nadja",
 			"link": "",
 			"image": {
 				"url": "2024-02-20-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/dpwQ4Mhv0qbH1ORv.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Chaos", "Slaves to Darkness"]
 	},
 	{
 		"date": "2024-02-27",
-		"resolvedDate": "",
+		"resolvedDate": "2024-03-02",
 		"link": "https://www.warhammer-community.com/2024/02/27/the-rumour-engine-27th-february-2024/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/03/02/warhammer-world-anniversary-gunnar-brand-leads-the-oathbound-into-the-mortal-realms/",
+		"resolvedEvent": "Warhammer World Open Day",
 		"rumourEngineImage": {
 			"url": "2024-02-27.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/02/rfXs0RftoRGf6yBD.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Broken Nadja",
 			"link": "",
 			"image": {
-				"url": "2024-02-27-miniature.jpg",
-				"cdn": ""
+				"url": "2024-02-20-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/dpwQ4Mhv0qbH1ORv.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Chaos", "Slaves to Darkness"]
 	}
 ]
