@@ -8521,23 +8521,23 @@
 	},
 	{
 		"date": "2023-11-07",
-		"resolvedDate": "",
+		"resolvedDate": "2024-04-03",
 		"link": "https://www.warhammer-community.com/2023/11/07/the-rumour-engine-7th-november-2023/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/03/04/darkoath-army-set-meet-the-dark-mirror-of-the-cities-of-sigmar/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2023-11-07.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/3tiqPznI3obS7seI.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Wilderfiend",
 			"link": "",
 			"image": {
 				"url": "2023-11-07-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/bZxyrY6TbcPfzavc.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Chaos", "Slaves to Darkness"]
 	},
 	{
 		"date": "2023-11-14",
@@ -8581,23 +8581,23 @@
 	},
 	{
 		"date": "2023-11-28",
-		"resolvedDate": "",
+		"resolvedDate": "2024-04-03",
 		"link": "https://www.warhammer-community.com/2023/11/28/the-rumour-engine-28th-november-2023/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/03/04/darkoath-army-set-meet-the-dark-mirror-of-the-cities-of-sigmar/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2023-11-28.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/9o6jgcJay573r3aE.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Wilderfiend",
 			"link": "",
 			"image": {
-				"url": "2023-11-28-miniature.jpg",
-				"cdn": ""
+				"url": "2023-11-07-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/bZxyrY6TbcPfzavc.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Chaos", "Slaves to Darkness"]
 	},
 	{
 		"date": "2023-12-01",
@@ -8921,23 +8921,23 @@
 	},
 	{
 		"date": "2023-12-17",
-		"resolvedDate": "",
+		"resolvedDate": "2024-04-03",
 		"link": "https://www.warhammer-community.com/2023/12/17/the-advent-engine-17th-december-2023/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/03/04/darkoath-army-set-meet-the-dark-mirror-of-the-cities-of-sigmar/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2023-12-17.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/Ooq2GjEM7tVDdyUO.png"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Darkoath Fellriders",
 			"link": "",
 			"image": {
-				"url": "2023-12-17-miniature.jpg",
-				"cdn": ""
+				"url": "2023-12-17-miniature.png",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/FIvTZtkb0IF86Occ.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Chaos", "Slaves to Darkness"]
 	},
 	{
 		"date": "2023-12-18",
