@@ -9278,5 +9278,25 @@
 			}
 		},
 		"tags": ["Age of Sigmar", "Chaos", "Slaves to Darkness"]
+	},
+	{
+		"date": "2024-03-05",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2024/03/05/the-rumour-engine-5th-march-2024/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2024-03-05.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/vfVBZ2HouDLJ8Ull.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2024-03-05-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
