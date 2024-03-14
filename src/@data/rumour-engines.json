@@ -9318,5 +9318,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2024-03-14",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2024/03/14/middle-earth-strategy-battle-game-grand-tournament-2024-review/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2024-03-14.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/n4KSKTFAQMIWpS4T.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2024-03-14-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": ["Middle-earth", "The Lord of the Rings - Good"]
 	}
 ]
