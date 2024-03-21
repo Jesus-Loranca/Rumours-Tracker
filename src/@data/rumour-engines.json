@@ -1094,7 +1094,7 @@
 			"link": "https://www.warhammer.com/en-GB/shop/Adeptus-Custodes-Custodian-Wardens-2018",
 			"image": {
 				"url": "2017-12-05-miniature.jpg",
-				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120108013_CustodianWardens01.jpg"
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/threeSixty/99120108013_AdeptusCustodesCustodian%20Wardens2360/01.jpg"
 			}
 		},
 		"tags": ["40.000", "Armies of the Imperium", "Adeptus Custodes"]
@@ -1150,14 +1150,14 @@
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2017/12/Jan2-RumourEngine1yrcls.jpg"
 		},
 		"miniature": {
-			"name": "Ravenak's Gnashing Jaws",
-			"link": "https://www.warhammer.com/en-GB/shop/Malign-Sorcery-Spells-2021",
+			"name": "Everblaze Comet",
+			"link": "https://www.warhammer.com/en-GB/shop/Battlemagic-Stormcast-2018",
 			"image": {
 				"url": "2018-01-02-miniature.jpg",
-				"cdn": "https://www.warhammer.com/app/resources/catalog/product/threeSixty/60120299001_RavenaksGnashingJaws360/01.jpg"
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/threeSixty/99120218032_EverblazeComet360/01.jpg"
 			}
 		},
-		"tags": ["Age of Sigmar"]
+		"tags": ["Age of Sigmar", "Order", "Stormcast Eternals"]
 	},
 	{
 		"date": "2018-01-09 ",
@@ -6270,11 +6270,11 @@
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/uaNkhhIs7STvdFM0.jpg"
 		},
 		"miniature": {
-			"name": "Rangers",
-			"link": "https://www.warhammer.com/en-GB/shop/aeldari-rangers-2022",
+			"name": "Shroud Runners",
+			"link": "https://www.warhammer.com/en-GB/shop/aeldari-shroud-runners-2022",
 			"image": {
-				"url": "2021-04-20-miniature.jpg",
-				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120104073_AELRangersLead.jpg"
+				"url": "2021-12-01-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120104074_ShroudRunnersLead.jpg"
 			}
 		},
 		"tags": ["40.000", "Xenos Armies", "Aeldari"]
@@ -6430,11 +6430,11 @@
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2021/12/qr1xNLfO9a8yk4hg.jpg"
 		},
 		"miniature": {
-			"name": "Rangers",
-			"link": "https://www.warhammer.com/en-GB/shop/aeldari-rangers-2022",
+			"name": "Shroud Runners",
+			"link": "https://www.warhammer.com/en-GB/shop/aeldari-shroud-runners-2022",
 			"image": {
-				"url": "2021-04-20-miniature.jpg",
-				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120104073_AELRangersLead.jpg"
+				"url": "2021-12-01-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120104074_ShroudRunnersLead.jpg"
 			}
 		},
 		"tags": ["40.000", "Xenos Armies", "Aeldari"]
