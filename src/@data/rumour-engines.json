@@ -8321,23 +8321,23 @@
 	},
 	{
 		"date": "2023-08-29",
-		"resolvedDate": "",
+		"resolvedDate": "2024-03-21",
 		"link": "https://www.warhammer-community.com/2023/08/29/the-rumour-engine-29th-august-2023/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/03/21/adepticon-preview-twisted-followers-of-alarielle-and-nagash-battle-in-briar-and-bone/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2023-08-29.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/08/bCK9CSI4r2m0dHAI.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Teratic Cohort",
 			"link": "",
 			"image": {
-				"url": "2023-08-29-miniature.jpg",
-				"cdn": ""
+				"url": "2023-08-29-miniature.png",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/m86cZ50ZQQfCN7oN.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Warcry", "Death", "Ossiarch Bonereapers"]
 	},
 	{
 		"date": "2023-09-05",
@@ -8381,23 +8381,23 @@
 	},
 	{
 		"date": "2023-09-19",
-		"resolvedDate": "",
+		"resolvedDate": "2024-03-21",
 		"link": "https://www.warhammer-community.com/2023/09/19/the-rumour-engine-19th-september-2023/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/03/21/adepticon-preview-twisted-followers-of-alarielle-and-nagash-battle-in-briar-and-bone/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2023-09-19.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/09/F10bM2HqIX3Y9C7V.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Teratic Cohort",
 			"link": "",
 			"image": {
-				"url": "2023-09-19-miniature.jpg",
-				"cdn": ""
+				"url": "2023-08-29-miniature.png",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/m86cZ50ZQQfCN7oN.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Warcry", "Death", "Ossiarch Bonereapers"]
 	},
 	{
 		"date": "2023-09-26",
@@ -8441,43 +8441,43 @@
 	},
 	{
 		"date": "2023-10-10",
-		"resolvedDate": "",
+		"resolvedDate": "2024-03-21",
 		"link": "https://www.warhammer-community.com/2023/10/10/the-rumour-engine-10th-october-2023/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/03/21/adepticon-preview-the-spear-of-the-everchosen-heralds-the-final-chapter-of-the-dawnbringers-series/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2023-10-10.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/10/Xkhi4juO6CMrx3oB.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Abraxia, Spear of the Everchosen",
 			"link": "",
 			"image": {
 				"url": "2023-10-10-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/B0MP35P1AOAioB55.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Chaos", "Slaves to Darkness"]
 	},
 	{
 		"date": "2023-10-17",
-		"resolvedDate": "",
+		"resolvedDate": "2024-03-21",
 		"link": "https://www.warhammer-community.com/2023/10/17/the-rumour-engine-17th-october-2023/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/03/21/adepticon-2024-kill-team-termination-sees-brood-brothers-battle-hernkyn/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2023-10-17.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/10/jTRzQBWMdMibirxx.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Hernkyn Yaegir",
 			"link": "",
 			"image": {
-				"url": "2023-10-17-miniature.jpg",
-				"cdn": ""
+				"url": "2023-10-17-miniature.png",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/skiKJ4RzRr98MIXj.png"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Kill Team", "Xenos Armies", "Leagues of Votann"]
 	},
 	{
 		"date": "2023-10-24",
@@ -8501,23 +8501,23 @@
 	},
 	{
 		"date": "2023-10-31",
-		"resolvedDate": "",
+		"resolvedDate": "2024-03-21",
 		"link": "https://www.warhammer-community.com/2023/10/31/the-rumour-engine-31st-october-2023/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/03/21/adepticon-2024-kill-team-termination-sees-brood-brothers-battle-hernkyn/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2023-10-31.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/10/hrL6OYc2Y5IgmOyF.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Hernkyn Yaegir",
 			"link": "",
 			"image": {
-				"url": "2023-10-31-miniature.jpg",
-				"cdn": ""
+				"url": "2023-10-31-miniature.png",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/Ug3ZhlqSdzxdXyZz.png"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Kill Team", "Xenos Armies", "Leagues of Votann"]
 	},
 	{
 		"date": "2023-11-07",
@@ -8541,43 +8541,43 @@
 	},
 	{
 		"date": "2023-11-14",
-		"resolvedDate": "",
+		"resolvedDate": "2024-03-21",
 		"link": "https://www.warhammer-community.com/2023/11/14/the-rumour-engine-14th-november-2023/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/03/21/adepticon-2024-kill-team-termination-sees-brood-brothers-battle-hernkyn/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2023-11-14.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/hZBWFU4wyVJoyUqb.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Hernkyn Yaegir",
 			"link": "",
 			"image": {
-				"url": "2023-11-14-miniature.jpg",
-				"cdn": ""
+				"url": "2023-10-17-miniature.png",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/skiKJ4RzRr98MIXj.png"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Kill Team", "Xenos Armies", "Leagues of Votann"]
 	},
 	{
 		"date": "2023-11-21",
-		"resolvedDate": "",
+		"resolvedDate": "2024-03-21",
 		"link": "https://www.warhammer-community.com/2023/11/21/the-rumour-engine-21st-november-2023/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/03/21/adepticon-preview-the-spear-of-the-everchosen-heralds-the-final-chapter-of-the-dawnbringers-series/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2023-11-21.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/EtqaYFbAQp5oHtFN.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Abraxia, Spear of the Everchosen",
 			"link": "",
 			"image": {
-				"url": "2023-11-21-miniature.jpg",
-				"cdn": ""
+				"url": "2023-10-10-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/B0MP35P1AOAioB55.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Chaos", "Slaves to Darkness"]
 	},
 	{
 		"date": "2023-11-28",
@@ -8721,23 +8721,23 @@
 	},
 	{
 		"date": "2023-12-07",
-		"resolvedDate": "",
+		"resolvedDate": "2024-03-21",
 		"link": "https://www.warhammer-community.com/2023/12/07/the-advent-engine-7th-december-2023/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/03/21/adepticon-preview-zealots-and-butchers-clash-in-the-frozen-gullet-of-wintermaw/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2023-12-07.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/cndFe6mxyifTpH1k.png"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Brethren of the Bolt",
 			"link": "",
 			"image": {
 				"url": "2023-12-07-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/aK4jeboquQpmacw9.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Underworlds", "Wintermaw", "Order", "Cities of Sigmar"]
 	},
 	{
 		"date": "2023-12-08",
@@ -8821,23 +8821,23 @@
 	},
 	{
 		"date": "2023-12-12",
-		"resolvedDate": "",
+		"resolvedDate": "2024-03-21",
 		"link": "https://www.warhammer-community.com/2023/12/12/the-advent-engine-12th-december-2023/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/03/21/adepticon-preview-zealots-and-butchers-clash-in-the-frozen-gullet-of-wintermaw/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2023-12-12.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/TtzAjRgplKpEQYYO.png"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Brethren of the Bolt",
 			"link": "",
 			"image": {
-				"url": "2023-12-12-miniature.jpg",
-				"cdn": ""
+				"url": "2023-12-07-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/aK4jeboquQpmacw9.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Underworlds", "Wintermaw", "Order", "Cities of Sigmar"]
 	},
 	{
 		"date": "2023-12-13",
@@ -8941,23 +8941,23 @@
 	},
 	{
 		"date": "2023-12-18",
-		"resolvedDate": "",
+		"resolvedDate": "2024-03-21",
 		"link": "https://www.warhammer-community.com/2023/12/18/the-advent-engine-18th-december-2023/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/03/21/adepticon-preview-the-spear-of-the-everchosen-heralds-the-final-chapter-of-the-dawnbringers-series/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2023-12-18.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/J8w2cZQ9eCzqqnyL.png"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Abraxia, Spear of the Everchosen",
 			"link": "",
 			"image": {
-				"url": "2023-12-18-miniature.jpg",
-				"cdn": ""
+				"url": "2023-10-10-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/B0MP35P1AOAioB55.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Chaos", "Slaves to Darkness"]
 	},
 	{
 		"date": "2023-12-19",
@@ -9021,23 +9021,23 @@
 	},
 	{
 		"date": "2023-12-22",
-		"resolvedDate": "",
+		"resolvedDate": "2024-03-21",
 		"link": "https://www.warhammer-community.com/2023/12/22/the-advent-engine-22nd-december-2023/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/03/21/adepticon-preview-the-spear-of-the-everchosen-heralds-the-final-chapter-of-the-dawnbringers-series/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2023-12-22.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/gnDCFAxKXj1gXZhl.png"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Abraxia, Spear of the Everchosen",
 			"link": "",
 			"image": {
-				"url": "2023-12-22-miniature.jpg",
-				"cdn": ""
+				"url": "2023-10-10-miniature.jpg",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/B0MP35P1AOAioB55.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Chaos", "Slaves to Darkness"]
 	},
 	{
 		"date": "2023-12-23",
@@ -9161,43 +9161,43 @@
 	},
 	{
 		"date": "2024-01-30",
-		"resolvedDate": "",
+		"resolvedDate": "2024-03-21",
 		"link": "https://www.warhammer-community.com/2024/01/30/the-rumour-engine-30th-january-2024/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/03/21/adepticon-preview-twisted-followers-of-alarielle-and-nagash-battle-in-briar-and-bone/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2024-01-30.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/01/zlkCWDQSunKCsSFC.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Twistweald",
 			"link": "",
 			"image": {
-				"url": "2024-01-30-miniature.jpg",
-				"cdn": ""
+				"url": "2024-01-30-miniature.png",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/6GffaXPSrCrftJL0.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Warcry", "Order", "Sylvaneth"]
 	},
 	{
 		"date": "2024-02-06",
-		"resolvedDate": "",
+		"resolvedDate": "2024-03-21",
 		"link": "https://www.warhammer-community.com/2024/02/06/the-rumour-engine-6th-february-2024/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/03/21/adepticon-2024-kill-team-termination-sees-brood-brothers-battle-hernkyn/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2024-02-06.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/02/PEbN9jniUuoF46wu.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Hernkyn Yaegir",
 			"link": "",
 			"image": {
-				"url": "2024-02-06-miniature.jpg",
-				"cdn": ""
+				"url": "2023-10-31-miniature.png",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/Ug3ZhlqSdzxdXyZz.png"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Kill Team", "Xenos Armies", "Leagues of Votann"]
 	},
 	{
 		"date": "2024-02-13",
@@ -9281,23 +9281,23 @@
 	},
 	{
 		"date": "2024-03-05",
-		"resolvedDate": "",
+		"resolvedDate": "2024-03-21",
 		"link": "https://www.warhammer-community.com/2024/03/05/the-rumour-engine-5th-march-2024/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/03/21/adepticon-preview-the-dwarfen-mountain-holds/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2024-03-05.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/vfVBZ2HouDLJ8Ull.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Dwarf Lords with Shieldbearers",
 			"link": "",
 			"image": {
 				"url": "2024-03-05-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/7cYv1vlaVPLobPrY.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["The Orld World", "Dwarfen Mountain Holds"]
 	},
 	{
 		"date": "2024-03-12",
