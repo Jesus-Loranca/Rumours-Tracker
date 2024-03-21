@@ -7301,19 +7301,39 @@
 	},
 	{
 		"date": "2022-08-30",
-		"resolvedDate": "2023-03-04",
+		"resolvedDate": "2022-12-24",
 		"link": "https://www.warhammer-community.com/2022/08/30/the-rumour-engine-30th-august-2022/",
-		"resolvedLink": "https://www.warhammer-community.com/2023/03/04/warhammer-world-open-day-new-reveals-for-warhammer-40000-and-warhammer-age-of-sigmar/",
-		"resolvedEvent": "Warhammer World Open Day",
+		"resolvedLink": "https://www.warhammer-community.com/2022/12/24/tis-the-night-before-christmas-and-da-red-gobbos-brought-his-mates/",
+		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2022-08-30.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/08/91N40TNFqoHjWE6S.jpg"
 		},
 		"miniature": {
+			"name": "Squigboss with Gnasha-squig",
+			"link": "https://www.warhammer.com/en-GB/shop/gloomspite-gitz-squigboss-with-gnasha-squig-2023",
+			"image": {
+				"url": "2022-08-30-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070209009_GGSquigbosswithGnashaSquig01.jpg"
+			}
+		},
+		"tags": ["Age of Sigmar", "Destruction", "Gloomspite Gitz"]
+	},
+	{
+		"date": "2022-09-06",
+		"resolvedDate": "2023-03-04",
+		"link": "https://www.warhammer-community.com/2022/09/06/the-rumour-engine-6th-september-2022/",
+		"resolvedLink": "https://www.warhammer-community.com/2023/03/04/commander-farsight-returns-with-a-stylish-new-battlesuit-an-arks-of-omen-book-and-a-boarding-patrol/",
+		"resolvedEvent": "Warhammer World Open Day",
+		"rumourEngineImage": {
+			"url": "2022-09-06.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2022/09/wyCrYCOVYnd1cZKM.jpg"
+		},
+		"miniature": {
 			"name": "Commander Farsight",
 			"link": "https://www.warhammer.com/en-GB/shop/tau-empire-commander-farsight-2023",
 			"image": {
-				"url": "2022-08-30-miniature.jpg",
+				"url": "2022-09-06-miniature.jpg",
 				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120113094_TAUBoardingPatrol01.jpg"
 			}
 		},
