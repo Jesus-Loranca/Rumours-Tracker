@@ -7971,13 +7971,13 @@
 		},
 		"miniature": {
 			"name": "Mandrakes",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/kill-team-nightmare-english-2024",
 			"image": {
-				"url": "2023-04-18-miniature.png",
-				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/01/vpuRTGUczDsA74Bw.png"
+				"url": "2023-04-18-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60010199068_EngKTNightmare04.jpg"
 			}
 		},
-		"tags": ["40.000", "Xenos Armies", "T'au Empire"]
+		"tags": ["40.000", "Xenos Armies", "Drukhari"]
 	},
 	{
 		"date": "2023-04-25",
@@ -8011,10 +8011,10 @@
 		},
 		"miniature": {
 			"name": "Nemesis Claws",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/kill-team-nightmare-english-2024",
 			"image": {
 				"url": "2023-05-02-miniature.jpg",
-				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/wS8Cx6ehTuV4VwCV.jpg"
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60010199068_EngKTNightmare03.jpg"
 			}
 		},
 		"tags": ["40.000", "Kill Team", "Armies of Chaos", "Chaos Space Marines"]
@@ -8071,10 +8071,10 @@
 		},
 		"miniature": {
 			"name": "Nemesis Claws",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/kill-team-nightmare-english-2024",
 			"image": {
 				"url": "2023-05-02-miniature.jpg",
-				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/wS8Cx6ehTuV4VwCV.jpg"
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60010199068_EngKTNightmare03.jpg"
 			}
 		},
 		"tags": ["40.000", "Kill Team", "Armies of Chaos", "Chaos Space Marines"]
@@ -9250,11 +9250,11 @@
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/02/yfeC8cRGezdeqMA7.jpg"
 		},
 		"miniature": {
-			"name": "Glimdwarrow Groundhogs",
-			"link": "",
+			"name": "The Glimdwarrow Groundhogs",
+			"link": "https://www.warhammer.com/en-GB/shop/blood-bowl-gnome-team-2024",
 			"image": {
 				"url": "2024-02-19-miniature.jpg",
-				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/mduIugFL9ju6EqlV.jpg"
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120999017_BBGnomeTeam02.jpg"
 			}
 		},
 		"tags": ["Blood Bowl", "Gnomes"]
