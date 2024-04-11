@@ -9341,20 +9341,20 @@
 	},
 	{
 		"date": "2024-03-14",
-		"resolvedDate": "",
+		"resolvedDate": "2024-04-11",
 		"link": "https://www.warhammer-community.com/2024/03/14/middle-earth-strategy-battle-game-grand-tournament-2024-review/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/04/11/middle-earth-strategy-battle-game-reinforcements-arrive-in-the-north/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2024-03-14.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/n4KSKTFAQMIWpS4T.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Knights of Arnor",
 			"link": "",
 			"image": {
 				"url": "2024-03-14-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/04/3zdzgrU4lNjs9QH7.jpg"
 			}
 		},
 		"tags": ["Middle-earth", "The Lord of the Rings - Good"]
@@ -9438,5 +9438,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2024-04-11",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2024/04/11/middle-earth-strategy-battle-game-reinforcements-arrive-in-the-north/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2024-04-11.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/04/8OUEHSYIFpiHfmMo.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2024-04-11-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": ["Middle-earth", "The Lord of the Rings - Good"]
 	}
 ]
