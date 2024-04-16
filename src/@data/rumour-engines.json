@@ -9458,5 +9458,25 @@
 			}
 		},
 		"tags": ["Middle-earth", "The Lord of the Rings - Good"]
+	},
+	{
+		"date": "2024-04-16",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2024/04/16/the-rumour-engine-16th-april-2024/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2024-04-16.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/04/nBDnMuVi2DUh3NEP.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2024-04-16-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
