@@ -8,6 +8,7 @@
 	(useGridViewButtonEvent)="useGridViewButtonEventHandler($event)"
 >
 </filters>
+<counter [rumourEngines]="rumourEngines"></counter>
 <vertical-timeline [rumourEngines]="rumourEngines" *ngIf="!useGridView"></vertical-timeline>
 <grid-view [rumourEngines]="rumourEngines" *ngIf="useGridView"></grid-view>
 <back-to-top></back-to-top>
