@@ -9441,20 +9441,20 @@
 	},
 	{
 		"date": "2024-04-11",
-		"resolvedDate": "",
+		"resolvedDate": "2024-05-16",
 		"link": "https://www.warhammer-community.com/2024/04/11/middle-earth-strategy-battle-game-reinforcements-arrive-in-the-north/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/05/16/middle-earth-strategy-battle-game-a-new-captain-of-arnor/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2024-04-11.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/04/8OUEHSYIFpiHfmMo.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Argadir, Captain of Arnor",
 			"link": "",
 			"image": {
 				"url": "2024-04-11-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/05/omxJdIPlqyq1ucnM.jpg"
 			}
 		},
 		"tags": ["Middle-earth", "The Lord of the Rings - Good"]
@@ -9574,6 +9574,26 @@
 			"link": "",
 			"image": {
 				"url": "2024-05-14-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2024-05-16",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2024/05/16/middle-earth-strategy-battle-game-a-new-captain-of-arnor/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2024-05-16.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/05/ZZej5OzAhZQU8N0Y.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2024-05-16-miniature.jpg",
 				"cdn": ""
 			}
 		},
