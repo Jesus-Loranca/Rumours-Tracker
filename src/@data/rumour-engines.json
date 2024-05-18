@@ -9421,23 +9421,23 @@
 	},
 	{
 		"date": "2024-04-09",
-		"resolvedDate": "",
+		"resolvedDate": "2024-05-18",
 		"link": "https://www.warhammer-community.com/2024/04/09/the-rumour-engine-9th-april-2024/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/05/18/the-warhammer-preview-show-the-new-flying-canoness-rains-faith-and-fire-from-the-heavens/#gallery-1-1",
+		"resolvedEvent": "The Warhammer Preview Show",
 		"rumourEngineImage": {
 			"url": "2024-04-09.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/04/tgOUEU3GKn6uF83R.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Canoness with Jump Pack",
 			"link": "",
 			"image": {
 				"url": "2024-04-09-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/05/5HiypiAos2njcr8H.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of the Imperium", "Adepta Sororitas"]
 	},
 	{
 		"date": "2024-04-11",
@@ -9461,23 +9461,23 @@
 	},
 	{
 		"date": "2024-04-16",
-		"resolvedDate": "",
+		"resolvedDate": "2024-05-18",
 		"link": "https://www.warhammer-community.com/2024/04/16/the-rumour-engine-16th-april-2024/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/05/18/warhammer-preview-the-genestealer-cults-get-a-big-brained-new-benefictus/",
+		"resolvedEvent": "The Warhammer Preview Show",
 		"rumourEngineImage": {
 			"url": "2024-04-16.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/04/nBDnMuVi2DUh3NEP.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Benefictus",
 			"link": "",
 			"image": {
 				"url": "2024-04-16-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/05/s68pLrXPPjPbQXba.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Xenos Armies", "Genestealer Cults"]
 	},
 	{
 		"date": "2024-04-23",
@@ -9541,23 +9541,23 @@
 	},
 	{
 		"date": "2024-05-13",
-		"resolvedDate": "",
+		"resolvedDate": "2024-05-18",
 		"link": "https://www.warhammer-community.com/2024/05/13/there-are-two-huge-warhammer-preview-shows-this-week/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/05/18/warhammer-preview-plunder-the-haunted-depths-of-necromunda-hive-secundus/",
+		"resolvedEvent": "The Warhammer Preview Show",
 		"rumourEngineImage": {
 			"url": "2024-05-13.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/05/EyKgxYkW7FsJdeGH.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Malstrain Genestealers",
 			"link": "",
 			"image": {
-				"url": "2024-05-13-miniature.jpg",
-				"cdn": ""
+				"url": "2024-05-13-miniature.png",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/05/tpHwXZY5c898YkJk.png"
 			}
 		},
-		"tags": []
+		"tags": ["Necromunda", "Hive Secundus"]
 	},
 	{
 		"date": "2024-05-14",
