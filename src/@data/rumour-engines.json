@@ -9638,5 +9638,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2024-06-04",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2024/06/04/the-rumour-engine-4th-june-2024/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2024-06-04.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/06/ccwkVuVfU6U4tCW6.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2024-06-04-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
