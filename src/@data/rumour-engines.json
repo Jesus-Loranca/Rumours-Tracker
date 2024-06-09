@@ -9431,7 +9431,7 @@
 		},
 		"miniature": {
 			"name": "Canoness with Jump Pack",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/adepta-sororitas-battleforce-army-of-faith-2024",
 			"image": {
 				"url": "2024-04-09-miniature.jpg",
 				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/05/5HiypiAos2njcr8H.jpg"
@@ -9471,10 +9471,10 @@
 		},
 		"miniature": {
 			"name": "Benefictus",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/genestealer-cults-battleforces-biosantic-broodsurge-2024",
 			"image": {
 				"url": "2024-04-16-miniature.jpg",
-				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/05/s68pLrXPPjPbQXba.jpg"
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120117027_BiosanticBroodsurgeEXTRA.jpg"
 			}
 		},
 		"tags": ["40.000", "Xenos Armies", "Genestealer Cults"]
