@@ -9583,21 +9583,21 @@
 		"date": "2024-05-16",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2024/05/16/middle-earth-strategy-battle-game-a-new-captain-of-arnor/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/06/13/a-scavenger-hunts-whos-this-new-miniature-for-the-middle-earth-strategy-battle-game/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2024-05-16.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/05/ZZej5OzAhZQU8N0Y.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Nazthák Orc Captain",
 			"link": "",
 			"image": {
 				"url": "2024-05-16-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/06/BULnE7o38rfe3BjE.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Middle-earth", "The Lord of the Rings - Evil"]
 	},
 	{
 		"date": "2024-05-21",
@@ -9674,6 +9674,26 @@
 			"link": "",
 			"image": {
 				"url": "2024-06-11-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2024-06-13",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2024/06/13/a-scavenger-hunts-whos-this-new-miniature-for-the-middle-earth-strategy-battle-game/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2024-06-13.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/06/qXZw4jwhz3HZPfPJ.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2024-06-13-miniature.jpg",
 				"cdn": ""
 			}
 		},
