@@ -9738,5 +9738,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2024-07-02",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2024/07/02/the-rumour-engine-2nd-july-2024/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2024-07-02.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/07/nlbTK90sp1tHrOPi.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2024-07-02-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
