@@ -9681,23 +9681,23 @@
 	},
 	{
 		"date": "2024-06-13",
-		"resolvedDate": "",
+		"resolvedDate": "2024-07-18",
 		"link": "https://www.warhammer-community.com/2024/06/13/a-scavenger-hunts-whos-this-new-miniature-for-the-middle-earth-strategy-battle-game/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/07/18/middle-earth-strategy-battle-game-hail-the-last-king-of-gondor/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2024-06-13.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/06/qXZw4jwhz3HZPfPJ.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Eärnur, the Last King of Gondor",
 			"link": "",
 			"image": {
 				"url": "2024-06-13-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/07/AGoBdc5JOlhm7igX.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Middle-earth", "The Lord of the Rings - Good"]
 	},
 	{
 		"date": "2024-06-18",
@@ -9794,6 +9794,26 @@
 			"link": "",
 			"image": {
 				"url": "2024-07-16-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2024-07-18",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2024/07/18/middle-earth-strategy-battle-game-hail-the-last-king-of-gondor/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2024-07-18.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/07/OPWwu5j3gMqrjipl.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2024-07-18-miniature.jpg",
 				"cdn": ""
 			}
 		},
