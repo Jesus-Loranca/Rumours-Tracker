@@ -9311,10 +9311,10 @@
 		},
 		"miniature": {
 			"name": "Dwarf Lords with Shieldbearers",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/dwarfen-mountain-holds-dwarf-lords-with-shieldbearers-2024",
 			"image": {
 				"url": "2024-03-05-miniature.jpg",
-				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/7cYv1vlaVPLobPrY.jpg"
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99122705009_WHtOWDMHLordShieldbearers1.jpg"
 			}
 		},
 		"tags": ["The Orld World", "Dwarfen Mountain Holds"]
@@ -9551,13 +9551,13 @@
 		},
 		"miniature": {
 			"name": "Malstrain Genestealers",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/necromunda-hive-secundus-2024",
 			"image": {
 				"url": "2024-05-13-miniature.png",
 				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/05/tpHwXZY5c898YkJk.png"
 			}
 		},
-		"tags": ["Necromunda", "Hive Secundus"]
+		"tags": ["Necromunda", "Hive Secundus", "Forces of the Malstrain"]
 	},
 	{
 		"date": "2024-05-14",
