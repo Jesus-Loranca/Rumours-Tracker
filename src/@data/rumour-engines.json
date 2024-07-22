@@ -8681,23 +8681,23 @@
 	},
 	{
 		"date": "2023-12-04",
-		"resolvedDate": "",
+		"resolvedDate": "2024-07-22",
 		"link": "https://www.warhammer-community.com/2023/12/04/the-advent-engine-4th-december-2023/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/07/22/codex-imperial-agents-unleash-the-might-of-the-emperors-inquisition/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2023-12-04.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/iiOq58Sohf5HlWd8.png"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Inquisitor Lord Torquemada Coteaz",
 			"link": "",
 			"image": {
 				"url": "2023-12-04-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/07/V1jVbViuI024UFXJ.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of the Imperium", "Imperial Agents", "Ordo Malleus"]
 	},
 	{
 		"date": "2023-12-05",
