@@ -8351,10 +8351,10 @@
 		},
 		"miniature": {
 			"name": "Teratic Cohort",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/warcry-briar-and-bone-2024-eng",
 			"image": {
-				"url": "2023-08-29-miniature.png",
-				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/m86cZ50ZQQfCN7oN.png"
+				"url": "2023-08-29-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60120299006_ENGWCBriarBone3.jpg"
 			}
 		},
 		"tags": ["Age of Sigmar", "Warcry", "Death", "Ossiarch Bonereapers"]
@@ -8413,8 +8413,8 @@
 			"name": "Teratic Cohort",
 			"link": "",
 			"image": {
-				"url": "2023-08-29-miniature.png",
-				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/m86cZ50ZQQfCN7oN.png"
+				"url": "2023-08-29-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60120299006_ENGWCBriarBone3.jpg"
 			}
 		},
 		"tags": ["Age of Sigmar", "Warcry", "Death", "Ossiarch Bonereapers"]
@@ -9191,10 +9191,10 @@
 		},
 		"miniature": {
 			"name": "Twistweald",
-			"link": "",
+			"link": "https://www.warhammer.com/app/resources/catalog/product/920x950/60120299006_ENGWCBriarBone3.jpg",
 			"image": {
-				"url": "2024-01-30-miniature.png",
-				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/6GffaXPSrCrftJL0.png"
+				"url": "2024-01-30-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60120299006_ENGWCBriarBone2.jpg"
 			}
 		},
 		"tags": ["Age of Sigmar", "Warcry", "Order", "Sylvaneth"]
@@ -9221,23 +9221,23 @@
 	},
 	{
 		"date": "2024-02-13",
-		"resolvedDate": "",
+		"resolvedDate": "2024-03-21",
 		"link": "https://www.warhammer-community.com/2024/02/13/the-rumour-engine-13th-february-2024/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/03/21/adepticon-preview-twisted-followers-of-alarielle-and-nagash-battle-in-briar-and-bone/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2024-02-13.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/02/6LK0mHCYWktWeyOL.jpg"
 		},
 		"miniature": {
-			"name": "",
-			"link": "",
+			"name": "Ravening Gnarloak",
+			"link": "https://www.warhammer.com/app/resources/catalog/product/920x950/60120299006_ENGWCBriarBone3.jpg",
 			"image": {
 				"url": "2024-02-13-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60120299006_ENGWCBriarBone4.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Warcry"]
 	},
 	{
 		"date": "2024-02-19",
