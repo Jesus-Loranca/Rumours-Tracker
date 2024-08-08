@@ -9801,23 +9801,23 @@
 	},
 	{
 		"date": "2024-07-18",
-		"resolvedDate": "",
+		"resolvedDate": "2024-08-08",
 		"link": "https://www.warhammer-community.com/2024/07/18/middle-earth-strategy-battle-game-hail-the-last-king-of-gondor/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/08/08/middle-earth-strategy-battle-game-the-rise-of-angmar/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2024-07-18.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/07/OPWwu5j3gMqrjipl.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Warriors of Carn Dûm",
 			"link": "",
 			"image": {
-				"url": "2024-07-18-miniature.jpg",
-				"cdn": ""
+				"url": "2024-07-18-miniature.png",
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/08/C4c4cyGxa12ZZovP.png"
 			}
 		},
-		"tags": []
+		"tags": ["Middle-earth", "The Lord of the Rings - Evil"]
 	},
 	{
 		"date": "2024-07-23",
