@@ -4617,7 +4617,7 @@
 				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99070108008_SoBSisterDogmataLead.jpg"
 			}
 		},
-		"tags": ["40.000", "Agents of the Imperium", "Adepta Sororitas"]
+		"tags": ["40.000", "Armies of the Imperium", "Adepta Sororitas"]
 	},
 	{
 		"date": "2020-12-08",
@@ -8691,10 +8691,10 @@
 		},
 		"miniature": {
 			"name": "Inquisitor Lord Torquemada Coteaz",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/imperial-agents-battleforce-ordo-malleus-2024",
 			"image": {
 				"url": "2023-12-04-miniature.jpg",
-				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/07/V1jVbViuI024UFXJ.jpg"
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120108089_OrdoMalleusBattleforceCortez.jpg"
 			}
 		},
 		"tags": ["40.000", "Armies of the Imperium", "Imperial Agents", "Ordo Malleus"]
