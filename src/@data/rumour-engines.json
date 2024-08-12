@@ -9321,23 +9321,23 @@
 	},
 	{
 		"date": "2024-03-12",
-		"resolvedDate": "",
+		"resolvedDate": "2024-08-12",
 		"link": "https://www.warhammer-community.com/2024/03/12/the-rumour-engine-12th-march-2024/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/08/12/blood-angels-reveals-angelic-visions-descend-to-rout-the-enemies-of-baal/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2024-03-12.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/UwyjaBupPhzrG6w2.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Sanguinor",
 			"link": "",
 			"image": {
 				"url": "2024-03-12-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/08/mLtrj5Os0b33IYQA.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Space Marines", "Blood Angels"]
 	},
 	{
 		"date": "2024-03-14",
