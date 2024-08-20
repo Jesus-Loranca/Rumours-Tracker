@@ -9898,5 +9898,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2024-08-20",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2024/08/20/the-rumour-engine-20th-of-august/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2024-08-20.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/08/IFN1TurnLMGtfZUb.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2024-08-20-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
