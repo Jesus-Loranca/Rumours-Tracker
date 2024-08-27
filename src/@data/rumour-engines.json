@@ -9351,7 +9351,7 @@
 		},
 		"miniature": {
 			"name": "Knights of Arnor",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/knights-of-arnor-2024",
 			"image": {
 				"url": "2024-03-14-miniature.jpg",
 				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/04/3zdzgrU4lNjs9QH7.jpg"
@@ -9451,7 +9451,7 @@
 		},
 		"miniature": {
 			"name": "Argadir, Captain of Arnor",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/aranarth-and-argadir-heroes-of-arnor-2024",
 			"image": {
 				"url": "2024-04-11-miniature.jpg",
 				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/05/omxJdIPlqyq1ucnM.jpg"
@@ -9591,7 +9591,7 @@
 		},
 		"miniature": {
 			"name": "Nazthák Orc Captain",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/nazthak-and-the-shadow-of-rhudaur-2024",
 			"image": {
 				"url": "2024-05-16-miniature.jpg",
 				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/06/BULnE7o38rfe3BjE.jpg"
@@ -9691,7 +9691,7 @@
 		},
 		"miniature": {
 			"name": "Eärnur, the Last King of Gondor",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/earnur-the-last-king-of-gondor-2024",
 			"image": {
 				"url": "2024-06-13-miniature.jpg",
 				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/07/AGoBdc5JOlhm7igX.jpg"
@@ -9811,10 +9811,10 @@
 		},
 		"miniature": {
 			"name": "Warriors of Carn Dûm",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/warriors-of-carn-dum-2024",
 			"image": {
-				"url": "2024-07-18-miniature.png",
-				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/08/C4c4cyGxa12ZZovP.png"
+				"url": "2024-07-18-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99861464029_MEWarriorsOfCarnDum01.jpg"
 			}
 		},
 		"tags": ["Middle-earth", "The Lord of the Rings - Evil"]
