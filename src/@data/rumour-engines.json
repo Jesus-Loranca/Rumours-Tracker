@@ -9918,5 +9918,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2024-08-27",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2024/08/27/the-rumour-engine-27th-of-august/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2024-08-27.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/08/CwGRA6KavCO0YBdQ.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2024-08-27-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
