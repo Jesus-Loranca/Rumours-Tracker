@@ -9958,5 +9958,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2024-09-10",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2024/09/10/the-rumour-engine-10th-of-september/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2024-09-10.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/09/gpmGKGzIo3Yww6T2.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2024-09-10-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
