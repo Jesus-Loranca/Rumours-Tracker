@@ -9978,5 +9978,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2024-09-17",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/2024/09/17/the-rumour-engine-17th-of-september/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2024-09-17.jpg",
+			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/09/F2mfJyOIpS82bALu.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2024-09-17-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
