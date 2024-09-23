@@ -8861,10 +8861,10 @@
 	},
 	{
 		"date": "2023-12-13",
-		"resolvedDate": "",
+		"resolvedDate": "2024-09-23",
 		"link": "https://www.warhammer-community.com/2023/12/13/the-advent-engine-13th-december-2023/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/2024/09/23/get-ready-for-chaos-warhammer-day-2024-is-coming/",
+		"resolvedEvent": "Warhammer Day",
 		"rumourEngineImage": {
 			"url": "2023-12-13.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/FJBh3yINPixFNixa.png"
@@ -8874,7 +8874,7 @@
 			"link": "",
 			"image": {
 				"url": "2023-12-13-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/09/qX2r71wyjd0Mqz7T.jpg"
 			}
 		},
 		"tags": []
