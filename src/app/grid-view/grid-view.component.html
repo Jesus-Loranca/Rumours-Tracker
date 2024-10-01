@@ -6,6 +6,7 @@
 
         <img
           class="col-12"
+					loading="lazy"
           [src]="rumourEngine.rumourEngineImage.cdn"
           (error)="handleImageError($event, rumourEngine.rumourEngineImage.url)"
         >
