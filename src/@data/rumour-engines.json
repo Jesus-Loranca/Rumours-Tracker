@@ -10018,5 +10018,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2024-10-01",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/EVjQW8BI/the-rumour-engine-1st-of-october/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2024-10-01.webp",
+			"cdn": "https://www.warhammer-community.com/_next/image/?url=https%3A%2F%2Fwarcomprod2024productionstorage.s3.eu-west-2.amazonaws.com%2Frumourengine-oct1-content.jpg&w=1600&q=100"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2024-10-01-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
