@@ -8041,23 +8041,23 @@
 	},
 	{
 		"date": "2023-05-16",
-		"resolvedDate": "",
+		"resolvedDate": "2024-10-05",
 		"link": "https://www.warhammer-community.com/2023/05/16/the-rumour-engine-16th-of-may-2023/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/4kxn77xe/chow-down-with-the-provisionally-prepared-ratlings/",
+		"resolvedEvent": "Warhammer Day",
 		"rumourEngineImage": {
 			"url": "2023-05-16.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/05/FdYwRAKwc4e5XQ74.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Provisionally Prepared",
 			"link": "",
 			"image": {
 				"url": "2023-05-16-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://d2a3y7drmxjvu8.cloudfront.net/whday2024_provisions-oct5-image1.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of the Imperium", "Astra Militarum"]
 	},
 	{
 		"date": "2023-05-23",
@@ -8161,23 +8161,23 @@
 	},
 	{
 		"date": "2023-06-27",
-		"resolvedDate": "",
+		"resolvedDate": "2024-10-05",
 		"link": "https://www.warhammer-community.com/2023/06/27/the-rumour-engine-27th-june-2023/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/4kxn77xe/chow-down-with-the-provisionally-prepared-ratlings/",
+		"resolvedEvent": "Warhammer Day",
 		"rumourEngineImage": {
 			"url": "2023-06-27.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/06/ZdNFAF0p7IGVEfAW.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Provisionally Prepared",
 			"link": "",
 			"image": {
-				"url": "2023-06-27-miniature.jpg",
-				"cdn": ""
+				"url": "2023-05-16-miniature.jpg",
+				"cdn": "https://d2a3y7drmxjvu8.cloudfront.net/whday2024_provisions-oct5-image1.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of the Imperium", "Astra Militarum"]
 	},
 	{
 		"date": "2023-07-04",
@@ -8870,14 +8870,14 @@
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/FJBh3yINPixFNixa.png"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Zikkit's Tunnelpack",
 			"link": "",
 			"image": {
-				"url": "2023-12-13-miniature.jpg",
-				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/09/qX2r71wyjd0Mqz7T.jpg"
+				"url": "2023-12-13-miniature.png",
+				"cdn": "https://warcomprod2024productionstorage.s3.eu-west-2.amazonaws.com/whday2024_whuw-oct4-carouselb1.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Underworlds", "Embergard", "Chaos", "Skaven"]
 	},
 	{
 		"date": "2023-12-14",
@@ -9001,23 +9001,23 @@
 	},
 	{
 		"date": "2023-12-20",
-		"resolvedDate": "",
+		"resolvedDate": "2024-10-05",
 		"link": "https://www.warhammer-community.com/2023/12/20/the-advent-engine-20th-december-2023/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/j5tbfn9d/warhammer-day-preview-new-edition-of-warhammer-underworlds-brings-the-battle-to-embergard/",
+		"resolvedEvent": "Warhammer Day",
 		"rumourEngineImage": {
 			"url": "2023-12-20.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/12/bGNtWgNuT2EauJJj.png"
 		},
 		"miniature": {
-			"name": "",
+			"name": "The Emberwatch",
 			"link": "",
 			"image": {
-				"url": "2023-12-20-miniature.jpg",
-				"cdn": ""
+				"url": "2023-12-20-miniature.png",
+				"cdn": "https://warcomprod2024productionstorage.s3.eu-west-2.amazonaws.com/whday2024_whuw-oct4-carousela2.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Underworlds", "Embergard", "Order", "Stormcast Eternals"]
 	},
 	{
 		"date": "2023-12-21",
@@ -9161,23 +9161,23 @@
 	},
 	{
 		"date": "2024-01-23",
-		"resolvedDate": "",
+		"resolvedDate": "2024-10-05",
 		"link": "https://www.warhammer-community.com/2024/01/23/the-rumour-engine-23rd-january-2024/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/j5tbfn9d/warhammer-day-preview-new-edition-of-warhammer-underworlds-brings-the-battle-to-embergard/",
+		"resolvedEvent": "Warhammer Day",
 		"rumourEngineImage": {
 			"url": "2024-01-23.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/01/ps1VQ3t4wIBk4oL3.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "The Emberwatch",
 			"link": "",
 			"image": {
-				"url": "2024-01-23-miniature.jpg",
-				"cdn": ""
+				"url": "2023-12-20-miniature.png",
+				"cdn": "https://warcomprod2024productionstorage.s3.eu-west-2.amazonaws.com/whday2024_whuw-oct4-carousela2.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Underworlds", "Embergard", "Order", "Stormcast Eternals"]
 	},
 	{
 		"date": "2024-01-30",
