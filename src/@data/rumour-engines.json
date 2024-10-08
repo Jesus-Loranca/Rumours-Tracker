@@ -10026,14 +10026,34 @@
 		"resolvedLink": "",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
-			"url": "2024-10-01.webp",
-			"cdn": "https://www.warhammer-community.com/_next/image/?url=https%3A%2F%2Fwarcomprod2024productionstorage.s3.eu-west-2.amazonaws.com%2Frumourengine-oct1-content.jpg&w=1600&q=100"
+			"url": "2024-10-01.jpg",
+			"cdn": "https://warcomprod2024productionstorage.s3.eu-west-2.amazonaws.com/rumourengine-oct1-content.jpg"
 		},
 		"miniature": {
 			"name": "",
 			"link": "",
 			"image": {
 				"url": "2024-10-01-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2024-10-08",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/wdmay0ad/the-rumour-engine-8th-of-october/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2024-10-08.webp",
+			"cdn": "https://warcomprod2024productionstorage.s3.eu-west-2.amazonaws.com/rumourengine-oct8-content.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2024-10-08-miniature.jpg",
 				"cdn": ""
 			}
 		},
