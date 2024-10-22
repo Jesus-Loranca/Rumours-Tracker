@@ -10078,5 +10078,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2024-10-22",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/dsvzyfeh/the-rumour-engine-22nd-october-2024/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2024-10-22.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-oct22-content-awvrsx885g.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2024-10-22-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
