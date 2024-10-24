@@ -8721,23 +8721,23 @@
 	},
 	{
 		"date": "2023-12-06",
-		"resolvedDate": "",
+		"resolvedDate": "2024-10-24",
 		"link": "https://www.warhammer-community.com/2023/12/06/the-advent-engine-6th-december-2023/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/yfkfam1u/warhammer-underworlds-snapping-saurus-and-rheumy-plaguebearers-join-two-new-rivals-decks/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2023-12-06.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/3wqplOyJYjeY1ITT.png"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Grandfather's Gardeners",
 			"link": "",
 			"image": {
-				"url": "2023-12-06-miniature.jpg",
-				"cdn": ""
+				"url": "2023-12-06-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/whuw_warbandreveal-oct28-carousel-c_5-wan7yjyh36.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Underworlds", "Embergard", "Chaos", "Maggotkin of Nurgle"]
 	},
 	{
 		"date": "2023-12-07",
@@ -8801,23 +8801,23 @@
 	},
 	{
 		"date": "2023-12-10",
-		"resolvedDate": "",
+		"resolvedDate": "2024-10-24",
 		"link": "https://www.warhammer-community.com/2023/12/10/the-advent-engine-10th-december-2023/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/yfkfam1u/warhammer-underworlds-snapping-saurus-and-rheumy-plaguebearers-join-two-new-rivals-decks/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2023-12-10.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/wLePl2Hn5SgdTwYV.png"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Grandfather's Gardeners",
 			"link": "",
 			"image": {
-				"url": "2023-12-10-miniature.jpg",
-				"cdn": ""
+				"url": "2023-12-10-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/whuw_warbandreveal-oct28-carousel-c_3-yhitsekicf.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Underworlds", "Embergard", "Chaos", "Maggotkin of Nurgle"]
 	},
 	{
 		"date": "2023-12-11",
@@ -9521,23 +9521,23 @@
 	},
 	{
 		"date": "2024-05-07",
-		"resolvedDate": "",
+		"resolvedDate": "2024-10-24",
 		"link": "https://www.warhammer-community.com/2024/05/07/the-rumour-engine-7th-may-2024/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/yfkfam1u/warhammer-underworlds-snapping-saurus-and-rheumy-plaguebearers-join-two-new-rivals-decks/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2024-05-07.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/05/hVMobPXxWJsyIyvx.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Jaws of Itzl",
 			"link": "",
 			"image": {
-				"url": "2024-05-07-miniature.jpg",
-				"cdn": ""
+				"url": "2024-05-07-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/whuw-warbandreveal-oct28-carousel-b_4-bgyz30iroy.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Underworlds", "Embergard", "Order", "Seraphon"]
 	},
 	{
 		"date": "2024-05-13",
