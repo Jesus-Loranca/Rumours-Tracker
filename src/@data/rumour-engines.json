@@ -8701,23 +8701,23 @@
 	},
 	{
 		"date": "2023-12-05",
-		"resolvedDate": "",
+		"resolvedDate": "2024-10-25",
 		"link": "https://www.warhammer-community.com/2023/12/05/the-advent-engine-5th-december-2023/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/uzmeyw69/have-a-blast-with-the-red-gobbo-in-this-years-christmas-commemorative-miniature/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2023-12-05.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/3mmKMWwbEOgXjkGp.png"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Da Red Gobbo's A-bomb-inable Snowman",
 			"link": "",
 			"image": {
 				"url": "2023-12-05-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/snowmnreveal-oct25-image1-z9lghobuzy.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000"]
 	},
 	{
 		"date": "2023-12-06",
