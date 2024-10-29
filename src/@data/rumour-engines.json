@@ -10098,5 +10098,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2024-10-29",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/yiynycuz/the-rumour-engine-29th-of-october/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2024-10-29.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-oct29-content-sba8a7vg3e.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2024-10-29-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
