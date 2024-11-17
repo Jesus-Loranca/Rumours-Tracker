@@ -8051,7 +8051,7 @@
 		},
 		"miniature": {
 			"name": "Provisionally Prepared",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/astra-militarum-provisionally-prepared-2024",
 			"image": {
 				"url": "2023-05-16-miniature.jpg",
 				"cdn": "https://d2a3y7drmxjvu8.cloudfront.net/whday2024_provisions-oct5-image1.jpg"
@@ -8171,7 +8171,7 @@
 		},
 		"miniature": {
 			"name": "Provisionally Prepared",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/astra-militarum-provisionally-prepared-2024",
 			"image": {
 				"url": "2023-05-16-miniature.jpg",
 				"cdn": "https://d2a3y7drmxjvu8.cloudfront.net/whday2024_provisions-oct5-image1.jpg"
@@ -8733,8 +8733,8 @@
 			"name": "Grandfather's Gardeners",
 			"link": "",
 			"image": {
-				"url": "2023-12-06-miniature.png",
-				"cdn": "https://assets.warhammer-community.com/whuw_warbandreveal-oct28-carousel-c_5-wan7yjyh36.png"
+				"url": "2023-12-06-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/sundaypreview-nov17-whuw_02-nurgle-4fxssztehn.jpg"
 			}
 		},
 		"tags": ["Age of Sigmar", "Underworlds", "Embergard", "Chaos", "Maggotkin of Nurgle"]
@@ -8813,8 +8813,8 @@
 			"name": "Grandfather's Gardeners",
 			"link": "",
 			"image": {
-				"url": "2023-12-10-miniature.png",
-				"cdn": "https://assets.warhammer-community.com/whuw_warbandreveal-oct28-carousel-c_3-yhitsekicf.png"
+				"url": "2023-12-06-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/sundaypreview-nov17-whuw_02-nurgle-4fxssztehn.jpg"
 			}
 		},
 		"tags": ["Age of Sigmar", "Underworlds", "Embergard", "Chaos", "Maggotkin of Nurgle"]
@@ -9530,11 +9530,11 @@
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/05/hVMobPXxWJsyIyvx.jpg"
 		},
 		"miniature": {
-			"name": "Jaws of Itzl",
+			"name": "The Jaws of Itzl",
 			"link": "",
 			"image": {
-				"url": "2024-05-07-miniature.png",
-				"cdn": "https://assets.warhammer-community.com/whuw-warbandreveal-oct28-carousel-b_4-bgyz30iroy.png"
+				"url": "2024-05-07-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/sundaypreview-nov17-whuw_01-seraphon-wa110ukmiv.jpg"
 			}
 		},
 		"tags": ["Age of Sigmar", "Underworlds", "Embergard", "Order", "Seraphon"]
