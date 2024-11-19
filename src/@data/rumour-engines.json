@@ -10158,5 +10158,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2024-11-19",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/9qhnsqqg/the-rumour-engine-19th-of-november/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2024-11-19.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-nov19-content-6ic9me5zr1.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2024-11-19-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
