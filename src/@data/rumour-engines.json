@@ -9951,10 +9951,10 @@
 		},
 		"miniature": {
 			"name": "Hobgrot Slittaboss",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/orruk-warclans-hobgrot-slittaboss-2025",
 			"image": {
 				"url": "2024-09-03-miniature.jpg",
-				"cdn": "https://assets.warhammer-community.com/image2-1732184049-bvlngrztvn.jpg"
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120209136_OWHobgrotSlittabossCharacter1.jpg"
 			}
 		},
 		"tags": ["Age of Sigmar", "Destruction", "Orruk Warclans", "Kruleboyz"]
@@ -9991,7 +9991,7 @@
 		},
 		"miniature": {
 			"name": "Orruk Warclans Manifestations",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/manifestations-orruk-warclans-2025",
 			"image": {
 				"url": "2024-09-17-miniature.jpg",
 				"cdn": "https://assets.warhammer-community.com/image5-1732184083-dg2xmvnd3g.jpg"
@@ -10194,6 +10194,26 @@
 			"link": "",
 			"image": {
 				"url": "2024-11-26-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2025-01-07",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/ycxlgcch/the-rumour-engine-7th-of-january/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-01-07.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-jan7-content-2er1e0sqzd.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-01-07-miniature.jpg",
 				"cdn": ""
 			}
 		},
