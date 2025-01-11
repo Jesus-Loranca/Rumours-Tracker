@@ -40,14 +40,15 @@
 						<img
 							class="col-12 col-md-6"
 							loading="lazy"
+							alt="{{ 'Rumour Engine picture from ' + getDetailedDate(rumourEngine.date) }}"
 							[src]="rumourEngine.rumourEngineImage.cdn"
-
 							(error)="handleImageError($event, rumourEngine.rumourEngineImage.url)"
 						>
 						<img
 							*ngIf="rumourEngine.miniature.image.cdn && rumourEngine.miniature.image.url"
 							class="col-12 col-md-6"
 							loading="lazy"
+							alt="{{ rumourEngine.miniature.name + '\'s picture' }}"
 							[src]="rumourEngine.miniature.image.cdn"
 							(error)="handleImageError($event, rumourEngine.miniature.image.url)"
 						>

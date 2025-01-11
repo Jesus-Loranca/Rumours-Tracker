@@ -15,21 +15,26 @@ footer {
 		}
 	}
 
-	.donate.btn {
-		max-width: 6.5em;
-		color: $white;
-		background-color: $pal-blue;
-		box-shadow: 0 3px 0 $pay-blue;
-		margin: 0 auto;
+	.nav {
+		display: flex;
+		justify-content: center;
 
-		&:hover {
-			background-color: $pay-blue;
-			box-shadow: 0 3px 0 $black;
-		}
-
-		&:focus {
+		.donate.btn {
+			max-width: 6.5em;
+			color: $white;
 			background-color: $pal-blue;
 			box-shadow: 0 3px 0 $pay-blue;
+			margin: 0 auto;
+
+			&:hover {
+				background-color: $pay-blue;
+				box-shadow: 0 3px 0 $black;
+			}
+
+			&:focus {
+				background-color: $pal-blue;
+				box-shadow: 0 3px 0 $pay-blue;
+			}
 		}
 	}
 }
@@ -51,9 +56,12 @@ footer {
 			}
 		}
 
-		.donate.btn {
-			float: right;
-			margin-right: 0;
+		.nav {
+			justify-content: flex-end;
+
+			.donate.btn {
+				margin-right: 0;
+			}
 		}
 	}
 }

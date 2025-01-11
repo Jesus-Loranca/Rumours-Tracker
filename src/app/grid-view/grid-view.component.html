@@ -7,6 +7,7 @@
         <img
           class="col-12"
 					loading="lazy"
+					alt="{{ 'Rumour Engine picture from ' + getDetailedDate(rumourEngine.date) }}"
           [src]="rumourEngine.rumourEngineImage.cdn"
           (error)="handleImageError($event, rumourEngine.rumourEngineImage.url)"
         >
