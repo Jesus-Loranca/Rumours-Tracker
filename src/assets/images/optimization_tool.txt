@@ -1,0 +1,4 @@
+
+	https://imagecompressr.com/
+
+	quality: 50%

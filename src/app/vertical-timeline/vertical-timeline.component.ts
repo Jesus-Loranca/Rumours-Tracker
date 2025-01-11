@@ -52,6 +52,6 @@ export class VerticalTimelineComponent  {
 
   handleImageError(event: Event, fallbackImageUrl: string): void {
     const imgElement = event.target as HTMLImageElement;
-    imgElement.src = '../assets/images/' + fallbackImageUrl;
+    imgElement.src = '../assets/images/optimized/' + fallbackImageUrl;
   }
 }
