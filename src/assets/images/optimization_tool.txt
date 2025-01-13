@@ -1,4 +1,6 @@
 
-	https://imagecompressr.com/
+	https://compressjpeg.com/
+
+	https://compresspng.com/
 
 	quality: 50%
