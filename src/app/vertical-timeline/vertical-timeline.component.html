@@ -10,49 +10,51 @@
 						<span *ngFor="let tag of rumourEngine.tags">{{ tag }}</span>
 					</div>
 
-					<div class="py-2 col-12 titles">
-						<div *ngIf="rumourEngine.miniature.name && rumourEngine.miniature.link">
-							<a href="{{ rumourEngine.miniature.link }}" target="_blank" class="miniature-name">
-								{{ rumourEngine.miniature.name }}<i class="bi bi-box-arrow-up-right"></i>
+					<ng-container *ngIf="getDetailedDate(rumourEngine.date) as detailedDate">
+						<div class="py-2 col-12 titles">
+							<div *ngIf="rumourEngine.miniature.name && rumourEngine.miniature.link">
+								<a href="{{ rumourEngine.miniature.link }}" target="_blank" class="miniature-name">
+									{{ rumourEngine.miniature.name }}<i class="bi bi-box-arrow-up-right"></i>
+								</a>
+							</div>
+
+							<div *ngIf="rumourEngine.miniature.name && !rumourEngine.miniature.link">
+								<h3 class="miniature-name">{{ rumourEngine.miniature.name }}</h3>
+							</div>
+
+							<div *ngIf="!rumourEngine.miniature.name">
+								<h3 class="miniature-name pending">Waiting to be Revealed<i class="bi bi-stopwatch"></i></h3>
+							</div>
+
+							<a href="{{ rumourEngine.link }}" target="_blank" class="rumour-engine-dates" *ngIf="rumourEngine.resolvedDate">
+								<span class="published-time">{{ detailedDate }}</span><i class="bi bi-box-arrow-up-right"></i>
 							</a>
+
+							<a href="{{ rumourEngine.resolvedLink || rumourEngine.link }}" target="_blank" class="rumour-engine-dates" *ngIf="rumourEngine.resolvedDate">
+								<span class="resolved-time">Solved after {{ getResolvedDate(rumourEngine.date, rumourEngine.resolvedDate) }} days</span><i class="bi bi-box-arrow-up-right"></i>
+							</a>
+
+							<a href="{{ rumourEngine.link }}" target="_blank" class="rumour-engine-dates" *ngIf="!rumourEngine.resolvedDate">{{ detailedDate }}<span class="resolved-time">Pending since {{ getUnresolvedDate(rumourEngine.date) }} days</span><i class="bi bi-box-arrow-up-right"></i></a>
 						</div>
 
-						<div *ngIf="rumourEngine.miniature.name && !rumourEngine.miniature.link">
-							<h3 class="miniature-name">{{ rumourEngine.miniature.name }}</h3>
+						<div class="py-2 col-12 images">
+							<img
+								class="col-12 col-md-6"
+								loading="lazy"
+								alt="{{ 'Rumour Engine picture from ' + detailedDate }}"
+								[src]="rumourEngine.rumourEngineImage.cdn"
+								(error)="handleImageError($event, rumourEngine.rumourEngineImage.url)"
+							>
+							<img
+								*ngIf="rumourEngine.miniature.image.cdn && rumourEngine.miniature.image.url"
+								class="col-12 col-md-6"
+								loading="lazy"
+								alt="{{ rumourEngine.miniature.name + '\'s picture' }}"
+								[src]="rumourEngine.miniature.image.cdn"
+								(error)="handleImageError($event, rumourEngine.miniature.image.url)"
+							>
 						</div>
-
-						<div *ngIf="!rumourEngine.miniature.name">
-							<h3 class="miniature-name pending">Waiting to be Revealed<i class="bi bi-stopwatch"></i></h3>
-						</div>
-
-						<a href="{{ rumourEngine.link }}" target="_blank" class="rumour-engine-dates" *ngIf="rumourEngine.resolvedDate">
-							<span class="published-time">{{ getDetailedDate(rumourEngine.date) }}</span><i class="bi bi-box-arrow-up-right"></i>
-						</a>
-
-						<a href="{{ rumourEngine.resolvedLink || rumourEngine.link }}" target="_blank" class="rumour-engine-dates" *ngIf="rumourEngine.resolvedDate">
-							<span class="resolved-time">Solved after {{ getResolvedDate(rumourEngine.date, rumourEngine.resolvedDate) }} days</span><i class="bi bi-box-arrow-up-right"></i>
-						</a>
-
-						<a href="{{ rumourEngine.link }}" target="_blank" class="rumour-engine-dates" *ngIf="!rumourEngine.resolvedDate">{{ getDetailedDate(rumourEngine.date) }}<span class="resolved-time">Pending since {{ getUnresolvedDate(rumourEngine.date) }} days</span><i class="bi bi-box-arrow-up-right"></i></a>
-					</div>
-
-					<div class="py-2 col-12 images">
-						<img
-							class="col-12 col-md-6"
-							loading="lazy"
-							alt="{{ 'Rumour Engine picture from ' + getDetailedDate(rumourEngine.date) }}"
-							[src]="rumourEngine.rumourEngineImage.cdn"
-							(error)="handleImageError($event, rumourEngine.rumourEngineImage.url)"
-						>
-						<img
-							*ngIf="rumourEngine.miniature.image.cdn && rumourEngine.miniature.image.url"
-							class="col-12 col-md-6"
-							loading="lazy"
-							alt="{{ rumourEngine.miniature.name + '\'s picture' }}"
-							[src]="rumourEngine.miniature.image.cdn"
-							(error)="handleImageError($event, rumourEngine.miniature.image.url)"
-						>
-					</div>
+					</ng-container>
 				</div>
 			</div>
 		</div>
