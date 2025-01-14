@@ -10218,5 +10218,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-01-14",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/e407bmof/the-rumour-engine-14th-of-january/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-01-14.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-jan14-content-gq8yhvasfd.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-01-14-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
