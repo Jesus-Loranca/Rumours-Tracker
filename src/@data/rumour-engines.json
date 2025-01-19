@@ -9641,43 +9641,43 @@
 	},
 	{
 		"date": "2024-06-04",
-		"resolvedDate": "",
+		"resolvedDate": "2025-01-17",
 		"link": "https://www.warhammer-community.com/2024/06/04/the-rumour-engine-4th-june-2024/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/elxrte0d/lvo-preview-2025-nurgle-coughs-up-a-new-lord-of-poxes/",
+		"resolvedEvent": "Las Vegas Open",
 		"rumourEngineImage": {
 			"url": "2024-06-04.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/06/ccwkVuVfU6U4tCW6.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Lord of Poxes",
 			"link": "",
 			"image": {
 				"url": "2024-06-04-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image1-1736958381-ldqeddlbmg.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of Chaos", "Death Guard"]
 	},
 	{
 		"date": "2024-06-11",
-		"resolvedDate": "",
+		"resolvedDate": "2025-01-17",
 		"link": "https://www.warhammer-community.com/2024/06/11/the-rumour-engine-11th-june-2024/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/yu1duwle/lvo-preview-2025-the-barrow-kingdoms-rise-to-serve-the-soulblight-gravelords/",
+		"resolvedEvent": "Las Vegas Open",
 		"rumourEngineImage": {
 			"url": "2024-06-11.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/06/kxAdBg4BzFZab1hr.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Barrow Guard",
 			"link": "",
 			"image": {
-				"url": "2024-06-11-miniature.jpg",
-				"cdn": ""
+				"url": "2024-06-11-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/gallery2e-v7dpoawjqu.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Death", "Soulblight Gravelords"]
 	},
 	{
 		"date": "2024-06-13",
