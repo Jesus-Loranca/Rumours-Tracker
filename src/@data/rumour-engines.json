@@ -10238,5 +10238,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-01-21",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/rm02cwoq/the-rumour-engine-21st-of-january/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-01-21.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-jan21-content-gkomoubqlp.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-01-21-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
