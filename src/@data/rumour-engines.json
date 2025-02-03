@@ -9511,7 +9511,7 @@
 		},
 		"miniature": {
 			"name": "Lhykhis",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/aeldari-phoenix-lord-lhykhis-2025",
 			"image": {
 				"url": "2024-04-30-miniature.jpg",
 				"cdn": "https://assets.warhammer-community.com/worldchamps2024-aelcontent-red4-yhmpbxmn2g.jpg"
@@ -9611,10 +9611,10 @@
 		},
 		"miniature": {
 			"name": "Sunsteala Wheelas",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/gloomspite-gitz-gitmob-army-set-2025-eng",
 			"image": {
 				"url": "2024-05-21-miniature.jpg",
-				"cdn": "https://assets.warhammer-community.com/image3_wide-1732185433-ep2sioxa9h.jpg"
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60010209002_GGGitmobArmySet02.jpg"
 			}
 		},
 		"tags": ["Age of Sigmar", "Destruction", "Gloomspite Gitz"]
@@ -9731,7 +9731,7 @@
 		},
 		"miniature": {
 			"name": "Snarlpack Cavalry",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/gloomspite-gitz-gitmob-army-set-2025-eng",
 			"image": {
 				"url": "2024-06-25-miniature.png",
 				"cdn": "https://assets.warhammer-community.com/gallery3-ejctgakrh8.png"
@@ -10254,6 +10254,26 @@
 			"link": "",
 			"image": {
 				"url": "2025-01-21-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2025-01-28",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/cfdrruqd/the-rumour-engine-28th-of-january/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-01-28.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-jan28-content-e65uisjenw.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-01-28-miniature.jpg",
 				"cdn": ""
 			}
 		},
