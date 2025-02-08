@@ -8771,10 +8771,10 @@
 		},
 		"miniature": {
 			"name": "Krieg Command Squad",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/astra-militarum-krieg-command-squad-2025",
 			"image": {
-				"url": "2023-12-08-miniature.png",
-				"cdn": "https://assets.warhammer-community.com/gallery3a-qfwoktgebs.png"
+				"url": "2023-12-08-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120105127_AstraMilitarumKriegCommandSquad1.jpg"
 			}
 		},
 		"tags": ["40.000", "Armies of the Imperium", "Astra Militarum"]
@@ -8911,10 +8911,10 @@
 		},
 		"miniature": {
 			"name": "Krieg Command Squad ",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/astra-militarum-krieg-command-squad-2025",
 			"image": {
-				"url": "2023-12-15-miniature.png",
-				"cdn": "https://assets.warhammer-community.com/gallery3c-diqcmgiek4.png"
+				"url": "2023-12-08-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120105127_AstraMilitarumKriegCommandSquad1.jpg"
 			}
 		},
 		"tags": ["40.000", "Armies of the Imperium", "Astra Militarum"]
@@ -10274,6 +10274,26 @@
 			"link": "",
 			"image": {
 				"url": "2025-01-28-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2025-02-04",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/9p42xkwq/the-rumour-engine-4th-of-february/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-02-04.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-feb4-content-w8unjszm1p.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-02-04-miniature.jpg",
 				"cdn": ""
 			}
 		},
