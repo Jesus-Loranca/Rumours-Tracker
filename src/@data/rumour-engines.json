@@ -9761,23 +9761,23 @@
 	},
 	{
 		"date": "2024-07-09",
-		"resolvedDate": "",
+		"resolvedDate": "2025-02-17",
 		"link": "https://www.warhammer-community.com/2024/07/09/the-rumour-engine-9th-july-2024/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/6i1kglij/the-blades-of-the-hollow-king-are-ready-to-draw-blood-for-the-soulblight-gravelords/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2024-07-09.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/07/52W6lc3AIIwUod1x.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Blades of the Hollow King",
 			"link": "",
 			"image": {
 				"url": "2024-07-09-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/aos_hollowking-feb17-2-saq1zsmkzt.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Death", "Soulblight Gravelords"]
 	},
 	{
 		"date": "2024-07-16",
