@@ -10318,5 +10318,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-02-18",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/pw7qt2qa/the-rumour-engine-18th-of-february/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-02-18.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-feb18-content-gdbjyoypj5.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-02-18-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
