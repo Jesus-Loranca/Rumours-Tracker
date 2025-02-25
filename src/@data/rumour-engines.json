@@ -10201,23 +10201,23 @@
 	},
 	{
 		"date": "2025-01-07",
-		"resolvedDate": "",
+		"resolvedDate": "2025-01-17",
 		"link": "https://www.warhammer-community.com/en-gb/articles/ycxlgcch/the-rumour-engine-7th-of-january/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/evne31tw/lvo-preview-2025-establish-exactly-how-much-is-too-much-with-the-emperors-children/",
+		"resolvedEvent": "Las Vegas Open",
 		"rumourEngineImage": {
 			"url": "2025-01-07.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-jan7-content-2er1e0sqzd.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Noise Marines",
 			"link": "",
 			"image": {
 				"url": "2025-01-07-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/lvo2025_ec-jan17-image5-5pnbsinid7.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of Chaos", "Emperor's Children"]
 	},
 	{
 		"date": "2025-01-14",
@@ -10334,6 +10334,26 @@
 			"link": "",
 			"image": {
 				"url": "2025-02-18-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2025-02-25",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/mljmlw9y/the-rumour-engine-25th-of-february/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-02-25.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-feb25-content-0gjxy8aoxb.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-02-25-miniature.jpg",
 				"cdn": ""
 			}
 		},
