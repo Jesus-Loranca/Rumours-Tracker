@@ -9621,23 +9621,23 @@
 	},
 	{
 		"date": "2024-05-28",
-		"resolvedDate": "",
+		"resolvedDate": "2025-03-01",
 		"link": "https://www.warhammer-community.com/2024/05/28/the-rumour-engine-28th-may-2024/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/ovfew1bv/wield-the-power-of-the-gods-in-kill-team-blood-and-zeal/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2024-05-28.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/05/8JipCKoCkzMhTw8q.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Sanctifiers",
 			"link": "",
 			"image": {
-				"url": "2024-05-28-miniature.jpg",
-				"cdn": ""
+				"url": "2024-05-28-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/kt_blood&zeal-mar01-carousela4-oblf031ift.png"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Kill Team", "Armies of the Imperium", "Agents of the Imperium"]
 	},
 	{
 		"date": "2024-06-04",
@@ -9701,23 +9701,23 @@
 	},
 	{
 		"date": "2024-06-18",
-		"resolvedDate": "",
+		"resolvedDate": "2025-03-01",
 		"link": "https://www.warhammer-community.com/2024/06/18/the-rumour-engine-18th-june-2024/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/ovfew1bv/wield-the-power-of-the-gods-in-kill-team-blood-and-zeal/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2024-06-18.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/06/3aepS41t4zpIUS5B.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Goremongers",
 			"link": "",
 			"image": {
-				"url": "2024-06-18-miniature.jpg",
-				"cdn": ""
+				"url": "2024-06-18-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/kt_blood&zeal-mar01-carouselb3-q3c7tnwm5u.png"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Kill Team", "Armies of Chaos"]
 	},
 	{
 		"date": "2024-06-25",
@@ -10211,7 +10211,7 @@
 		},
 		"miniature": {
 			"name": "Noise Marines",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/emperors-children-army-set-2025-eng",
 			"image": {
 				"url": "2025-01-07-miniature.jpg",
 				"cdn": "https://assets.warhammer-community.com/lvo2025_ec-jan17-image5-5pnbsinid7.jpg"
@@ -10221,23 +10221,23 @@
 	},
 	{
 		"date": "2025-01-14",
-		"resolvedDate": "",
+		"resolvedDate": "2025-03-01",
 		"link": "https://www.warhammer-community.com/en-gb/articles/e407bmof/the-rumour-engine-14th-of-january/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/ovfew1bv/wield-the-power-of-the-gods-in-kill-team-blood-and-zeal/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2025-01-14.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-jan14-content-gq8yhvasfd.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Sanctifiers",
 			"link": "",
 			"image": {
-				"url": "2025-01-14-miniature.jpg",
-				"cdn": ""
+				"url": "2025-01-14-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/kt_blood&zeal-mar01-carousela2-7llkf0zdas.png"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Kill Team", "Armies of the Imperium", "Agents of the Imperium"]
 	},
 	{
 		"date": "2025-01-21",
@@ -10281,23 +10281,23 @@
 	},
 	{
 		"date": "2025-02-04",
-		"resolvedDate": "",
+		"resolvedDate": "2025-03-01",
 		"link": "https://www.warhammer-community.com/en-gb/articles/9p42xkwq/the-rumour-engine-4th-of-february/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/ovfew1bv/wield-the-power-of-the-gods-in-kill-team-blood-and-zeal/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2025-02-04.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-feb4-content-w8unjszm1p.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Sanctifiers",
 			"link": "",
 			"image": {
-				"url": "2025-02-04-miniature.jpg",
-				"cdn": ""
+				"url": "2025-02-04-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/kt_blood&zeal-mar01-carousela2-7llkf0zdas.png"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Kill Team", "Armies of the Imperium", "Agents of the Imperium"]
 	},
 	{
 		"date": "2025-02-11",
@@ -10341,22 +10341,22 @@
 	},
 	{
 		"date": "2025-02-25",
-		"resolvedDate": "",
+		"resolvedDate": "2025-03-01",
 		"link": "https://www.warhammer-community.com/en-gb/articles/mljmlw9y/the-rumour-engine-25th-of-february/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/ovfew1bv/wield-the-power-of-the-gods-in-kill-team-blood-and-zeal/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2025-02-25.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-feb25-content-0gjxy8aoxb.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Goremongers",
 			"link": "",
 			"image": {
-				"url": "2025-02-25-miniature.jpg",
-				"cdn": ""
+				"url": "2025-02-25-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/kt_blood&zeal-mar01-carouselb1-za9etjgsln.png"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Kill Team", "Armies of Chaos"]
 	}
 ]
