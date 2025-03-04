@@ -9717,7 +9717,7 @@
 				"cdn": "https://assets.warhammer-community.com/kt_blood&zeal-mar01-carouselb3-q3c7tnwm5u.png"
 			}
 		},
-		"tags": ["40.000", "Kill Team", "Armies of Chaos"]
+		"tags": ["40.000", "Kill Team", "Armies of Chaos", "World Eaters"]
 	},
 	{
 		"date": "2024-06-25",
@@ -10357,6 +10357,26 @@
 				"cdn": "https://assets.warhammer-community.com/kt_blood&zeal-mar01-carouselb1-za9etjgsln.png"
 			}
 		},
-		"tags": ["40.000", "Kill Team", "Armies of Chaos"]
+		"tags": ["40.000", "Kill Team", "Armies of Chaos", "World Eaters"]
+	},
+	{
+		"date": "2025-03-04",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/9sal4cvo/the-rumour-engine-4th-of-march/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-03-04.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-mar4-content-kz1enwomrh.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-03-04-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
