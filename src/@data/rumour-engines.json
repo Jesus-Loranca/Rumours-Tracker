@@ -10378,5 +10378,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-03-11",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/nnpeudy2/the-rumour-engine-11th-of-march/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-03-11.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-mar11-content-jjzbndfrtd.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-03-11-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
