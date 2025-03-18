@@ -10398,5 +10398,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-03-18",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/dwtdcrja/the-rumour-engine-18th-of-march/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-03-18.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-mar18-content-peod8ass8h.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-03-18-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
