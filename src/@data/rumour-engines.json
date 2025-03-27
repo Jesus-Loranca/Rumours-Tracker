@@ -9481,23 +9481,23 @@
 	},
 	{
 		"date": "2024-04-23",
-		"resolvedDate": "",
+		"resolvedDate": "2024-03-27",
 		"link": "https://www.warhammer-community.com/2024/04/23/the-rumour-engine-23rd-april-2024/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/gsdzv0gh/chaos-ascends-with-new-units-and-codexes-for-khorne-tzeentch-and-nurgle/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2024-04-23.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/04/xzqIBlmqx3k2woC7.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Sekhetar Robots",
 			"link": "",
 			"image": {
 				"url": "2024-04-23-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image4-yrfq597gix.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of Chaos", "Thousand Sons"]
 	},
 	{
 		"date": "2024-04-30",
@@ -9561,23 +9561,23 @@
 	},
 	{
 		"date": "2024-05-14",
-		"resolvedDate": "",
+		"resolvedDate": "2024-03-27",
 		"link": "https://www.warhammer-community.com/2024/05/14/the-rumour-engine-14th-may-2024/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/gsdzv0gh/chaos-ascends-with-new-units-and-codexes-for-khorne-tzeentch-and-nurgle/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2024-05-14.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/05/w7YSy9OsJZAaqJsW.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Sekhetar Robots",
 			"link": "",
 			"image": {
-				"url": "2024-05-14-miniature.jpg",
-				"cdn": ""
+				"url": "2024-04-23-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/image4-yrfq597gix.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of Chaos", "Thousand Sons"]
 	},
 	{
 		"date": "2024-05-16",
@@ -9841,23 +9841,23 @@
 	},
 	{
 		"date": "2024-07-30",
-		"resolvedDate": "",
+		"resolvedDate": "2024-03-27",
 		"link": "https://www.warhammer-community.com/2024/07/30/the-rumour-engine-30th-july-2024/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/n9qtzvsu/protect-the-great-gun-from-tyranid-invasion-in-kill-team-typhon/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2024-07-30.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/07/h9vygKoHVlepKF2D.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Battleclade",
 			"link": "",
 			"image": {
-				"url": "2024-07-30-miniature.jpg",
-				"cdn": ""
+				"url": "2024-07-30-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/carouselb3-87fhzhoml5.png"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Kill Team", "Armies of the Imperium", "Adeptus Mechanicus"]
 	},
 	{
 		"date": "2024-08-06",
@@ -9883,21 +9883,21 @@
 		"date": "2024-08-13",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/2024/08/13/the-rumour-engine-13th-of-august/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/n9qtzvsu/protect-the-great-gun-from-tyranid-invasion-in-kill-team-typhon/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2024-08-13.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/08/uZppUsNXHrga3EmZ.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Battleclade",
 			"link": "",
-			"image": {
-				"url": "2024-08-13-miniature.jpg",
-				"cdn": ""
+"image": {
+				"url": "2024-07-30-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/carouselb3-87fhzhoml5.png"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Kill Team", "Armies of the Imperium", "Adeptus Mechanicus"]
 	},
 	{
 		"date": "2024-08-20",
@@ -10041,23 +10041,23 @@
 	},
 	{
 		"date": "2024-10-08",
-		"resolvedDate": "",
+		"resolvedDate": "2024-03-27",
 		"link": "https://www.warhammer-community.com/en-gb/articles/wdmay0ad/the-rumour-engine-8th-of-october/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/gsdzv0gh/chaos-ascends-with-new-units-and-codexes-for-khorne-tzeentch-and-nurgle/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2024-10-08.jpg",
 			"cdn": "https://warcomprod2024productionstorage.s3.eu-west-2.amazonaws.com/rumourengine-oct8-content.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Slaughterbound",
 			"link": "",
 			"image": {
 				"url": "2024-10-08-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image1-1742890556-5crfjhtd0b.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of Chaos", "World Eaters"]
 	},
 	{
 		"date": "2024-10-15",
