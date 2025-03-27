@@ -10261,23 +10261,23 @@
 	},
 	{
 		"date": "2025-01-28",
-		"resolvedDate": "",
+		"resolvedDate": "2025-03-01",
 		"link": "https://www.warhammer-community.com/en-gb/articles/cfdrruqd/the-rumour-engine-28th-of-january/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/ovfew1bv/wield-the-power-of-the-gods-in-kill-team-blood-and-zeal/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2025-01-28.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-jan28-content-e65uisjenw.jpg"
 		},
 		"miniature": {
-			"name": "",
-			"link": "",
+			"name": "Sanctifiers",
+			"link": "https://www.warhammer.com/en-GB/shop/kill-team-blood-and-zeal-2025-eng",
 			"image": {
-				"url": "2025-01-28-miniature.jpg",
-				"cdn": ""
+				"url": "2024-05-28-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60010199073_KTBloodZealCoreSet3.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Kill Team", "Armies of the Imperium", "Agents of the Imperium"]
 	},
 	{
 		"date": "2025-02-04",
