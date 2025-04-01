@@ -10438,5 +10438,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-04-01",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/rom1idn9/the-rumour-engine-1st-of-april/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-04-01.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-apr1-content-lio04sm4wr.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-04-01-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
