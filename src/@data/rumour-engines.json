@@ -9671,10 +9671,10 @@
 		},
 		"miniature": {
 			"name": "Barrow Guard",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/soulblight-gravelords-deathrattle-army-set-2025-eng",
 			"image": {
-				"url": "2024-06-11-miniature.png",
-				"cdn": "https://assets.warhammer-community.com/gallery2e-v7dpoawjqu.png"
+				"url": "2024-06-11-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60010207003_SoulblightGravelordsDeathrattleArmy5.jpg"
 			}
 		},
 		"tags": ["Age of Sigmar", "Death", "Soulblight Gravelords"]
