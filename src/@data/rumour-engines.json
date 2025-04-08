@@ -10458,5 +10458,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-04-08",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/bjzt1u58/the-rumour-engine-8th-of-april/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-04-08.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-apr8-content-th4erhsvx0.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-04-08-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
