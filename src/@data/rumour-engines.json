@@ -9821,23 +9821,23 @@
 	},
 	{
 		"date": "2024-07-23",
-		"resolvedDate": "",
+		"resolvedDate": "2025-04-21",
 		"link": "https://www.warhammer-community.com/2024/07/23/the-rumour-engine-23rd-july-2024/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/mgxduxmn/the-knives-of-the-crone-bring-aelven-guile-to-warhammer-underworlds/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2024-07-23.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/07/YRZlX2Z2GvpTNnVm.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Knives of the Crone",
 			"link": "",
 			"image": {
-				"url": "2024-07-23-miniature.jpg",
-				"cdn": ""
+				"url": "2024-07-23-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/whuw_knivescrone-apr21-carousel2-tmrvdletyi.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Underworlds", "Embergard", "Order", "Daughters of Khaine"]
 	},
 	{
 		"date": "2024-07-30",
