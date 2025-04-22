@@ -10498,5 +10498,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-04-22",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/w0ss22nc/the-rumour-engine-22nd-of-april/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-04-22.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-apr22-content-k3stteedx4.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-04-22-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
