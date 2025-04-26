@@ -38,13 +38,13 @@ export class VerticalTimelineComponent  {
 		return String(Math.ceil(timeDifference / (1000 * 60 * 60 * 24)));
 	}
 
-	getUnresolvedDate(createdString: string):string {
-		const createdDate = new Date(createdString);
-		const currentDate = new Date();
-		const timeDifference = currentDate.getTime() - createdDate.getTime();
+	getUnresolvedDate(createdString: string): string {
+    const createdDate = new Date(createdString);
+    const currentDate = new Date();
+    const timeDifference = currentDate.getTime() - createdDate.getTime();
 
-		return String(Math.ceil(timeDifference / (1000 * 60 * 60 * 24)));
-	}
+    return String(Math.ceil(timeDifference / (1000 * 60 * 60 * 24)) - 1);
+}
 
 	getYear(dateString: string): number {
 		return new Date(dateString).getFullYear();
