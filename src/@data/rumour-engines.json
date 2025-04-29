@@ -10518,5 +10518,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-04-29",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/p9gentyu/the-rumour-engine-29th-of-april/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-04-29.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-apr29-content-zaghsutdjr.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-04-29-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
