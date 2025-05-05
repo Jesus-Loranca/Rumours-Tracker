@@ -10501,23 +10501,23 @@
 	},
 	{
 		"date": "2025-04-22",
-		"resolvedDate": "",
+		"resolvedDate": "2025-05-05",
 		"link": "https://www.warhammer-community.com/en-gb/articles/w0ss22nc/the-rumour-engine-22nd-of-april/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/yom5sqsp/imperial-knights-revealed-the-knight-defender-is-the-greatest-building-sized-bodyguard-in-the-imperium/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2025-04-22.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-apr22-content-k3stteedx4.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Knight Defender",
 			"link": "",
 			"image": {
 				"url": "2025-04-22-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/40k_imperialknights-may05-image1-fedfsr0dqr.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of the Imperium", "Imperial Knights"]
 	},
 	{
 		"date": "2025-04-29",
