@@ -44,7 +44,7 @@ export class VerticalTimelineComponent  {
     const timeDifference = currentDate.getTime() - createdDate.getTime();
 
     return String(Math.ceil(timeDifference / (1000 * 60 * 60 * 24)) - 1);
-}
+	}
 
 	getYear(dateString: string): number {
 		return new Date(dateString).getFullYear();
