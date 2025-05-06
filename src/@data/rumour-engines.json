@@ -9833,8 +9833,8 @@
 			"name": "Knives of the Crone",
 			"link": "",
 			"image": {
-				"url": "2024-07-23-miniature.png",
-				"cdn": "https://assets.warhammer-community.com/whuw_knivescrone-apr21-carousel2-tmrvdletyi.png"
+				"url": "2024-07-23-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/sundaypreview-may04-whuw-knives-dpu9pjkgea.jpg"
 			}
 		},
 		"tags": ["Age of Sigmar", "Underworlds", "Embergard", "Order", "Daughters of Khaine"]
@@ -10534,6 +10534,26 @@
 			"link": "",
 			"image": {
 				"url": "2025-04-29-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2025-05-06",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/p4trvsr8/the-rumour-engine-6th-of-may/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-05-06.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-may6-0-content-7uscqgrkmk.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-05-06-miniature.jpg",
 				"cdn": ""
 			}
 		},
