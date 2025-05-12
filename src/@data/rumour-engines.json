@@ -10421,43 +10421,43 @@
 	},
 	{
 		"date": "2025-03-25",
-		"resolvedDate": "",
+		"resolvedDate": "2025-05-12",
 		"link": "https://www.warhammer-community.com/en-gb/articles/wqieekjp/the-rumour-engine-25th-of-march/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/mijwqkw4/chaos-knights-revealed-darkflame-and-a-deadly-drill-make-the-knight-ruinator-a-hellacious-headhunter/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2025-03-25.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-mar25-content-xmz97r7vdy.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Knight Ruinator",
 			"link": "",
 			"image": {
 				"url": "2025-03-25-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/40k_chaosknights-may12-image1-dlrh5psh8q.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of Chaos", "Chaos Knights"]
 	},
 	{
 		"date": "2025-04-01",
-		"resolvedDate": "",
+		"resolvedDate": "2025-05-12",
 		"link": "https://www.warhammer-community.com/en-gb/articles/rom1idn9/the-rumour-engine-1st-of-april/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/mijwqkw4/chaos-knights-revealed-darkflame-and-a-deadly-drill-make-the-knight-ruinator-a-hellacious-headhunter/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2025-04-01.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-apr1-content-lio04sm4wr.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Knight Ruinator",
 			"link": "",
 			"image": {
-				"url": "2025-04-01-miniature.jpg",
-				"cdn": ""
+				"url": "2025-03-25-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/40k_chaosknights-may12-image1-dlrh5psh8q.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of Chaos", "Chaos Knights"]
 	},
 	{
 		"date": "2025-04-08",
@@ -10521,23 +10521,23 @@
 	},
 	{
 		"date": "2025-04-29",
-		"resolvedDate": "",
+		"resolvedDate": "2025-05-12",
 		"link": "https://www.warhammer-community.com/en-gb/articles/p9gentyu/the-rumour-engine-29th-of-april/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/mijwqkw4/chaos-knights-revealed-darkflame-and-a-deadly-drill-make-the-knight-ruinator-a-hellacious-headhunter/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2025-04-29.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-apr29-content-zaghsutdjr.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Knight Ruinator",
 			"link": "",
 			"image": {
-				"url": "2025-04-29-miniature.jpg",
-				"cdn": ""
+				"url": "2025-03-25-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/40k_chaosknights-may12-image1-dlrh5psh8q.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of Chaos", "Chaos Knights"]
 	},
 	{
 		"date": "2025-05-06",
