@@ -10558,5 +10558,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-05-13",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/czmpjcko/the-rumour-engine-13th-of-may/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-05-13.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-may12-0-content-22yzcmfyes.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-05-13-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
