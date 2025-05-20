@@ -10578,5 +10578,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-05-20",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/91ngnypk/the-rumour-engine-20th-of-may/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-05-20.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-may20-0-content-mfkucwixng.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-05-20-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
