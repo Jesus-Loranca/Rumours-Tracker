@@ -9121,43 +9121,43 @@
 	},
 	{
 		"date": "2024-01-09",
-		"resolvedDate": "",
+		"resolvedDate": "2025-05-26",
 		"link": "https://www.warhammer-community.com/2024/01/09/the-rumour-engine-9th-january-2024/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/nt1kv1fq/the-idoneth-deepkin-break-the-waves-with-new-ikons-of-the-sea-and-storm/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2024-01-09.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/01/QPEjrnvL63Mlwdp6.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Ikon of the Storm",
 			"link": "",
 			"image": {
 				"url": "2024-01-09-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/aos_idonethreveal-may26-image2-jjubpktdsc.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Order", "Idoneth Deepkin"]
 	},
 	{
 		"date": "2024-01-16",
-		"resolvedDate": "",
+		"resolvedDate": "2025-05-26",
 		"link": "https://www.warhammer-community.com/2024/01/16/the-rumour-engine-16th-january-2024/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/nt1kv1fq/the-idoneth-deepkin-break-the-waves-with-new-ikons-of-the-sea-and-storm/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2024-01-16.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/01/aC98IbVCYRnTbyfC.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Ikon of the Storm",
 			"link": "",
 			"image": {
-				"url": "2024-01-16-miniature.jpg",
-				"cdn": ""
+				"url": "2024-01-09-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/aos_idonethreveal-may26-image2-jjubpktdsc.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Order", "Idoneth Deepkin"]
 	},
 	{
 		"date": "2024-01-23",
