@@ -9401,23 +9401,23 @@
 	},
 	{
 		"date": "2024-04-02",
-		"resolvedDate": "",
+		"resolvedDate": "2025-06-02",
 		"link": "https://www.warhammer-community.com/2024/04/02/the-rumour-engine-2nd-april-2024/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/dunnnmdk/an-oracle-and-an-incarnate-rear-from-the-abyssal-depths/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2024-04-02.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/04/lo8BdYtz4BSTLWdd.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Mathaela, Oracle of the Abyss",
 			"link": "",
 			"image": {
 				"url": "2024-04-02-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image1-1748848818-o4wyc8mu8t.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Order", "Idoneth Deepkin"]
 	},
 	{
 		"date": "2024-04-09",
@@ -10401,23 +10401,23 @@
 	},
 	{
 		"date": "2025-03-18",
-		"resolvedDate": "",
+		"resolvedDate": "2025-06-02",
 		"link": "https://www.warhammer-community.com/en-gb/articles/dwtdcrja/the-rumour-engine-18th-of-march/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/dunnnmdk/an-oracle-and-an-incarnate-rear-from-the-abyssal-depths/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2025-03-18.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-mar18-content-peod8ass8h.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Incarnate of the Deep",
 			"link": "",
 			"image": {
 				"url": "2025-03-18-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image3-xusqacwmg0.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Order", "Idoneth Deepkin"]
 	},
 	{
 		"date": "2025-03-25",
