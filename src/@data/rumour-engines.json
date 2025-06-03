@@ -10618,5 +10618,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-06-03",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/owcpxu44/the-rumour-engine-3rd-of-june/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-06-03.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-jun03-0-content-boena8ivny.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-06-03-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
