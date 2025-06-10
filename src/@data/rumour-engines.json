@@ -10638,5 +10638,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-06-10",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/jkjawugf/the-rumour-engine-10th-of-june/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-06-10.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-jun10-0-content-c38bryw6gd.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-06-10-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
