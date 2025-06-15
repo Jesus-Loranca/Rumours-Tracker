@@ -9851,10 +9851,10 @@
 		},
 		"miniature": {
 			"name": "Battleclade",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/kill-team-typhon-2025-eng",
 			"image": {
-				"url": "2024-07-30-miniature.png",
-				"cdn": "https://assets.warhammer-community.com/carouselb3-87fhzhoml5.png"
+				"url": "2024-07-30-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60010199074_ENGKillTeamTyphonCoreGame2.jpg"
 			}
 		},
 		"tags": ["40.000", "Kill Team", "Armies of the Imperium", "Adeptus Mechanicus"]
@@ -9891,10 +9891,10 @@
 		},
 		"miniature": {
 			"name": "Battleclade",
-			"link": "",
-"image": {
-				"url": "2024-07-30-miniature.png",
-				"cdn": "https://assets.warhammer-community.com/carouselb3-87fhzhoml5.png"
+			"link": "https://www.warhammer.com/en-GB/shop/kill-team-typhon-2025-eng",
+			"image": {
+				"url": "2024-07-30-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60010199074_ENGKillTeamTyphonCoreGame2.jpg"
 			}
 		},
 		"tags": ["40.000", "Kill Team", "Armies of the Imperium", "Adeptus Mechanicus"]
