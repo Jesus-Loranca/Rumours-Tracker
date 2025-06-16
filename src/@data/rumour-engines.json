@@ -10481,23 +10481,23 @@
 	},
 	{
 		"date": "2025-04-15",
-		"resolvedDate": "",
+		"resolvedDate": "2025-06-16",
 		"link": "https://www.warhammer-community.com/en-gb/articles/otkrbj2z/the-rumour-engine-15th-of-april/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/ld1cnqrg/carry-the-honour-of-the-black-templars-with-a-new-crusade-ancient-and-codex-supplement/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2025-04-15.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-apr15-content-xpde9eppiy.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Crusade Ancient",
 			"link": "",
 			"image": {
 				"url": "2025-04-15-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image2-1749563821-9cnmcgxfia.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Space Marines", "Black Templars"]
 	},
 	{
 		"date": "2025-04-22",
