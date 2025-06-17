@@ -10658,5 +10658,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-06-17",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/rfaqtkj1/the-rumour-engine-17th-of-june/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-06-17.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-jun17-0-content-jbatghrvtk.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-06-17-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
