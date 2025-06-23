@@ -10241,23 +10241,23 @@
 	},
 	{
 		"date": "2025-01-21",
-		"resolvedDate": "",
+		"resolvedDate": "2025-06-23",
 		"link": "https://www.warhammer-community.com/en-gb/articles/rm02cwoq/the-rumour-engine-21st-of-january/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/m7jip1j9/rule-the-skies-with-the-new-kharadron-overlords-null-khemist/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2025-01-21.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-jan21-content-gkomoubqlp.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Vongrim Harpoon Crew",
 			"link": "",
 			"image": {
 				"url": "2025-01-21-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image4_wide-1750166853-p4hozntlrz.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Order", "Kharadron Overlords"]
 	},
 	{
 		"date": "2025-01-28",
@@ -10361,43 +10361,43 @@
 	},
 	{
 		"date": "2025-03-04",
-		"resolvedDate": "",
+		"resolvedDate": "2025-06-23",
 		"link": "https://www.warhammer-community.com/en-gb/articles/9sal4cvo/the-rumour-engine-4th-of-march/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/m7jip1j9/rule-the-skies-with-the-new-kharadron-overlords-null-khemist/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2025-03-04.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-mar4-content-kz1enwomrh.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Zontari Endrin Dock",
 			"link": "",
 			"image": {
 				"url": "2025-03-04-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image5-1750166882-tj7bnt2tvz.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Order", "Kharadron Overlords"]
 	},
 	{
 		"date": "2025-03-11",
-		"resolvedDate": "",
+		"resolvedDate": "2025-06-23",
 		"link": "https://www.warhammer-community.com/en-gb/articles/nnpeudy2/the-rumour-engine-11th-of-march/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/m7jip1j9/rule-the-skies-with-the-new-kharadron-overlords-null-khemist/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2025-03-11.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-mar11-content-jjzbndfrtd.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Zontari Endrin Dock",
 			"link": "",
 			"image": {
-				"url": "2025-03-11-miniature.jpg",
-				"cdn": ""
+				"url": "2025-03-04-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/image5-1750166882-tj7bnt2tvz.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Order", "Kharadron Overlords"]
 	},
 	{
 		"date": "2025-03-18",
