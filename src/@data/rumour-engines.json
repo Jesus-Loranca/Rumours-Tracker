@@ -10678,5 +10678,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-06-24",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/vmmsjnxp/the-rumour-engine-24th-of-june/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-06-24.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-jun24-0-content-7phxp4ex82.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-06-24-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
