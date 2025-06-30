@@ -9861,23 +9861,23 @@
 	},
 	{
 		"date": "2024-08-06",
-		"resolvedDate": "",
+		"resolvedDate": "2025-06-30",
 		"link": "https://www.warhammer-community.com/2024/08/06/the-rumour-engine-6th-of-august/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/5bhawyez/kamandoras-blades-have-come-to-scavenge-skulls-from-the-depths-of-embergard/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2024-08-06.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/08/EjQB7TiyhKlaa4bf.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Kamandora's Blades",
 			"link": "",
 			"image": {
-				"url": "2024-08-06-miniature.jpg",
-				"cdn": ""
+				"url": "2024-08-06-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/whuw_kamandora-jun30-carousel1-nhuaunvb7l.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Underworlds", "Embergard", "Chaos", "Blades of Khorne"]
 	},
 	{
 		"date": "2024-08-13",
@@ -10414,7 +10414,7 @@
 			"link": "",
 			"image": {
 				"url": "2025-03-18-miniature.jpg",
-				"cdn": "https://assets.warhammer-community.com/image3-xusqacwmg0.jpg"
+				"cdn": "https://assets.warhammer-community.com/sundaypreview-jun29-aos_04-idkmanifestations-w4wkxdzk8q.jpg"
 			}
 		},
 		"tags": ["Age of Sigmar", "Order", "Idoneth Deepkin"]
