@@ -10698,5 +10698,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-07-01",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/nsx0qayw/the-rumour-engine-1st-of-july/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-07-01.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-jul1-0-content-rk2km4ntx3.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-07-01-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
