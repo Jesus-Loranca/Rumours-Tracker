@@ -10701,22 +10701,22 @@
 	},
 	{
 		"date": "2025-07-01",
-		"resolvedDate": "",
+		"resolvedDate": "2025-07-07",
 		"link": "https://www.warhammer-community.com/en-gb/articles/nsx0qayw/the-rumour-engine-1st-of-july/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/6ojnf0ga/palanite-enforcers-unleash-their-unique-brand-of-justice-with-new-officers-weapons-and-a-book/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2025-07-01.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-jul1-0-content-rk2km4ntx3.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Palatine Enforcers",
 			"link": "",
 			"image": {
 				"url": "2025-07-01-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/nec_enfreveal-jul07-captains-tragppdub7.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Necromunda", "Palatine Enforcers"]
 	}
 ]
