@@ -10718,5 +10718,25 @@
 			}
 		},
 		"tags": ["40.000", "Necromunda", "Palatine Enforcers"]
+	},
+	{
+		"date": "2025-07-08",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/oz5gsuqr/the-rumour-engine-8th-of-july/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-07-08.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-jul8-0-content-6lqrptlc7r.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-07-08-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
