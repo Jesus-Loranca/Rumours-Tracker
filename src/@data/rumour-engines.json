@@ -8921,23 +8921,23 @@
 	},
 	{
 		"date": "2023-12-16",
-		"resolvedDate": "",
+		"resolvedDate": "2025-07-18",
 		"link": "https://www.warhammer-community.com/2023/12/16/the-advent-engine-16th-december-2023/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/kscdd2nk/the-big-summer-preview-the-forces-of-death-muster-anew/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2023-12-16.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/Zj4fScO3QYXzdwbY.png"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Lord Vitriolic",
 			"link": "",
 			"image": {
 				"url": "2023-12-16-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image5-1752572443-kk7t3fd8yq.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Death", "Nighthaunt"]
 	},
 	{
 		"date": "2023-12-17",
@@ -8981,23 +8981,23 @@
 	},
 	{
 		"date": "2023-12-19",
-		"resolvedDate": "",
+		"resolvedDate": "2025-07-18",
 		"link": "https://www.warhammer-community.com/2023/12/19/the-advent-engine-19th-december-2023/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/kscdd2nk/the-big-summer-preview-the-forces-of-death-muster-anew/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2023-12-19.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/D389zvVOqKdoClnx.png"
 		},
-		"miniature": {
-			"name": "",
+"miniature": {
+			"name": "Lord Vitriolic",
 			"link": "",
 			"image": {
-				"url": "2023-12-19-miniature.jpg",
-				"cdn": ""
+				"url": "2023-12-16-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/image5-1752572443-kk7t3fd8yq.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Death", "Nighthaunt"]
 	},
 	{
 		"date": "2023-12-20",
@@ -9061,23 +9061,23 @@
 	},
 	{
 		"date": "2023-12-23",
-		"resolvedDate": "",
+		"resolvedDate": "2025-07-18",
 		"link": "https://www.warhammer-community.com/2023/12/23/the-advent-engine-23rd-december-2023/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/kscdd2nk/the-big-summer-preview-the-forces-of-death-muster-anew/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2023-12-23.png",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2023/11/GXhTk72hzQYS2V2D.png"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Lord Vitriolic",
 			"link": "",
 			"image": {
-				"url": "2023-12-23-miniature.jpg",
-				"cdn": ""
+				"url": "2023-12-16-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/image5-1752572443-kk7t3fd8yq.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Death", "Nighthaunt"]
 	},
 	{
 		"date": "2023-12-24",
@@ -9781,23 +9781,23 @@
 	},
 	{
 		"date": "2024-07-16",
-		"resolvedDate": "",
+		"resolvedDate": "2025-07-18",
 		"link": "https://www.warhammer-community.com/2024/07/16/the-rumour-engine-16th-july-2024/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/meznaevz/the-big-summer-preview-champions-of-the-first-founding/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2024-07-16.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/07/fNx2zjSheoy25RwA.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Caanok Var",
 			"link": "",
 			"image": {
 				"url": "2024-07-16-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image5-1752576821-843jxk2s6q.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Space Marines", "Iron Hands"]
 	},
 	{
 		"date": "2024-07-18",
@@ -9901,43 +9901,43 @@
 	},
 	{
 		"date": "2024-08-20",
-		"resolvedDate": "",
+		"resolvedDate": "2025-07-18",
 		"link": "https://www.warhammer-community.com/2024/08/20/the-rumour-engine-20th-of-august/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/chuafiji/the-big-summer-preview-reinforcing-the-kindred/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2024-08-20.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/08/IFN1TurnLMGtfZUb.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Memnyr Strategist",
 			"link": "",
 			"image": {
 				"url": "2024-08-20-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image3-aflxkix0ns.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Xenos Armies", "Leagues of Votann"]
 	},
 	{
 		"date": "2024-08-27",
-		"resolvedDate": "",
+		"resolvedDate": "2025-07-18",
 		"link": "https://www.warhammer-community.com/2024/08/27/the-rumour-engine-27th-of-august/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/chuafiji/the-big-summer-preview-reinforcing-the-kindred/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2024-08-27.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/08/CwGRA6KavCO0YBdQ.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Buri Aegnirssen",
 			"link": "",
 			"image": {
 				"url": "2024-08-27-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image1-1752570895-cnmthvup1m.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Xenos Armies", "Leagues of Votann"]
 	},
 	{
 		"date": "2024-09-03",
@@ -10021,23 +10021,23 @@
 	},
 	{
 		"date": "2024-10-01",
-		"resolvedDate": "",
+		"resolvedDate": "2025-07-18",
 		"link": "https://www.warhammer-community.com/en-gb/articles/EVjQW8BI/the-rumour-engine-1st-of-october/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/chuafiji/the-big-summer-preview-reinforcing-the-kindred/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2024-10-01.jpg",
 			"cdn": "https://warcomprod2024productionstorage.s3.eu-west-2.amazonaws.com/rumourengine-oct1-content.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Cthonian Earthshakers",
 			"link": "",
 			"image": {
 				"url": "2024-10-01-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image6-2uahgmgauy.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Xenos Armies", "Leagues of Votann"]
 	},
 	{
 		"date": "2024-10-08",
@@ -10061,63 +10061,63 @@
 	},
 	{
 		"date": "2024-10-15",
-		"resolvedDate": "",
+		"resolvedDate": "2025-07-18",
 		"link": "https://www.warhammer-community.com/en-gb/articles/a1jyujq3/the-rumour-engine-15th-of-october/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/chuafiji/the-big-summer-preview-reinforcing-the-kindred/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2024-10-15.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-oct15-content.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Arkanyst Evaluator",
 			"link": "",
 			"image": {
 				"url": "2024-10-15-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image2-1752570913-opb5l0yu2b.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Xenos Armies", "Leagues of Votann"]
 	},
 	{
 		"date": "2024-10-22",
-		"resolvedDate": "",
+		"resolvedDate": "2025-07-18",
 		"link": "https://www.warhammer-community.com/en-gb/articles/dsvzyfeh/the-rumour-engine-22nd-october-2024/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/chuafiji/the-big-summer-preview-reinforcing-the-kindred/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2024-10-22.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-oct22-content-awvrsx885g.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Kapricus",
 			"link": "",
 			"image": {
 				"url": "2024-10-22-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image7-n8jl19a9gm.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Xenos Armies", "Leagues of Votann"]
 	},
 	{
 		"date": "2024-10-29",
-		"resolvedDate": "",
+		"resolvedDate": "2025-07-18",
 		"link": "https://www.warhammer-community.com/en-gb/articles/yiynycuz/the-rumour-engine-29th-of-october/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/9lpgtcwy/the-big-summer-preview-deathwatch-kill-teams-descend-into-the-tomb-world/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2024-10-29.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-oct29-content-sba8a7vg3e.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Deathwatch Kill Team",
 			"link": "",
 			"image": {
-				"url": "2024-10-29-miniature.jpg",
-				"cdn": ""
+				"url": "2024-10-29-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/carousela5-trmlpc0x47.png"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Kill Team", "Space Marines", "Deathwatch"]
 	},
 	{
 		"date": "2024-11-05",
@@ -10141,23 +10141,23 @@
 	},
 	{
 		"date": "2024-11-12",
-		"resolvedDate": "",
+		"resolvedDate": "2025-07-18",
 		"link": "https://www.warhammer-community.com/en-gb/articles/9qhnsqqg/the-rumour-engine-12th-of-november/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/9lpgtcwy/the-big-summer-preview-deathwatch-kill-teams-descend-into-the-tomb-world/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2024-11-12.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-nov12-content-lwpqszqgr3.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Deathwatch Kill Team",
 			"link": "",
 			"image": {
-				"url": "2024-11-12-miniature.jpg",
-				"cdn": ""
+				"url": "2024-11-12-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/carousela1-1e92nh2pef.png"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Kill Team", "Space Marines", "Deathwatch"]
 	},
 	{
 		"date": "2024-11-19",
@@ -10181,23 +10181,23 @@
 	},
 	{
 		"date": "2024-11-26",
-		"resolvedDate": "",
+		"resolvedDate": "2025-07-18",
 		"link": "https://www.warhammer-community.com/en-gb/articles/9qhnsqqg/the-rumour-engine-26th-of-november/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/meznaevz/the-big-summer-preview-champions-of-the-first-founding/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2024-11-26.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-nov26-content-j11hlo4xwx.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Suboden Khan",
 			"link": "",
 			"image": {
 				"url": "2024-11-26-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image6-zwpx5es6ja.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Space Marines", "White Scars"]
 	},
 	{
 		"date": "2025-01-07",
@@ -10301,43 +10301,43 @@
 	},
 	{
 		"date": "2025-02-11",
-		"resolvedDate": "",
+		"resolvedDate": "2025-07-18",
 		"link": "https://www.warhammer-community.com/en-gb/articles/ygluox04/the-rumour-engine-11th-of-february/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/e49o7val/the-big-summer-preview-hunt-for-glory-in-the-depths-of-the-spitewood/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2025-02-11.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-feb11-content-ljcesthv22.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Kurnoth's Heralds",
 			"link": "",
 			"image": {
-				"url": "2025-02-11-miniature.jpg",
-				"cdn": ""
+				"url": "2025-02-11-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/carousela2-fqf173ddty.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Underworlds", "Spitewood", "Order", "Sylvaneth"]
 	},
 	{
 		"date": "2025-02-18",
-		"resolvedDate": "",
+		"resolvedDate": "2025-07-18",
 		"link": "https://www.warhammer-community.com/en-gb/articles/pw7qt2qa/the-rumour-engine-18th-of-february/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/kscdd2nk/the-big-summer-preview-the-forces-of-death-muster-anew/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2025-02-18.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-feb18-content-gdbjyoypj5.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "High Falconer Felgryn",
 			"link": "",
 			"image": {
 				"url": "2025-02-18-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image2-1752572337-jtbnmtrjtc.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Death", "Flesh-eater Courts"]
 	},
 	{
 		"date": "2025-02-25",
@@ -10461,23 +10461,23 @@
 	},
 	{
 		"date": "2025-04-08",
-		"resolvedDate": "",
+		"resolvedDate": "2025-07-18",
 		"link": "https://www.warhammer-community.com/en-gb/articles/bjzt1u58/the-rumour-engine-8th-of-april/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/chuafiji/the-big-summer-preview-reinforcing-the-kindred/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2025-04-08.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-apr8-content-th4erhsvx0.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Cthonian Earthshakers",
 			"link": "",
 			"image": {
-				"url": "2025-04-08-miniature.jpg",
-				"cdn": ""
+				"url": "2024-10-01-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/image6-2uahgmgauy.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Xenos Armies", "Leagues of Votann"]
 	},
 	{
 		"date": "2025-04-15",
@@ -10541,43 +10541,43 @@
 	},
 	{
 		"date": "2025-05-06",
-		"resolvedDate": "",
+		"resolvedDate": "2025-07-18",
 		"link": "https://www.warhammer-community.com/en-gb/articles/p4trvsr8/the-rumour-engine-6th-of-may/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/chuafiji/the-big-summer-preview-reinforcing-the-kindred/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2025-05-06.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-may6-0-content-7uscqgrkmk.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Ironkin Steeljacks",
 			"link": "",
 			"image": {
 				"url": "2025-05-06-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image4-l724qcjza1.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Xenos Armies", "Leagues of Votann"]
 	},
 	{
 		"date": "2025-05-13",
-		"resolvedDate": "",
+		"resolvedDate": "2025-07-18",
 		"link": "https://www.warhammer-community.com/en-gb/articles/czmpjcko/the-rumour-engine-13th-of-may/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/meznaevz/the-big-summer-preview-champions-of-the-first-founding/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2025-05-13.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-may12-0-content-22yzcmfyes.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Caanok Var",
 			"link": "",
 			"image": {
-				"url": "2025-05-13-miniature.jpg",
-				"cdn": ""
+				"url": "2024-07-16-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/image5-1752576821-843jxk2s6q.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Space Marines", "Iron Hands"]
 	},
 	{
 		"date": "2025-05-20",
@@ -10601,103 +10601,103 @@
 	},
 	{
 		"date": "2025-05-27",
-		"resolvedDate": "",
+		"resolvedDate": "2025-07-18",
 		"link": "https://www.warhammer-community.com/en-gb/articles/hzrcnd9b/the-rumour-engine-27th-of-may/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/meznaevz/the-big-summer-preview-champions-of-the-first-founding/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2025-05-27.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-may27-0-content-0nfsaah0yp.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Darnath Lysander",
 			"link": "",
 			"image": {
 				"url": "2025-05-27-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image3-dvydrzwuht.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Space Marines", "Imperial Fists"]
 	},
 	{
 		"date": "2025-06-03",
-		"resolvedDate": "",
+		"resolvedDate": "2025-07-18",
 		"link": "https://www.warhammer-community.com/en-gb/articles/owcpxu44/the-rumour-engine-3rd-of-june/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/meznaevz/the-big-summer-preview-champions-of-the-first-founding/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2025-06-03.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-jun03-0-content-boena8ivny.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Aethon Shaan",
 			"link": "",
 			"image": {
 				"url": "2025-06-03-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image4-lzds2g9l83.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Space Marines", "Raven Guard"]
 	},
 	{
 		"date": "2025-06-10",
-		"resolvedDate": "",
+		"resolvedDate": "2025-07-18",
 		"link": "https://www.warhammer-community.com/en-gb/articles/jkjawugf/the-rumour-engine-10th-of-june/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/meznaevz/the-big-summer-preview-champions-of-the-first-founding/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2025-06-10.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-jun10-0-content-c38bryw6gd.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Aethon Shaan",
 			"link": "",
 			"image": {
-				"url": "2025-06-10-miniature.jpg",
-				"cdn": ""
+				"url": "2025-06-03-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/image4-lzds2g9l83.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Space Marines", "Raven Guard"]
 	},
 	{
 		"date": "2025-06-17",
-		"resolvedDate": "",
+		"resolvedDate": "2025-07-18",
 		"link": "https://www.warhammer-community.com/en-gb/articles/rfaqtkj1/the-rumour-engine-17th-of-june/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/meznaevz/the-big-summer-preview-champions-of-the-first-founding/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2025-06-17.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-jun17-0-content-jbatghrvtk.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Caanok Var",
 			"link": "",
 			"image": {
-				"url": "2025-06-17-miniature.jpg",
-				"cdn": ""
+				"url": "2024-07-16-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/image5-1752576821-843jxk2s6q.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Space Marines", "Iron Hands"]
 	},
 	{
 		"date": "2025-06-24",
-		"resolvedDate": "",
+		"resolvedDate": "2025-07-18",
 		"link": "https://www.warhammer-community.com/en-gb/articles/vmmsjnxp/the-rumour-engine-24th-of-june/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/meznaevz/the-big-summer-preview-champions-of-the-first-founding/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2025-06-24.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-jun24-0-content-7phxp4ex82.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Suboden Khan",
 			"link": "",
 			"image": {
-				"url": "2025-06-24-miniature.jpg",
-				"cdn": ""
+				"url": "2024-11-26-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/image6-zwpx5es6ja.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Space Marines", "White Scars"]
 	},
 	{
 		"date": "2025-07-01",
