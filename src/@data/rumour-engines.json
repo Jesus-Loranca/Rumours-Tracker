@@ -10758,5 +10758,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-07-22",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/nmaptg9k/the-rumour-engine-22nd-of-july/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-07-22.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-jul22-0-content-ylmkd4wgtf.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-07-22-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
