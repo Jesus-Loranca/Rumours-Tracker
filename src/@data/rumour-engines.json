@@ -10818,5 +10818,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-08-13",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/tshkekxz/the-rumour-engine-12th-of-august/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-08-13.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-aug12-0-content-hp9zzbm1tf.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-08-13-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
