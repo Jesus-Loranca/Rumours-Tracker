@@ -10838,5 +10838,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-08-20",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/ajkpd36j/the-rumour-engine-19th-of-august/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-08-20.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-aug19-0-content-3aqfapspbf.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-08-20-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
