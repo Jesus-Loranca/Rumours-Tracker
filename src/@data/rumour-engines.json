@@ -10820,40 +10820,60 @@
 		"tags": []
 	},
 	{
-		"date": "2025-08-13",
+		"date": "2025-08-12",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/en-gb/articles/tshkekxz/the-rumour-engine-12th-of-august/",
 		"resolvedLink": "",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
-			"url": "2025-08-13.jpg",
+			"url": "2025-08-12.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-aug12-0-content-hp9zzbm1tf.jpg"
 		},
 		"miniature": {
 			"name": "",
 			"link": "",
 			"image": {
-				"url": "2025-08-13-miniature.jpg",
+				"url": "2025-08-12-miniature.jpg",
 				"cdn": ""
 			}
 		},
 		"tags": []
 	},
 	{
-		"date": "2025-08-20",
+		"date": "2025-08-19",
 		"resolvedDate": "",
 		"link": "https://www.warhammer-community.com/en-gb/articles/ajkpd36j/the-rumour-engine-19th-of-august/",
 		"resolvedLink": "",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
-			"url": "2025-08-20.jpg",
+			"url": "2025-08-19.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-aug19-0-content-3aqfapspbf.jpg"
 		},
 		"miniature": {
 			"name": "",
 			"link": "",
 			"image": {
-				"url": "2025-08-20-miniature.jpg",
+				"url": "2025-08-19-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2025-08-26",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/qniabdog/the-rumour-engine-26th-of-august/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-08-26.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-aug26-0-content-wdhvsbdv5v.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-08-26-miniature.jpg",
 				"cdn": ""
 			}
 		},
