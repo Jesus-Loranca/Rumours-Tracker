@@ -10111,10 +10111,10 @@
 		},
 		"miniature": {
 			"name": "Deathwatch Kill Team",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/kill-team-tomb-world-eng-2025",
 			"image": {
-				"url": "2024-10-29-miniature.png",
-				"cdn": "https://assets.warhammer-community.com/carousela5-trmlpc0x47.png"
+				"url": "2024-10-29-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60010199075_engKTTombWorld03.jpg"
 			}
 		},
 		"tags": ["40.000", "Kill Team", "Space Marines", "Deathwatch"]
@@ -10151,10 +10151,10 @@
 		},
 		"miniature": {
 			"name": "Deathwatch Kill Team",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/kill-team-tomb-world-eng-2025",
 			"image": {
-				"url": "2024-11-12-miniature.png",
-				"cdn": "https://assets.warhammer-community.com/carousela1-1e92nh2pef.png"
+				"url": "2024-11-12-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60010199075_engKTTombWorld04.jpg"
 			}
 		},
 		"tags": ["40.000", "Kill Team", "Space Marines", "Deathwatch"]
@@ -10511,7 +10511,7 @@
 		},
 		"miniature": {
 			"name": "Knight Defender",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/imperial-knights-knight-questoris-2025",
 			"image": {
 				"url": "2025-04-22-miniature.jpg",
 				"cdn": "https://assets.warhammer-community.com/40k_imperialknights-may05-image1-fedfsr0dqr.jpg"
@@ -10611,7 +10611,7 @@
 		},
 		"miniature": {
 			"name": "Darnath Lysander",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/imperial-fists-darnath-lysander-2025",
 			"image": {
 				"url": "2025-05-27-miniature.jpg",
 				"cdn": "https://assets.warhammer-community.com/image3-dvydrzwuht.jpg"
@@ -10631,7 +10631,7 @@
 		},
 		"miniature": {
 			"name": "Aethon Shaan",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/raven-guard-aethon-shaan-2025",
 			"image": {
 				"url": "2025-06-03-miniature.jpg",
 				"cdn": "https://assets.warhammer-community.com/image4-lzds2g9l83.jpg"
@@ -10651,7 +10651,7 @@
 		},
 		"miniature": {
 			"name": "Aethon Shaan",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/raven-guard-aethon-shaan-2025",
 			"image": {
 				"url": "2025-06-03-miniature.jpg",
 				"cdn": "https://assets.warhammer-community.com/image4-lzds2g9l83.jpg"
