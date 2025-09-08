@@ -10581,23 +10581,23 @@
 	},
 	{
 		"date": "2025-05-20",
-		"resolvedDate": "",
+		"resolvedDate": "2025-09-08",
 		"link": "https://www.warhammer-community.com/en-gb/articles/91ngnypk/the-rumour-engine-20th-of-may/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/5jk5xmlb/lady-malys-stands-tall-over-the-new-codex-drukhari/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2025-05-20.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-may20-0-content-mfkucwixng.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Archon",
 			"link": "",
 			"image": {
 				"url": "2025-05-20-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image4-zxyijtqd1v.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Xenos Armies", "Drukhari"]
 	},
 	{
 		"date": "2025-05-27",
