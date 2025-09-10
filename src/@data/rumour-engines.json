@@ -10978,5 +10978,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-09-09",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/csha7g2v/the-rumour-engine-9th-of-september/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-09-09.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-sep9-0-content-v4rkd7d9ia.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-09-09-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
