@@ -10710,14 +10710,14 @@
 			"cdn": "https://assets.warhammer-community.com/rumourengine-jul1-0-content-rk2km4ntx3.jpg"
 		},
 		"miniature": {
-			"name": "Palatine Enforcers",
-			"link": "",
+			"name": "Palanite Enforcer Captains & Sergeants",
+			"link": "https://www.warhammer.com/en-GB/shop/necromunda-palatine-enforcer-captains-and-sergeants-2025",
 			"image": {
 				"url": "2025-07-01-miniature.jpg",
-				"cdn": "https://assets.warhammer-community.com/nec_enfreveal-jul07-captains-tragppdub7.jpg"
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120599080_NecromundaPalaniteEnforcerCaptainsSergeants1.jpg"
 			}
 		},
-		"tags": ["40.000", "Necromunda", "Palatine Enforcers"]
+		"tags": ["40.000", "Necromunda", "Palanite Enforcers"]
 	},
 	{
 		"date": "2025-07-08",
