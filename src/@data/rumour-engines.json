@@ -11118,5 +11118,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-09-23",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/cruam1em/the-rumour-engine-23rd-of-september/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-09-23.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-sep23-0-content-9nsx073w2n.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-09-23-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
