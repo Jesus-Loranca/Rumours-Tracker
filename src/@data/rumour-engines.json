@@ -11138,5 +11138,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-09-30",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/v2vvudd7/the-rumour-engine-30th-of-september/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-09-30.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-sep30-0-content-93r5n60rnu.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-09-30-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
