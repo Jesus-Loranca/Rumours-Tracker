@@ -10311,10 +10311,10 @@
 		},
 		"miniature": {
 			"name": "Kurnoth's Heralds",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/warhammer-underworlds-spitewood-2025-eng",
 			"image": {
-				"url": "2025-02-11-miniature.png",
-				"cdn": "https://assets.warhammer-community.com/carousela2-fqf173ddty.png"
+				"url": "2025-02-11-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60010799028_ENGWarhammerUnderworldsSpitewood3.jpg"
 			}
 		},
 		"tags": ["Age of Sigmar", "Underworlds", "Spitewood", "Order", "Sylvaneth"]
