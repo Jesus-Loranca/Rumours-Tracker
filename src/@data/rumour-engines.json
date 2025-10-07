@@ -11158,5 +11158,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-10-07",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/hcuepgdr/the-rumour-engine-7th-of-october/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-10-07.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-oct7-0-content-rwu6qpfvx6.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-10-07-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
