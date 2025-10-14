@@ -11178,5 +11178,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-10-14",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/gb78bybt/the-rumour-engine-14th-of-october/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-10-14.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-oct14-0-content-hc9nshyik1.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-10-14-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
