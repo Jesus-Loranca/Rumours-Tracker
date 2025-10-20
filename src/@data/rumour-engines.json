@@ -9317,7 +9317,7 @@
 				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99122705009_WHtOWDMHLordShieldbearers1.jpg"
 			}
 		},
-		"tags": ["The Orld World", "Dwarfen Mountain Holds"]
+		"tags": ["The Old World", "Dwarfen Mountain Holds"]
 	},
 	{
 		"date": "2024-03-12",
@@ -10841,43 +10841,43 @@
 	},
 	{
 		"date": "2025-07-15",
-		"resolvedDate": "",
+		"resolvedDate": "2025-10-20",
 		"link": "https://www.warhammer-community.com/en-gb/articles/shjsuqk0/the-rumour-engine-15th-of-july/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/jaa76ljd/bring-chaos-to-the-old-world-with-a-horde-of-rampaging-marauders/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2025-07-15.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-jul15-0-content-4lrajfgp26.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Marauder Horsemen",
 			"link": "",
 			"image": {
 				"url": "2025-07-15-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image4-fa0fvdx3o1.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["The Old World", "Warriors of Chaos"]
 	},
 	{
 		"date": "2025-07-22",
-		"resolvedDate": "",
+		"resolvedDate": "2025-10-20",
 		"link": "https://www.warhammer-community.com/en-gb/articles/nmaptg9k/the-rumour-engine-22nd-of-july/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/jaa76ljd/bring-chaos-to-the-old-world-with-a-horde-of-rampaging-marauders/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2025-07-22.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-jul22-0-content-ylmkd4wgtf.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Marauder Horsemen",
 			"link": "",
 			"image": {
-				"url": "2025-07-22-miniature.jpg",
-				"cdn": ""
+				"url": "2025-07-15-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/image4-fa0fvdx3o1.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["The Old World", "Warriors of Chaos"]
 	},
 	{
 		"date": "2025-07-29",
