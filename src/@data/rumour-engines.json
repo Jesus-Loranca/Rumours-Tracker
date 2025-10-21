@@ -11198,5 +11198,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-10-21",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/nzocwosw/the-rumour-engine-21st-of-october/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-10-21.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-oct21-0-content-dnse7pcfn1.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-10-21-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
