@@ -11218,5 +11218,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-10-28",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/fyxrtuji/the-rumour-engine-28th-of-october/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-10-28.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-oct28-0-content-wa9f3luv2g.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-10-28-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
