@@ -10821,23 +10821,23 @@
 	},
 	{
 		"date": "2025-07-08",
-		"resolvedDate": "",
+		"resolvedDate": "2025-07-18",
 		"link": "https://www.warhammer-community.com/en-gb/articles/oz5gsuqr/the-rumour-engine-8th-of-july/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/es-es/articles/ko8rqxzy/the-big-summer-preview-los-reyes-funerarios-anuncian-nuevos-lanzamientos-para-el-viejo-mundo/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2025-07-08.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-jul8-0-content-6lqrptlc7r.jpg"
 		},
 		"miniature": {
-			"name": "",
-			"link": "",
+			"name": "Liche Priests",
+			"link": "https://www.warhammer.com/en-GB/shop/tomb-kings-of-khemri-liche-priests-2025",
 			"image": {
 				"url": "2025-07-08-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99122717011_WarhammerOldWorldTombKingsofKhemriLichePriests1.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["The Old World", "Tomb Kings of Khemri"]
 	},
 	{
 		"date": "2025-07-15",
