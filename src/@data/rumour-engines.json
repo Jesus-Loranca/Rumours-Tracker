@@ -10601,83 +10601,43 @@
 	},
 	{
 		"date": "2025-05-23",
-		"resolvedDate": "",
+		"resolvedDate": "2025-11-08",
 		"link": "https://www.warhammer-community.com/en-gb/articles/mpozkj8g/saturnine-big-guns-small-guns-and-breachers/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/gha4mv93/world-championships-preview-become-a-master-of-siege-warfare-with-new-cataphractii-terminators-and-breacher-squads/",
+		"resolvedEvent": "World Championships Preview",
 		"rumourEngineImage": {
 			"url": "2025-05-23_1.jpg",
 			"cdn": "https://assets.warhammer-community.com/10-thh_more-volkite-hjm06rfdio.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Cataphractii Terminators with Volkite Chargers and Power Mauls",
 			"link": "",
 			"image": {
-				"url": "2025-05-23_1-miniature.jpg",
-				"cdn": ""
+				"url": "2025-05-23_1-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/carousel1a-xi8oju5ksw.png"
 			}
 		},
-		"tags": ["Horus Heresy"]
+		"tags": ["Horus Heresy", "Traitor Space Marine Legions", "Iron Warriors"]
 	},
 	{
 		"date": "2025-05-23",
-		"resolvedDate": "",
+		"resolvedDate": "2025-11-08",
 		"link": "https://www.warhammer-community.com/en-gb/articles/mpozkj8g/saturnine-big-guns-small-guns-and-breachers/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/cwq62g00/world-championships-preview-skitarii-battle-pilgryms-pursue-treasured-technology-for-the-mechanicum/",
+		"resolvedEvent": "World Championships Preview",
 		"rumourEngineImage": {
 			"url": "2025-05-23_2.jpg",
 			"cdn": "https://assets.warhammer-community.com/10-thh_more-teaser-ycffco60mb.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Skitarii Battle-Pilgrym Corpus",
 			"link": "",
 			"image": {
-				"url": "2025-05-23_2-miniature.jpg",
-				"cdn": ""
+				"url": "2025-05-23_2-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/carousel1a-cvnc1tt8ge.png"
 			}
 		},
-		"tags": ["Horus Heresy"]
-	},
-	{
-		"date": "2025-05-23",
-		"resolvedDate": "",
-		"link": "https://www.warhammer-community.com/en-gb/articles/mpozkj8g/saturnine-big-guns-small-guns-and-breachers/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
-		"rumourEngineImage": {
-			"url": "2025-05-23_2.jpg",
-			"cdn": "https://assets.warhammer-community.com/10-thh_more-teaser-ycffco60mb.jpg"
-		},
-		"miniature": {
-			"name": "",
-			"link": "",
-			"image": {
-				"url": "2025-05-23_3-miniature.jpg",
-				"cdn": ""
-			}
-		},
-		"tags": ["Horus Heresy"]
-	},
-	{
-		"date": "2025-05-23",
-		"resolvedDate": "",
-		"link": "https://www.warhammer-community.com/en-gb/articles/mpozkj8g/saturnine-big-guns-small-guns-and-breachers/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
-		"rumourEngineImage": {
-			"url": "2025-05-23_2.jpg",
-			"cdn": "https://assets.warhammer-community.com/10-thh_more-teaser-ycffco60mb.jpg"
-		},
-		"miniature": {
-			"name": "",
-			"link": "",
-			"image": {
-				"url": "2025-05-23_4-miniature.jpg",
-				"cdn": ""
-			}
-		},
-		"tags": ["Horus Heresy"]
+		"tags": ["Horus Heresy", "Forces of the Cult Mechanicum", "Mechanicum"]
 	},
 	{
 		"date": "2025-05-23",
@@ -10693,7 +10653,7 @@
 			"name": "",
 			"link": "",
 			"image": {
-				"url": "2025-05-23_5-miniature.jpg",
+				"url": "2025-05-23_3-miniature.jpg",
 				"cdn": ""
 			}
 		},
@@ -10881,143 +10841,143 @@
 	},
 	{
 		"date": "2025-07-29",
-		"resolvedDate": "",
+		"resolvedDate": "2025-11-08",
 		"link": "https://www.warhammer-community.com/en-gb/articles/cnoxaf3h/the-rumour-engine-29th-of-july/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/ntxnwkvq/world-championships-preview-team-up-with-your-pals-and-defend-the-everspring-in-warhammer-quest-darkwater/",
+		"resolvedEvent": "World Championships Preview",
 		"rumourEngineImage": {
 			"url": "2025-07-29.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-jul29-0-content-eoh3kw1pli.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Drasher Vorn",
 			"link": "",
 			"image": {
-				"url": "2025-07-29-miniature.jpg",
-				"cdn": ""
+				"url": "2025-07-29-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/carousel2b-aqkaasv727.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Warhammer Quest", "Darkwater", "Order", "Cities of Sigmar"]
 	},
 	{
 		"date": "2025-08-05",
-		"resolvedDate": "",
+		"resolvedDate": "2025-11-08",
 		"link": "https://www.warhammer-community.com/en-gb/articles/cpae6ma0/the-rumour-engine-5th-of-august/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/ntxnwkvq/world-championships-preview-team-up-with-your-pals-and-defend-the-everspring-in-warhammer-quest-darkwater/",
+		"resolvedEvent": "World Championships Preview",
 		"rumourEngineImage": {
 			"url": "2025-08-05.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-aug5-0-content-6q2dw9hsdb.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Jacobus Vyne",
 			"link": "",
 			"image": {
-				"url": "2025-08-05-miniature.jpg",
-				"cdn": ""
+				"url": "2025-08-05-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/carousel2c-zip2hxzh30.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Warhammer Quest", "Darkwater", "Order", "Cities of Sigmar"]
 	},
 	{
 		"date": "2025-08-12",
-		"resolvedDate": "",
+		"resolvedDate": "2025-11-08",
 		"link": "https://www.warhammer-community.com/en-gb/articles/tshkekxz/the-rumour-engine-12th-of-august/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/ntxnwkvq/world-championships-preview-team-up-with-your-pals-and-defend-the-everspring-in-warhammer-quest-darkwater/",
+		"resolvedEvent": "World Championships Preview",
 		"rumourEngineImage": {
 			"url": "2025-08-12.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-aug12-0-content-hp9zzbm1tf.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Jacobus Vyne",
 			"link": "",
 			"image": {
-				"url": "2025-08-12-miniature.jpg",
-				"cdn": ""
+				"url": "2025-08-05-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/carousel2c-zip2hxzh30.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Warhammer Quest", "Darkwater", "Order", "Cities of Sigmar"]
 	},
 	{
 		"date": "2025-08-19",
-		"resolvedDate": "",
+		"resolvedDate": "2025-11-08",
 		"link": "https://www.warhammer-community.com/en-gb/articles/ajkpd36j/the-rumour-engine-19th-of-august/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/ntxnwkvq/world-championships-preview-team-up-with-your-pals-and-defend-the-everspring-in-warhammer-quest-darkwater/",
+		"resolvedEvent": "World Championships Preview",
 		"rumourEngineImage": {
 			"url": "2025-08-19.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-aug19-0-content-3aqfapspbf.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Belga the Cystwitch",
 			"link": "",
 			"image": {
-				"url": "2025-08-19-miniature.jpg",
-				"cdn": ""
+				"url": "2025-08-19-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/carousel3b-dupkyei0o9.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Warhammer Quest", "Darkwater", "Chaos", "Maggotkin of Nurgle"]
 	},
 	{
 		"date": "2025-08-26",
-		"resolvedDate": "",
+		"resolvedDate": "2025-11-08",
 		"link": "https://www.warhammer-community.com/en-gb/articles/qniabdog/the-rumour-engine-26th-of-august/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/ntxnwkvq/world-championships-preview-team-up-with-your-pals-and-defend-the-everspring-in-warhammer-quest-darkwater/",
+		"resolvedEvent": "World Championships Preview",
 		"rumourEngineImage": {
 			"url": "2025-08-26.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-aug26-0-content-wdhvsbdv5v.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Jacobus Vyne",
 			"link": "",
 			"image": {
-				"url": "2025-08-26-miniature.jpg",
-				"cdn": ""
+				"url": "2025-08-05-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/carousel2c-zip2hxzh30.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Warhammer Quest", "Darkwater", "Order", "Cities of Sigmar"]
 	},
 	{
 		"date": "2025-09-02",
-		"resolvedDate": "",
+		"resolvedDate": "2025-11-08",
 		"link": "https://www.warhammer-community.com/en-gb/articles/bjt7alwf/the-rumour-engine-2nd-of-september/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/ntxnwkvq/world-championships-preview-team-up-with-your-pals-and-defend-the-everspring-in-warhammer-quest-darkwater/",
+		"resolvedEvent": "World Championships Preview",
 		"rumourEngineImage": {
 			"url": "2025-09-02.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-sep2-0-content-asbfjhevub.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Kelthannor",
 			"link": "",
 			"image": {
-				"url": "2025-09-02-miniature.jpg",
-				"cdn": ""
+				"url": "2025-09-02-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/carousel2a-d1rcvnltlf.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Warhammer Quest", "Darkwater", "Order", "Sylvaneth"]
 	},
 	{
 		"date": "2025-09-03",
-		"resolvedDate": "",
+		"resolvedDate": "2025-11-08",
 		"link": "https://www.warhammer-community.com/en-gb/articles/bse9qadn/the-future-of-age-of-sigmar-can-you-work-out-whats-coming-next/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/l7slnanx/world-championships-preview-embrace-a-noxious-mountain-of-gifts-for-the-maggotkin-of-nurgle/",
+		"resolvedEvent": "World Championships Preview",
 		"rumourEngineImage": {
 			"url": "2025-09-03.jpg",
 			"cdn": "https://assets.warhammer-community.com/aos_nostalgia5-sep3-teasers-dboo697ws3.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Rotswords",
 			"link": "",
 			"image": {
-				"url": "2025-09-03_1-miniature.jpg",
-				"cdn": ""
+				"url": "2025-09-03_1-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/carousel3b-bmr6y8b7qm.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Chaos", "Maggotkin of Nurgle"]
 	},
 	{
 		"date": "2025-09-03",
