@@ -11218,5 +11218,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-11-11",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/bti8k5tj/the-rumour-engine-11th-of-november/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-11-11.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-nov11-0-content-wahaiyggl9.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-11-11-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
