@@ -11238,5 +11238,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-11-18",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/hzhor33z/the-rumour-engine-18th-of-november/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-11-18.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-nov18-0-content-opwm2wiy9x.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-11-18-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
