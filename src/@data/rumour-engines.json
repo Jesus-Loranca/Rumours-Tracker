@@ -11258,5 +11258,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-11-25",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/gvkxzzft/the-rumour-engine-25th-of-november/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-11-25.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-nov25-0-content-uo7a8mz3ms.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-11-25-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
