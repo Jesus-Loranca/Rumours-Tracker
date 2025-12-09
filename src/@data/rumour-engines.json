@@ -11298,5 +11298,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-12-09",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/h0ufv5ot/the-rumour-engine-9th-of-december/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-12-09.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-dec09-0-content-mxdwiirxtw.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-12-09-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
