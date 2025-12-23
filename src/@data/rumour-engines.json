@@ -11338,5 +11338,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-12-23",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/tvveavmu/the-rumour-engine-23rd-of-december/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-12-23.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-dec23-0-content-gunrzh7iry.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-12-23-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
