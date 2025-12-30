@@ -11358,5 +11358,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2025-12-30",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/sqdh0evs/the-rumour-engine-30th-of-december/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2025-12-30.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-dec30-0-content-hqsr5n7mir.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2025-12-30-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
