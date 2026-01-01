@@ -11141,23 +11141,23 @@
 	},
 	{
 		"date": "2025-10-14",
-		"resolvedDate": "",
+		"resolvedDate": "2026-01-01",
 		"link": "https://www.warhammer-community.com/en-gb/articles/gb78bybt/the-rumour-engine-14th-of-october/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/uzoe2wdo/announcing-the-new-year-warhammer-preview-live-2026-your-first-reveal-show-of-the-year/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2025-10-14.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-oct14-0-content-hc9nshyik1.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Garreon the Corpsemaster",
 			"link": "",
 			"image": {
-				"url": "2025-10-14-miniature.jpg",
-				"cdn": ""
+				"url": "2025-10-14-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/3b-7gbtldd6t4.png"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines"]
 	},
 	{
 		"date": "2025-10-21",
