@@ -10971,10 +10971,10 @@
 		},
 		"miniature": {
 			"name": "Rotswords",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/maggotkin-of-nurgle-rotswords-2026",
 			"image": {
-				"url": "2025-09-03_1-miniature.png",
-				"cdn": "https://assets.warhammer-community.com/carousel3b-bmr6y8b7qm.png"
+				"url": "2025-09-03_1-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120201207_WEBMaggotkinNurgleRotswords1.jpg"
 			}
 		},
 		"tags": ["Age of Sigmar", "Chaos", "Maggotkin of Nurgle"]
