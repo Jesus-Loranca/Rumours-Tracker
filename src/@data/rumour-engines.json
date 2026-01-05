@@ -9361,23 +9361,23 @@
 	},
 	{
 		"date": "2024-03-19",
-		"resolvedDate": "",
+		"resolvedDate": "2026-01-05",
 		"link": "https://www.warhammer-community.com/2024/03/19/the-rumour-engine-19th-march-2024/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/eekdls2v/celebrate-store-anniversaries-in-2026-with-an-aeldari-autarch-and-a-vampire-lord/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2024-03-19.jpg",
 			"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/03/sFX8texl4kL4CNeB.jpg"
 		},
 		"miniature": {
-			"name": "",
-			"link": "",
+			"name": "Korthrain, the Crimson Blade",
+			"link": "https://www.warhammer-community.com/en-gb/articles/eekdls2v/celebrate-store-anniversaries-in-2026-with-an-aeldari-autarch-and-a-vampire-lord/",
 			"image": {
 				"url": "2024-03-19-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/storeanniversaryminis2026-jan05-aos-usfuncfgwa.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Death", "Soulblight Gravelords"]
 	},
 	{
 		"date": "2024-03-26",
@@ -10121,23 +10121,23 @@
 	},
 	{
 		"date": "2024-11-05",
-		"resolvedDate": "",
+		"resolvedDate": "2026-01-05",
 		"link": "https://www.warhammer-community.com/en-gb/articles/rseuqgdn/the-rumour-engine-5th-of-november/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/eekdls2v/celebrate-store-anniversaries-in-2026-with-an-aeldari-autarch-and-a-vampire-lord/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2024-11-05.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-nov5-content-ngvoeqgcyu.jpg"
 		},
 		"miniature": {
-			"name": "",
-			"link": "",
+			"name": "Korthrain, the Crimson Blade",
+			"link": "https://www.warhammer-community.com/en-gb/articles/eekdls2v/celebrate-store-anniversaries-in-2026-with-an-aeldari-autarch-and-a-vampire-lord/",
 			"image": {
-				"url": "2024-11-05-miniature.jpg",
-				"cdn": ""
+				"url": "2024-03-19-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/storeanniversaryminis2026-jan05-aos-usfuncfgwa.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Death", "Soulblight Gravelords"]
 	},
 	{
 		"date": "2024-11-12",
