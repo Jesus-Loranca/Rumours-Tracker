@@ -11378,5 +11378,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2026-01-06",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/dvzabvpf/the-rumour-engine-6th-of-january/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2026-01-06.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-jan06-0-content-4utkhwg0vp.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2026-01-06-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
