@@ -11398,5 +11398,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2026-01-13",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/lvbiukyp/the-rumour-engine-13th-of-january/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2026-01-13.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-jan13-0-content-lul6pk3o3i.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2026-01-13-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
