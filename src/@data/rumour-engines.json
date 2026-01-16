@@ -10641,23 +10641,23 @@
 	},
 	{
 		"date": "2025-05-23",
-		"resolvedDate": "",
+		"resolvedDate": "2026-01-16",
 		"link": "https://www.warhammer-community.com/en-gb/articles/mpozkj8g/saturnine-big-guns-small-guns-and-breachers/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/mdp0kzdk/the-new-year-preview-all-new-legio-custodes-revealed/",
+		"resolvedEvent": "The New Year Preview",
 		"rumourEngineImage": {
 			"url": "2025-05-23_3.jpg",
 			"cdn": "https://assets.warhammer-community.com/10-thh_more-spear-nkaeyqxvde.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Custodian Guard",
 			"link": "",
 			"image": {
-				"url": "2025-05-23_3-miniature.jpg",
-				"cdn": ""
+				"url": "2025-05-23_3-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/carousel-1c-ffpmkzaxqm.png"
 			}
 		},
-		"tags": ["Horus Heresy"]
+		"tags": ["Horus Heresy", "Forces of the Emperor", "Legio Custodes"]
 	},
 	{
 		"date": "2025-05-27",
@@ -11021,123 +11021,123 @@
 	},
 	{
 		"date": "2025-09-03",
-		"resolvedDate": "",
+		"resolvedDate": "2026-01-16",
 		"link": "https://www.warhammer-community.com/en-gb/articles/bse9qadn/the-future-of-age-of-sigmar-can-you-work-out-whats-coming-next/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/waia6lkr/the-new-year-preview-fulfil-the-bone-tithe-with-new-ossiarch-bonereapers/",
+		"resolvedEvent": "The New Year Preview",
 		"rumourEngineImage": {
 			"url": "2025-09-03.jpg",
 			"cdn": "https://assets.warhammer-community.com/aos_nostalgia5-sep3-teasers-dboo697ws3.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Mortis Reapers",
 			"link": "",
 			"image": {
-				"url": "2025-09-03_4-miniature.jpg",
-				"cdn": ""
+				"url": "2025-09-03_4-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/carousel-2b-x1vrem0ny5.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Death", "Ossiarch Bonereapers"]
 	},
 	{
 		"date": "2025-09-09",
-		"resolvedDate": "",
+		"resolvedDate": "2026-01-16",
 		"link": "https://www.warhammer-community.com/en-gb/articles/csha7g2v/the-rumour-engine-9th-of-september/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/oozg3yry/the-new-year-preview-prepare-to-be-boarded-by-the-new-red-corsairs/",
+		"resolvedEvent": "The New Year Preview",
 		"rumourEngineImage": {
 			"url": "2025-09-09.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-sep9-0-content-v4rkd7d9ia.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Huron Blackheart and the Masters of the Maelstrom",
 			"link": "",
 			"image": {
 				"url": "2025-09-09-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image4-wide-z9yq8g5xwh.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines"]
 	},
 	{
 		"date": "2025-09-16",
-		"resolvedDate": "",
+		"resolvedDate": "2026-01-16",
 		"link": "https://www.warhammer-community.com/en-gb/articles/csha7g2v/the-rumour-engine-16th-of-september/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/oozg3yry/the-new-year-preview-prepare-to-be-boarded-by-the-new-red-corsairs/",
+		"resolvedEvent": "The New Year Preview",
 		"rumourEngineImage": {
 			"url": "2025-09-16.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-sep16-0-content-igviyfntsl.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Huron Blackheart and the Masters of the Maelstrom",
 			"link": "",
 			"image": {
-				"url": "2025-09-16-miniature.jpg",
-				"cdn": ""
+				"url": "2025-09-09-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/image4-wide-z9yq8g5xwh.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines"]
 	},
 	{
 		"date": "2025-09-23",
-		"resolvedDate": "",
+		"resolvedDate": "2026-01-16",
 		"link": "https://www.warhammer-community.com/en-gb/articles/cruam1em/the-rumour-engine-23rd-of-september/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/oozg3yry/the-new-year-preview-prepare-to-be-boarded-by-the-new-red-corsairs/",
+		"resolvedEvent": "The New Year Preview",
 		"rumourEngineImage": {
 			"url": "2025-09-23.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-sep23-0-content-9nsx073w2n.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Huron Blackheart and the Masters of the Maelstrom",
 			"link": "",
 			"image": {
-				"url": "2025-09-23-miniature.jpg",
-				"cdn": ""
+				"url": "2025-09-09-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/image4-wide-z9yq8g5xwh.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines"]
 	},
 	{
 		"date": "2025-09-30",
-		"resolvedDate": "",
+		"resolvedDate": "2026-01-16",
 		"link": "https://www.warhammer-community.com/en-gb/articles/v2vvudd7/the-rumour-engine-30th-of-september/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/oozg3yry/the-new-year-preview-prepare-to-be-boarded-by-the-new-red-corsairs/",
+		"resolvedEvent": "The New Year Preview",
 		"rumourEngineImage": {
 			"url": "2025-09-30.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-sep30-0-content-93r5n60rnu.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Huron Blackheart and the Masters of the Maelstrom",
 			"link": "",
 			"image": {
-				"url": "2025-09-30-miniature.jpg",
-				"cdn": ""
+				"url": "2025-09-09-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/image4-wide-z9yq8g5xwh.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines"]
 	},
 	{
 		"date": "2025-10-07",
-		"resolvedDate": "",
+		"resolvedDate": "2026-01-16",
 		"link": "https://www.warhammer-community.com/en-gb/articles/hcuepgdr/the-rumour-engine-7th-of-october/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/l7x5v6ib/the-new-year-preview-prince-yriel-counterattacks-with-new-aeldari-corsairs/",
+		"resolvedEvent": "The New Year Preview",
 		"rumourEngineImage": {
 			"url": "2025-10-07.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-oct7-0-content-rwu6qpfvx6.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Prince Yriel",
 			"link": "",
 			"image": {
 				"url": "2025-10-07-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image2-16jan-nxrcpcgbzu.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Xenos Armies","Aeldari"]
 	},
 	{
 		"date": "2025-10-14",
@@ -11150,54 +11150,54 @@
 			"cdn": "https://assets.warhammer-community.com/rumourengine-oct14-0-content-hc9nshyik1.jpg"
 		},
 		"miniature": {
-			"name": "Garreon the Corpsemaster",
+			"name": "Huron Blackheart and the Masters of the Maelstrom",
 			"link": "",
 			"image": {
-				"url": "2025-10-14-miniature.png",
-				"cdn": "https://assets.warhammer-community.com/3b-7gbtldd6t4.png"
+				"url": "2025-09-09-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/image4-wide-z9yq8g5xwh.jpg"
 			}
 		},
 		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines"]
 	},
 	{
 		"date": "2025-10-21",
-		"resolvedDate": "",
+		"resolvedDate": "2026-01-16",
 		"link": "https://www.warhammer-community.com/en-gb/articles/nzocwosw/the-rumour-engine-21st-of-october/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/oozg3yry/the-new-year-preview-prepare-to-be-boarded-by-the-new-red-corsairs/",
+		"resolvedEvent": "The New Year Preview",
 		"rumourEngineImage": {
 			"url": "2025-10-21.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-oct21-0-content-dnse7pcfn1.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Reave-Captain",
 			"link": "",
 			"image": {
 				"url": "2025-10-21-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image2-16jan-xy7csioted.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines"]
 	},
 	{
 		"date": "2025-10-28",
-		"resolvedDate": "",
+		"resolvedDate": "2026-01-16",
 		"link": "https://www.warhammer-community.com/en-gb/articles/fyxrtuji/the-rumour-engine-28th-of-october/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/oozg3yry/the-new-year-preview-prepare-to-be-boarded-by-the-new-red-corsairs/",
+		"resolvedEvent": "The New Year Preview",
 		"rumourEngineImage": {
 			"url": "2025-10-28.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-oct28-0-content-wa9f3luv2g.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Reave-Captain",
 			"link": "",
 			"image": {
-				"url": "2025-10-28-miniature.jpg",
-				"cdn": ""
+				"url": "2025-10-21-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/image2-16jan-xy7csioted.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines"]
 	},
 	{
 		"date": "2025-11-04",
@@ -11341,23 +11341,23 @@
 	},
 	{
 		"date": "2025-12-23",
-		"resolvedDate": "",
+		"resolvedDate": "2026-01-16",
 		"link": "https://www.warhammer-community.com/en-gb/articles/tvveavmu/the-rumour-engine-23rd-of-december/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/waia6lkr/the-new-year-preview-fulfil-the-bone-tithe-with-new-ossiarch-bonereapers/",
+		"resolvedEvent": "The New Year Preview",
 		"rumourEngineImage": {
 			"url": "2025-12-23.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-dec23-0-content-gunrzh7iry.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Mortek Triaxes",
 			"link": "",
 			"image": {
-				"url": "2025-12-23-miniature.jpg",
-				"cdn": ""
+				"url": "2025-12-23-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/carousel-1a-nabcccxufb.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Death", "Ossiarch Bonereapers"]
 	},
 	{
 		"date": "2025-12-30",
