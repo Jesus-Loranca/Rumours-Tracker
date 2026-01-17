@@ -11201,43 +11201,43 @@
 	},
 	{
 		"date": "2025-11-04",
-		"resolvedDate": "",
+		"resolvedDate": "2026-01-01",
 		"link": "https://www.warhammer-community.com/en-gb/articles/yddsa7zh/the-rumour-engine-4th-of-november/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/oozg3yry/the-new-year-preview-prepare-to-be-boarded-by-the-new-red-corsairs/",
+		"resolvedEvent": "The New Year Preview",
 		"rumourEngineImage": {
 			"url": "2025-11-04.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-nov4-0-content-myd8gseez9.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Huron Blackheart and the Masters of the Maelstrom",
 			"link": "",
 			"image": {
-				"url": "2025-11-04-miniature.jpg",
-				"cdn": ""
+				"url": "2025-09-09-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/image4-wide-z9yq8g5xwh.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines"]
 	},
 	{
 		"date": "2025-11-11",
-		"resolvedDate": "",
+		"resolvedDate": "2026-01-01",
 		"link": "https://www.warhammer-community.com/en-gb/articles/bti8k5tj/the-rumour-engine-11th-of-november/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/oozg3yry/the-new-year-preview-prepare-to-be-boarded-by-the-new-red-corsairs/",
+		"resolvedEvent": "The New Year Preview",
 		"rumourEngineImage": {
 			"url": "2025-11-11.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-nov11-0-content-wahaiyggl9.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Reave-Captain",
 			"link": "",
 			"image": {
-				"url": "2025-11-11-miniature.jpg",
-				"cdn": ""
+				"url": "2025-10-21-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/image2-16jan-xy7csioted.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines"]
 	},
 	{
 		"date": "2025-11-18",
