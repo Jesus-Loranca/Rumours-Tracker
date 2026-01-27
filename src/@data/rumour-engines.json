@@ -11598,5 +11598,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2026-01-27",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/fcmvqul0/the-rumour-engine-27th-of-january/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2026-01-27.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-jan27-0-content-yjfshhcfzu.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2026-01-27-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
