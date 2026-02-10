@@ -11501,43 +11501,43 @@
 	},
 	{
 		"date": "2026-01-16",
-		"resolvedDate": "",
+		"resolvedDate": "2026-02-10",
 		"link": "https://www.warhammer-community.com/en-gb/articles/ycu7gzna/the-new-year-preview-revealed-the-eye-of-terror/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/8oknimbb/revealed-the-new-defiler-stomps-onto-the-battlefield/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2026-01-16_5.jpg",
 			"cdn": "https://assets.warhammer-community.com/teaser5-5ydzrbz98e.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Defiler",
 			"link": "",
 			"image": {
 				"url": "2026-01-16-miniature_5.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image1-09-02-gwnbdvow0r.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines"]
 	},
 	{
 		"date": "2026-01-16",
-		"resolvedDate": "",
+		"resolvedDate": "2026-02-10",
 		"link": "https://www.warhammer-community.com/en-gb/articles/ycu7gzna/the-new-year-preview-revealed-the-eye-of-terror/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/8oknimbb/revealed-the-new-defiler-stomps-onto-the-battlefield/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2026-01-16_6.jpg",
 			"cdn": "https://assets.warhammer-community.com/teaser6-6ok6trbftx.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Defiler",
 			"link": "",
 			"image": {
-				"url": "2026-01-16-miniature_6.jpg",
-				"cdn": ""
+				"url": "2026-01-16-miniature_5.jpg",
+				"cdn": "https://assets.warhammer-community.com/image1-09-02-gwnbdvow0r.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of Chaos", "Chaos Space Marines"]
 	},
 	{
 		"date": "2026-01-16",
