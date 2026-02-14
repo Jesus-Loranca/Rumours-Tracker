@@ -11261,23 +11261,23 @@
 	},
 	{
 		"date": "2025-11-25",
-		"resolvedDate": "",
+		"resolvedDate": "2026-02-14",
 		"link": "https://www.warhammer-community.com/en-gb/articles/gvkxzzft/the-rumour-engine-25th-of-november/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/0riglbkl/grove-guardian-by-alarielle-the-new-scent-of-life-in-ghyran/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2025-11-25.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-nov25-0-content-uo7a8mz3ms.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Grove Guardian",
 			"link": "",
 			"image": {
 				"url": "2025-11-25-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/14-02_image1-uimxhdlyjt.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Order", "Sylvaneth"]
 	},
 	{
 		"date": "2025-12-03",
