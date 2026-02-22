@@ -11031,10 +11031,10 @@
 		},
 		"miniature": {
 			"name": "Mortis Reapers",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/ossiarch-bonereapers-mortis-reapers-2026",
 			"image": {
-				"url": "2025-09-03_4-miniature.png",
-				"cdn": "https://assets.warhammer-community.com/carousel-2b-x1vrem0ny5.png"
+				"url": "2025-09-03_4-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/sundaypreview-feb15-aos_06-mortisreapers-qbsgbnomiy.jpg"
 			}
 		},
 		"tags": ["Age of Sigmar", "Death", "Ossiarch Bonereapers"]
@@ -11351,10 +11351,10 @@
 		},
 		"miniature": {
 			"name": "Mortek Triaxes",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/ossiarch-bonereapers-mortek-triaxes-2026",
 			"image": {
-				"url": "2025-12-23-miniature.png",
-				"cdn": "https://assets.warhammer-community.com/carousel-1a-nabcccxufb.png"
+				"url": "2025-12-23-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/sundaypreview-feb15-aos_05-mortektriaxes-nlwveppyjy.jpg"
 			}
 		},
 		"tags": ["Age of Sigmar", "Death", "Ossiarch Bonereapers"]
