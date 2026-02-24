@@ -11678,5 +11678,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2026-02-24",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/8h8u1nsa/the-rumour-engine-24th-of-february/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2026-02-24.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-feb24-0-content-1cpyl2n8uu.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2026-02-24-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
