@@ -11698,5 +11698,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2026-03-03",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/7xzunj9v/the-rumour-engine-3rd-of-march/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2026-03-03.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-mar03-0-content-wz5cwiovla.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2026-03-03-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
