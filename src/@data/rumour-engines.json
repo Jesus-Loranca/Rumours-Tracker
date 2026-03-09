@@ -11718,5 +11718,65 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2026-03-09",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/e9dl4ok8/sneak-peek-new-ork-bits-sighted/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2026-03-09_1.png",
+			"cdn": "https://assets.warhammer-community.com/teaser2-at1m1lhx7a.png"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2026-03-09-miniature_1.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2026-03-09",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/e9dl4ok8/sneak-peek-new-ork-bits-sighted/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2026-03-09_2.png",
+			"cdn": "https://assets.warhammer-community.com/teaser3-4rwacrsnuk.png"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2026-03-09-miniature_2.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2026-03-09",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/e9dl4ok8/sneak-peek-new-ork-bits-sighted/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2026-03-09_3.png",
+			"cdn": "https://assets.warhammer-community.com/teaser1-wf6qywunip.png"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2026-03-09-miniature_3.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
