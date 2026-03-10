@@ -16,6 +16,8 @@ export class RumoursComponent {
 	orderByValue: string = 'oldest';
 	unresolvedOnly: boolean = false;
 	useGridView: boolean = false;
+	yearFilterDisabled: boolean = false;
+	tagFilterDisabled: boolean = false;
 
 	constructor() {
 		this.getRumourEnginesData();
@@ -71,8 +73,21 @@ export class RumoursComponent {
 
 	unresolvedButtonEventHandler(unresolvedOnly: boolean): void {
 		this.unresolvedOnly = unresolvedOnly;
+		this.hideSolvedRumoursOptions();
 		this.filterRumours();
   }
+
+	hideSolvedRumoursOptions(): void {
+		if (this.unresolvedOnly) {
+			this.filteredYear = '';
+			this.filteredTag = '';
+			this.yearFilterDisabled = true;
+			this.tagFilterDisabled = true;
+		} else {
+			this.yearFilterDisabled = false;
+			this.tagFilterDisabled = false;
+		}
+	}
 
 	filterRumours(): void {
 		this.getRumourEnginesData();

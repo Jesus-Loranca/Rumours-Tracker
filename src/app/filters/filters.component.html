@@ -1,14 +1,16 @@
 <form class="row filters">
 	<div class="col-md-3">
-			<select class="form-control" id="filterByYear" name="filterByYear" [(ngModel)]="filterByYear" (change)="onFilterByYearChange()">
-				<option value="">-</option>
-				<option value="{{ year }}" *ngFor="let year of years">{{ year }}</option>
-			</select>
-			<label for="filterByYear">Filter by Year</label>
+		<select class="form-control" id="filterByYear" name="filterByYear" [(ngModel)]="filterByYear"
+			(change)="onFilterByYearChange()" [disabled]="yearFilterDisabled">
+			<option value="">-</option>
+			<option value="{{ year }}" *ngFor="let year of years">{{ year }}</option>
+		</select>
+		<label for="filterByYear">Filter by Year</label>
 	</div>
 
 	<div class="col-md-3">
-		<select class="form-control" id="filterByTag" name="filterByTag" [(ngModel)]="filterByTag" (change)="onFilterByTagChange()">
+		<select class="form-control" id="filterByTag" name="filterByTag" [(ngModel)]="filterByTag"
+			(change)="onFilterByTagChange()" [disabled]="tagFilterDisabled">
 			<option value="">-</option>
 			<option value="{{ tag }}" *ngFor="let tag of tags">{{ tag }}</option>
 		</select>
@@ -17,17 +19,19 @@
 
 	<div class="col-md-3">
 		<select class="form-control" id="orderBy" name="orderBy" [(ngModel)]="orderBy" (change)="onOrderByChange()">
-				<option value="oldest">Oldest First</option>
-				<option value="current">Current First</option>
+			<option value="oldest">Oldest First</option>
+			<option value="current">Current First</option>
 		</select>
 		<label for="orderBy">Order By</label>
 	</div>
 
 	<div class="col-8 col-md-2">
-		<button type="button" class="btn btn-primary" (click)="triggerUnresolvedButton()">{{ unresolvedButtonText }}</button>
+		<button type="button" class="btn btn-primary" (click)="triggerUnresolvedButton()">{{ unresolvedButtonText
+			}}</button>
 	</div>
 
 	<div class="col-4 col-md-1">
-		<button type="button" class="btn btn-primary" (click)="triggerGridView()" [ngClass]="unresolvedOnly ? '' : 'disabled'">Grid <i class="bi bi-grid"></i></button>
+		<button type="button" class="btn btn-primary" (click)="triggerGridView()"
+			[ngClass]="unresolvedOnly ? '' : 'disabled'">Grid <i class="bi bi-grid"></i></button>
 	</div>
 </form>

@@ -8,6 +8,8 @@ import { Component, EventEmitter, Input, Output } from '@angular/core';
 export class FiltersComponent {
 	@Input() years: Array<string> = [];
 	@Input() tags: Array<string> = [];
+	@Input() yearFilterDisabled: boolean = false;
+	@Input() tagFilterDisabled: boolean = false;
 	@Output() filterByYearEvent: EventEmitter<string> = new EventEmitter<string>();
 	@Output() filterByTagEvent: EventEmitter<string> = new EventEmitter<string>();
 	@Output() orderByEvent: EventEmitter<string> = new EventEmitter<string>();
@@ -36,6 +38,13 @@ export class FiltersComponent {
 	triggerUnresolvedButton(): void {
 		this.unresolvedOnly = !this.unresolvedOnly;
 		this.unresolvedButtonText = !this.unresolvedOnly ? 'Unresolved Only': 'All the Rumours';
+
+		if (this.unresolvedOnly) {
+			this.filterByYear = '';
+			this.filterByTag = '';
+			this.onFilterByYearChange();
+			this.onFilterByTagChange();
+		}
 
 		if (!this.unresolvedOnly) {
 			this.useGridView = false;

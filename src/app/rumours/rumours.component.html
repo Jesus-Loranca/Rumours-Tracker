@@ -1,7 +1,9 @@
 <filters
 	[years]="uniqueYears"
+	[yearFilterDisabled]="yearFilterDisabled"
 	(filterByYearEvent)="filterByYearEventHandler($event)"
 	[tags]="uniqueTags"
+	[tagFilterDisabled]="tagFilterDisabled"
 	(filterByTagEvent)="filterByTagEventHandler($event)"
 	(orderByEvent)="orderByEventHandler($event)"
 	(unresolvedButtonEvent)="unresolvedButtonEventHandler($event)"
