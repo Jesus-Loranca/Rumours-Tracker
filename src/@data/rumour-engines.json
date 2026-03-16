@@ -11741,23 +11741,23 @@
 	},
 	{
 		"date": "2026-03-09",
-		"resolvedDate": "",
+		"resolvedDate": "2026-03-16",
 		"link": "https://www.warhammer-community.com/en-gb/articles/e9dl4ok8/sneak-peek-new-ork-bits-sighted/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/sklouxc3/new-animation-the-saviour-of-armageddon-returns/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2026-03-09_2.png",
 			"cdn": "https://assets.warhammer-community.com/teaser3-4rwacrsnuk.png"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Commissar Yarrick",
 			"link": "",
 			"image": {
 				"url": "2026-03-09-miniature_2.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image1_16-03-jroquhzfpz.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of the Imperium", "Astra Militarum"]
 	},
 	{
 		"date": "2026-03-09",
