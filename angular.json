@@ -114,5 +114,8 @@
       }
     }
   },
-  "defaultProject": "rumour-engines"
+  "defaultProject": "rumour-engines",
+  "cli": {
+    "analytics": false
+  }
 }
