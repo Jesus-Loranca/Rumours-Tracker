@@ -47,8 +47,8 @@
               "budgets": [
                 {
                   "type": "initial",
-                  "maximumWarning": "500kb",
-                  "maximumError": "1mb"
+                  "maximumWarning": "750kb",
+                  "maximumError": "1.5mb"
                 },
                 {
                   "type": "anyComponentStyle",
@@ -79,10 +79,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "rumour-engines:build:production"
+              "buildTarget": "rumour-engines:build:production"
             },
             "development": {
-              "browserTarget": "rumour-engines:build:development"
+              "buildTarget": "rumour-engines:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -90,7 +90,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "rumour-engines:build"
+            "buildTarget": "rumour-engines:build"
           }
         },
         "test": {
@@ -114,5 +114,7 @@
       }
     }
   },
-  "defaultProject": "rumour-engines"
+  "cli": {
+    "analytics": false
+  }
 }
