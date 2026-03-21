@@ -1,5 +1,6 @@
 import { Component, Input, ChangeDetectionStrategy } from '@angular/core';
 import { RumourEngine } from 'src/@types/RumourEngine';
+import { DateService } from '../services/date.service';
 
 @Component({
   selector: 'grid-view',
@@ -10,24 +11,22 @@ import { RumourEngine } from 'src/@types/RumourEngine';
 export class GridViewComponent {
 	@Input() rumourEngines!: Array<RumourEngine>;
 
+	constructor(private dateService: DateService) {}
+
 	getDetailedDate(dateString: string): string {
-		return new Date(dateString).toLocaleDateString('en-US', {
-			year: 'numeric',
-			month: 'long',
-			day: 'numeric',
-		});
+		return this.dateService.getDetailedDate(dateString);
 	}
 
-	getUnresolvedDate(createdString: string): string {
-    const createdDate = new Date(createdString);
-    const currentDate = new Date();
-    const timeDifference = currentDate.getTime() - createdDate.getTime();
+	getUnresolvedDate(createdString: string): number {
+		return this.dateService.getUnresolvedDate(createdString);
+	}
 
-    return String(Math.ceil(timeDifference / (1000 * 60 * 60 * 24)) - 1);
-}
+	trackByRumourEngine(index: number, item: RumourEngine): string {
+		return item.link || index.toString();
+	}
 
 	handleImageError(event: Event, fallbackImageUrl: string): void {
-    const imgElement = event.target as HTMLImageElement;
-    imgElement.src = '../assets/images/optimized/' + fallbackImageUrl;
-  }
+		const imgElement = event.target as HTMLImageElement;
+		imgElement.src = '../assets/images/optimized/' + fallbackImageUrl;
+	}
 }

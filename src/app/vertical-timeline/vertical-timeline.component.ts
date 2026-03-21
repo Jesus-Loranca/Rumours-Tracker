@@ -1,5 +1,6 @@
 import { Component, HostListener, Input, ChangeDetectionStrategy } from '@angular/core';
 import { RumourEngine } from 'src/@types/RumourEngine';
+import { DateService } from '../services/date.service';
 
 @Component({
   selector: 'vertical-timeline',
@@ -10,49 +11,43 @@ import { RumourEngine } from 'src/@types/RumourEngine';
 export class VerticalTimelineComponent  {
 	@Input() rumourEngines: Array<RumourEngine> = [];
 
-	@HostListener('window:scroll', ['$event'])
-  onWindowScroll(): void {
-    const rumours = document.querySelectorAll('.bounce');
-
-    rumours.forEach((rumour: Element, index: number) => {
-      const distanceToTop = rumour.getBoundingClientRect().top;
-
-      if (index > 1 && (distanceToTop - 150) < window.innerHeight)  {
-				rumour.classList.add('bounce-in');
-      }
-    });
-  }
+	constructor(private dateService: DateService) {}
 
 	getDetailedDate(dateString: string): string {
-		return new Date(dateString).toLocaleDateString('en-US', {
-			year: 'numeric',
-			month: 'long',
-			day: 'numeric',
-		});
-	}
-
-	getResolvedDate(createdString: string, resolvedString: string): string {
-		const createdDate = new Date(createdString);
-		const resolvedDate = new Date(resolvedString);
-		const timeDifference = resolvedDate.getTime() - createdDate.getTime();
-
-		return String(Math.ceil(timeDifference / (1000 * 60 * 60 * 24)));
-	}
-
-	getUnresolvedDate(createdString: string): string {
-    const createdDate = new Date(createdString);
-    const currentDate = new Date();
-    const timeDifference = currentDate.getTime() - createdDate.getTime();
-
-    return String(Math.ceil(timeDifference / (1000 * 60 * 60 * 24)) - 1);
+		return this.dateService.getDetailedDate(dateString);
 	}
 
 	getYear(dateString: string): number {
-		return new Date(dateString).getFullYear();
+		return this.dateService.getYear(dateString);
 	}
 
-  handleImageError(event: Event, fallbackImageUrl: string): void {
-    const imgElement = event.target as HTMLImageElement;
-    imgElement.src = '../assets/images/optimized/' + fallbackImageUrl;
-  }
+	getUnresolvedDate(createdString: string): number {
+		return this.dateService.getUnresolvedDate(createdString);
+	}
+
+	getResolvedDate(createdString: string, resolvedString: string): number {
+		return this.dateService.getResolvedDate(createdString, resolvedString);
+	}
+
+	trackByRumourEngine(index: number, item: RumourEngine): string {
+		return item.link || index.toString();
+	}
+
+	handleImageError(event: Event, fallbackImageUrl: string): void {
+		const imgElement = event.target as HTMLImageElement;
+		imgElement.src = '../assets/images/optimized/' + fallbackImageUrl;
+	}
+
+	@HostListener('window:scroll', ['$event'])
+	onWindowScroll(): void {
+		const rumours = document.querySelectorAll('.bounce');
+
+		rumours.forEach((rumour: Element, index: number) => {
+			const distanceToTop = rumour.getBoundingClientRect().top;
+
+			if (index > 1 && (distanceToTop - 150) < window.innerHeight)  {
+				rumour.classList.add('bounce-in');
+			}
+		});
+	}
 }
