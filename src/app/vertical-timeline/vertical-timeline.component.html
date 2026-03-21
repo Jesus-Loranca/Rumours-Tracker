@@ -1,5 +1,5 @@
 <div class="timeline animate" *ngIf="rumourEngines.length > 0">
-	<div class="timeline left" *ngFor="let rumourEngine of rumourEngines">
+	<div class="timeline left" *ngFor="let rumourEngine of rumourEngines; trackBy: trackByRumourEngine">
 		<div *ngIf="rumourEngine && rumourEngine.link">
 			<span class="icon bounce">{{ getYear(rumourEngine.date) }}</span>
 
