@@ -1,9 +1,10 @@
-import { Component, Input } from '@angular/core';
+import { Component, Input, ChangeDetectionStrategy } from '@angular/core';
 import { RumourEngine } from 'src/@types/RumourEngine';
 
 @Component({
   selector: 'grid-view',
-  templateUrl: './grid-view.component.html'
+  templateUrl: './grid-view.component.html',
+  changeDetection: ChangeDetectionStrategy.OnPush
 })
 
 export class GridViewComponent {

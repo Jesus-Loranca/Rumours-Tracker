@@ -1,9 +1,10 @@
-import { Component, Input } from '@angular/core';
+import { Component, Input, ChangeDetectionStrategy } from '@angular/core';
 import { RumourEngine } from 'src/@types/RumourEngine';
 
 @Component({
   selector: 'counter',
-  templateUrl: './counter.component.html'
+  templateUrl: './counter.component.html',
+  changeDetection: ChangeDetectionStrategy.OnPush
 })
 
 export class CounterComponent {

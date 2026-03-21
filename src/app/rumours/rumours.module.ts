@@ -1,12 +1,17 @@
 import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
-import { BrowserModule } from '@angular/platform-browser';
+import { RouterModule, Routes } from '@angular/router';
+import { CommonModule } from '@angular/common';
 import { BackToTopComponent } from '../back-to-top/back-to-top.component';
 import { CounterComponent } from '../counter/counter.component';
 import { FiltersComponent } from '../filters/filters.component';
 import { GridViewComponent } from '../grid-view/grid-view.component';
 import { VerticalTimelineComponent } from '../vertical-timeline/vertical-timeline.component';
 import { RumoursComponent } from './rumours.component';
+
+const routes: Routes = [
+  { path: '', component: RumoursComponent }
+];
 
 @NgModule({
   declarations: [
@@ -18,13 +23,10 @@ import { RumoursComponent } from './rumours.component';
     BackToTopComponent
   ],
   imports: [
-    BrowserModule,
-		FormsModule
-  ],
-	exports: [
-		RumoursComponent
-	],
-  bootstrap: [RumoursComponent]
+    CommonModule,
+		FormsModule,
+    RouterModule.forChild(routes)
+  ]
 })
 
 export class RumoursModule { }

@@ -1,8 +1,9 @@
-import { Component, EventEmitter, Input, Output } from '@angular/core';
+import { Component, EventEmitter, Input, Output, ChangeDetectionStrategy } from '@angular/core';
 
 @Component({
   selector: 'filters',
-  templateUrl: './filters.component.html'
+  templateUrl: './filters.component.html',
+  changeDetection: ChangeDetectionStrategy.OnPush
 })
 
 export class FiltersComponent {

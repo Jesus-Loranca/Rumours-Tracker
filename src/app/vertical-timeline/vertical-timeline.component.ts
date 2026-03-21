@@ -1,9 +1,10 @@
-import { Component, HostListener, Input } from '@angular/core';
+import { Component, HostListener, Input, ChangeDetectionStrategy } from '@angular/core';
 import { RumourEngine } from 'src/@types/RumourEngine';
 
 @Component({
   selector: 'vertical-timeline',
-  templateUrl: './vertical-timeline.component.html'
+  templateUrl: './vertical-timeline.component.html',
+  changeDetection: ChangeDetectionStrategy.OnPush
 })
 
 export class VerticalTimelineComponent  {
