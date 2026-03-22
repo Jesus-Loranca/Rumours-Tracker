@@ -3,7 +3,8 @@ import { Component, HostListener, ChangeDetectionStrategy } from '@angular/core'
 @Component({
   selector: 'back-to-top',
   templateUrl: './back-to-top.component.html',
-  changeDetection: ChangeDetectionStrategy.OnPush
+  changeDetection: ChangeDetectionStrategy.OnPush,
+  standalone: false
 })
 export class BackToTopComponent {
 	showScrollBtn: boolean = false;

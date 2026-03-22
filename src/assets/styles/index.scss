@@ -1,10 +1,10 @@
-@import './variables.scss';
-@import './app.component.scss';
-@import './filters.component.scss';
-@import './vertical-timeline.component.scss';
-@import './grid-view.component.scss';
-@import './back-to-top.component.scss';
-@import './footer.component.scss';
+@use './variables.scss' as *;
+@use './app.component.scss';
+@use './filters.component.scss';
+@use './vertical-timeline.component.scss';
+@use './grid-view.component.scss';
+@use './back-to-top.component.scss';
+@use './footer.component.scss';
 
 body {
 	background-color: #e3e3e3 !important;

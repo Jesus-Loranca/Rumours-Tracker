@@ -4,7 +4,8 @@ import { RumourEnginesService } from '../services/rumour-engines.service';
 
 @Component({
   selector: 'rumours',
-  templateUrl: './rumours.component.html'
+  templateUrl: './rumours.component.html',
+  standalone: false
 })
 
 export class RumoursComponent {

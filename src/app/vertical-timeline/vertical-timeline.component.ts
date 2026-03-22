@@ -5,7 +5,8 @@ import { DateService } from '../services/date.service';
 @Component({
   selector: 'vertical-timeline',
   templateUrl: './vertical-timeline.component.html',
-  changeDetection: ChangeDetectionStrategy.OnPush
+  changeDetection: ChangeDetectionStrategy.OnPush,
+  standalone: false
 })
 
 export class VerticalTimelineComponent  {

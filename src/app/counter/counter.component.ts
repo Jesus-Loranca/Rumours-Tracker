@@ -4,7 +4,8 @@ import { RumourEngine } from 'src/@types/RumourEngine';
 @Component({
   selector: 'counter',
   templateUrl: './counter.component.html',
-  changeDetection: ChangeDetectionStrategy.OnPush
+  changeDetection: ChangeDetectionStrategy.OnPush,
+  standalone: false
 })
 
 export class CounterComponent {

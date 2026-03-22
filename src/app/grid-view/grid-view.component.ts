@@ -5,7 +5,8 @@ import { DateService } from '../services/date.service';
 @Component({
   selector: 'grid-view',
   templateUrl: './grid-view.component.html',
-  changeDetection: ChangeDetectionStrategy.OnPush
+  changeDetection: ChangeDetectionStrategy.OnPush,
+  standalone: false
 })
 
 export class GridViewComponent {
