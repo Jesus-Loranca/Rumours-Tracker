@@ -3,7 +3,8 @@ import { Component, EventEmitter, Input, Output, ChangeDetectionStrategy } from 
 @Component({
   selector: 'filters',
   templateUrl: './filters.component.html',
-  changeDetection: ChangeDetectionStrategy.OnPush
+  changeDetection: ChangeDetectionStrategy.OnPush,
+  standalone: false
 })
 
 export class FiltersComponent {

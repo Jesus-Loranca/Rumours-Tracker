@@ -21,6 +21,11 @@ getTestBed().initTestEnvironment(
 );
 
 // Then we find all the tests.
-const context = require.context('./', true, /\.spec\.ts$/);
-// And load the modules.
-context.keys().map(context);
+try {
+  const context = require.context('./', true, /\.spec\.ts$/);
+  // And load the modules.
+  context.keys().map(context);
+} catch (e) {
+  // Fallback for modern webpack/Angular 19
+  const modules = (import.meta as any).glob?.('./**/*.spec.ts', { eager: true });
+}

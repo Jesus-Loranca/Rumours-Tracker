@@ -1,3 +1,5 @@
+@use './variables.scss' as *;
+
 .container {
 	h2 {
 		color: $dark-gray !important;

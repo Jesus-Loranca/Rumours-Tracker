@@ -37,10 +37,28 @@
             ],
             "styles": [
               "src/assets/styles/index.scss",
-							"node_modules/bootstrap/dist/css/bootstrap.min.css",
-							"node_modules/bootstrap-icons/font/bootstrap-icons.min.css"
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/bootstrap-icons/font/bootstrap-icons.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+            ],
+            "stylePreprocessorOptions": {
+              "includePaths": [
+                "node_modules"
+              ]
+            },
+            "optimization": {
+              "styles": {
+                "minify": true,
+                "inlineCritical": false
+              },
+              "scripts": true,
+              "fonts": true
+            },
+            "allowedCommonJsDependencies": [
+              "bootstrap"
+            ]
           },
           "configurations": {
             "production": {
