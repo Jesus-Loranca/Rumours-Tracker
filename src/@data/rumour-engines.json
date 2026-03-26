@@ -11241,23 +11241,23 @@
 	},
 	{
 		"date": "2025-11-18",
-		"resolvedDate": "",
+		"resolvedDate": "2026-03-26",
 		"link": "https://www.warhammer-community.com/en-gb/articles/hzhor33z/the-rumour-engine-18th-of-november/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/bmjvmce4/adepticon-preview-2026-wazdakka-gutsmek-battles-commissar-yarrick-for-the-fate-of-armageddon/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2025-11-18.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-nov18-0-content-opwm2wiy9x.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Intranzia Fraye, Dogmata Superior",
 			"link": "",
 			"image": {
 				"url": "2025-11-18-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image8-26-03-s7pzarhsvz.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of the Imperium", "Sisters of Battle"]
 	},
 	{
 		"date": "2025-11-25",
@@ -11281,63 +11281,63 @@
 	},
 	{
 		"date": "2025-12-03",
-		"resolvedDate": "",
+		"resolvedDate": "2026-03-26",
 		"link": "https://www.warhammer-community.com/en-gb/articles/xflgzrsj/the-rumour-engine-2nd-of-december/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/bmjvmce4/adepticon-preview-2026-wazdakka-gutsmek-battles-commissar-yarrick-for-the-fate-of-armageddon/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2025-12-03.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-dec02-0-content-dzhateivuk.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Intranzia Fraye, Dogmata Superior",
 			"link": "",
 			"image": {
-				"url": "2025-12-03-miniature.jpg",
-				"cdn": ""
+				"url": "2025-11-18-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/image8-26-03-s7pzarhsvz.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of the Imperium", "Sisters of Battle"]
 	},
 	{
 		"date": "2025-12-09",
-		"resolvedDate": "",
+		"resolvedDate": "2026-03-26",
 		"link": "https://www.warhammer-community.com/en-gb/articles/h0ufv5ot/the-rumour-engine-9th-of-december/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/bvlnfcdh/adepticon-preview-2026-massive-walking-cogforts-lead-new-cities-of-sigmar-reinforcements/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2025-12-09.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-dec09-0-content-mxdwiirxtw.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Freeguild Grenadiers",
 			"link": "",
 			"image": {
-				"url": "2025-12-09-miniature.jpg",
-				"cdn": ""
+				"url": "2025-12-09-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/carousel-b3-rcma2k7glz.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Order", "Cities of Sigmar"]
 	},
 	{
 		"date": "2025-12-16",
-		"resolvedDate": "",
+		"resolvedDate": "2026-03-26",
 		"link": "https://www.warhammer-community.com/en-gb/articles/tsxl4plj/the-rumour-engine-16th-of-december/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/bmjvmce4/adepticon-preview-2026-wazdakka-gutsmek-battles-commissar-yarrick-for-the-fate-of-armageddon/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2025-12-16.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-dec16-0-content-6irycjzmvt.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Inquisitor Kroyle",
 			"link": "",
 			"image": {
 				"url": "2025-12-16-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image5-26-03-e4if2wicoq.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of the Imperium", "Imperial Agents"]
 	},
 	{
 		"date": "2025-12-23",
@@ -11361,43 +11361,43 @@
 	},
 	{
 		"date": "2025-12-30",
-		"resolvedDate": "",
+		"resolvedDate": "2026-03-26",
 		"link": "https://www.warhammer-community.com/en-gb/articles/sqdh0evs/the-rumour-engine-30th-of-december/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/bmjvmce4/adepticon-preview-2026-wazdakka-gutsmek-battles-commissar-yarrick-for-the-fate-of-armageddon/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2025-12-30.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-dec30-0-content-hqsr5n7mir.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Commissar Graves",
 			"link": "",
 			"image": {
 				"url": "2025-12-30-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image4-26-03-scigekm0oo.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of the Imperium", "Astra Militarum"]
 	},
 	{
 		"date": "2026-01-06",
-		"resolvedDate": "",
+		"resolvedDate": "2026-03-26",
 		"link": "https://www.warhammer-community.com/en-gb/articles/dvzabvpf/the-rumour-engine-6th-of-january/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/bmjvmce4/adepticon-preview-2026-wazdakka-gutsmek-battles-commissar-yarrick-for-the-fate-of-armageddon/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2026-01-06.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-jan06-0-content-4utkhwg0vp.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Inquisitor Kroyle",
 			"link": "",
 			"image": {
-				"url": "2026-01-06-miniature.jpg",
-				"cdn": ""
+				"url": "2025-12-16-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/image5-26-03-e4if2wicoq.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of the Imperium", "Imperial Agents"]
 	},
 	{
 		"date": "2026-01-13",
@@ -11581,83 +11581,83 @@
 	},
 	{
 		"date": "2026-01-20",
-		"resolvedDate": "",
+		"resolvedDate": "2026-03-26",
 		"link": "https://www.warhammer-community.com/en-gb/articles/lvbiukyp/the-rumour-engine-20th-of-january/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/bmjvmce4/adepticon-preview-2026-wazdakka-gutsmek-battles-commissar-yarrick-for-the-fate-of-armageddon/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2026-01-20.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-jan20-0-content-jfdmvbsb6g.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Inquisitor Kroyle",
 			"link": "",
 			"image": {
-				"url": "2026-01-20-miniature.jpg",
-				"cdn": ""
+				"url": "2025-12-16-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/image5-26-03-e4if2wicoq.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of the Imperium", "Imperial Agents"]
 	},
 	{
 		"date": "2026-01-27",
-		"resolvedDate": "",
+		"resolvedDate": "2026-03-26",
 		"link": "https://www.warhammer-community.com/en-gb/articles/fcmvqul0/the-rumour-engine-27th-of-january/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/bmjvmce4/adepticon-preview-2026-wazdakka-gutsmek-battles-commissar-yarrick-for-the-fate-of-armageddon/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2026-01-27.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-jan27-0-content-yjfshhcfzu.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Inquisitor Kroyle",
 			"link": "",
 			"image": {
-				"url": "2026-01-27-miniature.jpg",
-				"cdn": ""
+				"url": "2025-12-16-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/image5-26-03-e4if2wicoq.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of the Imperium", "Imperial Agents"]
 	},
 	{
 		"date": "2026-02-03",
-		"resolvedDate": "",
+		"resolvedDate": "2026-03-26",
 		"link": "https://www.warhammer-community.com/en-gb/articles/fcmvqul0/the-rumour-engine-3rd-of-february/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/bmjvmce4/adepticon-preview-2026-wazdakka-gutsmek-battles-commissar-yarrick-for-the-fate-of-armageddon/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2026-02-03.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-feb03-0-content-cdh2dxwipl.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Commissar Graves",
 			"link": "",
 			"image": {
-				"url": "2026-02-03-miniature.jpg",
-				"cdn": ""
+				"url": "2025-12-30-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/image4-26-03-scigekm0oo.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of the Imperium", "Astra Militarum"]
 	},
 	{
 		"date": "2026-02-10",
-		"resolvedDate": "",
+		"resolvedDate": "2026-03-26",
 		"link": "https://www.warhammer-community.com/en-gb/articles/iv7yysth/the-rumour-engine-10th-of-february/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/bmjvmce4/adepticon-preview-2026-wazdakka-gutsmek-battles-commissar-yarrick-for-the-fate-of-armageddon/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2026-02-10.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-feb10-0-content-hnkc4zfc42.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Inquisitor Kroyle",
 			"link": "",
 			"image": {
-				"url": "2026-02-10-miniature.jpg",
-				"cdn": ""
+				"url": "2025-12-16-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/image5-26-03-e4if2wicoq.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Armies of the Imperium", "Imperial Agents"]
 	},
 	{
 		"date": "2026-02-17",
@@ -11681,63 +11681,63 @@
 	},
 	{
 		"date": "2026-02-24",
-		"resolvedDate": "",
+		"resolvedDate": "2026-03-26",
 		"link": "https://www.warhammer-community.com/en-gb/articles/8h8u1nsa/the-rumour-engine-24th-of-february/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/bvlnfcdh/adepticon-preview-2026-massive-walking-cogforts-lead-new-cities-of-sigmar-reinforcements/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2026-02-24.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-feb24-0-content-1cpyl2n8uu.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Cannonade Cogfort",
 			"link": "",
 			"image": {
 				"url": "2026-02-24-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/fort1-jjdes4q06b.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Order", "Cities of Sigmar"]
 	},
 	{
 		"date": "2026-03-03",
-		"resolvedDate": "",
+		"resolvedDate": "2026-03-26",
 		"link": "https://www.warhammer-community.com/en-gb/articles/7xzunj9v/the-rumour-engine-3rd-of-march/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/bvlnfcdh/adepticon-preview-2026-massive-walking-cogforts-lead-new-cities-of-sigmar-reinforcements/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2026-03-03.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-mar03-0-content-wz5cwiovla.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Erasmus Zonn, the Enlightened One",
 			"link": "",
 			"image": {
 				"url": "2026-03-03-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image1-aos-l9hkubqdkm.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Order", "Cities of Sigmar"]
 	},
 	{
 		"date": "2026-03-09",
-		"resolvedDate": "",
+		"resolvedDate": "2026-03-26",
 		"link": "https://www.warhammer-community.com/en-gb/articles/e9dl4ok8/sneak-peek-new-ork-bits-sighted/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/bmjvmce4/adepticon-preview-2026-wazdakka-gutsmek-battles-commissar-yarrick-for-the-fate-of-armageddon/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2026-03-09_1.png",
 			"cdn": "https://assets.warhammer-community.com/teaser2-at1m1lhx7a.png"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Wazdakka Gutsmek",
 			"link": "",
 			"image": {
 				"url": "2026-03-09-miniature_1.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image14_wide-qjdxcy8enh.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Xenos Armies", "Orks"]
 	},
 	{
 		"date": "2026-03-09",
@@ -11761,82 +11761,82 @@
 	},
 	{
 		"date": "2026-03-09",
-		"resolvedDate": "",
+		"resolvedDate": "2026-03-26",
 		"link": "https://www.warhammer-community.com/en-gb/articles/e9dl4ok8/sneak-peek-new-ork-bits-sighted/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/bmjvmce4/adepticon-preview-2026-wazdakka-gutsmek-battles-commissar-yarrick-for-the-fate-of-armageddon/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2026-03-09_3.png",
 			"cdn": "https://assets.warhammer-community.com/teaser1-wf6qywunip.png"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Wazdakka Gutsmek",
 			"link": "",
 			"image": {
-				"url": "2026-03-09-miniature_3.jpg",
-				"cdn": ""
+				"url": "2026-03-09-miniature_1.jpg",
+				"cdn": "https://assets.warhammer-community.com/image14_wide-qjdxcy8enh.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Xenos Armies", "Orks"]
 	},
 	{
 		"date": "2026-03-10",
-		"resolvedDate": "",
+		"resolvedDate": "2026-03-26",
 		"link": "https://www.warhammer-community.com/en-gb/articles/7xzunj9v/the-rumour-engine-10th-of-march/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/bvlnfcdh/adepticon-preview-2026-massive-walking-cogforts-lead-new-cities-of-sigmar-reinforcements/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2026-03-10.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-mar10-0-content-vmo9muhwrr.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Cannonade Cogfort",
 			"link": "",
 			"image": {
-				"url": "2026-03-10-miniature.jpg",
-				"cdn": ""
+				"url": "2026-02-24-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/fort1-jjdes4q06b.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Order", "Cities of Sigmar"]
 	},
 	{
 		"date": "2026-03-17",
-		"resolvedDate": "",
+		"resolvedDate": "2026-03-26",
 		"link": "https://www.warhammer-community.com/en-gb/articles/cuxra3ym/the-rumour-engine-17th-of-march/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/jwpyca89/adepticon-preview-2026-the-red-terror-hunts-elite-cadians-in-new-kill-team-expansion/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2026-03-17.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-mar17-0-content-chjgi3vp7j.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "The Red Terror",
 			"link": "",
 			"image": {
 				"url": "2026-03-17-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/image3-6nopc8erdh.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Kill Team", "Xenos Armies", "Tyranids"]
 	},
 	{
 		"date": "2026-03-24",
-		"resolvedDate": "",
+		"resolvedDate": "2026-03-26",
 		"link": "https://www.warhammer-community.com/en-gb/articles/cuxra3ym/the-rumour-engine-24th-of-march/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/he0lfctv/adepticon-preview-2026-a-new-lumineth-realm-lords-warband-breezes-into-warhammer-underworlds/",
+		"resolvedEvent": "Adepticon",
 		"rumourEngineImage": {
 			"url": "2026-03-24.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-mar24-0-content-dzy3o6r7xk.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Thyrielle's Zephyrites",
 			"link": "",
 			"image": {
-				"url": "2026-03-24-miniature.jpg",
-				"cdn": ""
+				"url": "2026-03-24-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/carousel1-26-03-ogftxe9vz0.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Underworlds", "Order", "Lumineth Realm-lords"]
 	}
 ]
