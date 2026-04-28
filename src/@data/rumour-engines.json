@@ -11838,5 +11838,25 @@
 			}
 		},
 		"tags": ["Age of Sigmar", "Underworlds", "Order", "Lumineth Realm-lords"]
+	},
+	{
+		"date": "2026-04-28",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/ffoxoqw9/the-rumour-engine-28th-of-april/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2026-04-28.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-apr28-0-content-35ep9iettw.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
