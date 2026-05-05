@@ -11858,5 +11858,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2026-05-05",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/ffoxoqw9/the-rumour-engine-5th-of-may/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2026-05-05.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-may05-0-content-npblr25s8k.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
