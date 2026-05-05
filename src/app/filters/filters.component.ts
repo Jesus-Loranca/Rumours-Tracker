@@ -64,4 +64,12 @@ export class FiltersComponent {
 		this.useGridView = !this.useGridView;
 		this.useGridViewButtonEvent.emit(this.useGridView);
 	}
+
+	trackByYear(index: number, year: string): string {
+		return year;
+	}
+
+	trackByTag(index: number, tag: string): string {
+		return tag;
+	}
 }

@@ -1,4 +1,4 @@
-import { Injectable } from '@angular/core';
+import { Injectable, signal, computed } from '@angular/core';
 import * as rumourEnginesData from '../../@data/rumour-engines.json';
 import { RumourEngine } from 'src/@types/RumourEngine';
 
@@ -7,6 +7,13 @@ import { RumourEngine } from 'src/@types/RumourEngine';
 })
 export class RumourEnginesService {
   private rumourEngines: Array<RumourEngine> = [];
+  private rumourEnginesSignal = signal<Array<RumourEngine>>([]);
+  private uniqueYearsSignal = computed(() =>
+    Array.from(new Set(this.rumourEnginesSignal().map(rumourEngine => String(new Date(rumourEngine.date).getFullYear()))))
+  );
+  private uniqueTagsSignal = computed(() =>
+    Array.from(new Set(this.rumourEnginesSignal().flatMap(rumourEngine => rumourEngine.tags))).sort()
+  );
 
   constructor() {
     this.loadData();
@@ -16,6 +23,7 @@ export class RumourEnginesService {
     this.rumourEngines = Object.keys(rumourEnginesData)
       .map(key => rumourEnginesData[Number(key)])
       .filter(value => value !== undefined);
+    this.rumourEnginesSignal.set(this.rumourEngines);
   }
 
   getAll(): Array<RumourEngine> {
@@ -23,11 +31,11 @@ export class RumourEnginesService {
   }
 
   getUniqueYears(): Array<string> {
-    return Array.from(new Set(this.rumourEngines.map(rumourEngine => String(new Date(rumourEngine.date).getFullYear()))));
+    return this.uniqueYearsSignal();
   }
 
   getUniqueTags(): Array<string> {
-    return Array.from(new Set(this.rumourEngines.flatMap(rumourEngine => rumourEngine.tags))).sort();
+    return this.uniqueTagsSignal();
   }
 
   filterByYear(rumourEngines: Array<RumourEngine>, year: string): Array<RumourEngine> {

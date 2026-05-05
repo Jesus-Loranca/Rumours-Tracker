@@ -1,4 +1,4 @@
-import { Component, HostListener, ChangeDetectionStrategy } from '@angular/core';
+import { Component, HostListener, ChangeDetectionStrategy, ChangeDetectorRef } from '@angular/core';
 
 @Component({
   selector: 'back-to-top',
@@ -9,9 +9,12 @@ import { Component, HostListener, ChangeDetectionStrategy } from '@angular/core'
 export class BackToTopComponent {
 	showScrollBtn: boolean = false;
 
+	constructor(private changeDetectorRef: ChangeDetectorRef) {}
+
 	@HostListener('window:scroll', [])
   onWindowScroll(): void {
     this.showScrollBtn = window.scrollY > 500;
+    this.changeDetectorRef.markForCheck();
   }
 
 	scrollToBottom(): void {

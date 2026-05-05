@@ -3,7 +3,7 @@
 		<select class="form-control" id="filterByYear" name="filterByYear" [(ngModel)]="filterByYear"
 			(change)="onFilterByYearChange()" [disabled]="yearFilterDisabled">
 			<option value="">-</option>
-			<option value="{{ year }}" *ngFor="let year of years">{{ year }}</option>
+			<option value="{{ year }}" *ngFor="let year of years; trackBy: trackByYear">{{ year }}</option>
 		</select>
 		<label for="filterByYear">Filter by Year</label>
 	</div>
@@ -12,7 +12,7 @@
 		<select class="form-control" id="filterByTag" name="filterByTag" [(ngModel)]="filterByTag"
 			(change)="onFilterByTagChange()" [disabled]="tagFilterDisabled">
 			<option value="">-</option>
-			<option value="{{ tag }}" *ngFor="let tag of tags">{{ tag }}</option>
+			<option value="{{ tag }}" *ngFor="let tag of tags; trackBy: trackByTag">{{ tag }}</option>
 		</select>
 		<label for="filterByTag">Filter by Tag</label>
 	</div>

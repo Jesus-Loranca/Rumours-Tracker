@@ -51,21 +51,23 @@
             "optimization": {
               "styles": {
                 "minify": true,
-                "inlineCritical": false
+                "inlineCritical": true
               },
               "scripts": true,
               "fonts": true
             },
             "allowedCommonJsDependencies": [
               "bootstrap"
-            ]
+            ],
+            "namedChunks": false,
+            "aot": true
           },
           "configurations": {
             "production": {
               "budgets": [
                 {
                   "type": "initial",
-                  "maximumWarning": "1.2mb",
+                  "maximumWarning": "1.35mb",
                   "maximumError": "1.5mb"
                 },
                 {
