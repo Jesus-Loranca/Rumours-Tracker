@@ -39,7 +39,7 @@ export class VerticalTimelineComponent  {
 		imgElement.src = '../assets/images/optimized/' + fallbackImageUrl;
 	}
 
-	@HostListener('window:scroll', ['$event'])
+	@HostListener('window:scroll')
 	onWindowScroll(): void {
 		const rumours = document.querySelectorAll('.bounce');
 
