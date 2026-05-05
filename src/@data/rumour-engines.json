@@ -11311,10 +11311,10 @@
 		},
 		"miniature": {
 			"name": "Freeguild Grenadiers",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/spearhead-city-of-ash-2026-eng",
 			"image": {
-				"url": "2025-12-09-miniature.png",
-				"cdn": "https://assets.warhammer-community.com/carousel-b3-rcma2k7glz.png"
+				"url": "2025-12-09-miniature.",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60010299051_ENGCityofAshSpearheadGame5.jpg"
 			}
 		},
 		"tags": ["Age of Sigmar", "Order", "Cities of Sigmar"]
