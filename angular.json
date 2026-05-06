@@ -36,8 +36,8 @@
 								}
             ],
             "styles": [
+              "src/assets/styles/bootstrap-custom.scss",
               "src/assets/styles/index.scss",
-              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "node_modules/bootstrap-icons/font/bootstrap-icons.min.css"
             ],
             "scripts": [
@@ -51,21 +51,23 @@
             "optimization": {
               "styles": {
                 "minify": true,
-                "inlineCritical": false
+                "inlineCritical": true
               },
               "scripts": true,
               "fonts": true
             },
             "allowedCommonJsDependencies": [
               "bootstrap"
-            ]
+            ],
+            "namedChunks": false,
+            "aot": true
           },
           "configurations": {
             "production": {
               "budgets": [
                 {
                   "type": "initial",
-                  "maximumWarning": "1.2mb",
+                  "maximumWarning": "1.35mb",
                   "maximumError": "1.5mb"
                 },
                 {

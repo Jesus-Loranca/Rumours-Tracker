@@ -7,7 +7,7 @@
 				<div class="content-arrow"></div>
 				<div class="row">
 					<div class="tags" *ngIf="rumourEngine.tags.length > 0">
-						<span *ngFor="let tag of rumourEngine.tags">{{ tag }}</span>
+						<span *ngFor="let tag of rumourEngine.tags; trackBy: trackByTag">{{ tag }}</span>
 					</div>
 
 					<ng-container *ngIf="getDetailedDate(rumourEngine.date) as detailedDate">

@@ -1,10 +1,11 @@
-import { Component } from '@angular/core';
+import { Component, ChangeDetectionStrategy } from '@angular/core';
 import { RumourEngine } from 'src/@types/RumourEngine';
 import { RumourEnginesService } from '../services/rumour-engines.service';
 
 @Component({
   selector: 'rumours',
   templateUrl: './rumours.component.html',
+  changeDetection: ChangeDetectionStrategy.OnPush,
   standalone: false
 })
 

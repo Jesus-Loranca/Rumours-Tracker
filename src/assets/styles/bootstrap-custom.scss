@@ -1,0 +1,12 @@
+// Bootstrap CSS import – evitar compilación SCSS de Bootstrap y eliminar warnings
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+:root {
+  --bs-body-bg: #e3e3e3;
+  --bs-body-color: #212529;
+}
+
+.visually-hidden-focusable:focus,
+.visually-hidden:not(:focus):not(:focus-within) {
+  display: none !important;
+}

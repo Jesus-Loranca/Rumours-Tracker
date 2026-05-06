@@ -34,6 +34,10 @@ export class VerticalTimelineComponent  {
 		return item.link || index.toString();
 	}
 
+	trackByTag(index: number, tag: string): string {
+		return tag;
+	}
+
 	handleImageError(event: Event, fallbackImageUrl: string): void {
 		const imgElement = event.target as HTMLImageElement;
 		imgElement.src = '../assets/images/optimized/' + fallbackImageUrl;
