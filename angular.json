@@ -36,8 +36,8 @@
 								}
             ],
             "styles": [
+              "src/assets/styles/bootstrap-custom.scss",
               "src/assets/styles/index.scss",
-              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "node_modules/bootstrap-icons/font/bootstrap-icons.min.css"
             ],
             "scripts": [

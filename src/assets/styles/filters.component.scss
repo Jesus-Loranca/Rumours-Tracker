@@ -18,4 +18,8 @@
 			box-shadow: 0 3px 0 $black;
 		}
 	}
+
+	select, select:open, select:focus {
+		background-color: $white;
+	}
 }
