@@ -11833,8 +11833,8 @@
 			"name": "Thyrielle's Zephyrites",
 			"link": "",
 			"image": {
-				"url": "2026-03-24-miniature.png",
-				"cdn": "https://assets.warhammer-community.com/carousel1-26-03-ogftxe9vz0.png"
+				"url": "2026-03-24-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/sundaypreview-may10-whiw_01-zephyrites-godot8wipo.jpg"
 			}
 		},
 		"tags": ["Age of Sigmar", "Underworlds", "Order", "Lumineth Realm-lords"]
@@ -11873,7 +11873,27 @@
 			"name": "",
 			"link": "",
 			"image": {
-				"url": "",
+				"url": "2026-05-05.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2026-05-12",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/xjxezlin/the-rumour-engine-12th-of-may/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2026-05-12.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-may12-0-content-rvlukwvnd0.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2026-05-12.jpg",
 				"cdn": ""
 			}
 		},
