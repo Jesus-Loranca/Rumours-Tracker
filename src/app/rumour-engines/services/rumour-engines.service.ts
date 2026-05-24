@@ -1,5 +1,5 @@
 import { Injectable, signal, computed } from '@angular/core';
-import * as rumourEnginesData from '../../@data/rumour-engines.json';
+import * as rumourEnginesData from '../../../@data/rumour-engines.json';
 import { RumourEngine } from 'src/@types/RumourEngine';
 
 @Injectable({

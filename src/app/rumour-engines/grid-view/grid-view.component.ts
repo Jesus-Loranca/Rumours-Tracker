@@ -28,6 +28,6 @@ export class GridViewComponent {
 
 	handleImageError(event: Event, fallbackImageUrl: string): void {
 		const imgElement = event.target as HTMLImageElement;
-		imgElement.src = '../assets/images/optimized/' + fallbackImageUrl;
+		imgElement.src = '/assets/images/rurmour-engines/optimized/' + fallbackImageUrl;
 	}
 }
