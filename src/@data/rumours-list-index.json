@@ -1,0 +1,130 @@
+{
+	"Age of Sigmar": {
+		"5th Edition": {
+			"text": "5th Edition",
+			"edition": 5
+		},
+		"End of Edition Campaign": {
+			"text": "End of Edition Campaign",
+			"edition": 4
+		},
+		"Battletomes": [
+			{
+				"text": "Blades of Khorne",
+				"edition": 4
+			},
+			{
+				"text": "Cities of Sigmar",
+				"edition": 4
+			},
+			{
+				"text": "Daughters of Khaine",
+				"edition": 4
+			},
+			{
+				"text": "Disciples of Tzeentch",
+				"edition": 4
+			},
+			{
+				"text": "Flesh-eater Courts",
+				"edition": 4
+			},
+			{
+				"text": "Fyreslayers",
+				"edition": 4
+			},
+			{
+				"text": "Gloomspite Gitz",
+				"edition": 4
+			},
+			{
+				"text": "Hedonites of Slaanesh",
+				"edition": 4
+			},
+			{
+				"text": "Helmsmiths of Hashut",
+				"edition": 4
+			},
+			{
+				"text": "Idoneth Deepkin",
+				"edition": 4
+			},
+			{
+				"text": "Ironjawz",
+				"edition": 4
+			},
+			{
+				"text": "Kharadron Overlords",
+				"edition": 4
+			},
+			{
+				"text": "Kruleboyz",
+				"edition": 4
+			},
+			{
+				"text": "Lumineth Realm-Lords",
+				"edition": 4
+			},
+			{
+				"text": "Maggotkin of Nurgle",
+				"edition": 4
+			},
+			{
+				"text": "Nighthaunt",
+				"edition": 4
+			},
+			{
+				"text": "Ogor Mawtribes",
+				"edition": 4
+			},
+			{
+				"text": "Ossiarch Bonereapers",
+				"edition": 4
+			},
+			{
+				"text": "Seraphon",
+				"edition": 4
+			},
+			{
+				"text": "Skaven",
+				"edition": 4
+			},
+			{
+				"text": "Slaves to Darkness",
+				"edition": 4
+			},
+			{
+				"text": "Sons of Behemat",
+				"edition": 4
+			},
+			{
+				"text": "Soulblight Gravelords",
+				"edition": 4
+			},
+			{
+				"text": "Stormcast Eternals",
+				"edition": 4
+			},
+			{
+				"text": "Sylvaneth",
+				"edition": 4
+			},
+			{
+				"text": "Ulgurothi",
+				"edition": 4
+			}
+		],
+		"Season of War Series": {
+			"text": "Season of War Series",
+			"edition": 3
+		},
+		"Weird things are happening": {
+			"text": "Weird things are happening",
+			"edition": 3
+		}
+	},
+	"Warcry": "Warcry",
+	"Warhammer Underworlds": "Warhammer Underworlds",
+	"Spearhead": "Spearhead",
+	"Rumourmongers Track Record": "Rumourmongers Track Record"
+}

@@ -7,4 +7,14 @@ import { Component, ChangeDetectionStrategy } from '@angular/core';
   standalone: false
 })
 
-export class AppComponent {}
+export class AppComponent {
+	sectionTitle = 'Rumour Engines';
+
+	onRumourEnginesEvent() {
+	this.sectionTitle = 'Rumour Engines';
+}
+
+	onRumoursListEvent() {
+	this.sectionTitle = 'Rumours List';
+}
+}

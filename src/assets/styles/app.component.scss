@@ -5,3 +5,62 @@
 		color: $dark-gray !important;
 	}
 }
+
+app-header {
+	display: block;
+	width: 100%;
+
+	.top-nav {
+		background-color: $white;
+		padding: 1em 15% !important;
+		margin-bottom: 1.5em !important;
+		text-align: center;
+
+		.nav-title {
+			display: none;
+		}
+
+		.nav {
+			gap: 0.75rem;
+
+			.nav-item {
+				margin: 0;
+			}
+
+			.nav-link {
+				color: $dark-gray;
+				padding: 0;
+				transition: color 0.2s ease;
+				text-decoration: none;
+
+				&:hover,
+				&:focus {
+					color: $dark-gray-hover;
+				}
+
+				&.active {
+					color: $pal-blue;
+					background: none;
+					padding: 0;
+					border-radius: 0;
+				}
+			}
+		}
+	}
+}
+
+@media only screen and (min-width: 1170px) {
+	app-header {
+		.top-nav {
+			text-align: left;
+
+			.nav-title {
+				display: inline-block;
+			}
+
+			.nav {
+				justify-content: flex-end !important;
+			}
+		}
+	}
+}

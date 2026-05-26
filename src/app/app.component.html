@@ -1,8 +1,12 @@
+<app-header
+	(rumourEnginesClick)="onRumourEnginesEvent()"
+	(rumoursListClick)="onRumoursListEvent()"
+>
+</app-header>
+
 <div class="container">
 	<div class="row justify-content-center">
-		<div class="py-5 text-center">
-			<h2>Rumour Engines Tracker</h2>
-		</div>
+		<section-title title="{{ sectionTitle }}"></section-title>
 	</div>
 
 	<router-outlet></router-outlet>
