@@ -11918,5 +11918,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2026-05-26",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/xjxezlin/the-rumour-engine-26th-of-may/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2026-05-26.jpg",
+			"cdn": "https://assets.warhammer-community.com/rumourengine-may26-0-content-j05ymksdnr.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2026-05-26.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
