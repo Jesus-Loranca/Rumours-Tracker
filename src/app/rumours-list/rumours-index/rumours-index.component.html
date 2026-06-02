@@ -1,0 +1,34 @@
+<section class="rumours-index py-4">
+	<div class="container">
+		@for (indexItem of rumoursIndex; track indexItem[0]) {
+		<div class="mb-4">
+			<h3>{{ indexItem[0] }}</h3>
+
+			@if (indexItem[1] && typeof indexItem[1] === 'object') {
+			<div>
+				@for (section of getEntries(indexItem[1]); track section.key) {
+				<div class="mb-3">
+					<strong>{{ section.key }}</strong>
+					@if (!isArray(section.value) && isTextObject(section.value)) {
+						<small class="text-muted"> ({{ section.value.edition | ordinal }} Edition)</small>
+					}
+
+					@if (isArray(section.value)) {
+					<small class="text-muted"> ({{ section.value[0].edition | ordinal }} Edition)</small>
+
+					<ul>
+						@for (item of section.value; track item.text) {
+						<li>
+							{{ item.text }}
+						</li>
+						}
+					</ul>
+					}
+				</div>
+				}
+			</div>
+			}
+		</div>
+		}
+	</div>
+</section>
