@@ -1,8 +1,8 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/154fd409-889e-4e57-94a5-66a7e004874d/deploy-status)](https://app.netlify.com/sites/rumour-engines/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/154fd409-889e-4e57-94a5-66a7e004874d/deploy-status)](https://app.netlify.com/projects/rumours-tracker/deploys)
 
-# RumourEngines
+# Rumours Tracker
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 21.2.11.
 
 ## Development server
 

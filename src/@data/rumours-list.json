@@ -534,6 +534,311 @@
 		"legitRumour": true
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ogor Mawtribes",
+		"text": "Globb Glittermaw could be a descendant of Greasus or linked to it. The refresh is coming?",
+		"groupUnder": "Globb Glittermaw",
+		"message": [
+			{
+				"contents": [
+					"Regrading that, maybe not as different as you think."
+				],
+				"quotes": [
+					"Greasus is dead\n\nGlobb is someone completely different"
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7276#comment-732801"
+		],
+		"rumourmonger": "Whitefang",
+		"date": "2025-07-31",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "Boole gave a small list of upcoming minis for CoS",
+		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
+		"message": [
+			{
+				"contents": [
+					"I have no interest whatsoever in plump women wearing silly iron hats\n\nPerhaps Unique Marshal? (harbour a blood feud with DoK?\n\nPerhaps Warpriest?\n\nerhaps Arch-Knight battleline?\n\nOh!\n\nOne am now\nLet’s see something in shadow?\n\nrixxit"
+				],
+				"quotes": [
+					""
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7372#comment-736085"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-09-03",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "A follow-up by Boole giving more details about the Unique Marshal",
+		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
+		"message": [
+			{
+				"contents": [
+					"No\n\nUnique Marshal is a chad guy who looks like he'd kill every DoK, yeah, EVERYONE, especially Morathi "
+				],
+				"quotes": [
+					"Also I'm considering this to be a hint towards the Arch-Knights or the named Marshal 😛"
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7376#findComment-736190"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-09-03",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "A new post by Boole, maybe pointing to Halflings in the Cities of Sigmar?",
+		"groupUnder": "Halfings in the Cities of Sigmar",
+		"message": [
+			{
+				"contents": [
+					"It's Wednesday now\n\nThe diminutive fellows without the thick cannon barrel and bushy beard has officially joined AOS\n\nBrilliant! \n\nSomehow, I've noticed you guys believe 5Edition belongs to the Death Alliance\n\nWell then, allow me to rule out one possibility for you all\n\nRemember, rumours are rumours, have a great day!\n\nOssiarch\n\nFor example\n\nThey are truly perfect models\n\n[[image-2025-09-03_1.jpg]]\n\n[[image-2025-09-03_2.jpg]]"
+				],
+				"quotes": [
+					""
+				],
+				"images": [
+					"image-2025-09-03_1.jpg",
+					"image-2025-09-03_2.jpg"
+				],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7379#findComment-736254"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-09-03",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Fyreslayers",
+		"text": "A new Order faction will appear by the end of the edition",
+		"groupUnder": "Khazalid Holds",
+		"message": [
+			{
+				"contents": [
+					"Why Cities is bigger instead a medium size? The end of edition will have a new Order new faction."
+				],
+				"quotes": [
+					"So do we think that Cities, DoK, Nurgle and Ogors will be the remaining big releases of the edition, and everyone else gets 1or 2 unit kits?"
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7369#comment-736003"
+		],
+		"rumourmonger": "Nezzhil",
+		"date": "2025-09-03",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Fyreslayers",
+		"text": "A New Faction, but the game will have the same number of battletomes. The sum of rumours point to the speculated mix of Duardins faction?",
+		"groupUnder": "Khazalid Holds",
+		"message": [
+			{
+				"contents": [
+					"New faction, same number of battletomes. 👌"
+				],
+				"quotes": [
+					"Why Cities is bigger instead a medium size? The end of edition will have a new Order new faction."
+				],
+				"images": [],
+				"isReaction": true
+			}
+		],
+		"isLike": false,
+		"isThanks": true,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7369#findComment-736009"
+		],
+		"rumourmonger": "Nezzhil",
+		"date": "2025-09-03",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Maggotkin of Nurgle",
+		"text": "Boole posted a list of new units for the upcoming Maggotkin of Nurgle release",
+		"groupUnder": "Maggotkin of Nurgle new units",
+		"message": [
+			{
+				"contents": [
+					"I realise I've made a mistake and may even be fined $10,000 😓\n\nwell,well,well… \n\nBut since the damage is done, let me just publish one last rumour 😅\n\nCities of Sigmar VS Maggotkin of Nurgle\n\nFestus(Monster, so fxxking huge)\n\nUnique Nurgle Daemon Prince\n\nPestigor Shaman\n\nRealmgore Ritualist but Nurgle\n\nPestigors\n\nBloodreavers but Nurgle\n\nBlood Warriors but Nurgle\n\nSkullcrushers but Nurgle\n\nRockguts Troggoths but Nurgle\n\nRefesh Putrid Blightkings\n\nAll these things have Heavy Plate Armour, far thicker than Chaos Chosen\n\nAnd more sexy heavy armour guys \n\n(Yes, the Newest AOS Nurgle style is fxxking Heavy Armour Warriors)\n\nIf you guys are familiar with Blades of Khorne or Slaves to Darkness, you will immediately understand what I mean"
+				],
+				"quotes": [
+					""
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7370#findComment-736027"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-09-03",
+		"resolvedDate": "2025-11-08",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ogor Mawtribes",
+		"text": "A leaked list of what's going to happen with the Ogors refresh in terms of models",
+		"groupUnder": "Ogor Mawtribes refresh",
+		"message": [
+			{
+				"contents": [
+					"Ogors, my lord!\n\nHuge Refresh! \n\n3 Unique heroes:\n\nUnique Tyrant (Monster, Daughter of Globb Glittermaw)\n\nUnique Butcher (War Machine)\n\nUnique Maneater (Female Maneaters Warmaster)\n\nNew Hunters\n\nNew Mournfangs\n\nNew Butchers\n\nNew Tyrant\n\nNew Ogor Gluttons\n\nNew Iornguts \n\nAND MORE FATTY THINGS \n\nRIP Icebrow Hunter\n\nRIP Frost Sabres\n\nRIP Firebelly\n\nRIP Icefall Yhetees\n\nRIP Leadbelchers\n\nRIP Great Mawpot\n\nRIP Tyrant(2019)"
+				],
+				"quotes": [
+					""
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7362#comment-735819"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-09-02",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ogor Mawtribes",
+		"text": "It seems that Ogors won't have gunpowder or would have a more prehistoric look",
+		"groupUnder": "Ogor Mawtribes refresh",
+		"message": [
+			{
+				"contents": [
+					"Time to reject modernity."
+				],
+				"quotes": [
+					"Ogors are intelligent enough to have advanced along with other species. "
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7394#comment-736655"
+		],
+		"rumourmonger": "Whitefang",
+		"date": "2025-09-04",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ogor Mawtribes",
+		"text": "New Ogor Mawtribes minis won't look like the Cities of Sigmar Ogor Warhulk",
+		"groupUnder": "Ogor Mawtribes refresh",
+		"message": [
+			{
+				"contents": [
+					"No.\n\n”City ogors ain’t true ogors.”\n\n——Great Maw probably"
+				],
+				"quotes": [
+					"surely new ogors will just look like the fusil-major? Seems like this model is the herald of what's to come.\n\n[[image-2025-09-06_1.png]]"
+				],
+				"images": [
+					"image-2025-09-06_1.png"
+				],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7412#findComment-737139"
+		],
+		"rumourmonger": "Whitefang",
+		"date": "2025-09-06",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",

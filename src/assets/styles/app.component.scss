@@ -2,23 +2,17 @@
 
 .container {
 	h2 {
-		color: $dark-gray !important;
+		color: $dark-gray;
 	}
 }
 
-app-header {
-	display: block;
-	width: 100%;
 
+app-header {
 	.top-nav {
 		background-color: $white;
-		padding: 1em 15% !important;
-		margin-bottom: 1.5em !important;
+		padding: 1em 15%;
+		margin-bottom: 1.5em;
 		text-align: center;
-
-		.nav-title {
-			display: none;
-		}
 
 		.nav {
 			gap: 0.75rem;
@@ -46,6 +40,11 @@ app-header {
 				}
 			}
 		}
+
+		.top-nav-left .nav-title {
+			color: $dark-gray;
+			font-weight: 600;
+		}
 	}
 }
 
@@ -55,12 +54,29 @@ app-header {
 			text-align: left;
 
 			.nav-title {
-				display: inline-block;
+				justify-content: flex-start;
 			}
 
 			.nav {
-				justify-content: flex-end !important;
+				justify-content: flex-end;
 			}
 		}
+	}
+}
+
+@media (max-width: 767.98px) {
+	.top-nav {
+		text-align: center;
+	}
+
+	.top-nav > .top-nav-left,
+	.top-nav > .top-nav-right {
+		flex-basis: 100%;
+		justify-content: center;
+	}
+
+	.top-nav .nav-title {
+		width: 100%;
+		text-align: center;
 	}
 }

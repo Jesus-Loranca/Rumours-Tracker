@@ -126,5 +126,11 @@
 	"Warcry": "Warcry",
 	"Warhammer Underworlds": "Warhammer Underworlds",
 	"Spearhead": "Spearhead",
+	"Warhammer Quest": {
+		"Darkwater": {
+			"text": "Darkwater",
+			"edition": 4
+		}
+	},
 	"Rumourmongers Track Record": "Rumourmongers Track Record"
 }

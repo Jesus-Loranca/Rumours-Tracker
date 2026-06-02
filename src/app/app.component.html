@@ -1,15 +1,19 @@
-<app-header
-	(rumourEnginesClick)="onRumourEnginesEvent()"
-	(rumoursListClick)="onRumoursListEvent()"
->
-</app-header>
+<div class="page-shell d-flex flex-column min-vh-100">
+	<app-header
+		(rumourEnginesClick)="onRumourEnginesEvent()"
+		(rumoursListClick)="onRumoursListEvent()"
+	>
+	</app-header>
 
-<div class="container">
-	<div class="row justify-content-center">
-		<section-title title="{{ sectionTitle }}"></section-title>
-	</div>
+	<main class="page-content flex-fill">
+		<div class="container">
+			<div class="row justify-content-center">
+				<section-title title="{{ sectionTitle }}"></section-title>
+			</div>
 
-	<router-outlet></router-outlet>
+			<router-outlet></router-outlet>
+		</div>
+	</main>
+
+	<app-footer></app-footer>
 </div>
-
-<app-footer></app-footer>

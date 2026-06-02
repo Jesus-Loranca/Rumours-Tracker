@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import * as rumoursListIndex from '../../@data/rumours-list-index.json';
 import * as rumoursListData from '../../@data/rumours-list.json';
 
 interface RumourListEntry {
@@ -30,13 +31,5 @@ interface RumourListEntry {
   templateUrl: './rumours-list.component.html'
 })
 export class RumoursListComponent {
-  rumours: RumourListEntry[] = (rumoursListData as unknown as RumourListEntry[]);
-
-  get firstQuote(): (rumour: RumourListEntry) => string {
-    return (rumour: RumourListEntry) => rumour.message?.[0]?.quotes?.[0] ?? 'Sin extracto disponible';
-  }
-
-  get firstSource(): (rumour: RumourListEntry) => string {
-    return (rumour: RumourListEntry) => rumour.source?.[0] ?? 'Fuente no indicada';
-  }
+  rumours: RumourListEntry[] = (rumoursListData as RumourListEntry[]);
 }
