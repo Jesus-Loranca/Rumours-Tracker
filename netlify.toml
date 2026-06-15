@@ -1,0 +1,6 @@
+[build]
+  command = "npm run build"
+  publish = "dist/rumour-engines"
+
+[build.environment]
+  NODE_VERSION = "24"
