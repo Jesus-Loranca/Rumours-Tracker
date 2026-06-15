@@ -1,41 +1,60 @@
 <section class="rumours-index py-4">
 	<div class="container">
-		@for (indexItem of rumoursIndex; track indexItem[0]) {
-		<div class="mb-4">
-			<h3>{{ indexItem[0] }}</h3>
+		<div class="index-card">
+			<h3 class="section-title index-heading">
+				<button type="button" class="index-toggle" (click)="toggleIndex()" [class.expanded]="isIndexOpen"
+					aria-expanded="{{ isIndexOpen }}">
+					<span class="section-icon">▼</span>
+				</button>
+				Index
+			</h3>
+			@if (isIndexOpen) {
+			<div class="section-grid">
+				@for (indexItem of rumoursIndex; track indexItem[0]) {
+				<div class="section-block">
+					<div class="section-row">
+						<div class="section-label">
+							<strong><a [href]="'/rumours-list#' + slugify(indexItem[0])">{{ indexItem[0] }}</a></strong>
+						</div>
+					</div>
 
-			@if (indexItem[1] && typeof indexItem[1] === 'object') {
-			<div>
-				@for (section of getEntries(indexItem[1]); track section.key) {
-				<div class="mb-3">
-					@if (isArray(section.value)) {
-					<button type="button" class="btn btn-link p-0 text-start" (click)="toggleSection(indexItem[0], section.key)"
-						aria-expanded="{{ isExpanded(indexItem[0], section.key) }}">
-						<span class="me-2">{{ isExpanded(indexItem[0], section.key) ? '▼' : '▶' }}</span>
-						<strong>{{ section.key }}</strong>
-						<small class="text-muted"> ({{ section.value[0].edition | ordinal }} Edition)</small>
-					</button>
-					@if (isExpanded(indexItem[0], section.key)) {
-					<ul class="mt-2">
-						@for (item of section.value; track item.text) {
-						<li>
-							{{ item.text }}
-						</li>
+					@if (indexItem[1] && typeof indexItem[1] === 'object') {
+					<div class="section-list">
+						@for (section of getEntries(indexItem[1]); track section.key) {
+						@if (isArray(section.value)) {
+						<div class="section-item">
+							<button type="button" class="section-toggle" (click)="toggleSection(indexItem[0], section.key)"
+								[class.expanded]="isExpanded(indexItem[0], section.key)"
+								aria-expanded="{{ isExpanded(indexItem[0], section.key) }}">
+								<span class="section-icon">▼</span>
+								<span class="section-label">
+									<strong>{{ section.key }}</strong>
+									<span class="edition-pill">{{ section.value[0].edition | ordinal }} Edition</span>
+								</span>
+							</button>
+						</div>
+						@if (isExpanded(indexItem[0], section.key)) {
+						<ul class="section-list">
+							@for (item of section.value; track item.text) {
+							<li><a [href]="'/rumours-list#' + slugify(item.text )">{{ item.text }}</a></li>
+							}
+						</ul>
 						}
-					</ul>
-					}
-					}
-					@if (!isArray(section.value)) {
-					<strong>{{ section.key }}</strong>
-					@if (isTextObject(section.value)) {
-					<small class="text-muted"> ({{ section.value.edition | ordinal }} Edition)</small>
-					}
+						}
+						@if (!isArray(section.value)) {
+						<div class="section-item">
+							<span class="section-label">
+								<strong><a [href]="'/rumours-list#' + slugify(section.key)">{{ section.key }}</a></strong>
+								@if (isTextObject(section.value)) {
+								<span class="edition-pill">{{ section.value.edition | ordinal }} Edition</span>
+								}
+							</span>
+						</div>
+						}
+						}
+					</div>
 					}
 				</div>
 				}
 			</div>
 			}
-		</div>
-		}
-	</div>
-</section>
