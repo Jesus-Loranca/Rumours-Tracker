@@ -13,6 +13,7 @@ export class RumoursIndexComponent {
     keyof RumoursListIndexSchema,
     RumoursListIndexSchema[keyof RumoursListIndexSchema]
   ]>;
+  public expandedSections = new Set<string>();
 
   public isArray(value: unknown): value is unknown[] {
     return Array.isArray(value);
@@ -25,6 +26,23 @@ export class RumoursIndexComponent {
       'text' in value &&
       typeof (value as any).text === 'string'
     );
+  }
+
+  public getSectionId(category: string, section: string): string {
+    return `${category}::${section}`;
+  }
+
+  public toggleSection(category: string, section: string): void {
+    const id = this.getSectionId(category, section);
+    if (this.expandedSections.has(id)) {
+      this.expandedSections.delete(id);
+      return;
+    }
+    this.expandedSections.add(id);
+  }
+
+  public isExpanded(category: string, section: string): boolean {
+    return this.expandedSections.has(this.getSectionId(category, section));
   }
 
   public getEntries(value: unknown): Array<{ key: string; value: TextObject | TextObject[] }> {

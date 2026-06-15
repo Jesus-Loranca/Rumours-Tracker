@@ -8,21 +8,28 @@
 			<div>
 				@for (section of getEntries(indexItem[1]); track section.key) {
 				<div class="mb-3">
-					<strong>{{ section.key }}</strong>
-					@if (!isArray(section.value) && isTextObject(section.value)) {
-						<small class="text-muted"> ({{ section.value.edition | ordinal }} Edition)</small>
-					}
-
 					@if (isArray(section.value)) {
-					<small class="text-muted"> ({{ section.value[0].edition | ordinal }} Edition)</small>
-
-					<ul>
+					<button type="button" class="btn btn-link p-0 text-start" (click)="toggleSection(indexItem[0], section.key)"
+						aria-expanded="{{ isExpanded(indexItem[0], section.key) }}">
+						<span class="me-2">{{ isExpanded(indexItem[0], section.key) ? '▼' : '▶' }}</span>
+						<strong>{{ section.key }}</strong>
+						<small class="text-muted"> ({{ section.value[0].edition | ordinal }} Edition)</small>
+					</button>
+					@if (isExpanded(indexItem[0], section.key)) {
+					<ul class="mt-2">
 						@for (item of section.value; track item.text) {
 						<li>
 							{{ item.text }}
 						</li>
 						}
 					</ul>
+					}
+					}
+					@if (!isArray(section.value)) {
+					<strong>{{ section.key }}</strong>
+					@if (isTextObject(section.value)) {
+					<small class="text-muted"> ({{ section.value.edition | ordinal }} Edition)</small>
+					}
 					}
 				</div>
 				}
