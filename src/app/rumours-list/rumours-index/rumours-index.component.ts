@@ -15,8 +15,7 @@ export class RumoursIndexComponent {
 		RumoursListIndexSchema[keyof RumoursListIndexSchema]
 	]>;
 	public expandedSections = new Set<string>();
-	public isIndexOpen = true;
-
+		public isIndexOpen = false;
 	public isArray(value: unknown): value is unknown[] {
 		return Array.isArray(value);
 	}
