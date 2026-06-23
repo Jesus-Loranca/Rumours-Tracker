@@ -11998,5 +11998,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2026-06-23",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/fnkjbbfu/the-rumour-engine-23rd-of-june/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2026-06-23.jpg",
+			"cdn": "https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/rumourengine-jun23-0-content-czsfs3om4g.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2026-06-23.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
