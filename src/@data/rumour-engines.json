@@ -11881,20 +11881,20 @@
 	},
 	{
 		"date": "2026-05-12",
-		"resolvedDate": "2026-06-26",
+		"resolvedDate": "2026-06-29",
 		"link": "https://www.warhammer-community.com/en-gb/articles/xjxezlin/the-rumour-engine-12th-of-may/",
-		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/njwcaq6t/the-big-summer-preview-new-ogors-revealed/",
-		"resolvedEvent": "The Big Summer Preview",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/j9tyypbg/stalk-shoot-and-skin-with-brand-new-ogor-hunters/",
+		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2026-05-12.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-may12-0-content-rvlukwvnd0.jpg"
 		},
 		"miniature": {
-			"name": "Maulbeast Raiders",
+			"name": "Hunters with Sabrefangs",
 			"link": "",
 			"image": {
 				"url": "2026-05-12-miniature.jpg",
-				"cdn": "https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/image4_wide-4nm3fv62qp.jpg"
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/image1_wide-j54u3yzoal.jpg"
 			}
 		},
 		"tags": ["Age of Sigmar", "Destruction", "Ogor Mawtribes"]
