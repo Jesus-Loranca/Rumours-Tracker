@@ -176,8 +176,8 @@
 		],
 		"rumourmonger": "Whitefang",
 		"date": "2025-07-15",
-		"resolvedDate": "",
-		"legitRumour": true
+		"resolvedDate": "2026-05-16",
+		"legitRumour": false
 	},
 	{
 		"game": "Age of Sigmar",
@@ -206,8 +206,8 @@
 		],
 		"rumourmonger": "Whitefang",
 		"date": "2025-07-16",
-		"resolvedDate": "",
-		"legitRumour": true
+		"resolvedDate": "2026-05-16",
+		"legitRumour": false
 	},
 	{
 		"game": "Age of Sigmar",
@@ -448,7 +448,7 @@
 		],
 		"rumourmonger": "Whitefang",
 		"date": "2024-04-09",
-		"resolvedDate": "",
+		"resolvedDate": "26-06-2026",
 		"legitRumour": true
 	},
 	{
@@ -560,7 +560,7 @@
 		],
 		"rumourmonger": "Whitefang",
 		"date": "2025-07-31",
-		"resolvedDate": "",
+		"resolvedDate": "26-06-2026",
 		"legitRumour": true
 	},
 	{
@@ -773,7 +773,7 @@
 		],
 		"rumourmonger": "Boole",
 		"date": "2025-09-02",
-		"resolvedDate": "",
+		"resolvedDate": "26-06-2026",
 		"legitRumour": true
 	},
 	{
@@ -803,7 +803,7 @@
 		],
 		"rumourmonger": "Whitefang",
 		"date": "2025-09-04",
-		"resolvedDate": "",
+		"resolvedDate": "26-06-2026",
 		"legitRumour": true
 	},
 	{
@@ -835,7 +835,7 @@
 		],
 		"rumourmonger": "Whitefang",
 		"date": "2025-09-06",
-		"resolvedDate": "",
+		"resolvedDate": "26-06-2026",
 		"legitRumour": true
 	},
 	{
