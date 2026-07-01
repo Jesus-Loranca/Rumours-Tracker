@@ -11,17 +11,21 @@
 			@if (isIndexOpen) {
 			<div class="section-grid">
 				@for (indexItem of rumoursIndex; track indexItem[0]) {
+				@if (getRumourCount(indexItem[0]) > 0 || (indexItem[1] && typeof indexItem[1] === 'object' &&
+				hasVisibleEntries(indexItem[1]))) {
 				<div class="section-block">
 					<div class="section-row">
 						<div class="section-label">
 							<strong><a [href]="'/rumours-list#' + slugify(indexItem[0])">{{ indexItem[0] }}</a></strong>
+							@if (getRumourCount(indexItem[0]) + getSectionCount(indexItem[1]) > 0) {
+							<span class="index-count">({{ getRumourCount(indexItem[0]) + getSectionCount(indexItem[1]) }})</span>
+							}
 						</div>
 					</div>
-
 					@if (indexItem[1] && typeof indexItem[1] === 'object') {
 					<div class="section-list">
 						@for (section of getEntries(indexItem[1]); track section.key) {
-						@if (isArray(section.value)) {
+						@if (isArray(section.value) && hasVisibleEntries(section.value)) {
 						<div class="section-item">
 							<button type="button" class="section-toggle" (click)="toggleSection(indexItem[0], section.key)"
 								[class.expanded]="isExpanded(indexItem[0], section.key)"
@@ -29,6 +33,7 @@
 								<span class="section-icon">▼</span>
 								<span class="section-label">
 									<strong>{{ section.key }}</strong>
+									<span class="index-count">({{ getSectionCount(section.value) }})</span>
 									<span class="edition-pill">{{ section.value[0].edition | ordinal }} Edition</span>
 								</span>
 							</button>
@@ -36,17 +41,23 @@
 						@if (isExpanded(indexItem[0], section.key)) {
 						<ul class="section-list">
 							@for (item of section.value; track item.text) {
-							<li><a [href]="'/rumours-list#' + slugify(item.text )">{{ item.text }}</a></li>
+							@if (getRumourCount(item.text) > 0) {
+								<li>
+									<a [href]="'/rumours-list#' + slugify(item.text)">{{ item.text }}</a>
+									<span class="index-count">({{ getRumourCount(item.text) }})</span>
+								</li>
+							}
 							}
 						</ul>
 						}
 						}
-						@if (!isArray(section.value)) {
+						@if (!isArray(section.value) && getRumourCount(section.key) > 0) {
 						<div class="section-item">
 							<span class="section-label">
 								<strong><a [href]="'/rumours-list#' + slugify(section.key)">{{ section.key }}</a></strong>
+								<span class="index-count">({{ getRumourCount(section.key) }})</span>
 								@if (isTextObject(section.value)) {
-								<span class="edition-pill">{{ section.value.edition | ordinal }} Edition</span>
+									<span class="edition-pill">{{ section.value.edition | ordinal }} Edition</span>
 								}
 							</span>
 						</div>
@@ -56,5 +67,9 @@
 					}
 				</div>
 				}
+				}
 			</div>
 			}
+		</div>
+	</div>
+</section>

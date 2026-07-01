@@ -134,7 +134,7 @@
 	}
 
 	.section-list {
-		margin: 0.9rem 0 0;
+		margin: 0;
 		padding-left: 1.15rem;
 		list-style: none;
 		display: grid;
@@ -142,6 +142,9 @@
 	}
 
 	.section-list li {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
 		color: #111827;
 		font-size: 0.98rem;
 
@@ -149,6 +152,14 @@
 			color: #111827;
 			text-decoration: none;
 		}
+	}
+
+	.index-count {
+		margin-left: 0cm;
+	}
+
+	.section-list li .index-count {
+		margin-left: 0rem;
 	}
 
 	.section-item {

@@ -65,6 +65,66 @@ export class RumoursListIndexService {
     return Object.entries(value as Record<string, TextObject | TextObject[]>).map(([key, val]) => ({ key, value: val }));
   }
 
+  public getRumourCountsByIndexLabel(rumours: RumourListEntry[]): Map<string, number> {
+    const counts = new Map<string, number>();
+    const lookup = new Map<string, string>();
+    const gameFallback = new Map<string, string>();
+
+    for (const [game, value] of Object.entries(this.indexData)) {
+      if (typeof value === 'string') {
+        const label = value || game;
+        const slug = this.slugify(label);
+        lookup.set(slug, slug);
+        gameFallback.set(game, slug);
+        counts.set(slug, 0);
+        continue;
+      }
+
+      for (const [section, sectionValue] of Object.entries(value as Record<string, TextObject | TextObject[]>)) {
+        if (Array.isArray(sectionValue)) {
+          for (const item of sectionValue) {
+            const slug = this.slugify(item.text);
+            if (lookup.has(slug)) {
+              continue;
+            }
+            lookup.set(slug, slug);
+            counts.set(slug, 0);
+          }
+          continue;
+        }
+
+        if (this.isTextObject(sectionValue)) {
+          const slug = this.slugify(section);
+          if (lookup.has(slug)) {
+            continue;
+          }
+          lookup.set(slug, slug);
+          counts.set(slug, 0);
+        }
+      }
+    }
+
+    for (const rumour of rumours) {
+      if (rumour.resolvedDate && rumour.resolvedDate.trim() !== '') {
+        continue;
+      }
+
+      const lookupValue = (rumour.category || rumour.groupUnder || '').trim();
+      const key = this.slugify(lookupValue);
+      let target = lookup.get(key);
+      if (target === undefined && rumour.category.trim() === '') {
+        target = gameFallback.get(rumour.game);
+      }
+      if (target === undefined) {
+        continue;
+      }
+
+      counts.set(target, (counts.get(target) ?? 0) + 1);
+    }
+
+    return counts;
+  }
+
   public slugify(value: string): string {
     return value
       .toLowerCase()

@@ -6,7 +6,7 @@
 					<h2 [id]="slugify(gameGroup.game)">{{ gameGroup.game }}</h2>
 
 					@for (section of gameGroup.sections; track section.section ?? section.sectionId) {
-						@if (section.section) {
+						@if (section.section && section.section === "Battletomes") {
 						<div class="section-heading">
 							<h3 [id]="section.sectionId">{{ section.section }}</h3>
 						</div>

@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
-import { RumoursListIndexService } from '../services/rumours-list-index.service';
+import rumoursListData from '../../../@data/rumours-list.json';
+import { RumoursListIndexService, type RumourListEntry } from '../services/rumours-list-index.service';
 import type { TextObject } from '../../../@types/RumoursIndex';
 
 @Component({
@@ -9,7 +10,12 @@ import type { TextObject } from '../../../@types/RumoursIndex';
 	styleUrls: ['./rumours-index.component.scss']
 })
 export class RumoursIndexComponent {
+	public rumours: RumourListEntry[] = Array.isArray(rumoursListData)
+		? rumoursListData as RumourListEntry[]
+		: Object.values(rumoursListData as Record<string, RumourListEntry>);
+
 	public rumoursIndex = this.rumoursListIndexService.getRumoursIndexEntries();
+	public rumoursIndexCounts = this.rumoursListIndexService.getRumourCountsByIndexLabel(this.rumours);
 	public expandedSections = new Set<string>();
 	public isIndexOpen = false;
 
@@ -51,6 +57,57 @@ export class RumoursIndexComponent {
 
 	public isExpanded(category: string, section: string): boolean {
 		return this.expandedSections.has(this.getSectionId(category, section));
+	}
+
+	public getRumourCount(label: string): number {
+		return this.rumoursIndexCounts.get(this.slugify(label)) ?? 0;
+	}
+
+	public getSectionCount(value: unknown): number {
+		if (Array.isArray(value)) {
+			return value.reduce((count, item) => count + this.getRumourCount(item.text), 0);
+		}
+
+		if (typeof value === 'object' && value !== null) {
+			return Object.entries(value as Record<string, unknown>).reduce((count, [sectionKey, sectionValue]) => {
+				if (Array.isArray(sectionValue)) {
+					return count + sectionValue.reduce((innerCount, item) => innerCount + this.getRumourCount(item.text), 0);
+				}
+
+				if (this.isTextObject(sectionValue)) {
+					return count + this.getRumourCount(sectionKey);
+				}
+
+				return count;
+			}, 0);
+		}
+
+		return 0;
+	}
+
+	public hasVisibleEntries(value: unknown): boolean {
+		if (Array.isArray(value)) {
+			return value.some(item => this.getRumourCount(item.text) > 0);
+		}
+
+		if (typeof value !== 'object' || value === null) {
+			return false;
+		}
+
+		for (const [sectionKey, sectionValue] of Object.entries(value as Record<string, TextObject | TextObject[]>)) {
+			if (Array.isArray(sectionValue)) {
+				if (sectionValue.some(item => this.getRumourCount(item.text) > 0)) {
+					return true;
+				}
+				continue;
+			}
+
+			if (this.getRumourCount(sectionKey) > 0) {
+				return true;
+			}
+		}
+
+		return false;
 	}
 
 	public getEntries(value: unknown): Array<{ key: string; value: TextObject | TextObject[] }> {
