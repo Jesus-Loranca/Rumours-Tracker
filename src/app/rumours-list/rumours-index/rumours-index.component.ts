@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
-import rumoursListIndex from '../../../@data/rumours-list-index.json';
-import type { RumoursListIndexSchema, TextObject } from '../../../@types/RumoursIndex';
+import { RumoursListIndexService } from '../services/rumours-list-index.service';
+import type { TextObject } from '../../../@types/RumoursIndex';
 
 @Component({
 	selector: 'app-rumours-index',
@@ -9,13 +9,12 @@ import type { RumoursListIndexSchema, TextObject } from '../../../@types/Rumours
 	styleUrls: ['./rumours-index.component.scss']
 })
 export class RumoursIndexComponent {
-	public rumoursIndexData = rumoursListIndex as unknown as RumoursListIndexSchema;
-	public rumoursIndex = Object.entries(this.rumoursIndexData) as Array<[
-		keyof RumoursListIndexSchema,
-		RumoursListIndexSchema[keyof RumoursListIndexSchema]
-	]>;
+	public rumoursIndex = this.rumoursListIndexService.getRumoursIndexEntries();
 	public expandedSections = new Set<string>();
-		public isIndexOpen = false;
+	public isIndexOpen = false;
+
+	constructor(private readonly rumoursListIndexService: RumoursListIndexService) {}
+
 	public isArray(value: unknown): value is unknown[] {
 		return Array.isArray(value);
 	}
@@ -34,11 +33,7 @@ export class RumoursIndexComponent {
 	}
 
 	public slugify(value: string): string {
-		return value
-			.toLowerCase()
-			.trim()
-			.replace(/[^a-z0-9]+/g, '-')
-			.replace(/^-+|-+$/g, '');
+		return this.rumoursListIndexService.slugify(value);
 	}
 
 	public toggleSection(category: string, section: string): void {
@@ -59,9 +54,6 @@ export class RumoursIndexComponent {
 	}
 
 	public getEntries(value: unknown): Array<{ key: string; value: TextObject | TextObject[] }> {
-		if (typeof value !== 'object' || value === null) {
-			return [];
-		}
-		return Object.entries(value as Record<string, TextObject | TextObject[]>).map(([key, val]) => ({ key, value: val }));
+		return this.rumoursListIndexService.getEntries(value);
 	}
 }

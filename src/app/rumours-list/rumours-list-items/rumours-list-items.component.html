@@ -4,14 +4,18 @@
 			<div>
 				<h2 [id]="slugify(gameGroup.game)">{{ gameGroup.game }}</h2>
 
-				@for (section of gameGroup.sections; track section.section) {
+				@for (section of gameGroup.sections; track section.section ?? section.sectionId) {
+					@if (section.section) {
 					<div class="section-heading">
-						<h3 [id]="slugify(section.section)">{{ section.section }}</h3>
+						<h3 [id]="section.sectionId">{{ section.section }}</h3>
 					</div>
+					}
 
 					@for (category of section.categories; track category.id) {
-						<div class="category-block">
-							<h4 [id]="category.id">{{ category.label }}</h4>
+						<div class="category-block" [id]="category.id">
+							@if (!(section.section === null && section.categories.length === 1 && category.label === gameGroup.game)) {
+								<h4>{{ category.label }}</h4>
+							}
 							<ul>
 								@for (rumour of category.rumours; track rumour.text) {
 									<app-rumours-list-item [rumour]="rumour"></app-rumours-list-item>

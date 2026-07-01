@@ -1,5 +1,5 @@
 import { Component, Input } from '@angular/core';
-import type { RumourListEntry } from '../rumours-list-items/rumours-list-items.component';
+import type { RumourListEntry } from '../services/rumours-list-index.service';
 
 @Component({
 	selector: 'app-rumours-list-item',
