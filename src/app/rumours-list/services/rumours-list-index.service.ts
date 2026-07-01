@@ -118,6 +118,10 @@ export class RumoursListIndexService {
     }
 
     for (const rumour of rumours) {
+      if (rumour.resolvedDate && rumour.resolvedDate.trim() !== '') {
+        continue;
+      }
+
       const lookupValue = (rumour.category || rumour.groupUnder || '').trim();
       const key = this.slugify(lookupValue);
       let index = lookup.get(key);
