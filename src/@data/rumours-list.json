@@ -454,7 +454,7 @@
 	{
 		"game": "Age of Sigmar",
 		"edition": 3,
-		"category": "Weird things are happening",
+		"category": "Weird things happening",
 		"text": "Whitefang mentioned weird things happening during the 4th edition three times",
 		"groupUnder": "Weird things happening during the 4th edition",
 		"message": [
@@ -572,7 +572,7 @@
 		"message": [
 			{
 				"contents": [
-					"I have no interest whatsoever in plump women wearing silly iron hats\n\nPerhaps Unique Marshal? (harbour a blood feud with DoK?\n\nPerhaps Warpriest?\n\nerhaps Arch-Knight battleline?\n\nOh!\n\nOne am now\nLet’s see something in shadow?\n\nrixxit"
+					"I have no interest whatsoever in plump women wearing silly iron hats\n\nPerhaps Unique Marshal? (harbour a blood feud with DoK?\n\nPerhaps Warpriest?\n\nerhaps Arch-Knight battleline?\n\nOh!\n\nOne am now\nLet’s see something in shadow?\n\nCrixxit"
 				],
 				"quotes": [
 					""
@@ -836,6 +836,189 @@
 		"rumourmonger": "Whitefang",
 		"date": "2025-09-06",
 		"resolvedDate": "26-06-2026",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ogor Mawtribes",
+		"text": "A new rumour in the shape of a tale that gives us a bit more idea about the Ogors refresh ",
+		"groupUnder": "Ogor Mawtribes refresh",
+		"message": [
+			{
+				"contents": [
+					"Good evening, the storyteller is back\n\nLong long ago, there was a devout believer who prayed to Gorkamorka to save his people in the doom, but it was all in vain. After all, the two-headed God did not care\n\nNO! That is NOT Great Maw!\n\nIn despair, believers woke up and realised that the Gulping God was just a lie of Gorkamorka. The Ogors were deceived. Our true faith should not be like this\n\nUpon discovering this truth, the believer became a seeker, embarking upon a journey to find the Great Maw\n\nAt the journey's end, the seeker, having endured countless trials and tribulations, finally beheld the truth—the hidden Great Maw\n\nWhen the seeker returned to his people, he brought back the true faith and promulgated the authentic doctrine\n\nManeaters are sacrilegious\n\nWe should not be employed by food, these cunning employers are our feast!\n\nBlackpowder is sacrilegious\n\nWe should just swallow our enemies!\n\nCity Ogor is sacrilegious\n\nTheir emaciated bodies prove they are not real Ogors at all!\n\nThat's all\n\nThe entire story is entirely my own creation, I hope you all enjoy reading it\n\nHave a great day!"
+				],
+				"quotes": [
+					""
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7415#findComment-737217"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-09-06",
+		"resolvedDate": "2026-06-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ogor Mawtribes",
+		"text": "Maneaters will be updated after the Ogors refresh",
+		"groupUnder": "Ogor Mawtribes refresh",
+		"message": [
+			{
+				"contents": [
+					"Maybe Maneaters will be an expansion further down the line?"
+				],
+				"quotes": [
+					"Maybe it'll just become a sort of hero mini title, but otherwised removed from WHFB maneaters?"
+				],
+				"images": [],
+				"isReaction": true
+			}
+		],
+		"isLike": true,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7415#findComment-737255"
+		],
+		"rumourmonger": "Whitefang",
+		"date": "2025-09-06",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ogor Mawtribes",
+		"text": "Ogors will be released by the end of 2026",
+		"groupUnder": "Ogor Mawtribes refresh",
+		"message": [
+			{
+				"contents": [
+					"Don't worry 🤫\n\nOgors will be released much later, hmm…maybe…at the earliest in the latter part of next year?"
+				],
+				"quotes": [
+					"I feel ya mate!! I went out and bought a piggy bank today and the wife asked if it was for our 1 year old. I replied no its for my plastic crack."
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7437#findComment-737827"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-09-10",
+		"resolvedDate": "2026-06-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ossiarch Bonereapers",
+		"text": "Another post by Boole. It included images of Settra's Chariot and Ushabti with bows titled under OBR ",
+		"groupUnder": "Ogor Mawtribes refresh",
+		"message": [
+			{
+				"contents": [
+					"It's Wednesday now\n\nThe diminutive fellows without the thick cannon barrel and bushy beard has officially joined AOS\n\nBrilliant! \n\nSomehow, I've noticed you guys believe 5Edition belongs to the Death Alliance\n\nWell then, allow me to rule out one possibility for you all\n\nRemember, rumours are rumours, have a great day!\n\nOssiarch\n\nFor example\n\nThey are truly perfect models\n\n[[image-2025-09-03_1.jpg]]\n\n[[image-2025-09-03_2.jpg]]"
+				],
+				"quotes": [
+					""
+				],
+				"images": [
+					"image-2025-09-03_1.jpg",
+					"image-2025-09-03_2.jpg"
+				],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7379#findComment-736254"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-09-03",
+		"resolvedDate": "2026-01-16",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Skaven",
+		"text": "The same post that was mentioned with the CoS list has a small mention to Crixxit, which is a deathmaster",
+		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
+		"message": [
+			{
+				"contents": [
+					"I have no interest whatsoever in plump women wearing silly iron hats\n\nPerhaps Unique Marshal? (harbour a blood feud with DoK?\n\nPerhaps Warpriest?\n\nerhaps Arch-Knight battleline?\n\nOh!\n\nOne am now\nLet’s see something in shadow?\n\nCrixxit"
+				],
+				"quotes": [
+					""
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7372#comment-736085"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-09-03",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Warhammer Quest",
+		"edition": 4,
+		"category": "Darkwater",
+		"text": "A post by Boole mentioning a new Warhammer Quest: Nurgle.",
+		"groupUnder": "Warhammer Quest: Nurgle",
+		"message": [
+			{
+				"contents": [
+					"I used to work for 40K, and I prefer WHFB over AOS, so I'm not particularly familiar with the content of AOS.\n\nBut at least I can understand this rumour.\n\nAOS Warhammer Quest Nurgle"
+				],
+				"quotes": [
+					""
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7365#findComment-735910"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-09-02",
+		"resolvedDate": "2025-11-08",
 		"legitRumour": true
 	},
 	{
