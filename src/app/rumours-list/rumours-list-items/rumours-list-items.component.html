@@ -2,31 +2,40 @@
 	<div class="container">
 		<div class="content-card">
 			@for (gameGroup of groupedRumoursByGame; track gameGroup.game) {
-				<div>
-					<h2 [id]="slugify(gameGroup.game)">{{ gameGroup.game }}</h2>
+			<div>
+				@if (getCategoryLogoUrl(gameGroup.game)) {
+				<img [id]="slugify(gameGroup.game)" class="game-logo" [src]="getCategoryLogoUrl(gameGroup.game)" [alt]="gameGroup.game + ' logo'"
+					loading="lazy">
+				}
 
-					@for (section of gameGroup.sections; track section.section ?? section.sectionId) {
-						@if (section.section && section.section === "Battletomes") {
-						<div class="section-heading">
-							<h3 [id]="section.sectionId">{{ section.section }}</h3>
-						</div>
-						}
-
-						@for (category of section.categories; track category.id) {
-							<div class="category-block" [id]="category.id">
-								@if (!(section.section === null && section.categories.length === 1 && category.label === gameGroup.game)) {
-									<h3>{{ category.label }}</h3>
-								}
-								<ul>
-									@for (rumour of category.rumours; track rumour.text) {
-										<app-rumours-list-item [rumour]="rumour"></app-rumours-list-item>
-									}
-								</ul>
-							</div>
-						}
-					}
+				@for (section of gameGroup.sections; track section.section ?? section.sectionId) {
+				@if (section.section && section.section === "Battletomes") {
+				<div class="section-heading">
+					<h3 [id]="section.sectionId">{{ section.section }}</h3>
 				</div>
-		}
+				}
+
+				@for (category of section.categories; track category.id) {
+				<div class="category-block" [id]="category.id">
+					@if (!(section.section === null && section.categories.length === 1 && category.label === gameGroup.game)) {
+					<div class="category-heading">
+						@if (getCategoryLogoUrl(category.label)) {
+						<img class="category-logo" [src]="getCategoryLogoUrl(category.label)" [alt]="category.label + ' logo'"
+							loading="lazy">
+						}
+						<h3>{{ category.label }}</h3>
+					</div>
+					}
+					<ul>
+						@for (rumour of category.rumours; track rumour.text) {
+						<app-rumours-list-item [rumour]="rumour"></app-rumours-list-item>
+						}
+					</ul>
+				</div>
+				}
+				}
+			</div>
+			}
 		</div>
 	</div>
 </section>

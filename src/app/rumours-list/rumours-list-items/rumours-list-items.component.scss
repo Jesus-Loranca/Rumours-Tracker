@@ -52,9 +52,29 @@
     border-bottom: 1px solid rgba(15, 23, 42, 0.08);
   }
 
-  .category-block:last-child {
-    border-bottom: none;
-  }
+	.category-heading {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.75rem;
+		margin-bottom: 0.75rem;
+	}
+
+	.category-heading h3 {
+		margin: 0;
+	}
+
+	.game-logo {
+		display: block;
+		margin: 3rem 0;
+		max-height: 8rem;
+	}
+
+	.category-logo {
+		width: 2rem;
+		height: 2rem;
+		object-fit: contain;
+		flex-shrink: 0;
+	}
 
   ul {
     margin: 0;
