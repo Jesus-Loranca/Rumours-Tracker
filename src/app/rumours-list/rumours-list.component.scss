@@ -3,9 +3,17 @@
 }
 
 .rumours-list-page {
-	background: #ffffff;
-	min-height: 100%;
-	padding-left: 1rem;
-	padding-right: 1rem;
-	box-shadow: 0 20px 40px rgba(15, 23, 42, 0.08);
+  background: #ffffff;
+  min-height: 100%;
+  padding: 2rem 0 3rem;
+}
+
+:host {
+  display: block;
+  color: #0f172a;
+}
+
+.rumours-list-page .container {
+  max-width: 1120px;
+  margin: 0 auto;
 }

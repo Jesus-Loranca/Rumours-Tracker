@@ -3,11 +3,19 @@
 }
 
 .rumours-index {
+	.container {
+		max-width: 1200px;
+		margin: 0 auto;
+		padding-inline: 1.5rem;
+	}
+
 	.index-card {
+		width: 100%;
+		margin: 0;
 		background: #ffffff;
 		border: 1px solid rgba(15, 23, 42, 0.08);
 		border-radius: 0;
-		padding: 2rem;
+		padding: 3.5rem;
 	}
 
 	.section-title {

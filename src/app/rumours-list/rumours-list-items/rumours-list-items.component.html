@@ -1,30 +1,32 @@
 <section class="rumours-list-items py-4">
 	<div class="container">
-		@for (gameGroup of groupedRumoursByGame; track gameGroup.game) {
-			<div>
-				<h2 [id]="slugify(gameGroup.game)">{{ gameGroup.game }}</h2>
+		<div class="content-card">
+			@for (gameGroup of groupedRumoursByGame; track gameGroup.game) {
+				<div>
+					<h2 [id]="slugify(gameGroup.game)">{{ gameGroup.game }}</h2>
 
-				@for (section of gameGroup.sections; track section.section ?? section.sectionId) {
-					@if (section.section) {
-					<div class="section-heading">
-						<h3 [id]="section.sectionId">{{ section.section }}</h3>
-					</div>
-					}
-
-					@for (category of section.categories; track category.id) {
-						<div class="category-block" [id]="category.id">
-							@if (!(section.section === null && section.categories.length === 1 && category.label === gameGroup.game)) {
-								<h4>{{ category.label }}</h4>
-							}
-							<ul>
-								@for (rumour of category.rumours; track rumour.text) {
-									<app-rumours-list-item [rumour]="rumour"></app-rumours-list-item>
-								}
-							</ul>
+					@for (section of gameGroup.sections; track section.section ?? section.sectionId) {
+						@if (section.section) {
+						<div class="section-heading">
+							<h3 [id]="section.sectionId">{{ section.section }}</h3>
 						</div>
+						}
+
+						@for (category of section.categories; track category.id) {
+							<div class="category-block" [id]="category.id">
+								@if (!(section.section === null && section.categories.length === 1 && category.label === gameGroup.game)) {
+									<h3>{{ category.label }}</h3>
+								}
+								<ul>
+									@for (rumour of category.rumours; track rumour.text) {
+										<app-rumours-list-item [rumour]="rumour"></app-rumours-list-item>
+									}
+								</ul>
+							</div>
+						}
 					}
-				}
-			</div>
+				</div>
 		}
+		</div>
 	</div>
 </section>
