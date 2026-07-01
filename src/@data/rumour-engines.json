@@ -1297,7 +1297,7 @@
 				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120599006_VanSaarGang01.jpg"
 			}
 		},
-		"tags": ["Necromunda", "Van Saar"]
+		"tags": ["40.000", "Necromunda", "Van Saar"]
 	},
 	{
 		"date": "2018-02-27",
@@ -1317,7 +1317,7 @@
 				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120599006_VanSaarGang01.jpg"
 			}
 		},
-		"tags": ["Necromunda", "Van Saar"]
+		"tags": ["40.000", "Necromunda", "Van Saar"]
 	},
 	{
 		"date": "2018-03-06",
@@ -9557,7 +9557,7 @@
 				"cdn": "https://www.warhammer-community.com/wp-content/uploads/2024/05/tpHwXZY5c898YkJk.png"
 			}
 		},
-		"tags": ["Necromunda", "Hive Secundus", "Forces of the Malstrain"]
+		"tags": ["40.000", "Necromunda", "Hive Secundus", "Forces of the Malstrain"]
 	},
 	{
 		"date": "2024-05-14",
@@ -10981,23 +10981,23 @@
 	},
 	{
 		"date": "2025-09-03",
-		"resolvedDate": "",
+		"resolvedDate": "2026-06-26",
 		"link": "https://www.warhammer-community.com/en-gb/articles/bse9qadn/the-future-of-age-of-sigmar-can-you-work-out-whats-coming-next/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/njwcaq6t/the-big-summer-preview-new-ogors-revealed/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2025-09-03.jpg",
 			"cdn": "https://assets.warhammer-community.com/aos_nostalgia5-sep3-teasers-dboo697ws3.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Gluttons",
 			"link": "",
 			"image": {
-				"url": "2025-09-03_2-miniature.jpg",
-				"cdn": ""
+				"url": "2025-09-03_2-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/carousel1a-tbgcknvtk5.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Destruction", "Ogor Mawtribes"]
 	},
 	{
 		"date": "2025-09-03",
@@ -11841,159 +11841,199 @@
 	},
 	{
 		"date": "2026-04-28",
-		"resolvedDate": "",
+		"resolvedDate": "2026-06-26",
 		"link": "https://www.warhammer-community.com/en-gb/articles/ffoxoqw9/the-rumour-engine-28th-of-april/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/njwcaq6t/the-big-summer-preview-new-ogors-revealed/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2026-04-28.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-apr28-0-content-35ep9iettw.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Maulbeast Cavalry",
 			"link": "",
 			"image": {
-				"url": "",
-				"cdn": ""
+				"url": "2026-04-28-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/image3_wide-okdyxlee2p.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Destruction", "Ogor Mawtribes"]
 	},
 	{
 		"date": "2026-05-05",
-		"resolvedDate": "",
+		"resolvedDate": "2026-06-26",
 		"link": "https://www.warhammer-community.com/en-gb/articles/ffoxoqw9/the-rumour-engine-5th-of-may/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/njwcaq6t/the-big-summer-preview-new-ogors-revealed/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2026-05-05.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-may05-0-content-npblr25s8k.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Butcher",
 			"link": "",
 			"image": {
-				"url": "2026-05-05.jpg",
-				"cdn": ""
+				"url": "2026-05-05-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/image8-iolrqkkim0.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Destruction", "Ogor Mawtribes"]
 	},
 	{
 		"date": "2026-05-12",
-		"resolvedDate": "",
+		"resolvedDate": "2026-06-29",
 		"link": "https://www.warhammer-community.com/en-gb/articles/xjxezlin/the-rumour-engine-12th-of-may/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/j9tyypbg/stalk-shoot-and-skin-with-brand-new-ogor-hunters/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2026-05-12.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-may12-0-content-rvlukwvnd0.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Hunters with Sabrefangs",
 			"link": "",
 			"image": {
-				"url": "2026-05-12.jpg",
-				"cdn": ""
+				"url": "2026-05-12-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/image1_wide-j54u3yzoal.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Destruction", "Ogor Mawtribes"]
 	},
 	{
 		"date": "2026-05-19",
-		"resolvedDate": "",
+		"resolvedDate": "2026-06-26",
 		"link": "https://www.warhammer-community.com/en-gb/articles/xjxezlin/the-rumour-engine-19th-of-may/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/6ypk8cdw/the-big-summer-preview-chaos-arrives-in-the-old-world/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2026-05-19.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-may19-0-content-gf5domwdb7.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Sorcerer on Chaos Dragon",
 			"link": "",
 			"image": {
-				"url": "2026-05-19.jpg",
-				"cdn": ""
+				"url": "2026-05-19-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/26-06_04image2-dwdpzocllo.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["The Old World", "Warriors of Chaos"]
 	},
 	{
 		"date": "2026-05-26",
-		"resolvedDate": "",
+		"resolvedDate": "2026-06-26",
 		"link": "https://www.warhammer-community.com/en-gb/articles/xjxezlin/the-rumour-engine-26th-of-may/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/9er1rhow/the-big-summer-preview-back-to-the-underhive/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2026-05-26.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-may26-0-content-j05ymksdnr.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Goliath Forge Smelters",
 			"link": "",
 			"image": {
-				"url": "2026-05-26.jpg",
-				"cdn": ""
+				"url": "2026-05-26-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/26-06_10_carouselb2-k70ngb3mcg.png"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Necromunda", "Goliath"]
 	},
 	{
 		"date": "2026-06-02",
-		"resolvedDate": "",
+		"resolvedDate": "2026-06-26",
 		"link": "https://www.warhammer-community.com/en-gb/articles/xjxezlin/the-rumour-engine-2nd-of-june/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/6ypk8cdw/the-big-summer-preview-chaos-arrives-in-the-old-world/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2026-06-02.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-jun02-0-content-fmrwuhzp4j.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Sorcerer on Chaos Dragon",
 			"link": "",
 			"image": {
-				"url": "2026-06-02.jpg",
-				"cdn": ""
+				"url": "2026-05-19-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/26-06_04image2-dwdpzocllo.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["The Old World", "Warriors of Chaos"]
 	},
 	{
 		"date": "2026-06-09",
-		"resolvedDate": "",
+		"resolvedDate": "2026-06-26",
 		"link": "https://www.warhammer-community.com/en-gb/articles/kpd1gsu5/the-rumour-engine-9th-of-june/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/6ypk8cdw/the-big-summer-preview-chaos-arrives-in-the-old-world/",
+		"resolvedEvent": "The Big Summer Preview",
 		"rumourEngineImage": {
 			"url": "2026-06-09.jpg",
 			"cdn": "https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/rumourengine-jun09-0-content-bsutiy8quh.jpg"
 		},
 		"miniature": {
+			"name": "Chaos Dragon",
+			"link": "",
+			"image": {
+				"url": "2026-06-09-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/26-06_04image1-ll9pwoi6kn.jpg"
+			}
+		},
+		"tags": ["The Old World", "Warriors of Chaos"]
+	},
+	{
+		"date": "2026-06-16",
+		"resolvedDate": "2026-06-26",
+		"link": "https://www.warhammer-community.com/en-gb/articles/kpd1gsu5/the-rumour-engine-16th-of-june/",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/skdmgaln/the-big-summer-preview-exodites-revealed/",
+		"resolvedEvent": "The Big Summer Preview",
+		"rumourEngineImage": {
+			"url": "2026-06-16.jpg",
+			"cdn": "https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/rumourengine-jun16-0-content-6kwxskgpka.jpg"
+		},
+		"miniature": {
+			"name": "Drakolithes",
+			"link": "",
+			"image": {
+				"url": "2026-06-16-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/image4-py0scfdl9m.jpg"
+			}
+		},
+		"tags": ["40.000", "Kill Team", "Xenos Armies", "Aeldari"]
+	},
+	{
+		"date": "2026-06-23",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/fnkjbbfu/the-rumour-engine-23rd-of-june/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2026-06-23.jpg",
+			"cdn": "https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/rumourengine-jun23-0-content-czsfs3om4g.jpg"
+		},
+		"miniature": {
 			"name": "",
 			"link": "",
 			"image": {
-				"url": "2026-06-09.jpg",
+				"url": "2026-06-23-miniature.jpg",
 				"cdn": ""
 			}
 		},
 		"tags": []
 	},
 	{
-		"date": "2026-06-16",
+		"date": "2026-06-30",
 		"resolvedDate": "",
-		"link": "https://www.warhammer-community.com/en-gb/articles/kpd1gsu5/the-rumour-engine-16th-of-june/",
+		"link": "https://www.warhammer-community.com/en-gb/articles/fnkjbbfu/the-rumour-engine-30th-of-june/",
 		"resolvedLink": "",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
-			"url": "2026-06-16.jpg",
-			"cdn": "https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/rumourengine-jun16-0-content-6kwxskgpka.jpg"
+			"url": "2026-06-30.jpg",
+			"cdn": "https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/rumourengine-jun30-0-content-rr5wememea.jpg"
 		},
 		"miniature": {
 			"name": "",
 			"link": "",
 			"image": {
-				"url": "2026-06-16.jpg",
+				"url": "2026-06-30-miniature.jpg",
 				"cdn": ""
 			}
 		},
