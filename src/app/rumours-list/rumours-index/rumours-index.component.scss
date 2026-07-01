@@ -1,0 +1,178 @@
+:host {
+	display: block;
+}
+
+.rumours-index {
+	.container {
+		max-width: 1200px;
+		margin: 0 auto;
+		padding-inline: 1.5rem;
+	}
+
+	.index-card {
+		width: 100%;
+		margin: 0;
+		background: #ffffff;
+		border: 1px solid rgba(15, 23, 42, 0.08);
+		border-radius: 0;
+		padding: 3.5rem;
+	}
+
+	.section-title {
+		font-size: 2rem;
+		font-weight: 700;
+		margin-bottom: 1rem;
+		letter-spacing: -0.03em;
+		color: #111827;
+	}
+
+	.index-heading {
+		display: flex;
+		align-items: center;
+		gap: 0.75rem;
+	}
+
+	.index-toggle {
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		width: 2rem;
+		height: 2rem;
+		border: none;
+		background: transparent;
+		padding: 0;
+		margin: 0;
+		cursor: pointer;
+
+		.section-icon {
+			font-size: 1.5rem;
+			padding-top: 5px;
+		}
+	}
+
+	.index-toggle:hover {
+		opacity: 0.85;
+	}
+
+	.section-grid {
+		display: grid;
+		gap: 1rem;
+	}
+
+	.section-block {
+		border-radius: 0;
+		border: 1px solid rgba(15, 23, 42, 0.08);
+		background: #f8fafc;
+		padding: 1rem 1.25rem;
+	}
+
+	.section-toggle {
+		width: 100%;
+		text-align: left;
+		display: flex;
+		align-items: center;
+		justify-content: flex-start;
+		color: #0f172a;
+		font-weight: 600;
+		border: none;
+		background: transparent;
+		padding: 0;
+	}
+
+	.section-toggle:hover,
+	.section-item:hover {
+		border-radius: 0;
+	}
+
+	.section-title-row {
+		display: grid;
+		grid-template-columns: auto minmax(160px, auto);
+		gap: 0.75rem;
+		align-items: center;
+		width: 100%;
+	}
+
+	.section-label {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.5rem;
+		white-space: normal;
+
+		a {
+			color: #111827;
+			text-decoration: none;
+		}
+	}
+
+	.section-icon {
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		width: 1.9rem;
+		height: 1.9rem;
+		border-radius: 9999px;
+		color: #0f172a;
+		font-size: 0.95rem;
+		transform: rotate(-90deg);
+		transform-origin: center;
+		transition: transform 120ms ease-in-out;
+	}
+
+	.index-toggle.expanded .section-icon,
+	.section-toggle.expanded .section-icon {
+		transform: rotate(0deg);
+	}
+
+	.edition-pill {
+		font-size: 0.86rem;
+		font-weight: 500;
+		color: #334155;
+		background: rgba(15, 23, 42, 0.05);
+		border-radius: 9999px;
+		padding: 0.22rem 0.75rem;
+		white-space: nowrap;
+	}
+
+	.section-list {
+		margin: 0;
+		padding-left: 1.15rem;
+		list-style: none;
+		display: grid;
+		gap: 0.45rem;
+	}
+
+	.section-list li {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+		color: #111827;
+		font-size: 0.98rem;
+
+		a {
+			color: #111827;
+			text-decoration: none;
+		}
+	}
+
+	.index-count {
+		margin-left: 0cm;
+	}
+
+	.section-list li .index-count {
+		margin-left: 0rem;
+	}
+
+	.section-item {
+		display: flex;
+		align-items: center;
+		justify-content: flex-start;
+		gap: 1rem;
+		padding: 0.45rem 0;
+		color: #111827;
+	}
+
+	.section-item strong {
+		font-size: 1rem;
+		font-weight: 600;
+	}
+}

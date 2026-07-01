@@ -1,0 +1,29 @@
+<header class="top-nav d-flex flex-wrap justify-content-between align-items-center border-top">
+	<ul class="nav top-nav-left justify-content-center justify-content-md-start mt-2 mt-md-0">
+		<li class="nav-item nav-title">Rumours Tracker</li>
+	</ul>
+
+	<ul class="nav top-nav-right justify-content-center justify-content-md-end mt-2 mt-md-0">
+		<li class="nav-item">
+			<a
+				class="nav-link"
+				routerLink="/"
+				routerLinkActive="active"
+				[routerLinkActiveOptions]="{ exact: true }"
+				(click)="rumourEnginesClick.emit()"
+			>
+				Rumour Engines
+			</a>
+		</li>
+		<li class="nav-item">
+			<a
+				class="nav-link"
+				routerLink="/rumours-list"
+				routerLinkActive="active"
+				(click)="rumoursListClick.emit()"
+			>
+				Rumours List
+			</a>
+		</li>
+	</ul>
+</header>

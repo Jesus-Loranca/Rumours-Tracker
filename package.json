@@ -1,6 +1,6 @@
 {
-  "name": "rumour-engines",
-  "version": "1.0.0",
+  "name": "rumours-tracker",
+  "version": "2.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
