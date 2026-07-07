@@ -1239,7 +1239,7 @@
 		"game": "Warcry",
 		"edition": 0,
 		"category": "",
-		"text": "A sad face reaction to the <a href=\"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7366#comment-735913\">following message</a>. This was followed up by another post liked pointing to a bright future for ToW. So the future is not that bright for Warcry - Reactions By Whitefang",
+		"text": "A sad face reaction that was followed up by another post liked pointing to a bright future for ToW. So the future is not that bright for Warcry",
 		"groupUnder": "Warcry will disappear",
 		"message": [
 			{
@@ -1258,10 +1258,327 @@
 		"isLoveIt": false,
 		"isSadFace": true,
 		"source": [
-			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7366#comment-735913"
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7365#findComment-735913"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-09-02",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "A new storytelling about Cogforts for 2027. Also, Freeguild Gargants?",
+		"groupUnder": "A cogfort model is coming!",
+		"message": [
+			{
+				"contents": [
+					"Gooood Morning, storyteller's back\n\nY’all ever heard the stories of Ironweld Arsenal?\n\nWord is, after the Realmgate Wars, they straight-up engineered miracles of tech—whole small walking cities rose from nothing, rolling onto the battlefield to crush every last one of Sigmar’s enemies\n\nYou know the names of those moving fortresses, right?\n\nWell, I’ve seen ’em with my own eyes while crossing through a Realmgate 🧐\n\nAnd let me tell you, those things were bigger than Freeguild Gargants—freaking huge!\n\nAnd get this: there were, like, twelve different variants? 🤨\n\nOh, and guess what? Rumour has it Chaos got their hands on one of those colossal machines too\n\nEven Death and Destruction scored their own\n\nMaybe we’ll see ’em in 2027?\n\nThat's all\n\nThe entire story is entirely my own creation, the plot bears no relation to any real events. I hope you all enjoy reading it\n\nRemember, rumours are rumours, have a great day! "
+				],
+				"quotes": [
+					""
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7520#findComment-741460"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-09-26",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "The twelve different variants bit seems to be wrong",
+		"groupUnder": "A cogfort model is coming!",
+		"message": [
+			{
+				"contents": [
+					""
+				],
+				"quotes": [
+					""
+				],
+				"images": [],
+				"isReaction": true
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": true,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7520#findComment-741464"
 		],
 		"rumourmonger": "Whitefang",
-		"date": "2025-09-16",
+		"date": "2025-09-26",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "It could be a new army instead of part of Cities of Sigmar",
+		"groupUnder": "A cogfort model is coming!",
+		"message": [
+			{
+				"contents": [
+					"What the hell... CoS imperial knights?"
+				],
+				"quotes": [
+					""
+				],
+				"images": [],
+				"isReaction": true
+			}
+		],
+		"isLike": true,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7520#comment-741466"
+		],
+		"rumourmonger": "Whitefang",
+		"date": "2025-09-26",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "After Whitefang reacted with a sad face to the twelve variants, Boole edited it. Could it be talking about the number of legs?",
+		"groupUnder": "A cogfort model is coming!",
+		"message": [
+			{
+				"contents": [
+					"Four or eight or twelve? 🤨"
+				],
+				"quotes": [
+					""
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7520#comment-741464"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-09-26",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "It looks like the Cogfort would be usable for other GAs via a RoR",
+		"groupUnder": "A cogfort model is coming!",
+		"message": [
+			{
+				"contents": [
+					"At least it look like it would be just a RoR. It is not that bad, and it makes sense lorewise as we saw how the enemy can take over a Cogfort."
+				],
+				"quotes": [
+					"I fully understand this. I was quite annoyed at first that Sons of Behemat could basically be taken by everyone.\n\nI still dont think that a Cogfort for each Alliance is a good idea.\n\nFor Destruction it leans to close to 40K Orks for my liking."
+				],
+				"images": [],
+				"isReaction": true
+			}
+		],
+		"isLike": true,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7528#findComment-741673"
+		],
+		"rumourmonger": "Whitefang",
+		"date": "2025-09-27",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Fyreslayers",
+		"text": "Khazalid Holds will have a look similar to the WHFB duardins",
+		"groupUnder": "Khazalid Holds",
+		"message": [
+			{
+				"contents": [
+					"[[image-2025-10-02_1.jpg]]"
+				],
+				"quotes": [
+					""
+				],
+				"images": [
+					"image-2025-10-02_1.jpg"
+				],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7551#comment-742446"
+		],
+		"rumourmonger": "Whitefang",
+		"date": "2025-10-02",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ogor Mawtribes",
+		"text": "Frost Sabres will not disappear, but will be included with the Hunters models ",
+		"groupUnder": "Ogor Mawtribes refresh",
+		"message": [
+			{
+				"contents": [
+					"In Boole’s Rumors it mentions “new hunters.” What if these come with their additional sabertooths, just like the new Space Wolves.[[image-2025-09-30_1.jpg]][[image-2025-09-30_2.jpg]]"
+				],
+				"quotes": [
+					"Yes.\n\nCorrect.\n\nA lot of the weird little creatures Ogres have are going away, for some reason.\n\nWhich is honestly kinda disappointing, I liked that aspect of the Ogres."
+				],
+				"images": [
+					"image-2025-09-30_1.jpg",
+					"image-2025-09-30_2.jpg"
+				],
+				"isReaction": true
+			}
+		],
+		"isLike": true,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7545#findComment-742206"
+		],
+		"rumourmonger": "Whitefang",
+		"date": "2025-09-30",
+		"resolvedDate": "26-06-2026",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 3,
+		"category": "Season of War Series",
+		"text": "Whitefang back me up confirms in two different posts that the Spider Incarnate and the finished Dawnbringer buildings were supposed to come with the cancelled box accompanying the Season of War: Gallet book - By Whitefang back me up",
+		"groupUnder": "Season of War Series",
+		"message": [
+			{
+				"contents": [
+					"These were the fully built buildings you can see in the CoS battletome.\n\nBelieve what you want though!",
+					"Was supposed to come out with Intact Dawnbringers buildings, now scrapped due to margin costs.\n\nHopefully it’ll come out one day as the Incarnate looks amazing."
+				],
+				"quotes": [
+					"The last time was with the Dawnbringers buildings and the Incarnate. I think that's the reason he created this story out of nowhere.",
+					"I hope we get insight on this at some point. Because it really feels like that is what happened, but it would be nice to actually have some evidence for it.\n\n@Whitefang, since you said that the spider incarnate is connected to Gallet at the time, do you have anything you want to share about this?"
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=4906#findComment-649644",
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=4905#findComment-649613"
+		],
+		"rumourmonger": "Whitefang back me up",
+		"date": "2024-02-09",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 3,
+		"category": "Season of War Series",
+		"text": "Season of War: Gallet had a tale involving Duardins and Skavens",
+		"groupUnder": "Season of War Series",
+		"message": [
+			{
+				"contents": [
+					"And maybe dwarf and Skaven. If you knew you knew."
+				],
+				"quotes": [
+					"The thing is that there was a campaign focused on BoC and BS... but we all know how that ends :("
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=6306#comment-701352"
+		],
+		"rumourmonger": "Whitefang",
+		"date": "2024-12-20",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 3,
+		"category": "Season of War Series",
+		"text": "Boole gave us a series of posts detailing what happened in the unreleased book of Season of War: Gallet and Season of War: Andtor",
+		"groupUnder": "Season of War Series",
+		"message": [
+			{
+				"contents": [
+					"Good evening. From this day forward, I shall be nothing but a storyteller\n\nI will tell you a little story that I made up and there is absolutely no truth in it\n\nLong long ago, perhaps in 2021?\n\nThere was once a series of stories, originally intended to be published in multiple volumes\n\nIn the first volume, the main character - shaman successfully mastered the method of summoning Incarnates and forged an alliance with the Orruks. Though the Incarnate he summoned was slain by a powerful woman, he remained undaunted and proceeded to summon further Incarnates of different kinds\n\nIn the second and subsequent volumes, the Shaman led his pallid Gor-kin companions in summoning Spider Incarnate\n\nMeanwhile, the Dispossessed, leading the Dawnbringers, discovered the Khazalid ruins buried deep beneath the Ghur. This discovery held the potential to revive the lost civilisation of the Dispossessed\n\nThey also discovered countless ley lines stretching vertically and plunging deep into the Ghur. While battling the Spider Incarnate summoned by the Shaman and the new Gor-kin threat, they pressed onward with their excavation\n\nFinally, the truth that astonished everyone was revealed: these vertically extending ley lines had long been targeted by rats. For centuries, these repulsive creatures had been executing some sinister scheme, and it was here they encountered a dreadful rat daemon - the daemon who orchestrated the entire stories\n\nHowever, this story series was cancelled because the vast majority of its main characters were required to appear in another product line launched subsequently. Consequently, the models that had already been produced were unfortunately shelved"
+				],
+				"quotes": [
+					""
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7396#findComment-736758"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-09-05",
 		"resolvedDate": "",
 		"legitRumour": true
 	},
@@ -1287,6 +1604,7 @@
 		"isThanks": false,
 		"isLoveIt": false,
 		"isSadFace": false,
+		"isConfusedFace": false,
 		"source": [
 			""
 		],
