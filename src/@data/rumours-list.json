@@ -873,7 +873,7 @@
 		"edition": 4,
 		"category": "Ogor Mawtribes",
 		"text": "Maneaters will be updated after the Ogors refresh",
-		"groupUnder": "Ogor Mawtribes refresh",
+		"groupUnder": "Maneaters refresh",
 		"message": [
 			{
 				"contents": [
@@ -1019,6 +1019,250 @@
 		"rumourmonger": "Boole",
 		"date": "2025-09-02",
 		"resolvedDate": "2025-11-08",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Fyreslayers",
+		"text": "A new cryptic message in the form of a gif. Is this referring to the FS, to duardins that look closer to the ones from LOTR or just a joke? ",
+		"groupUnder": "Khazalid Holds",
+		"message": [
+			{
+				"contents": [
+					"[[image-2025-09-18_1.gif]]"
+				],
+				"quotes": [
+					"I think Whitefang is laughing at all brain speculations about Fyreslayers while reality could be much simpler.\n\nSo should we ask @Whitefang if Fyreslayers are getting their own battletome and miniature/s release ? (without sharing Bt with other Duardin) "
+				],
+				"images": [
+					"image-2025-09-18_1.gif"
+				],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7474#comment-740141"
+		],
+		"rumourmonger": "Whitefang",
+		"date": "2025-09-18",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Fyreslayers",
+		"text": "Another hint by bool about a possible alliance between a new Dispossessed army and FS",
+		"groupUnder": "Khazalid Holds",
+		"message": [
+			{
+				"contents": [
+					"Why fret over FS's future? 😵‍💫\n\nDo you guys remember the first story I told? \n\nIf you recall my story of the Khazalid Ruins, you'll know there was a great deal of [REDACTED] that had been temporarily shelved 🤫\n\nWell, I mean… \n\nYou will understand… \n\nThis is merely a hypothesis, merely my conjecture \n\nUnder the threat of the Skaven and HoH, they shall rise under Grungni's leadership, forging a mighty alliance with the FS, and together with the formidable and numerous SUPER-ARMY of the CoS (yeah, they were once good companions who lived together) \n\nYou know who they are, right? \n\nThat's all\n\nRemember, rumours are rumours, have a great day!"
+				],
+				"quotes": [
+					""
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7476#findComment-740180"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-09-18",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Fyreslayers",
+		"text": "Boole has confirmed that the Fyreslayers will share a faction with the Dispossessed rather than being two factions sharing a tome",
+		"groupUnder": "Khazalid Holds",
+		"message": [
+			{
+				"contents": [
+					"[[image-2025-09-21_1.png]]"
+				],
+				"quotes": [
+					"Do you by chance have any idea about FS kits being removed and if FS will stay their own army?"
+				],
+				"images": [
+					"image-2025-09-21_1.png"
+				],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7490#comment-740623"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-09-21",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Fyreslayers",
+		"text": "Also, their possible faction name could be Khazalid Holds",
+		"groupUnder": "Khazalid Holds",
+		"message": [
+			{
+				"contents": [
+					"Hmm…"
+				],
+				"quotes": [
+					"Khazalid\n\nAnother made up word\n\n \n\nHolds\n\nA made up word."
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7490#comment-740621"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-09-21",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Fyreslayers",
+		"text": "Has been confirmed that the new army will have four ancestor gods. Girmnir, Grungni, Valaya and Gazul",
+		"groupUnder": "Khazalid Holds",
+		"message": [
+			{
+				"contents": [
+					"I've already said that\n\nWhy fret over FS's future?\n\nGrungni、Gazul、Valaya\n\nThey will lead FS out of the predicament "
+				],
+				"quotes": [
+					""
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7491#comment-740636"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-09-21",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Fyreslayers",
+		"text": "Apparently, the new Khazalid Holds army would be released quite soon",
+		"groupUnder": "Khazalid Holds",
+		"message": [
+			{
+				"contents": [
+					"And AOS is going to keep getting better, too\n\nWe originally borrowed the Dwarfen Mountain Holds content from AOS, tweaked it, and released a few models\n\nNow those are going back to AOS, and you’ll be seeing them again before long "
+				],
+				"quotes": [
+					""
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7508#comment-741097"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-09-23",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Sons of Behemat",
+		"text": "A new tale by Boole, this time about Gargant Matriarchs",
+		"groupUnder": "Gargant Matriarch",
+		"message": [
+			{
+				"contents": [
+					"Have you ever heard of gargants?\n\nThose towering, powerful giants who live in tribes\n\nMaybe you have witnessed their giant footprints, or even seen their appearance with your own eyes, but have you ever wondered where the female gargants are?\n\nIf you've read Battletome released in 2020, and Battletome released in 2022, you might have some ideas\n\nAfter all, the tribes formed by these gargants are led by older and more powerful female gargants\n\nThe Gargant Matriarch\n\nYou might ask, why am I raising this question about these female gargants?\n\nWell,well,well…\n\nDo you still remember this name?\n\nRENEGADE"
+				],
+				"quotes": [
+					""
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7461#comment-738709"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-09-16",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Warcry",
+		"edition": 0,
+		"category": "",
+		"text": "A sad face reaction to the <a href=\"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7366#comment-735913\">following message</a>. This was followed up by another post liked pointing to a bright future for ToW. So the future is not that bright for Warcry - Reactions By Whitefang",
+		"groupUnder": "Warcry will disappear",
+		"message": [
+			{
+				"contents": [
+					""
+				],
+				"quotes": [
+					""
+				],
+				"images": [],
+				"isReaction": true
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": true,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7366#comment-735913"
+		],
+		"rumourmonger": "Whitefang",
+		"date": "2025-09-16",
+		"resolvedDate": "",
 		"legitRumour": true
 	},
 	{
