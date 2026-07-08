@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 import rumoursListData from '../../../@data/rumours-list.json';
 import { RumoursListIndexService, RumourListEntry, RumoursListGameGroup } from '../services/rumours-list-index.service';
 
@@ -9,6 +9,8 @@ import { RumoursListIndexService, RumourListEntry, RumoursListGameGroup } from '
 	styleUrl: './rumours-list-items.component.scss'
 })
 export class RumoursListItemsComponent {
+	private _viewMode: 'pending' | 'resolved' = 'pending';
+
 	public rumours: RumourListEntry[] = Array.isArray(rumoursListData)
 		? rumoursListData as RumourListEntry[]
 		: Object.values(rumoursListData as Record<string, RumourListEntry>);
@@ -48,7 +50,21 @@ export class RumoursListItemsComponent {
 	];
 
 	constructor(private readonly rumoursListIndexService: RumoursListIndexService) {
-		this.groupedRumoursByGame = this.rumoursListIndexService.createGroupedRumoursByGame(this.rumours);
+		this.applyView();
+	}
+
+	@Input()
+	set viewMode(value: 'pending' | 'resolved') {
+		this._viewMode = value;
+		this.applyView();
+	}
+
+	get viewMode(): 'pending' | 'resolved' {
+		return this._viewMode;
+	}
+
+	private applyView(): void {
+		this.groupedRumoursByGame = this.rumoursListIndexService.createGroupedRumoursByGame(this.rumours, this.viewMode === 'resolved');
 	}
 
 	public getCategoryLogoUrl(label: string): string | null {

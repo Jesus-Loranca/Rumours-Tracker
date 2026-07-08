@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 import rumoursListData from '../../../@data/rumours-list.json';
 import { RumoursListIndexService, type RumourListEntry } from '../services/rumours-list-index.service';
 import type { TextObject } from '../../../@types/RumoursIndex';
@@ -10,6 +10,8 @@ import type { TextObject } from '../../../@types/RumoursIndex';
 	styleUrls: ['./rumours-index.component.scss']
 })
 export class RumoursIndexComponent {
+	private _viewMode: 'pending' | 'resolved' = 'pending';
+
 	public rumours: RumourListEntry[] = Array.isArray(rumoursListData)
 		? rumoursListData as RumourListEntry[]
 		: Object.values(rumoursListData as Record<string, RumourListEntry>);
@@ -19,7 +21,23 @@ export class RumoursIndexComponent {
 	public expandedSections = new Set<string>();
 	public isIndexOpen = false;
 
-	constructor(private readonly rumoursListIndexService: RumoursListIndexService) {}
+	constructor(private readonly rumoursListIndexService: RumoursListIndexService) {
+		this.refreshCounts();
+	}
+
+	@Input()
+	set viewMode(value: 'pending' | 'resolved') {
+		this._viewMode = value;
+		this.refreshCounts();
+	}
+
+	get viewMode(): 'pending' | 'resolved' {
+		return this._viewMode;
+	}
+
+	private refreshCounts(): void {
+		this.rumoursIndexCounts = this.rumoursListIndexService.getRumourCountsByIndexLabel(this.rumours, this.viewMode === 'resolved');
+	}
 
 	public isArray(value: unknown): value is unknown[] {
 		return Array.isArray(value);
@@ -36,6 +54,12 @@ export class RumoursIndexComponent {
 
 	public getSectionId(category: string, section: string): string {
 		return `${category}::${section}`;
+	}
+
+	public getListUrl(fragment: string): string {
+		return this.viewMode === 'resolved'
+			? `/rumours-list?view=solved#${this.slugify(fragment)}`
+			: `/rumours-list#${this.slugify(fragment)}`;
 	}
 
 	public slugify(value: string): string {

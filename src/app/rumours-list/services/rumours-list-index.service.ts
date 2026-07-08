@@ -65,7 +65,14 @@ export class RumoursListIndexService {
     return Object.entries(value as Record<string, TextObject | TextObject[]>).map(([key, val]) => ({ key, value: val }));
   }
 
-  public getRumourCountsByIndexLabel(rumours: RumourListEntry[]): Map<string, number> {
+  public filterRumours(rumours: RumourListEntry[], includeResolved = false): RumourListEntry[] {
+    return rumours.filter(rumour => {
+      const hasResolvedDate = !!(rumour.resolvedDate && rumour.resolvedDate.trim() !== '');
+      return includeResolved ? hasResolvedDate : !hasResolvedDate;
+    });
+  }
+
+  public getRumourCountsByIndexLabel(rumours: RumourListEntry[], includeResolved = false): Map<string, number> {
     const counts = new Map<string, number>();
     const lookup = new Map<string, string>();
     const gameFallback = new Map<string, string>();
@@ -104,11 +111,7 @@ export class RumoursListIndexService {
       }
     }
 
-    for (const rumour of rumours) {
-      if (rumour.resolvedDate && rumour.resolvedDate.trim() !== '') {
-        continue;
-      }
-
+    for (const rumour of this.filterRumours(rumours, includeResolved)) {
       const lookupValue = (rumour.category || rumour.groupUnder || '').trim();
       const key = this.slugify(lookupValue);
       let target = lookup.get(key);
@@ -133,7 +136,7 @@ export class RumoursListIndexService {
       .replace(/^-+|-+$/g, '');
   }
 
-  public createGroupedRumoursByGame(rumours: RumourListEntry[]): RumoursListGameGroup[] {
+  public createGroupedRumoursByGame(rumours: RumourListEntry[], includeResolved = false): RumoursListGameGroup[] {
     const groups: RumourCategoryGroup[] = [];
     const lookup = new Map<string, number>();
     const gameFallback = new Map<string, number>();
@@ -177,11 +180,7 @@ export class RumoursListIndexService {
       }
     }
 
-    for (const rumour of rumours) {
-      if (rumour.resolvedDate && rumour.resolvedDate.trim() !== '') {
-        continue;
-      }
-
+    for (const rumour of this.filterRumours(rumours, includeResolved)) {
       const lookupValue = (rumour.category || rumour.groupUnder || '').trim();
       const key = this.slugify(lookupValue);
       let index = lookup.get(key);

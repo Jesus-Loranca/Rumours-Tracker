@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { ActivatedRoute } from '@angular/router';
 
 @Component({
   selector: 'app-rumours-list',
@@ -7,4 +8,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./rumours-list.component.scss']
 })
 export class RumoursListComponent {
+  public viewMode: 'pending' | 'resolved' = 'pending';
+
+  constructor(private readonly route: ActivatedRoute) {
+    this.route.queryParamMap.subscribe(params => {
+      const requestedView = params.get('view');
+      this.viewMode = requestedView === 'solved' ? 'resolved' : 'pending';
+    });
+  }
 }

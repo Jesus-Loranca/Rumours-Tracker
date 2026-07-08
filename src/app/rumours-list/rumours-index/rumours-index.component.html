@@ -16,7 +16,7 @@
 				<div class="section-block">
 					<div class="section-row">
 						<div class="section-label">
-							<strong><a [href]="'/rumours-list#' + slugify(indexItem[0])">{{ indexItem[0] }}</a></strong>
+							<strong><a [href]="getListUrl(indexItem[0])">{{ indexItem[0] }}</a></strong>
 							@if (getRumourCount(indexItem[0]) + getSectionCount(indexItem[1]) > 0) {
 							<span class="index-count">({{ getRumourCount(indexItem[0]) + getSectionCount(indexItem[1]) }})</span>
 							}
@@ -54,7 +54,7 @@
 						@if (!isArray(section.value) && getRumourCount(section.key) > 0) {
 						<div class="section-item">
 							<span class="section-label">
-								<strong><a [href]="'/rumours-list#' + slugify(section.key)">{{ section.key }}</a></strong>
+								<strong><a [href]="getListUrl(section.key)">{{ section.key }}</a></strong>
 								<span class="index-count">({{ getRumourCount(section.key) }})</span>
 								@if (isTextObject(section.value)) {
 									<span class="edition-pill">{{ section.value.edition | ordinal }} Edition</span>
