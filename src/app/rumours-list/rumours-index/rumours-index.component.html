@@ -34,7 +34,6 @@
 								<span class="section-label">
 									<strong>{{ section.key }}</strong>
 									<span class="index-count">({{ getSectionCount(section.value) }})</span>
-									<span class="edition-pill">{{ section.value[0].edition | ordinal }} Edition</span>
 								</span>
 							</button>
 						</div>
@@ -56,9 +55,6 @@
 							<span class="section-label">
 								<strong><a [href]="getListUrl(section.key)">{{ section.key }}</a></strong>
 								<span class="index-count">({{ getRumourCount(section.key) }})</span>
-								@if (isTextObject(section.value)) {
-									<span class="edition-pill">{{ section.value.edition | ordinal }} Edition</span>
-								}
 							</span>
 						</div>
 						}
