@@ -212,9 +212,9 @@
 	{
 		"game": "Age of Sigmar",
 		"edition": 4,
-		"category": "Daugthers of Khaine",
-		"text": "Daugthers of Khaine will get some love in their 4th edition release ",
-		"groupUnder": "Daugthers of Khaine will get love in 4th edition",
+		"category": "Daughters of Khaine",
+		"text": "Daughters of Khaine will get some love in their 4th edition release ",
+		"groupUnder": "Daughters of Khaine will get love in 4th edition",
 		"message": [
 			{
 					"contents": [
@@ -505,7 +505,7 @@
 	},
 	{
 		"game": "Warcry",
-		"edition": 2,
+		"edition": 0,
 		"category": "",
 		"text": "It is very likely Warcry will remain silent and disappear. Something will replace it (Whitefang guessing)",
 		"groupUnder": "Warcry will disappear",
@@ -1490,7 +1490,7 @@
 		"game": "Age of Sigmar",
 		"edition": 3,
 		"category": "Season of War Series",
-		"text": "Whitefang back me up confirms in two different posts that the Spider Incarnate and the finished Dawnbringer buildings were supposed to come with the cancelled box accompanying the Season of War: Gallet book - By Whitefang back me up",
+		"text": "Whitefang back me up confirms in two different posts that the Spider Incarnate and the finished Dawnbringer buildings were supposed to come with the cancelled box accompanying the Season of War: Gallet book",
 		"groupUnder": "Season of War Series",
 		"message": [
 			{
@@ -2036,6 +2036,285 @@
 		"rumourmonger": "Theduke",
 		"date": "2025-10-08",
 		"resolvedDate": "2025-11-08",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "A new list of CoS units posted by Boole, that then received a Whitefang like, as being part of a new Spearhead starter set",
+		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
+		"message": [
+			{
+				"contents": [
+					"Methought a vision dread: the Mortal Realms' end draweth nigh, whence no mortal soul shall find deliverance!\n\nFreeguild Marshal (i love little kitty!)\n\nFreeguild Warpriest\n\nFreeguild Gallant\n\nFreeguild Shooter\n\nEven More…\n\nVS\n\nDeath Master (i hate shadows!)\n\nNight Runner\n\nGutter Runner\n\nEven More…"
+				],
+				"quotes": [
+					""
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7668#findComment-745890"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-10-17",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Skaven",
+		"text": "A new list of Skaven units posted by Boole, that then received a Whitefang like, as being part of a new Spearhead starter set",
+		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
+		"message": [
+			{
+				"contents": [
+					"Methought a vision dread: the Mortal Realms' end draweth nigh, whence no mortal soul shall find deliverance!\n\nFreeguild Marshal (i love little kitty!)\n\nFreeguild Warpriest\n\nFreeguild Gallant\n\nFreeguild Shooter\n\nEven More…\n\nVS\n\nDeath Master (i hate shadows!)\n\nNight Runner\n\nGutter Runner\n\nEven More…"
+				],
+				"quotes": [
+					""
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7668#findComment-745890"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-10-17",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "Freeguild Gallants is the unit of Arch-Knights",
+		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
+		"message": [
+			{
+				"contents": [
+					"Gallant as in knights. Gallantry and whatnot. Probably the \"arch-knight battleline\" from previous rumours."
+				],
+				"quotes": [
+					"Is Gallant phone-corrector for Gargant ? "
+				],
+				"images": [],
+				"isReaction": true
+			}
+		],
+		"isLike": true,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7669#findComment-745916"
+		],
+		"rumourmonger": "Whitefang",
+		"date": "2025-10-17",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Fyreslayers",
+		"text": "Looks like Golems will be part of the new Khazalid Holds roster",
+		"groupUnder": "Khazalid Holds",
+		"message": [
+			{
+				"contents": [
+					"i like Golem "
+				],
+				"quotes": [
+					"Any chance for some Duardin unit names as well? Just so we know what to expect in terms of FS/Dispo"
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7668#comment-745897"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-10-17",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Lumineth Realm-Lords",
+		"text": "Boole gave us a storytelling time about the elven pantheon and their possible comeback",
+		"groupUnder": "Aelven Pantheon",
+		"message": [
+			{
+				"contents": [
+					"Gooood Morning, storyteller's back\n\nI heard that the goddess's followers donned armour forged from shadows and erected one new altar after another. \n\nHold on, what's that? \n\nReturned ye be, O Mathlann, Khaine, and Kurnous! \n\nThou tarriest overlong, Morai-Hag!\n\nMy heart foretold thy coming, Hoeth! \n\nAsuryan! Can it be thou too art restored? \n\nRemember, rumours are rumours, have a great day!"
+				],
+				"quotes": [
+					""
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7663#comment-745770"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-10-17",
+		"resolvedDate": "2026-01-30",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Lumineth Realm-Lords",
+		"text": "This refers very likely to shards or souls scaping from Slaneesh during the Broken Realms Morathi plot",
+		"groupUnder": "Aelven Pantheon",
+		"message": [
+			{
+				"contents": [
+					"It is worth noting that the cycle of reincarnation is an established lore of the elven pantheon.\n\nThat said, I personally don't think the elven deities of old will return or return exactly as they were.\n\nYet, sparkles of Morai-Heg indeed escaped. Is it that surprising if someone else also escaped?"
+				],
+				"quotes": [
+					""
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7673#comment-746036"
+		],
+		"rumourmonger": "Whitefang",
+		"date": "2025-10-18",
+		"resolvedDate": "2026-01-30",
+		"legitRumour": true
+	},
+		{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ulgurothi",
+		"text": "Boole gave us a storytelling time about the elven pantheon and their possible comeback",
+		"groupUnder": "Aelven Pantheon",
+		"message": [
+			{
+				"contents": [
+					"Gooood Morning, storyteller's back\n\nI heard that the goddess's followers donned armour forged from shadows and erected one new altar after another. \n\nHold on, what's that? \n\nReturned ye be, O Mathlann, Khaine, and Kurnous! \n\nThou tarriest overlong, Morai-Hag!\n\nMy heart foretold thy coming, Hoeth! \n\nAsuryan! Can it be thou too art restored? \n\nRemember, rumours are rumours, have a great day!"
+				],
+				"quotes": [
+					""
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7663#comment-745770"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-10-17",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ulgurothi",
+		"text": "This refers very likely to shards or souls scaping from Slaneesh during the Broken Realms Morathi plot",
+		"groupUnder": "Aelven Pantheon",
+		"message": [
+			{
+				"contents": [
+					"It is worth noting that the cycle of reincarnation is an established lore of the elven pantheon.\n\nThat said, I personally don't think the elven deities of old will return or return exactly as they were.\n\nYet, sparkles of Morai-Heg indeed escaped. Is it that surprising if someone else also escaped?"
+				],
+				"quotes": [
+					""
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7673#comment-746036"
+		],
+		"rumourmonger": "Whitefang",
+		"date": "2025-10-18",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ulgurothi",
+		"text": "All the above seem to indicate that Malerion will come soon! (5th edition?)",
+		"groupUnder": "Aelven Pantheon",
+		"message": [
+			{
+				"contents": [
+					"It's opposite."
+				],
+				"quotes": [
+					"Still rather just have Malerion. I feel all this croneseer stuff is just kicking the ulgurothi/umbraneth can further down the road in favour of more witch elves."
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7674#findComment-746046"
+		],
+		"rumourmonger": "Whitefang",
+		"date": "2025-10-18",
+		"resolvedDate": "",
 		"legitRumour": true
 	},
 	{

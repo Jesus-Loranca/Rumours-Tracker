@@ -27,6 +27,7 @@ export class RumoursListItemsComponent {
 		'fyreslayers.png',
 		'gloomspite-gitz.png',
 		'hedonites-of-slaanesh.png',
+		'helmsmiths-of-hashut.png',
 		'idoneth-deepkin.png',
 		'ironjawz.png',
 		'kharadron-overlords.png',
@@ -44,6 +45,7 @@ export class RumoursListItemsComponent {
 		'spearhead.png',
 		'stormcast-eternals.png',
 		'sylvaneth.png',
+		'ulgurothi.png',
 		'underworlds.png',
 		'warcry.png',
 		'warhammer-quest.png'
