@@ -2318,6 +2318,37 @@
 		"legitRumour": true
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "A new tale by Boole talking about the upcoming Marshall Jorvan, the Freeguild Gargants, Cogforts, Crixxt and his deal with Bel'akor!",
+		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
+		"message": [
+			{
+				"contents": [
+					"Tahlia: Jorvan, d'you remember those battlemages? If we turn 'em into four new allies, d'you reckon our lads'll accept 'em?\n\nJorvan: Bloody hell, anythin's better than those Aelves what wrecked my homeland! Four new battlemages ain't nearly enough to drive out those sodding Aelves! We need more gargants, I swear on me sword and shield I'll wipe every last one of 'em out!\n\nTahlia: Steady on! It's the Skaven you should be after!\n\nJorvan: Right then, get me some Corgforts! That blighter Crixxit's got hold of Daemon Prince Be’lakor’s Shadow Power! Elsewise the little ****** could take down me whole army single-handed! Embergard needs more reinforcements, and sharpish!\n\nTahlia: You will get them……"
+				],
+				"quotes": [
+					""
+				],
+				"images": [],
+				"isReaction": false
+			}
+		],
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7740#comment-748244"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-10-27",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
