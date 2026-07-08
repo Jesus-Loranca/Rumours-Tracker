@@ -2,8 +2,16 @@
 	@if (rumour.source.length && rumour.source[0]) {
 		<a [href]="rumour.source[0]" target="_blank" rel="noopener noreferrer">
 			{{ rumour.text }} <i class="bi bi-box-arrow-up-right"></i>
+			@if (rumour.edition) {
+				<span class="edition-pill">{{ rumour.edition | ordinal }} Edition</span>
+			}
 		</a>
 	} @else {
-		<span>{{ rumour.text }}</span>
+		<span>
+			{{ rumour.text }}
+			@if (rumour.edition) {
+				<span class="edition-pill">{{ rumour.edition | ordinal }} Edition</span>
+			}
+		</span>
 	}
 </li>

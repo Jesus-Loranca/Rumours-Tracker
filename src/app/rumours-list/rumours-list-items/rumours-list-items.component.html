@@ -11,12 +11,7 @@
 				@for (section of gameGroup.sections; track section.section ?? section.sectionId) {
 				@if (section.section && section.section === "Battletomes") {
 				<div class="section-heading">
-					<h3 [id]="section.sectionId">{{ section.section }}
-						@if (section.categories.length > 0 && section.categories[0].rumours.length > 0 &&
-						section.categories[0].rumours[0].edition) {
-						<span class="edition-pill">{{ section.categories[0].rumours[0].edition | ordinal }} Edition</span>
-						}
-					</h3>
+					<h3 [id]="section.sectionId">{{ section.section }}</h3>
 				</div>
 				}
 
@@ -29,10 +24,6 @@
 							loading="lazy">
 						}
 						<h3>{{ category.label }}</h3>
-							@if (section.section !== "Battletomes" && category.rumours && category.rumours.length > 0 &&
-							category.rumours[0].edition) {
-								<span class="edition-pill">{{ category.rumours[0].edition | ordinal }} Edition</span>
-							}
 					</div>
 					}
 					<ul>
