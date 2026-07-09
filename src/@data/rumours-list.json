@@ -5,18 +5,16 @@
 		"category": "Blades of Khorne",
 		"text": "Ascended Khorgos Khul model would be coming later than we would like to",
 		"groupUnder": "Ascended Khorgos Khul",
-		"message": [
-			{
-				"contents": [
-					"much later than you would like"
-				],
-				"quotes": [
-					"Better answer, please, wheres my Khul updated model?\n\nDid GW decided to drop him off?\n\nYou made us, BoK fans, dirty with last prophecy about him..."
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"much later than you would like"
+			],
+			"quotes": [
+				"Better answer, please, wheres my Khul updated model?\n\nDid GW decided to drop him off?\n\nYou made us, BoK fans, dirty with last prophecy about him..."
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -35,18 +33,16 @@
 		"category": "Cities of Sigmar",
 		"text": "Cities of Sigmar will receive love in their 4th edition release",
 		"groupUnder": "Cities of Sigmar will receive love",
-		"message": [
-			{
-				"contents": [
-					"Yes"
-				],
-				"quotes": [
-					"Might as well ask\n\nIs Cos getting any love this edition?"
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Yes"
+			],
+			"quotes": [
+				"Might as well ask\n\nIs Cos getting any love this edition?"
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -65,18 +61,16 @@
 		"category": "Cities of Sigmar",
 		"text": "Should we have hope about the upcoming release?",
 		"groupUnder": "Cities of Sigmar will receive love",
-		"message": [
-			{
-				"contents": [
-					"Have hope"
-				],
-				"quotes": [
-					"Cities"
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Have hope"
+			],
+			"quotes": [
+				"Cities"
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -95,18 +89,16 @@
 		"category": "Cities of Sigmar",
 		"text": "The Dark Elf kits will be moved to legends",
 		"groupUnder": "Cities of Sigmar kits from Warhammer Fantasy will be moved to legends",
-		"message": [
-			{
-				"contents": [
-					""
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": true
-			}
-		],
+		"message": {
+			"contents": [
+				""
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": true
+		},
 		"isLike": true,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -125,18 +117,16 @@
 		"category": "Cities of Sigmar",
 		"text": "A Cogfort model could be released, but it could be joke",
 		"groupUnder": "A cogfort model is coming!",
-		"message": [
-			{
-				"contents": [
-					"Why don't they mention the Cogfort?"
-				],
-				"quotes": [
-					"Sprinkling more or less confirmed rumours from more reputable sources doesn't make a load of wishlisting more real though."
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Why don't they mention the Cogfort?"
+			],
+			"quotes": [
+				"Sprinkling more or less confirmed rumours from more reputable sources doesn't make a load of wishlisting more real though."
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -155,18 +145,16 @@
 		"category": "Cities of Sigmar",
 		"text": "Cities of Sigmar could lose Tempest Eye",
 		"groupUnder": "Cities of Sigmar destroyed Cities",
-		"message": [
-			{
-				"contents": [
-					"It’s not a joke you think it is…"
-				],
-				"quotes": [
-					"Soon for COS short story\n\nAmelia looked through the shop window.\n\n“Oh, Tempest-Eyes glass...”\n\nMikael turned and looked at her.\n\n“Yeah, it’s gotten pretty rare since the Skaven blew up Titanspear mountain.”\n\n“This is the first time I’ve ever seen it,” she whispered.\n\nHe gave a slight nod, then waved the thought away.\n\n“Anyway. Doesn’t matter. Let’s get back to the point.\n\n🙂"
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"It’s not a joke you think it is…"
+			],
+			"quotes": [
+				"Soon for COS short story\n\nAmelia looked through the shop window.\n\n“Oh, Tempest-Eyes glass...”\n\nMikael turned and looked at her.\n\n“Yeah, it’s gotten pretty rare since the Skaven blew up Titanspear mountain.”\n\n“This is the first time I’ve ever seen it,” she whispered.\n\nHe gave a slight nod, then waved the thought away.\n\n“Anyway. Doesn’t matter. Let’s get back to the point.\n\n🙂"
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -185,18 +173,16 @@
 		"category": "Cities of Sigmar",
 		"text": "Cities of Sigmar could lose more than one city",
 		"groupUnder": "Cities of Sigmar destroyed Cities",
-		"message": [
-			{
-				"contents": [
-					"The good news is it doesn’t have to be Tempest Eye.\n\nThe bad news is it doesn’t have to be Tempest Eye only."
-				],
-				"quotes": [
-					"To be fair, the fluff about Tempest'Eye nearing destruction was already in the 4th ed. Core Book, which states that the city is already besieged and half destroyed (p. 38)... And we still have plenty of major Metropolis (not counting fortresses and smaller frontier cities) in Ghyran and Aqshy."
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"The good news is it doesn’t have to be Tempest Eye.\n\nThe bad news is it doesn’t have to be Tempest Eye only."
+			],
+			"quotes": [
+				"To be fair, the fluff about Tempest'Eye nearing destruction was already in the 4th ed. Core Book, which states that the city is already besieged and half destroyed (p. 38)... And we still have plenty of major Metropolis (not counting fortresses and smaller frontier cities) in Ghyran and Aqshy."
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -215,18 +201,16 @@
 		"category": "Daughters of Khaine",
 		"text": "Daughters of Khaine will get some love in their 4th edition release ",
 		"groupUnder": "Daughters of Khaine will get love in 4th edition",
-		"message": [
-			{
-					"contents": [
-						""
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": true
-			}
-		],
+		"message": {
+			"contents": [
+				""
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": true
+		},
 		"isLike": true,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -245,18 +229,16 @@
 		"category": "Fyreslayers",
 		"text": "Fyreslayers won't receive a battletome during the 4th edition",
 		"groupUnder": "Fyreslayers won't receive a battletome during the 4th edition",
-		"message": [
-			{
-				"quotes": [
-					""
-				],
-				"contents": [
-					"Fyreslayers will not get a battletome."
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"quotes": [
+				""
+			],
+			"contents": [
+				"Fyreslayers will not get a battletome."
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -275,18 +257,16 @@
 		"category": "Fyreslayers",
 		"text": "Fyreslayers will come back in a different way",
 		"groupUnder": "Khazalid Holds",
-		"message": [
-			{
-				"contents": [
-					"KO heroe + unique warband. + Terrain, Hellforgers of Hashut and dont worry about Fyreslayers, they are coming in a different way. That was the conversation with beers and dawi games."
-				],
-				"quotes": [
-					"Just to clarify, same source you heard Helsmiths of Hashut from told you to not worry about FS?\n\nIf so, amazing news!"
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"KO heroe + unique warband. + Terrain, Hellforgers of Hashut and dont worry about Fyreslayers, they are coming in a different way. That was the conversation with beers and dawi games."
+			],
+			"quotes": [
+				"Just to clarify, same source you heard Helsmiths of Hashut from told you to not worry about FS?\n\nIf so, amazing news!"
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -305,18 +285,16 @@
 		"category": "Maggotkin of Nurgle",
 		"text": "Maggotkin of Nurgle 4th edition release is not going to be just decent sized, it is going to be magnificent",
 		"groupUnder": "A Magnificent Release for Maggotkin of Nurgle",
-		"message": [
-			{
-				"contents": [
-					"Decent？Magnificent！"
-				],
-				"quotes": [
-					"a decent sized"
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Decent？Magnificent！"
+			],
+			"quotes": [
+				"a decent sized"
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -335,18 +313,16 @@
 		"category": "Maggotkin of Nurgle",
 		"text": "New Pestigors are coming",
 		"groupUnder": "New Pestigors are coming",
-		"message": [
-			{
-				"contents": [
-					"Ho ho ho, Nurgle loves everyone. "
-				],
-				"quotes": [
-					"Formerly I'd have suggested that they do a reimagined Pestigor kit to fill in the 'weak, mortal chaff' hole for Maggotkin, give them an Ungor equivalent statline, but with the removal of BoC I don't think that's very likely."
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Ho ho ho, Nurgle loves everyone. "
+			],
+			"quotes": [
+				"Formerly I'd have suggested that they do a reimagined Pestigor kit to fill in the 'weak, mortal chaff' hole for Maggotkin, give them an Ungor equivalent statline, but with the removal of BoC I don't think that's very likely."
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -365,20 +341,18 @@
 		"category": "Maggotkin of Nurgle",
 		"text": "Maybe a refresh of existing units is coming as well",
 		"groupUnder": "Maybe a refresh of existing units is coming as well",
-		"message": [
-			{
-				"contents": [
-					"The only place where the Nurgle range is bloated is the named Mortal Characters. For the rest, especially common units, Nurgle is relatively behind the other Chaos Gods.\n\nFor example, Khorne Infantry has \"named\" Warcry Unit, Bloodreavers, Blood Warriors, Skulltakers, Wrathmongers and Bloodletters. Tzeentch has \"named\" Warcry Unit, Kairic Acolytes, Tzaangors Warriors (ev. Enlightened on foot), Blue, Brimstone and Pink Horrors.\n\nNurgle Infantry only has Plaguebearer and \"named\" Warcry Unit, and Putrid Blightkings.",
-					"Pestigors Infantry really fits a niche in the Nurgle range, but I'm wondering if a \"Magnificent sized\" relase could imply some redesign instead of new units, for example modernized Plaguebearer ? Or we could have something like Nurgle Chaos Knights for the Harbingers to lead.\n\nEDIT : a Pestigor character (Shaman ?) could fit the bill. And I'm still expecting Plastic Plague Toads for the Daemons range..."
-				],
-				"quotes": [
-					"Maybe once these nurgle things come out they can finally put a hard stop on dev for them.\n\nOne faction that is bloated in more than one way",
-					"Pestilord\n\nPestigors infantry\n\nPestigors cavalry"
-				],
-				"images": [],
-				"isReaction": true
-			}
-		],
+		"message": {
+			"contents": [
+				"The only place where the Nurgle range is bloated is the named Mortal Characters. For the rest, especially common units, Nurgle is relatively behind the other Chaos Gods.\n\nFor example, Khorne Infantry has \"named\" Warcry Unit, Bloodreavers, Blood Warriors, Skulltakers, Wrathmongers and Bloodletters. Tzeentch has \"named\" Warcry Unit, Kairic Acolytes, Tzaangors Warriors (ev. Enlightened on foot), Blue, Brimstone and Pink Horrors.\n\nNurgle Infantry only has Plaguebearer and \"named\" Warcry Unit, and Putrid Blightkings.",
+				"Pestigors Infantry really fits a niche in the Nurgle range, but I'm wondering if a \"Magnificent sized\" relase could imply some redesign instead of new units, for example modernized Plaguebearer ? Or we could have something like Nurgle Chaos Knights for the Harbingers to lead.\n\nEDIT : a Pestigor character (Shaman ?) could fit the bill. And I'm still expecting Plastic Plague Toads for the Daemons range..."
+			],
+			"quotes": [
+				"Maybe once these nurgle things come out they can finally put a hard stop on dev for them.\n\nOne faction that is bloated in more than one way",
+				"Pestilord\n\nPestigors infantry\n\nPestigors cavalry"
+			],
+			"images": [],
+			"isReaction": true
+		},
 		"isLike": true,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -397,18 +371,16 @@
 		"category": "Maggotkin of Nurgle",
 		"text": "Nurgle could be the next release after HoH",
 		"groupUnder": "Nurgle could be the next release after HoH",
-		"message": [
-			{
-				"contents": [
-					""
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				""
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -427,18 +399,16 @@
 		"category": "Ogor Mawtribes",
 		"text": "Ogors won't leave AoS to join ToW during the 4th edition",
 		"groupUnder": "Ogors won't leave AoS to join ToW",
-		"message": [
-			{
-				"contents": [
-					"Can't see that happening in the coming 3 years\n\nbut there is always uncertainty for weird things. "
-				],
-				"quotes": [
-					"This is easy to solve.\n\n@Whitefang, is @KingBrodd safe in the Mortal Realms or should we hire a new mod and let him go moderate an Old World forum?"
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Can't see that happening in the coming 3 years\n\nbut there is always uncertainty for weird things. "
+			],
+			"quotes": [
+				"This is easy to solve.\n\n@Whitefang, is @KingBrodd safe in the Mortal Realms or should we hire a new mod and let him go moderate an Old World forum?"
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -457,38 +427,20 @@
 		"category": "Weird things happening",
 		"text": "Whitefang mentioned weird things happening during the 4th edition three times",
 		"groupUnder": "Weird things happening during the 4th edition",
-		"message": [
-				{
-				"contents": [
-					"never say never, cuz things sometimes get positively weird"
-				],
-				"quotes": [
-					"It like Greenskinz, swifthawk agents, and wanderers when they got gutted, They exists only in the fluff now and slowly never mention again"
-				],
-				"images": [],
-				"isReaction": false
-			},
-			{
-				"contents": [
-					"Can't see that happening in the coming 3 years\n\nbut there is always uncertainty for weird things. "
-				],
-				"quotes": [
-					"This is easy to solve.\n\n@Whitefang, is @KingBrodd safe in the Mortal Realms or should we hire a new mod and let him go moderate an Old World forum?"
-				],
-				"images": [],
-				"isReaction": false
-			},
-			{
-				"contents": [
-					"Oh there is going to be plenty.\n\nSomething completely a challenge to logic."
-				],
-				"quotes": [
-					"Also the second time u say \"weird things\"."
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"never say never, cuz things sometimes get positively weird",
+				"Can't see that happening in the coming 3 years\n\nbut there is always uncertainty for weird things.",
+				"Oh there is going to be plenty.\n\nSomething completely a challenge to logic."
+			],
+			"quotes": [
+				"It like Greenskinz, swifthawk agents, and wanderers when they got gutted, They exists only in the fluff now and slowly never mention again",
+				"This is easy to solve.\n\n@Whitefang, is @KingBrodd safe in the Mortal Realms or should we hire a new mod and let him go moderate an Old World forum?",
+				"Also the second time u say \"weird things\"."
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -509,18 +461,16 @@
 		"category": "",
 		"text": "It is very likely Warcry will remain silent and disappear. Something will replace it (Whitefang guessing)",
 		"groupUnder": "Warcry will disappear",
-		"message": [
-			{
-				"contents": [
-					"However regarding Warcry, my guess*** is it will either keep silent or just go at the moment. Something will replace its role."
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"However regarding Warcry, my guess*** is it will either keep silent or just go at the moment. Something will replace its role."
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -539,18 +489,16 @@
 		"category": "Ogor Mawtribes",
 		"text": "Globb Glittermaw could be a descendant of Greasus or linked to it. The refresh is coming?",
 		"groupUnder": "Globb Glittermaw",
-		"message": [
-			{
-				"contents": [
-					"Regrading that, maybe not as different as you think."
-				],
-				"quotes": [
-					"Greasus is dead\n\nGlobb is someone completely different"
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Regrading that, maybe not as different as you think."
+			],
+			"quotes": [
+				"Greasus is dead\n\nGlobb is someone completely different"
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -569,18 +517,16 @@
 		"category": "Cities of Sigmar",
 		"text": "Boole gave a small list of upcoming minis for CoS",
 		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
-		"message": [
-			{
-				"contents": [
-					"I have no interest whatsoever in plump women wearing silly iron hats\n\nPerhaps Unique Marshal? (harbour a blood feud with DoK?\n\nPerhaps Warpriest?\n\nerhaps Arch-Knight battleline?\n\nOh!\n\nOne am now\nLet’s see something in shadow?\n\nCrixxit"
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"I have no interest whatsoever in plump women wearing silly iron hats\n\nPerhaps Unique Marshal? (harbour a blood feud with DoK?\n\nPerhaps Warpriest?\n\nerhaps Arch-Knight battleline?\n\nOh!\n\nOne am now\nLet’s see something in shadow?\n\nCrixxit"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -599,18 +545,16 @@
 		"category": "Cities of Sigmar",
 		"text": "A follow-up by Boole giving more details about the Unique Marshal",
 		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
-		"message": [
-			{
-				"contents": [
-					"No\n\nUnique Marshal is a chad guy who looks like he'd kill every DoK, yeah, EVERYONE, especially Morathi "
-				],
-				"quotes": [
-					"Also I'm considering this to be a hint towards the Arch-Knights or the named Marshal 😛"
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"No\n\nUnique Marshal is a chad guy who looks like he'd kill every DoK, yeah, EVERYONE, especially Morathi "
+			],
+			"quotes": [
+				"Also I'm considering this to be a hint towards the Arch-Knights or the named Marshal 😛"
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -629,21 +573,19 @@
 		"category": "Cities of Sigmar",
 		"text": "A new post by Boole, maybe pointing to Halflings in the Cities of Sigmar?",
 		"groupUnder": "Halfings in the Cities of Sigmar",
-		"message": [
-			{
-				"contents": [
-					"It's Wednesday now\n\nThe diminutive fellows without the thick cannon barrel and bushy beard has officially joined AOS\n\nBrilliant! \n\nSomehow, I've noticed you guys believe 5Edition belongs to the Death Alliance\n\nWell then, allow me to rule out one possibility for you all\n\nRemember, rumours are rumours, have a great day!\n\nOssiarch\n\nFor example\n\nThey are truly perfect models\n\n[[image-2025-09-03_1.jpg]]\n\n[[image-2025-09-03_2.jpg]]"
-				],
-				"quotes": [
-					""
-				],
-				"images": [
-					"image-2025-09-03_1.jpg",
-					"image-2025-09-03_2.jpg"
-				],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"It's Wednesday now\n\nThe diminutive fellows without the thick cannon barrel and bushy beard has officially joined AOS\n\nBrilliant! \n\nSomehow, I've noticed you guys believe 5Edition belongs to the Death Alliance\n\nWell then, allow me to rule out one possibility for you all\n\nRemember, rumours are rumours, have a great day!\n\nOssiarch\n\nFor example\n\nThey are truly perfect models\n\n[[image-2025-09-03_1.jpg]]\n\n[[image-2025-09-03_2.jpg]]"
+			],
+			"quotes": [
+				""
+			],
+			"images": [
+				"image-2025-09-03_1.jpg",
+				"image-2025-09-03_2.jpg"
+			],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -662,18 +604,16 @@
 		"category": "Fyreslayers",
 		"text": "A new Order faction will appear by the end of the edition",
 		"groupUnder": "Khazalid Holds",
-		"message": [
-			{
-				"contents": [
-					"Why Cities is bigger instead a medium size? The end of edition will have a new Order new faction."
-				],
-				"quotes": [
-					"So do we think that Cities, DoK, Nurgle and Ogors will be the remaining big releases of the edition, and everyone else gets 1or 2 unit kits?"
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Why Cities is bigger instead a medium size? The end of edition will have a new Order new faction."
+			],
+			"quotes": [
+				"So do we think that Cities, DoK, Nurgle and Ogors will be the remaining big releases of the edition, and everyone else gets 1or 2 unit kits?"
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -692,18 +632,16 @@
 		"category": "Fyreslayers",
 		"text": "A New Faction, but the game will have the same number of battletomes. The sum of rumours point to the speculated mix of Duardins faction?",
 		"groupUnder": "Khazalid Holds",
-		"message": [
-			{
-				"contents": [
-					"New faction, same number of battletomes. 👌"
-				],
-				"quotes": [
-					"Why Cities is bigger instead a medium size? The end of edition will have a new Order new faction."
-				],
-				"images": [],
-				"isReaction": true
-			}
-		],
+		"message": {
+			"contents": [
+				"New faction, same number of battletomes. 👌"
+			],
+			"quotes": [
+				"Why Cities is bigger instead a medium size? The end of edition will have a new Order new faction."
+			],
+			"images": [],
+			"isReaction": true
+		},
 		"isLike": false,
 		"isThanks": true,
 		"isLoveIt": false,
@@ -722,18 +660,16 @@
 		"category": "Maggotkin of Nurgle",
 		"text": "Boole posted a list of new units for the upcoming Maggotkin of Nurgle release",
 		"groupUnder": "Maggotkin of Nurgle new units",
-		"message": [
-			{
-				"contents": [
-					"I realise I've made a mistake and may even be fined $10,000 😓\n\nwell,well,well… \n\nBut since the damage is done, let me just publish one last rumour 😅\n\nCities of Sigmar VS Maggotkin of Nurgle\n\nFestus(Monster, so fxxking huge)\n\nUnique Nurgle Daemon Prince\n\nPestigor Shaman\n\nRealmgore Ritualist but Nurgle\n\nPestigors\n\nBloodreavers but Nurgle\n\nBlood Warriors but Nurgle\n\nSkullcrushers but Nurgle\n\nRockguts Troggoths but Nurgle\n\nRefesh Putrid Blightkings\n\nAll these things have Heavy Plate Armour, far thicker than Chaos Chosen\n\nAnd more sexy heavy armour guys \n\n(Yes, the Newest AOS Nurgle style is fxxking Heavy Armour Warriors)\n\nIf you guys are familiar with Blades of Khorne or Slaves to Darkness, you will immediately understand what I mean"
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"I realise I've made a mistake and may even be fined $10,000 😓\n\nwell,well,well… \n\nBut since the damage is done, let me just publish one last rumour 😅\n\nCities of Sigmar VS Maggotkin of Nurgle\n\nFestus(Monster, so fxxking huge)\n\nUnique Nurgle Daemon Prince\n\nPestigor Shaman\n\nRealmgore Ritualist but Nurgle\n\nPestigors\n\nBloodreavers but Nurgle\n\nBlood Warriors but Nurgle\n\nSkullcrushers but Nurgle\n\nRockguts Troggoths but Nurgle\n\nRefesh Putrid Blightkings\n\nAll these things have Heavy Plate Armour, far thicker than Chaos Chosen\n\nAnd more sexy heavy armour guys \n\n(Yes, the Newest AOS Nurgle style is fxxking Heavy Armour Warriors)\n\nIf you guys are familiar with Blades of Khorne or Slaves to Darkness, you will immediately understand what I mean"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -752,18 +688,16 @@
 		"category": "Ogor Mawtribes",
 		"text": "A leaked list of what's going to happen with the Ogors refresh in terms of models",
 		"groupUnder": "Ogor Mawtribes refresh",
-		"message": [
-			{
-				"contents": [
-					"Ogors, my lord!\n\nHuge Refresh! \n\n3 Unique heroes:\n\nUnique Tyrant (Monster, Daughter of Globb Glittermaw)\n\nUnique Butcher (War Machine)\n\nUnique Maneater (Female Maneaters Warmaster)\n\nNew Hunters\n\nNew Mournfangs\n\nNew Butchers\n\nNew Tyrant\n\nNew Ogor Gluttons\n\nNew Iornguts \n\nAND MORE FATTY THINGS \n\nRIP Icebrow Hunter\n\nRIP Frost Sabres\n\nRIP Firebelly\n\nRIP Icefall Yhetees\n\nRIP Leadbelchers\n\nRIP Great Mawpot\n\nRIP Tyrant(2019)"
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Ogors, my lord!\n\nHuge Refresh! \n\n3 Unique heroes:\n\nUnique Tyrant (Monster, Daughter of Globb Glittermaw)\n\nUnique Butcher (War Machine)\n\nUnique Maneater (Female Maneaters Warmaster)\n\nNew Hunters\n\nNew Mournfangs\n\nNew Butchers\n\nNew Tyrant\n\nNew Ogor Gluttons\n\nNew Iornguts \n\nAND MORE FATTY THINGS \n\nRIP Icebrow Hunter\n\nRIP Frost Sabres\n\nRIP Firebelly\n\nRIP Icefall Yhetees\n\nRIP Leadbelchers\n\nRIP Great Mawpot\n\nRIP Tyrant(2019)"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -782,18 +716,16 @@
 		"category": "Ogor Mawtribes",
 		"text": "It seems that Ogors won't have gunpowder or would have a more prehistoric look",
 		"groupUnder": "Ogor Mawtribes refresh",
-		"message": [
-			{
-				"contents": [
-					"Time to reject modernity."
-				],
-				"quotes": [
-					"Ogors are intelligent enough to have advanced along with other species. "
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Time to reject modernity."
+			],
+			"quotes": [
+				"Ogors are intelligent enough to have advanced along with other species. "
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -812,20 +744,18 @@
 		"category": "Ogor Mawtribes",
 		"text": "New Ogor Mawtribes minis won't look like the Cities of Sigmar Ogor Warhulk",
 		"groupUnder": "Ogor Mawtribes refresh",
-		"message": [
-			{
-				"contents": [
-					"No.\n\n”City ogors ain’t true ogors.”\n\n——Great Maw probably"
-				],
-				"quotes": [
-					"surely new ogors will just look like the fusil-major? Seems like this model is the herald of what's to come.\n\n[[image-2025-09-06_1.png]]"
-				],
-				"images": [
-					"image-2025-09-06_1.png"
-				],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"No.\n\n”City ogors ain’t true ogors.”\n\n——Great Maw probably"
+			],
+			"quotes": [
+				"surely new ogors will just look like the fusil-major? Seems like this model is the herald of what's to come.\n\n[[image-2025-09-06_1.png]]"
+			],
+			"images": [
+				"image-2025-09-06_1.png"
+			],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -844,18 +774,16 @@
 		"category": "Ogor Mawtribes",
 		"text": "A new rumour in the shape of a tale that gives us a bit more idea about the Ogors refresh ",
 		"groupUnder": "Ogor Mawtribes refresh",
-		"message": [
-			{
-				"contents": [
-					"Good evening, the storyteller is back\n\nLong long ago, there was a devout believer who prayed to Gorkamorka to save his people in the doom, but it was all in vain. After all, the two-headed God did not care\n\nNO! That is NOT Great Maw!\n\nIn despair, believers woke up and realised that the Gulping God was just a lie of Gorkamorka. The Ogors were deceived. Our true faith should not be like this\n\nUpon discovering this truth, the believer became a seeker, embarking upon a journey to find the Great Maw\n\nAt the journey's end, the seeker, having endured countless trials and tribulations, finally beheld the truth—the hidden Great Maw\n\nWhen the seeker returned to his people, he brought back the true faith and promulgated the authentic doctrine\n\nManeaters are sacrilegious\n\nWe should not be employed by food, these cunning employers are our feast!\n\nBlackpowder is sacrilegious\n\nWe should just swallow our enemies!\n\nCity Ogor is sacrilegious\n\nTheir emaciated bodies prove they are not real Ogors at all!\n\nThat's all\n\nThe entire story is entirely my own creation, I hope you all enjoy reading it\n\nHave a great day!"
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Good evening, the storyteller is back\n\nLong long ago, there was a devout believer who prayed to Gorkamorka to save his people in the doom, but it was all in vain. After all, the two-headed God did not care\n\nNO! That is NOT Great Maw!\n\nIn despair, believers woke up and realised that the Gulping God was just a lie of Gorkamorka. The Ogors were deceived. Our true faith should not be like this\n\nUpon discovering this truth, the believer became a seeker, embarking upon a journey to find the Great Maw\n\nAt the journey's end, the seeker, having endured countless trials and tribulations, finally beheld the truth—the hidden Great Maw\n\nWhen the seeker returned to his people, he brought back the true faith and promulgated the authentic doctrine\n\nManeaters are sacrilegious\n\nWe should not be employed by food, these cunning employers are our feast!\n\nBlackpowder is sacrilegious\n\nWe should just swallow our enemies!\n\nCity Ogor is sacrilegious\n\nTheir emaciated bodies prove they are not real Ogors at all!\n\nThat's all\n\nThe entire story is entirely my own creation, I hope you all enjoy reading it\n\nHave a great day!"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -874,18 +802,16 @@
 		"category": "Ogor Mawtribes",
 		"text": "Maneaters will be updated after the Ogors refresh",
 		"groupUnder": "Maneaters refresh",
-		"message": [
-			{
-				"contents": [
-					"Maybe Maneaters will be an expansion further down the line?"
-				],
-				"quotes": [
-					"Maybe it'll just become a sort of hero mini title, but otherwised removed from WHFB maneaters?"
-				],
-				"images": [],
-				"isReaction": true
-			}
-		],
+		"message": {
+			"contents": [
+				"Maybe Maneaters will be an expansion further down the line?"
+			],
+			"quotes": [
+				"Maybe it'll just become a sort of hero mini title, but otherwised removed from WHFB maneaters?"
+			],
+			"images": [],
+			"isReaction": true
+		},
 		"isLike": true,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -904,18 +830,16 @@
 		"category": "Ogor Mawtribes",
 		"text": "Ogors will be released by the end of 2026",
 		"groupUnder": "Ogor Mawtribes refresh",
-		"message": [
-			{
-				"contents": [
-					"Don't worry 🤫\n\nOgors will be released much later, hmm…maybe…at the earliest in the latter part of next year?"
-				],
-				"quotes": [
-					"I feel ya mate!! I went out and bought a piggy bank today and the wife asked if it was for our 1 year old. I replied no its for my plastic crack."
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Don't worry 🤫\n\nOgors will be released much later, hmm…maybe…at the earliest in the latter part of next year?"
+			],
+			"quotes": [
+				"I feel ya mate!! I went out and bought a piggy bank today and the wife asked if it was for our 1 year old. I replied no its for my plastic crack."
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -934,21 +858,19 @@
 		"category": "Ossiarch Bonereapers",
 		"text": "Another post by Boole. It included images of Settra's Chariot and Ushabti with bows titled under OBR ",
 		"groupUnder": "Ogor Mawtribes refresh",
-		"message": [
-			{
-				"contents": [
-					"It's Wednesday now\n\nThe diminutive fellows without the thick cannon barrel and bushy beard has officially joined AOS\n\nBrilliant! \n\nSomehow, I've noticed you guys believe 5Edition belongs to the Death Alliance\n\nWell then, allow me to rule out one possibility for you all\n\nRemember, rumours are rumours, have a great day!\n\nOssiarch\n\nFor example\n\nThey are truly perfect models\n\n[[image-2025-09-03_1.jpg]]\n\n[[image-2025-09-03_2.jpg]]"
-				],
-				"quotes": [
-					""
-				],
-				"images": [
-					"image-2025-09-03_1.jpg",
-					"image-2025-09-03_2.jpg"
-				],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"It's Wednesday now\n\nThe diminutive fellows without the thick cannon barrel and bushy beard has officially joined AOS\n\nBrilliant! \n\nSomehow, I've noticed you guys believe 5Edition belongs to the Death Alliance\n\nWell then, allow me to rule out one possibility for you all\n\nRemember, rumours are rumours, have a great day!\n\nOssiarch\n\nFor example\n\nThey are truly perfect models\n\n[[image-2025-09-03_1.jpg]]\n\n[[image-2025-09-03_2.jpg]]"
+			],
+			"quotes": [
+				""
+			],
+			"images": [
+				"image-2025-09-03_1.jpg",
+				"image-2025-09-03_2.jpg"
+			],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -967,18 +889,16 @@
 		"category": "Skaven",
 		"text": "The same post that was mentioned with the CoS list has a small mention to Crixxit, which is a deathmaster",
 		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
-		"message": [
-			{
-				"contents": [
-					"I have no interest whatsoever in plump women wearing silly iron hats\n\nPerhaps Unique Marshal? (harbour a blood feud with DoK?\n\nPerhaps Warpriest?\n\nerhaps Arch-Knight battleline?\n\nOh!\n\nOne am now\nLet’s see something in shadow?\n\nCrixxit"
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"I have no interest whatsoever in plump women wearing silly iron hats\n\nPerhaps Unique Marshal? (harbour a blood feud with DoK?\n\nPerhaps Warpriest?\n\nerhaps Arch-Knight battleline?\n\nOh!\n\nOne am now\nLet’s see something in shadow?\n\nCrixxit"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -997,18 +917,16 @@
 		"category": "Darkwater",
 		"text": "A post by Boole mentioning a new Warhammer Quest: Nurgle.",
 		"groupUnder": "Warhammer Quest: Nurgle",
-		"message": [
-			{
-				"contents": [
-					"I used to work for 40K, and I prefer WHFB over AOS, so I'm not particularly familiar with the content of AOS.\n\nBut at least I can understand this rumour.\n\nAOS Warhammer Quest Nurgle"
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"I used to work for 40K, and I prefer WHFB over AOS, so I'm not particularly familiar with the content of AOS.\n\nBut at least I can understand this rumour.\n\nAOS Warhammer Quest Nurgle"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1027,20 +945,18 @@
 		"category": "Fyreslayers",
 		"text": "A new cryptic message in the form of a gif. Is this referring to the FS, to duardins that look closer to the ones from LOTR or just a joke? ",
 		"groupUnder": "Khazalid Holds",
-		"message": [
-			{
-				"contents": [
-					"[[image-2025-09-18_1.gif]]"
-				],
-				"quotes": [
-					"I think Whitefang is laughing at all brain speculations about Fyreslayers while reality could be much simpler.\n\nSo should we ask @Whitefang if Fyreslayers are getting their own battletome and miniature/s release ? (without sharing Bt with other Duardin) "
-				],
-				"images": [
-					"image-2025-09-18_1.gif"
-				],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"[[image-2025-09-18_1.gif]]"
+			],
+			"quotes": [
+				"I think Whitefang is laughing at all brain speculations about Fyreslayers while reality could be much simpler.\n\nSo should we ask @Whitefang if Fyreslayers are getting their own battletome and miniature/s release ? (without sharing Bt with other Duardin) "
+			],
+			"images": [
+				"image-2025-09-18_1.gif"
+			],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1059,18 +975,16 @@
 		"category": "Fyreslayers",
 		"text": "Another hint by bool about a possible alliance between a new Dispossessed army and FS",
 		"groupUnder": "Khazalid Holds",
-		"message": [
-			{
-				"contents": [
-					"Why fret over FS's future? 😵‍💫\n\nDo you guys remember the first story I told? \n\nIf you recall my story of the Khazalid Ruins, you'll know there was a great deal of [REDACTED] that had been temporarily shelved 🤫\n\nWell, I mean… \n\nYou will understand… \n\nThis is merely a hypothesis, merely my conjecture \n\nUnder the threat of the Skaven and HoH, they shall rise under Grungni's leadership, forging a mighty alliance with the FS, and together with the formidable and numerous SUPER-ARMY of the CoS (yeah, they were once good companions who lived together) \n\nYou know who they are, right? \n\nThat's all\n\nRemember, rumours are rumours, have a great day!"
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Why fret over FS's future? 😵‍💫\n\nDo you guys remember the first story I told? \n\nIf you recall my story of the Khazalid Ruins, you'll know there was a great deal of [REDACTED] that had been temporarily shelved 🤫\n\nWell, I mean… \n\nYou will understand… \n\nThis is merely a hypothesis, merely my conjecture \n\nUnder the threat of the Skaven and HoH, they shall rise under Grungni's leadership, forging a mighty alliance with the FS, and together with the formidable and numerous SUPER-ARMY of the CoS (yeah, they were once good companions who lived together) \n\nYou know who they are, right? \n\nThat's all\n\nRemember, rumours are rumours, have a great day!"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1089,20 +1003,18 @@
 		"category": "Fyreslayers",
 		"text": "Boole has confirmed that the Fyreslayers will share a faction with the Dispossessed rather than being two factions sharing a tome",
 		"groupUnder": "Khazalid Holds",
-		"message": [
-			{
-				"contents": [
-					"[[image-2025-09-21_1.png]]"
-				],
-				"quotes": [
-					"Do you by chance have any idea about FS kits being removed and if FS will stay their own army?"
-				],
-				"images": [
-					"image-2025-09-21_1.png"
-				],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"[[image-2025-09-21_1.png]]"
+			],
+			"quotes": [
+				"Do you by chance have any idea about FS kits being removed and if FS will stay their own army?"
+			],
+			"images": [
+				"image-2025-09-21_1.png"
+			],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1121,18 +1033,16 @@
 		"category": "Fyreslayers",
 		"text": "Also, their possible faction name could be Khazalid Holds",
 		"groupUnder": "Khazalid Holds",
-		"message": [
-			{
-				"contents": [
-					"Hmm…"
-				],
-				"quotes": [
-					"Khazalid\n\nAnother made up word\n\n \n\nHolds\n\nA made up word."
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Hmm…"
+			],
+			"quotes": [
+				"Khazalid\n\nAnother made up word\n\n \n\nHolds\n\nA made up word."
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1151,18 +1061,16 @@
 		"category": "Fyreslayers",
 		"text": "Has been confirmed that the new army will have four ancestor gods. Girmnir, Grungni, Valaya and Gazul",
 		"groupUnder": "Khazalid Holds",
-		"message": [
-			{
-				"contents": [
-					"I've already said that\n\nWhy fret over FS's future?\n\nGrungni、Gazul、Valaya\n\nThey will lead FS out of the predicament "
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"I've already said that\n\nWhy fret over FS's future?\n\nGrungni、Gazul、Valaya\n\nThey will lead FS out of the predicament "
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1181,18 +1089,16 @@
 		"category": "Fyreslayers",
 		"text": "Apparently, the new Khazalid Holds army would be released quite soon",
 		"groupUnder": "Khazalid Holds",
-		"message": [
-			{
-				"contents": [
-					"And AOS is going to keep getting better, too\n\nWe originally borrowed the Dwarfen Mountain Holds content from AOS, tweaked it, and released a few models\n\nNow those are going back to AOS, and you’ll be seeing them again before long "
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"And AOS is going to keep getting better, too\n\nWe originally borrowed the Dwarfen Mountain Holds content from AOS, tweaked it, and released a few models\n\nNow those are going back to AOS, and you’ll be seeing them again before long "
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1211,18 +1117,16 @@
 		"category": "Sons of Behemat",
 		"text": "A new tale by Boole, this time about Gargant Matriarchs",
 		"groupUnder": "Gargant Matriarch",
-		"message": [
-			{
-				"contents": [
-					"Have you ever heard of gargants?\n\nThose towering, powerful giants who live in tribes\n\nMaybe you have witnessed their giant footprints, or even seen their appearance with your own eyes, but have you ever wondered where the female gargants are?\n\nIf you've read Battletome released in 2020, and Battletome released in 2022, you might have some ideas\n\nAfter all, the tribes formed by these gargants are led by older and more powerful female gargants\n\nThe Gargant Matriarch\n\nYou might ask, why am I raising this question about these female gargants?\n\nWell,well,well…\n\nDo you still remember this name?\n\nRENEGADE"
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Have you ever heard of gargants?\n\nThose towering, powerful giants who live in tribes\n\nMaybe you have witnessed their giant footprints, or even seen their appearance with your own eyes, but have you ever wondered where the female gargants are?\n\nIf you've read Battletome released in 2020, and Battletome released in 2022, you might have some ideas\n\nAfter all, the tribes formed by these gargants are led by older and more powerful female gargants\n\nThe Gargant Matriarch\n\nYou might ask, why am I raising this question about these female gargants?\n\nWell,well,well…\n\nDo you still remember this name?\n\nRENEGADE"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1241,18 +1145,16 @@
 		"category": "",
 		"text": "A sad face reaction that was followed up by another post liked pointing to a bright future for ToW. So the future is not that bright for Warcry",
 		"groupUnder": "Warcry will disappear",
-		"message": [
-			{
-				"contents": [
-					""
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": true
-			}
-		],
+		"message": {
+			"contents": [
+				""
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": true
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1271,18 +1173,16 @@
 		"category": "Cities of Sigmar",
 		"text": "A new storytelling about Cogforts for 2027. Also, Freeguild Gargants?",
 		"groupUnder": "A cogfort model is coming!",
-		"message": [
-			{
-				"contents": [
-					"Gooood Morning, storyteller's back\n\nY’all ever heard the stories of Ironweld Arsenal?\n\nWord is, after the Realmgate Wars, they straight-up engineered miracles of tech—whole small walking cities rose from nothing, rolling onto the battlefield to crush every last one of Sigmar’s enemies\n\nYou know the names of those moving fortresses, right?\n\nWell, I’ve seen ’em with my own eyes while crossing through a Realmgate 🧐\n\nAnd let me tell you, those things were bigger than Freeguild Gargants—freaking huge!\n\nAnd get this: there were, like, twelve different variants? 🤨\n\nOh, and guess what? Rumour has it Chaos got their hands on one of those colossal machines too\n\nEven Death and Destruction scored their own\n\nMaybe we’ll see ’em in 2027?\n\nThat's all\n\nThe entire story is entirely my own creation, the plot bears no relation to any real events. I hope you all enjoy reading it\n\nRemember, rumours are rumours, have a great day! "
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Gooood Morning, storyteller's back\n\nY’all ever heard the stories of Ironweld Arsenal?\n\nWord is, after the Realmgate Wars, they straight-up engineered miracles of tech—whole small walking cities rose from nothing, rolling onto the battlefield to crush every last one of Sigmar’s enemies\n\nYou know the names of those moving fortresses, right?\n\nWell, I’ve seen ’em with my own eyes while crossing through a Realmgate 🧐\n\nAnd let me tell you, those things were bigger than Freeguild Gargants—freaking huge!\n\nAnd get this: there were, like, twelve different variants? 🤨\n\nOh, and guess what? Rumour has it Chaos got their hands on one of those colossal machines too\n\nEven Death and Destruction scored their own\n\nMaybe we’ll see ’em in 2027?\n\nThat's all\n\nThe entire story is entirely my own creation, the plot bears no relation to any real events. I hope you all enjoy reading it\n\nRemember, rumours are rumours, have a great day! "
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1301,18 +1201,16 @@
 		"category": "Cities of Sigmar",
 		"text": "The twelve different variants bit seems to be wrong",
 		"groupUnder": "A cogfort model is coming!",
-		"message": [
-			{
-				"contents": [
-					""
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": true
-			}
-		],
+		"message": {
+			"contents": [
+				""
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": true
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1332,18 +1230,16 @@
 		"category": "Cities of Sigmar",
 		"text": "It could be a new army instead of part of Cities of Sigmar",
 		"groupUnder": "A cogfort model is coming!",
-		"message": [
-			{
-				"contents": [
-					"What the hell... CoS imperial knights?"
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": true
-			}
-		],
+		"message": {
+			"contents": [
+				"What the hell... CoS imperial knights?"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": true
+		},
 		"isLike": true,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1363,18 +1259,16 @@
 		"category": "Cities of Sigmar",
 		"text": "After Whitefang reacted with a sad face to the twelve variants, Boole edited it. Could it be talking about the number of legs?",
 		"groupUnder": "A cogfort model is coming!",
-		"message": [
-			{
-				"contents": [
-					"Four or eight or twelve? 🤨"
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Four or eight or twelve? 🤨"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1394,18 +1288,16 @@
 		"category": "Cities of Sigmar",
 		"text": "It looks like the Cogfort would be usable for other GAs via a RoR",
 		"groupUnder": "A cogfort model is coming!",
-		"message": [
-			{
-				"contents": [
-					"At least it look like it would be just a RoR. It is not that bad, and it makes sense lorewise as we saw how the enemy can take over a Cogfort."
-				],
-				"quotes": [
-					"I fully understand this. I was quite annoyed at first that Sons of Behemat could basically be taken by everyone.\n\nI still dont think that a Cogfort for each Alliance is a good idea.\n\nFor Destruction it leans to close to 40K Orks for my liking."
-				],
-				"images": [],
-				"isReaction": true
-			}
-		],
+		"message": {
+			"contents": [
+				"At least it look like it would be just a RoR. It is not that bad, and it makes sense lorewise as we saw how the enemy can take over a Cogfort."
+			],
+			"quotes": [
+				"I fully understand this. I was quite annoyed at first that Sons of Behemat could basically be taken by everyone.\n\nI still dont think that a Cogfort for each Alliance is a good idea.\n\nFor Destruction it leans to close to 40K Orks for my liking."
+			],
+			"images": [],
+			"isReaction": true
+		},
 		"isLike": true,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1425,20 +1317,18 @@
 		"category": "Fyreslayers",
 		"text": "Khazalid Holds will have a look similar to the WHFB duardins",
 		"groupUnder": "Khazalid Holds",
-		"message": [
-			{
-				"contents": [
-					"[[image-2025-10-02_1.jpg]]"
-				],
-				"quotes": [
-					""
-				],
-				"images": [
-					"image-2025-10-02_1.jpg"
-				],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"[[image-2025-10-02_1.jpg]]"
+			],
+			"quotes": [
+				""
+			],
+			"images": [
+				"image-2025-10-02_1.jpg"
+			],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1458,21 +1348,19 @@
 		"category": "Ogor Mawtribes",
 		"text": "Frost Sabres will not disappear, but will be included with the Hunters models ",
 		"groupUnder": "Ogor Mawtribes refresh",
-		"message": [
-			{
-				"contents": [
-					"In Boole’s Rumors it mentions “new hunters.” What if these come with their additional sabertooths, just like the new Space Wolves.[[image-2025-09-30_1.jpg]][[image-2025-09-30_2.jpg]]"
-				],
-				"quotes": [
-					"Yes.\n\nCorrect.\n\nA lot of the weird little creatures Ogres have are going away, for some reason.\n\nWhich is honestly kinda disappointing, I liked that aspect of the Ogres."
-				],
-				"images": [
-					"image-2025-09-30_1.jpg",
-					"image-2025-09-30_2.jpg"
-				],
-				"isReaction": true
-			}
-		],
+		"message": {
+			"contents": [
+				"In Boole’s Rumors it mentions “new hunters.” What if these come with their additional sabertooths, just like the new Space Wolves.[[image-2025-09-30_1.jpg]][[image-2025-09-30_2.jpg]]"
+			],
+			"quotes": [
+				"Yes.\n\nCorrect.\n\nA lot of the weird little creatures Ogres have are going away, for some reason.\n\nWhich is honestly kinda disappointing, I liked that aspect of the Ogres."
+			],
+			"images": [
+				"image-2025-09-30_1.jpg",
+				"image-2025-09-30_2.jpg"
+			],
+			"isReaction": true
+		},
 		"isLike": true,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1492,20 +1380,18 @@
 		"category": "Season of War Series",
 		"text": "Whitefang back me up confirms in two different posts that the Spider Incarnate and the finished Dawnbringer buildings were supposed to come with the cancelled box accompanying the Season of War: Gallet book",
 		"groupUnder": "Season of War Series",
-		"message": [
-			{
-				"contents": [
-					"These were the fully built buildings you can see in the CoS battletome.\n\nBelieve what you want though!",
-					"Was supposed to come out with Intact Dawnbringers buildings, now scrapped due to margin costs.\n\nHopefully it’ll come out one day as the Incarnate looks amazing."
-				],
-				"quotes": [
-					"The last time was with the Dawnbringers buildings and the Incarnate. I think that's the reason he created this story out of nowhere.",
-					"I hope we get insight on this at some point. Because it really feels like that is what happened, but it would be nice to actually have some evidence for it.\n\n@Whitefang, since you said that the spider incarnate is connected to Gallet at the time, do you have anything you want to share about this?"
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"These were the fully built buildings you can see in the CoS battletome.\n\nBelieve what you want though!",
+				"Was supposed to come out with Intact Dawnbringers buildings, now scrapped due to margin costs.\n\nHopefully it’ll come out one day as the Incarnate looks amazing."
+			],
+			"quotes": [
+				"The last time was with the Dawnbringers buildings and the Incarnate. I think that's the reason he created this story out of nowhere.",
+				"I hope we get insight on this at some point. Because it really feels like that is what happened, but it would be nice to actually have some evidence for it.\n\n@Whitefang, since you said that the spider incarnate is connected to Gallet at the time, do you have anything you want to share about this?"
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1526,18 +1412,16 @@
 		"category": "Season of War Series",
 		"text": "Season of War: Gallet had a tale involving Duardins and Skavens",
 		"groupUnder": "Season of War Series",
-		"message": [
-			{
-				"contents": [
-					"And maybe dwarf and Skaven. If you knew you knew."
-				],
-				"quotes": [
-					"The thing is that there was a campaign focused on BoC and BS... but we all know how that ends :("
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"And maybe dwarf and Skaven. If you knew you knew."
+			],
+			"quotes": [
+				"The thing is that there was a campaign focused on BoC and BS... but we all know how that ends :("
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1557,18 +1441,16 @@
 		"category": "Season of War Series",
 		"text": "Boole gave us a series of posts detailing what happened in the unreleased book of Season of War: Gallet and Season of War: Andtor",
 		"groupUnder": "Season of War Series",
-		"message": [
-			{
-				"contents": [
-					"Good evening. From this day forward, I shall be nothing but a storyteller\n\nI will tell you a little story that I made up and there is absolutely no truth in it\n\nLong long ago, perhaps in 2021?\n\nThere was once a series of stories, originally intended to be published in multiple volumes\n\nIn the first volume, the main character - shaman successfully mastered the method of summoning Incarnates and forged an alliance with the Orruks. Though the Incarnate he summoned was slain by a powerful woman, he remained undaunted and proceeded to summon further Incarnates of different kinds\n\nIn the second and subsequent volumes, the Shaman led his pallid Gor-kin companions in summoning Spider Incarnate\n\nMeanwhile, the Dispossessed, leading the Dawnbringers, discovered the Khazalid ruins buried deep beneath the Ghur. This discovery held the potential to revive the lost civilisation of the Dispossessed\n\nThey also discovered countless ley lines stretching vertically and plunging deep into the Ghur. While battling the Spider Incarnate summoned by the Shaman and the new Gor-kin threat, they pressed onward with their excavation\n\nFinally, the truth that astonished everyone was revealed: these vertically extending ley lines had long been targeted by rats. For centuries, these repulsive creatures had been executing some sinister scheme, and it was here they encountered a dreadful rat daemon - the daemon who orchestrated the entire stories\n\nHowever, this story series was cancelled because the vast majority of its main characters were required to appear in another product line launched subsequently. Consequently, the models that had already been produced were unfortunately shelved"
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Good evening. From this day forward, I shall be nothing but a storyteller\n\nI will tell you a little story that I made up and there is absolutely no truth in it\n\nLong long ago, perhaps in 2021?\n\nThere was once a series of stories, originally intended to be published in multiple volumes\n\nIn the first volume, the main character - shaman successfully mastered the method of summoning Incarnates and forged an alliance with the Orruks. Though the Incarnate he summoned was slain by a powerful woman, he remained undaunted and proceeded to summon further Incarnates of different kinds\n\nIn the second and subsequent volumes, the Shaman led his pallid Gor-kin companions in summoning Spider Incarnate\n\nMeanwhile, the Dispossessed, leading the Dawnbringers, discovered the Khazalid ruins buried deep beneath the Ghur. This discovery held the potential to revive the lost civilisation of the Dispossessed\n\nThey also discovered countless ley lines stretching vertically and plunging deep into the Ghur. While battling the Spider Incarnate summoned by the Shaman and the new Gor-kin threat, they pressed onward with their excavation\n\nFinally, the truth that astonished everyone was revealed: these vertically extending ley lines had long been targeted by rats. For centuries, these repulsive creatures had been executing some sinister scheme, and it was here they encountered a dreadful rat daemon - the daemon who orchestrated the entire stories\n\nHowever, this story series was cancelled because the vast majority of its main characters were required to appear in another product line launched subsequently. Consequently, the models that had already been produced were unfortunately shelved"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1588,24 +1470,22 @@
 		"category": "Cities of Sigmar",
 		"text": "The multicultural aspect of the CoS will be slightly different to Humans - Duardins - Aelves. Maybe something closer to Humans - Ogors - Gargants - Halflings",
 		"groupUnder": "Cities of Sigmar multiculturality",
-		"message": [
-			{
-				"contents": [
-					"Eh, no? Like, never.",
-					"No I was talking about the idea that they intended to be CoS.",
-					"I think it still depends on what kind of  “multi-racial “ people want.",
-					"No they aren’t merc. On the other hand, fyreslayers are merc."
-				],
-				"quotes": [
-					"supposed to reinforce Cities dwarves",
-					"Not even Ironweld? So Cities of Sigmar is going to be human only in the future for sure?",
-					"Well... They shelved the multi-racial",
-					"Yeah that feels like mercenaries, not really as a multi-racial thing."
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Eh, no? Like, never.",
+				"No I was talking about the idea that they intended to be CoS.",
+				"I think it still depends on what kind of  “multi-racial “ people want.",
+				"No they aren’t merc. On the other hand, fyreslayers are merc."
+			],
+			"quotes": [
+				"supposed to reinforce Cities dwarves",
+				"Not even Ironweld? So Cities of Sigmar is going to be human only in the future for sure?",
+				"Well... They shelved the multi-racial",
+				"Yeah that feels like mercenaries, not really as a multi-racial thing."
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1628,18 +1508,16 @@
 		"category": "Cities of Sigmar",
 		"text": "Cogforts will look like walking castles",
 		"groupUnder": "A cogfort model is coming!",
-		"message": [
-			{
-				"contents": [
-					"More like mobile castles in lore tbh."
-				],
-				"quotes": [
-					"mobile cities"
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"More like mobile castles in lore tbh."
+			],
+			"quotes": [
+				"mobile cities"
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1659,19 +1537,17 @@
 		"category": "Fyreslayers",
 		"text": "We have info about two possible units with multiple builds. A ram and an Avatar of Grimnir automata",
 		"groupUnder": "",
-		"message": [
-			{
-				"contents": [
-					" friend who left GW a little while back has been winding me up with the promise of either OW Slayers or their misbegotten descendants getting an Idol/Automata of Grimnir and some kind of \"Very dwarven\" battering ram with Slayers riding it. Their role means its just something they saw rather than deep info, so it might also be just someone else's models.\n\n(They could also be trolling me, they wouldnt confirm which kind of slayer for example! :P )",
-					"Id definitely prefer old world myself but it definitely sounds more age of sigmar, especially as if we get some Slayer centrepiece minis we might get plastic slayers. I did manage to tease out a couple of more possible details before they went to bed like a normal person in our timezone.\n\nThe Automata is not like the Avatar of khaine, more Ancestor robot\n\nThe Slayers are riding the ram itself and the sides of the carriage, when i mentioned the Screaming bell \"Eeeh sort of\""
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				" friend who left GW a little while back has been winding me up with the promise of either OW Slayers or their misbegotten descendants getting an Idol/Automata of Grimnir and some kind of \"Very dwarven\" battering ram with Slayers riding it. Their role means its just something they saw rather than deep info, so it might also be just someone else's models.\n\n(They could also be trolling me, they wouldnt confirm which kind of slayer for example! :P )",
+				"Id definitely prefer old world myself but it definitely sounds more age of sigmar, especially as if we get some Slayer centrepiece minis we might get plastic slayers. I did manage to tease out a couple of more possible details before they went to bed like a normal person in our timezone.\n\nThe Automata is not like the Avatar of khaine, more Ancestor robot\n\nThe Slayers are riding the ram itself and the sides of the carriage, when i mentioned the Screaming bell \"Eeeh sort of\""
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1692,18 +1568,16 @@
 		"category": "Fyreslayers",
 		"text": "Khazalid Holds will get more than 9 kits in their release (Bear in mind that kits in the past, by Whitefang, included multiple builds)",
 		"groupUnder": "Khazalid Holds",
-		"message": [
-			{
-				"contents": [
-					"Dwarf won’t lose to elves."
-				],
-				"quotes": [
-					"only 9 kits"
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Dwarf won’t lose to elves."
+			],
+			"quotes": [
+				"only 9 kits"
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1723,18 +1597,16 @@
 		"category": "Fyreslayers",
 		"text": "The release will have more Dispossessed kits than Fyreslayer kits",
 		"groupUnder": "Khazalid Holds",
-		"message": [
-			{
-				"contents": [
-					"I would expect the opposite. Fyreslayers do have an existing range, but classic dwarves need to be developed from nothing, basically. If the two groups are supposed to be roughly equal in the army, there have to be more classic dwarves in the release.\n\nI agree that kind of sucks for existing Fyreslayers players, though. After nearly 10 years of basically just foot heroes."
-				],
-				"quotes": [
-					"@Whitefang hinting at more than 9 kits for the FS update, I really hope its more along the lines of 5 FS kits and 4 Khazalid Holds.\n\nAnd that's bare minimum. If its 11 kits then 6 FS and 5 KH would be excellent.\n\nNo matter the amount of kits released the majority should go to FS it is only fair."
-				],
-				"images": [],
-				"isReaction": true
-			}
-		],
+		"message": {
+			"contents": [
+				"I would expect the opposite. Fyreslayers do have an existing range, but classic dwarves need to be developed from nothing, basically. If the two groups are supposed to be roughly equal in the army, there have to be more classic dwarves in the release.\n\nI agree that kind of sucks for existing Fyreslayers players, though. After nearly 10 years of basically just foot heroes."
+			],
+			"quotes": [
+				"@Whitefang hinting at more than 9 kits for the FS update, I really hope its more along the lines of 5 FS kits and 4 Khazalid Holds.\n\nAnd that's bare minimum. If its 11 kits then 6 FS and 5 KH would be excellent.\n\nNo matter the amount of kits released the majority should go to FS it is only fair."
+			],
+			"images": [],
+			"isReaction": true
+		},
 		"isLike": true,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1754,18 +1626,16 @@
 		"category": "Fyreslayers",
 		"text": "List of what could be the FS units surviving a removal",
 		"groupUnder": "Khazalid Holds",
-		"message": [
-			{
-				"contents": [
-					"Auric Runefather\n\nAuric Runeson\n\nAuric Runesmiter\n\nBattlesmith\n\nAuric Flamekeeper\n\nGrimhold Exile\n\nAuric Runefather on Magmadroth\n\nAuric Runeson on Magmadroth\n\nAuric Runesmiter on Magmadroth\n\nHearthguards\n\nVulkyn Flameseeker"
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Auric Runefather\n\nAuric Runeson\n\nAuric Runesmiter\n\nBattlesmith\n\nAuric Flamekeeper\n\nGrimhold Exile\n\nAuric Runefather on Magmadroth\n\nAuric Runeson on Magmadroth\n\nAuric Runesmiter on Magmadroth\n\nHearthguards\n\nVulkyn Flameseeker"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1785,18 +1655,16 @@
 		"category": "Skaven",
 		"text": "A post pointing out that Night Runners, Gutter Runners, and Pestilens units could be refreshed",
 		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
-		"message": [
-			{
-				"contents": [
-					"Night Runners\n\nGutter Runners\n\nAnd way out in the future, Pestilens?\n\nMan, this is just plain unfair\n\nAnd here's the really scary part:\n\nThe Skaven have been the most popular evil faction since the old WHFB days, hands down 😅"
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Night Runners\n\nGutter Runners\n\nAnd way out in the future, Pestilens?\n\nMan, this is just plain unfair\n\nAnd here's the really scary part:\n\nThe Skaven have been the most popular evil faction since the old WHFB days, hands down 😅"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1816,18 +1684,16 @@
 		"category": "Skaven",
 		"text": "A post pointing out that Pestilens units could be refreshed",
 		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
-		"message": [
-			{
-				"contents": [
-					"Night Runners\n\nGutter Runners\n\nAnd way out in the future, Pestilens?\n\nMan, this is just plain unfair\n\nAnd here's the really scary part:\n\nThe Skaven have been the most popular evil faction since the old WHFB days, hands down 😅"
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Night Runners\n\nGutter Runners\n\nAnd way out in the future, Pestilens?\n\nMan, this is just plain unfair\n\nAnd here's the really scary part:\n\nThe Skaven have been the most popular evil faction since the old WHFB days, hands down 😅"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1847,18 +1713,16 @@
 		"category": "Skaven",
 		"text": "A new post reassuring about Crixxit, Night Runners, Gutter Runners, and Pestilens coming for Skavens",
 		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
-		"message": [
-			{
-				"contents": [
-					"The truth is - New Model:\n\nCrixxit of Clan Nictus\n\nNight Runner\n\nGutter Runner\n\n\n\nFuture:\n\nPestilens"
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"The truth is - New Model:\n\nCrixxit of Clan Nictus\n\nNight Runner\n\nGutter Runner\n\n\n\nFuture:\n\nPestilens"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1878,18 +1742,16 @@
 		"category": "Skaven",
 		"text": "A new post reassuring Pestilens coming for Skavens",
 		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
-		"message": [
-			{
-				"contents": [
-					"The truth is - New Model:\n\nCrixxit of Clan Nictus\n\nNight Runner\n\nGutter Runner\n\n\n\nFuture:\n\nPestilens"
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"The truth is - New Model:\n\nCrixxit of Clan Nictus\n\nNight Runner\n\nGutter Runner\n\n\n\nFuture:\n\nPestilens"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1909,18 +1771,16 @@
 		"category": "Season of War Series",
 		"text": "The discarded Dispossessed miniatures weren't thought to be released as part of the Cities of Sigmar range",
 		"groupUnder": "Cities of Sigmar multiculturality",
-		"message": [
-			{
-				"contents": [
-					"Eh, no? Like, never."
-				],
-				"quotes": [
-					"supposed to reinforce Cities dwarves"
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Eh, no? Like, never."
+			],
+			"quotes": [
+				"supposed to reinforce Cities dwarves"
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1940,20 +1800,18 @@
 		"category": "Darkwater",
 		"text": "We have two of the heroes of the upcoming Warhammer Quest: A \"Manticore Flame Knight\" and a \"Lakes Druidia\"",
 		"groupUnder": "Warhammer Quest: Nurgle",
-		"message": [
-			{
-				"contents": [
-					"Let’s go!\n\nManticore Flame Knight!\n\nLakes Druidia!\n\n \n\nRise!\n\nSons of Rotigus!\n\n[[image-2025-10-06_1.jpg]]"
-				],
-				"quotes": [
-					""
-				],
-				"images": [
-					"image-2025-10-06_1.jpg"
-				],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Let’s go!\n\nManticore Flame Knight!\n\nLakes Druidia!\n\n \n\nRise!\n\nSons of Rotigus!\n\n[[image-2025-10-06_1.jpg]]"
+			],
+			"quotes": [
+				""
+			],
+			"images": [
+				"image-2025-10-06_1.jpg"
+			],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -1973,24 +1831,22 @@
 		"category": "Darkwater",
 		"text": "Two more heroes. A Jade wizard with a familiar and a Kurnothi Stag",
 		"groupUnder": "Warhammer Quest: Nurgle",
-		"message": [
-			{
-				"contents": [
-					"There is indeed a Jade Wizard with a cute little familiar.",
-					"I know there is at least 6, the wizard and a \"Kuronathi stag\" as well."
-				],
-				"quotes": [
-					"there definitely more heroes to coming they said themselves \"You and Three companions\" and they wouldn't just limit the game to 4 characters\n\n(we're still missing the Wizard and Elf archetype) \n\nlike im still think we get a Jade wizard\n\n[[image-2025-10-07_1.jpg]]\n\n[[image-2025-10-07_2.jpg]]\n\nmaybe we'll get a COS aelf. Part of me want to say either a Kurnothi or Swifthawk/Wanderer\n\nbut with the dwarf ranger i feel like it would be a different role maybe a fire arm specialist?\n\n[[image-2025-10-07_3.jpg]]",
-					""
-				],
-				"images": [
-					"image-2025-10-07_1.jpg",
-					"image-2025-10-07_2.jpg",
-					"image-2025-10-07_3.jpg"
-				],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"There is indeed a Jade Wizard with a cute little familiar.",
+				"I know there is at least 6, the wizard and a \"Kuronathi stag\" as well."
+			],
+			"quotes": [
+				"there definitely more heroes to coming they said themselves \"You and Three companions\" and they wouldn't just limit the game to 4 characters\n\n(we're still missing the Wizard and Elf archetype) \n\nlike im still think we get a Jade wizard\n\n[[image-2025-10-07_1.jpg]]\n\n[[image-2025-10-07_2.jpg]]\n\nmaybe we'll get a COS aelf. Part of me want to say either a Kurnothi or Swifthawk/Wanderer\n\nbut with the dwarf ranger i feel like it would be a different role maybe a fire arm specialist?\n\n[[image-2025-10-07_3.jpg]]",
+				""
+			],
+			"images": [
+				"image-2025-10-07_1.jpg",
+				"image-2025-10-07_2.jpg",
+				"image-2025-10-07_3.jpg"
+			],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -2011,20 +1867,18 @@
 		"category": "Darkwater",
 		"text": "The druid lady from the cover doesn't have a sickle",
 		"groupUnder": "Warhammer Quest: Nurgle",
-		"message": [
-			{
-				"contents": [
-					"Close but no cigar(sickle)."
-				],
-				"quotes": [
-					"We gaan voor nederlands!\n\nBut I made a quick and ugly draft of what I meant ( and it doesnt even have to be this far from the top, but its a better way to show it.\n\n[[image-2025-10-08_1.jpg]]"
-				],
-				"images": [
-					"image-2025-10-08_1.jpg"
-				],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Close but no cigar(sickle)."
+			],
+			"quotes": [
+				"We gaan voor nederlands!\n\nBut I made a quick and ugly draft of what I meant ( and it doesnt even have to be this far from the top, but its a better way to show it.\n\n[[image-2025-10-08_1.jpg]]"
+			],
+			"images": [
+				"image-2025-10-08_1.jpg"
+			],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -2044,18 +1898,16 @@
 		"category": "Cities of Sigmar",
 		"text": "A new list of CoS units posted by Boole, that then received a Whitefang like, as being part of a new Spearhead starter set",
 		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
-		"message": [
-			{
-				"contents": [
-					"Methought a vision dread: the Mortal Realms' end draweth nigh, whence no mortal soul shall find deliverance!\n\nFreeguild Marshal (i love little kitty!)\n\nFreeguild Warpriest\n\nFreeguild Gallant\n\nFreeguild Shooter\n\nEven More…\n\nVS\n\nDeath Master (i hate shadows!)\n\nNight Runner\n\nGutter Runner\n\nEven More…"
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Methought a vision dread: the Mortal Realms' end draweth nigh, whence no mortal soul shall find deliverance!\n\nFreeguild Marshal (i love little kitty!)\n\nFreeguild Warpriest\n\nFreeguild Gallant\n\nFreeguild Shooter\n\nEven More…\n\nVS\n\nDeath Master (i hate shadows!)\n\nNight Runner\n\nGutter Runner\n\nEven More…"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -2075,18 +1927,16 @@
 		"category": "Skaven",
 		"text": "A new list of Skaven units posted by Boole, that then received a Whitefang like, as being part of a new Spearhead starter set",
 		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
-		"message": [
-			{
-				"contents": [
-					"Methought a vision dread: the Mortal Realms' end draweth nigh, whence no mortal soul shall find deliverance!\n\nFreeguild Marshal (i love little kitty!)\n\nFreeguild Warpriest\n\nFreeguild Gallant\n\nFreeguild Shooter\n\nEven More…\n\nVS\n\nDeath Master (i hate shadows!)\n\nNight Runner\n\nGutter Runner\n\nEven More…"
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Methought a vision dread: the Mortal Realms' end draweth nigh, whence no mortal soul shall find deliverance!\n\nFreeguild Marshal (i love little kitty!)\n\nFreeguild Warpriest\n\nFreeguild Gallant\n\nFreeguild Shooter\n\nEven More…\n\nVS\n\nDeath Master (i hate shadows!)\n\nNight Runner\n\nGutter Runner\n\nEven More…"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -2106,18 +1956,16 @@
 		"category": "Cities of Sigmar",
 		"text": "Freeguild Gallants is the unit of Arch-Knights",
 		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
-		"message": [
-			{
-				"contents": [
-					"Gallant as in knights. Gallantry and whatnot. Probably the \"arch-knight battleline\" from previous rumours."
-				],
-				"quotes": [
-					"Is Gallant phone-corrector for Gargant ? "
-				],
-				"images": [],
-				"isReaction": true
-			}
-		],
+		"message": {
+			"contents": [
+				"Gallant as in knights. Gallantry and whatnot. Probably the \"arch-knight battleline\" from previous rumours."
+			],
+			"quotes": [
+				"Is Gallant phone-corrector for Gargant ? "
+			],
+			"images": [],
+			"isReaction": true
+		},
 		"isLike": true,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -2137,18 +1985,16 @@
 		"category": "Fyreslayers",
 		"text": "Looks like Golems will be part of the new Khazalid Holds roster",
 		"groupUnder": "Khazalid Holds",
-		"message": [
-			{
-				"contents": [
-					"i like Golem "
-				],
-				"quotes": [
-					"Any chance for some Duardin unit names as well? Just so we know what to expect in terms of FS/Dispo"
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"i like Golem "
+			],
+			"quotes": [
+				"Any chance for some Duardin unit names as well? Just so we know what to expect in terms of FS/Dispo"
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -2168,18 +2014,16 @@
 		"category": "Lumineth Realm-Lords",
 		"text": "Boole gave us a storytelling time about the elven pantheon and their possible comeback",
 		"groupUnder": "Aelven Pantheon",
-		"message": [
-			{
-				"contents": [
-					"Gooood Morning, storyteller's back\n\nI heard that the goddess's followers donned armour forged from shadows and erected one new altar after another. \n\nHold on, what's that? \n\nReturned ye be, O Mathlann, Khaine, and Kurnous! \n\nThou tarriest overlong, Morai-Hag!\n\nMy heart foretold thy coming, Hoeth! \n\nAsuryan! Can it be thou too art restored? \n\nRemember, rumours are rumours, have a great day!"
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Gooood Morning, storyteller's back\n\nI heard that the goddess's followers donned armour forged from shadows and erected one new altar after another. \n\nHold on, what's that? \n\nReturned ye be, O Mathlann, Khaine, and Kurnous! \n\nThou tarriest overlong, Morai-Hag!\n\nMy heart foretold thy coming, Hoeth! \n\nAsuryan! Can it be thou too art restored? \n\nRemember, rumours are rumours, have a great day!"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -2199,18 +2043,16 @@
 		"category": "Lumineth Realm-Lords",
 		"text": "This refers very likely to shards or souls scaping from Slaneesh during the Broken Realms Morathi plot",
 		"groupUnder": "Aelven Pantheon",
-		"message": [
-			{
-				"contents": [
-					"It is worth noting that the cycle of reincarnation is an established lore of the elven pantheon.\n\nThat said, I personally don't think the elven deities of old will return or return exactly as they were.\n\nYet, sparkles of Morai-Heg indeed escaped. Is it that surprising if someone else also escaped?"
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"It is worth noting that the cycle of reincarnation is an established lore of the elven pantheon.\n\nThat said, I personally don't think the elven deities of old will return or return exactly as they were.\n\nYet, sparkles of Morai-Heg indeed escaped. Is it that surprising if someone else also escaped?"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -2224,24 +2066,22 @@
 		"resolvedDate": "2026-01-30",
 		"legitRumour": true
 	},
-		{
+	{
 		"game": "Age of Sigmar",
 		"edition": 4,
 		"category": "Ulgurothi",
 		"text": "Boole gave us a storytelling time about the elven pantheon and their possible comeback",
 		"groupUnder": "Aelven Pantheon",
-		"message": [
-			{
-				"contents": [
-					"Gooood Morning, storyteller's back\n\nI heard that the goddess's followers donned armour forged from shadows and erected one new altar after another. \n\nHold on, what's that? \n\nReturned ye be, O Mathlann, Khaine, and Kurnous! \n\nThou tarriest overlong, Morai-Hag!\n\nMy heart foretold thy coming, Hoeth! \n\nAsuryan! Can it be thou too art restored? \n\nRemember, rumours are rumours, have a great day!"
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Gooood Morning, storyteller's back\n\nI heard that the goddess's followers donned armour forged from shadows and erected one new altar after another. \n\nHold on, what's that? \n\nReturned ye be, O Mathlann, Khaine, and Kurnous! \n\nThou tarriest overlong, Morai-Hag!\n\nMy heart foretold thy coming, Hoeth! \n\nAsuryan! Can it be thou too art restored? \n\nRemember, rumours are rumours, have a great day!"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -2261,18 +2101,16 @@
 		"category": "Ulgurothi",
 		"text": "This refers very likely to shards or souls scaping from Slaneesh during the Broken Realms Morathi plot",
 		"groupUnder": "Aelven Pantheon",
-		"message": [
-			{
-				"contents": [
-					"It is worth noting that the cycle of reincarnation is an established lore of the elven pantheon.\n\nThat said, I personally don't think the elven deities of old will return or return exactly as they were.\n\nYet, sparkles of Morai-Heg indeed escaped. Is it that surprising if someone else also escaped?"
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"It is worth noting that the cycle of reincarnation is an established lore of the elven pantheon.\n\nThat said, I personally don't think the elven deities of old will return or return exactly as they were.\n\nYet, sparkles of Morai-Heg indeed escaped. Is it that surprising if someone else also escaped?"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -2292,18 +2130,16 @@
 		"category": "Ulgurothi",
 		"text": "All the above seem to indicate that Malerion will come soon! (5th edition?)",
 		"groupUnder": "Aelven Pantheon",
-		"message": [
-			{
-				"contents": [
-					"It's opposite."
-				],
-				"quotes": [
-					"Still rather just have Malerion. I feel all this croneseer stuff is just kicking the ulgurothi/umbraneth can further down the road in favour of more witch elves."
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"It's opposite."
+			],
+			"quotes": [
+				"Still rather just have Malerion. I feel all this croneseer stuff is just kicking the ulgurothi/umbraneth can further down the road in favour of more witch elves."
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -2323,18 +2159,16 @@
 		"category": "Cities of Sigmar",
 		"text": "A new tale by Boole talking about the upcoming Marshall Jorvan, the Freeguild Gargants, Cogforts, Crixxt and his deal with Bel'akor!",
 		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
-		"message": [
-			{
-				"contents": [
-					"Tahlia: Jorvan, d'you remember those battlemages? If we turn 'em into four new allies, d'you reckon our lads'll accept 'em?\n\nJorvan: Bloody hell, anythin's better than those Aelves what wrecked my homeland! Four new battlemages ain't nearly enough to drive out those sodding Aelves! We need more gargants, I swear on me sword and shield I'll wipe every last one of 'em out!\n\nTahlia: Steady on! It's the Skaven you should be after!\n\nJorvan: Right then, get me some Corgforts! That blighter Crixxit's got hold of Daemon Prince Be’lakor’s Shadow Power! Elsewise the little ****** could take down me whole army single-handed! Embergard needs more reinforcements, and sharpish!\n\nTahlia: You will get them……"
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				"Tahlia: Jorvan, d'you remember those battlemages? If we turn 'em into four new allies, d'you reckon our lads'll accept 'em?\n\nJorvan: Bloody hell, anythin's better than those Aelves what wrecked my homeland! Four new battlemages ain't nearly enough to drive out those sodding Aelves! We need more gargants, I swear on me sword and shield I'll wipe every last one of 'em out!\n\nTahlia: Steady on! It's the Skaven you should be after!\n\nJorvan: Right then, get me some Corgforts! That blighter Crixxit's got hold of Daemon Prince Be’lakor’s Shadow Power! Elsewise the little ****** could take down me whole army single-handed! Embergard needs more reinforcements, and sharpish!\n\nTahlia: You will get them……"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,
@@ -2349,23 +2183,115 @@
 		"legitRumour": true
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ossiarch Bonereapers",
+		"text": "Storytelling time for OBR by Boole. This time he hinted at four possible new units: Ossiarch Ruststalker, Golden Chariot/ Ossiarchstrike Chariot, Shooters with a third eye, and Blacktoof (Arkhan the Black?!)",
+		"groupUnder": "Ossiarch release",
+		"message": {
+			"contents": [
+				"Gooood Evening, the storyteller has returned.\n\nIn the distant realm of Shyish, legions beyond counting are being committed to the production lines — nay, verily, in numbers most prodigious!\n\nThey say the decapitation strike remains the most efficacious stratagem in all Warhammer lore, and Katakros has gained newfound insight into this art — perchance you have witnessed the Ossiarch Ruststalker?\n\nDo you recall the tale of Katakros' own demise?\n\nWere you to possess a formidable Ossiarchstrike Chariot, every difficulty would find its solution! Indeed — let that golden Chariot be rendered grander and more magnificent!\n\nWhy, pray tell, do so many in the Mortal Realms resort to the use of firearms? 'Tis most vexing! Had our warriors but the gift of a third eye, these wretched gunslingers would pose no threat!\n\nThe Blacktoof shall return — yet how distant lies that future? That, my friends, remains a secret veiled in shadow!\n\n\n\nFor the Tithe of Bones!\n\n\n\nRemember, rumours are rumours, have a great day!\n\n[[image-2025-11-04_1.jpg]]"
+			],
+			"quotes": [
+				""
+			],
+			"images": [
+				"image-2025-11-04_1.jpg"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7777#comment-749543"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-11-04",
+		"resolvedDate": "2026-01-16",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ossiarch Bonereapers",
+		"text": "The above got a confirmation about the archers having three eyes and the \"Ruststalker\" being its own kit that would work as assassins",
+		"groupUnder": "Ossiarch release",
+		"message": {
+			"contents": [
+				"I think he means the new OBR archers will literally have 3 eyes.",
+				"If the Ruststalker bit wasn't referring to Necropollis Stalkers or the rumored archers I could see them being something like a 5 model assassin unit which isn't a niche covered by anything else in the faction yet. Even though it seems to be shaping up to be a small wave, it at least sounds like it'll be better and less disappointing than what the Idoneth got this edition, possibly some actual new units and not just 3 infantry/on foot characters and an incarnate/manifestation."
+			],
+			"quotes": [
+				"when I think of third eye, only tzeetnch really comes to mind. \"Warriors\" and \"gift\" are also interesting choices of words here. It cant be that boole is sprinkling a little bit of hopium for tzeentch with obr here, is he?",
+				""
+			],
+			"images": [],
+			"isReaction": true
+		},
+		"isLike": true,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7780#comment-749561",
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7778#findComment-749589"
+		],
+		"rumourmonger": "Whitefang",
+		"date": "2025-11-04",
+		"resolvedDate": "2026-01-16",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ossiarch Bonereapers",
+		"text": " Storytelling time for OBR by Boole. This time he could have hinted Blacktoof (Arkhan the Black?!)",
+		"groupUnder": "Arkhan the Black",
+		"message": {
+			"contents": [
+				"Gooood Evening, the storyteller has returned.\n\nIn the distant realm of Shyish, legions beyond counting are being committed to the production lines — nay, verily, in numbers most prodigious!\n\nThey say the decapitation strike remains the most efficacious stratagem in all Warhammer lore, and Katakros has gained newfound insight into this art — perchance you have witnessed the Ossiarch Ruststalker?\n\nDo you recall the tale of Katakros' own demise?\n\nWere you to possess a formidable Ossiarchstrike Chariot, every difficulty would find its solution! Indeed — let that golden Chariot be rendered grander and more magnificent!\n\nWhy, pray tell, do so many in the Mortal Realms resort to the use of firearms? 'Tis most vexing! Had our warriors but the gift of a third eye, these wretched gunslingers would pose no threat!\n\nThe Blacktoof shall return — yet how distant lies that future? That, my friends, remains a secret veiled in shadow!\n\n\n\nFor the Tithe of Bones!\n\n\n\nRemember, rumours are rumours, have a great day!\n\n[[image-2025-11-04_1.jpg]]"
+			],
+			"quotes": [
+				""
+			],
+			"images": [
+				"image-2025-11-04_1.jpg"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7777#comment-749543"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-11-04",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
 		"text": "",
 		"groupUnder": "",
-		"message": [
-			{
-				"contents": [
-					""
-				],
-				"quotes": [
-					""
-				],
-				"images": [],
-				"isReaction": false
-			}
-		],
+		"message": {
+			"contents": [
+				""
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
 		"isLike": false,
 		"isThanks": false,
 		"isLoveIt": false,

@@ -2,14 +2,25 @@
 	@if (rumour.source.length && rumour.source[0]) {
 		<a [href]="rumour.source[0]" target="_blank" rel="noopener noreferrer">
 			{{ rumour.text }}
+			@if (!rumour.message.isReaction) {
+				<span class="edition-pill">By {{ rumour.rumourmonger }}</span>
+			}
+			@else {
+				<span class="edition-pill">{{ rumour.rumourmonger }} {{ showRumourReactionIcon(rumour) }}</span>
+			}
 			@if (rumour.edition) {
 				<span class="edition-pill">{{ rumour.edition | ordinal }} Edition</span>
 			}
-			<i class="bi bi-box-arrow-up-right"></i>
 		</a>
 	} @else {
 		<span>
 			{{ rumour.text }}
+			@if (!rumour.message.isReaction) {
+				<span class="edition-pill">By {{ rumour.rumourmonger }}</span>
+			}
+			@else {
+				<span class="edition-pill">{{ rumour.rumourmonger }} {{ showRumourReactionIcon(rumour) }}</span>
+			}
 			@if (rumour.edition) {
 				<span class="edition-pill">{{ rumour.edition | ordinal }} Edition</span>
 			}

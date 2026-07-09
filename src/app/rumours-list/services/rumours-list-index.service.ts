@@ -8,16 +8,17 @@ export interface RumourListEntry {
   category: string;
   text: string;
   groupUnder: string;
-  message: Array<{
+  message: {
     contents: string[];
     quotes: string[];
     images: string[];
     isReaction: boolean;
-  }>;
+  };
   isLike: boolean;
   isThanks: boolean;
   isLoveIt: boolean;
   isSadFace: boolean;
+	isConfusedFace: boolean;
   source: string[];
   rumourmonger: string;
   date: string;
