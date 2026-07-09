@@ -8,7 +8,7 @@ import { RumoursListIndexService } from "./services/rumours-list-index.service";
 export class ListUrlPipe implements PipeTransform {
   constructor(private readonly rumoursListIndexService: RumoursListIndexService) {}
 
-  transform(fragment: string, viewMode: 'active' | 'solved' | null): string {
+  transform(fragment: string, viewMode: 'active' | 'solved'): string {
     const slug = this.rumoursListIndexService.slugify(fragment);
     return viewMode === 'solved'
       ? `/rumours-list?view=solved#${slug}`

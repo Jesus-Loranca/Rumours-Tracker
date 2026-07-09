@@ -1193,7 +1193,7 @@
 		"rumourmonger": "Boole",
 		"date": "2025-09-26",
 		"resolvedDate": "2026-03-26",
-		"legitRumour": true
+		"legitRumour": false
 	},
 	{
 		"game": "Age of Sigmar",
@@ -2274,6 +2274,568 @@
 		"rumourmonger": "Boole",
 		"date": "2025-11-04",
 		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Battletomes",
+		"text": "All the remaining battletomes will be released before 2026 ends",
+		"groupUnder": "Battletomes",
+		"message": {
+			"contents": [
+				"For all the people are speculating wich books are coming in 2026... All of them, the only point to knoe is the order of them, but at the end of 2026 we should have all of them in a pre-ordered status."
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7837#comment-751373"
+		],
+		"rumourmonger": "Nezzhil",
+		"date": "2025-11-09",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "Freeguild Shooters aren't aelves",
+		"groupUnder": "Cities of Sigmar multiculturality",
+		"message": {
+			"contents": [
+				"Nope "
+			],
+			"quotes": [
+				"@Boole\n\nWould the Freeguild Shooter be the aelven rangers mention here?\n\n[[image-2025-11-08_1.jpg]]"
+			],
+			"images": [
+				"image-2025-11-08_1.jpg"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7825#findComment-750904"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-11-08",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Daughters of Khaine",
+		"text": "The new DoK won't be only a couple of hero kits, like the IDK release",
+		"groupUnder": "Daughters of Khaine will get love in 4th edition",
+		"message": {
+			"contents": [
+				"No"
+			],
+			"quotes": [
+				"Any hints for Daughters of Khaine?\n\nWe know they are getting some love. I'm just curious if it is a couple hero kits like Deepkin."
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7846#findComment-751707"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-11-10",
+		"resolvedDate": "2026-03-02",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Fyreslayers",
+		"text": "Another tale about Khazalid Holds. It seems like their main colour is going to be green",
+		"groupUnder": "Khazalid Holds",
+		"message": {
+			"contents": [
+				"Gooood Evening, the storyteller has returned.\n\nI once heard a conversation on Barak-Nar that I found very interesting, so I'd like to share it with you all:\n\nAfter Garaktormun, never have I witnessed tragedy of such magnitude. What in Grungni's name befell our kins on the volcano?\n\nListen well, son. The doom of Barak-Urbaz — remember you that? This was no different. A rolling fire curtain of rocket barrages laid down in carpet bombing pattern, followed by wave-type assaults of thaggoraki swarming the volcanic slopes. They breached the Magmaholds, already shattered by bombardment and rad-waste. Blood and screaming... everywhere.\n\nAre we to stand idle while our kins are butchered? If we watch from the skies as thaggoraki slaughter them, this fate will be ours soon enough!\n\nNegative, son. We're powerless. They turned away our ancestors' pleas during the Age of Chaos! Left them to die! We ceased being kins long ago. The Khazalid Empires' glory is dust! Their downfall? Foolishness. Rigidity. Clinging to old ways — demanding all realms-leaders gather in one location! A single strike wiped the slate clean.\n\nBut intelligence reports suggest Grungni's return! How could he permit this?\n\nStow that talk, lad. Where those city-dwelling kins went is above our clearance. Forget it!\n\nI have intel! Valaya, Gazul, Grombrindal, Thorgrim — the Ancestor Gods are active! They'll rise in the mountains and reinforce our volcanic kins!\n\nHalt your speculation! Their Vulkite Berzerkers! All their leaders — all lying cold on the earth! Only the Ancestor Gods can extract them now!\n\nHold on — contacts emerging from the mountain range. Green-uniformed formations. Are those our kins?\n\nThat's all, all of this was just a conversation I overheard. What will happen in the future?\n\nRemember, rumours are rumours, have a great day!"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7838#comment-751411"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-11-09",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Fyreslayers",
+		"text": "New Magmadroths or other new specimens will emerge with the upcoming Khazalid Holds release",
+		"groupUnder": "Khazalid Holds",
+		"message": {
+			"contents": [
+				"Not to worry, my friend😉"
+			],
+			"quotes": [
+				"@布尔 what about our precious magmadroths? Will we see any new varieties with the Khazalid Holds?  Or perhaps other wildlife with the new kits?"
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7846#findComment-751705"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-11-10",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Fyreslayers",
+		"text": "The new release kits count or the number of FS miniatures in the release would be 12",
+		"groupUnder": "Khazalid Holds",
+		"message": {
+			"contents": [
+				"12"
+			],
+			"quotes": [
+				"If you're up for answering questions, could you maybe indicate approximately how much of the Khazalid Holds new kits will have a Fyreslayer focus? We know it's not the majority, but there's a big difference between a pity hero and a couple of actual units or a centrepiece (Magmadroth Cavalry? *huffs copious amounts of hopium*)"
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7846#comment-751709"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-11-10",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Fyreslayers",
+		"text": "Those 12 kits won't be dual builds between FS and Dispossessed",
+		"groupUnder": "Khazalid Holds",
+		"message": {
+			"contents": [
+				"That’s not true."
+			],
+			"quotes": [
+				"12 kit would possibly mean every Khazalid release will also be a dual-kit for Fyreslayers."
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7849#comment-751782"
+		],
+		"rumourmonger": "Whitefang",
+		"date": "2025-11-10",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Fyreslayers",
+		"text": "The teaser FS image could be a baby droth herder",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"Technically Flameseekers have a droth."
+			],
+			"quotes": [
+				"We know more droths are coming, and the FS tease seems to be infantry /on foot hero, so at least two."
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7850#comment-751814"
+		],
+		"rumourmonger": "Whitefang",
+		"date": "2025-11-10",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ogor Mawtribes",
+		"text": "Looks like the new Ogors kit won't have more Gnoblars as pets. \"Their legacy shall persist, merely assuming another form in the grand tapestry\"",
+		"groupUnder": "Ogor Mawtribes refresh",
+		"message": {
+			"contents": [
+				"in New Ogor Kits?\n\nFarewell then, my diminutive little friends — you shall be commemorated with genuine affection, I assure you.\n\n\n\nThough let us be clear: their legacy shall persist, merely assuming another form in the grand tapestry"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7846#findComment-751689"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-11-10",
+		"resolvedDate": "2026-06-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ogor Mawtribes",
+		"text": "A new user, @Reformation, has posted a really small picture of what seems to be an Ogor Tyrant cave drawing",
+		"groupUnder": "Ogor Mawtribes refresh",
+		"message": {
+			"contents": [
+				"[[image-2025-11-12_1.jpg]]"
+			],
+			"quotes": [
+				""
+			],
+			"images": [
+				"image-2025-11-12_1.jpg"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7863#comment-752261"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-12",
+		"resolvedDate": "2026-06-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ogor Mawtribes",
+		"text": "We know it is a tyrant because of a thanks reaction",
+		"groupUnder": "Ogor Mawtribes refresh",
+		"message": {
+			"contents": [
+				"perchance it is a new ogor/ tyrant *wink"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": true
+		},
+		"isLike": false,
+		"isThanks": true,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7863#comment-752272"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-11-13",
+		"resolvedDate": "2026-06-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ogor Mawtribes",
+		"text": "And later, Boole mentioned it was a new Tyrant with multiple poses, but also made a drawing that looks like Golgfag",
+		"groupUnder": "Ogor Mawtribes refresh",
+		"message": {
+			"contents": [
+				"This picture actually depicts the New Tyrant — it has numerous poses in its repertoire, and this happens to be one of them.",
+				"Please excuse the quality of the drawing.\n\nAs none of our American members possess professional drawing skills, our primary expertise remains concentrated in writing. 😂\n\n[[image-2025-11-13_1.png]]"
+			],
+			"quotes": [
+				"",
+				""
+			],
+			"images": [
+				"image-2025-11-13_1.png"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7865#comment-752311",
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7865#comment-752316"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-11-13",
+		"resolvedDate": "2026-06-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ogor Mawtribes",
+		"text": "Boole finished with a new storytelling about Ogors. A Shaman proclaimed their new religion and got away from Gorkamorka, Globb Glittermaw has eater her father's and is now the new Overtyrant, Leadbelchers have been kicked from this new Ogors society. Maneaters also have left, but they managed to adapt under the lead of a new legendary Maneater who had fought under Tahlia, which has her entire right half rebuilt into a colossal artillery piece",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"Gooood Evening, the storyteller has returned.\n\nAs the Hour of Ruin dawned, the Ogors were ruthlessly slaughtered by the Skaven, suffering repeated and grievous defeats. How could such frail, meagre beings overcome the Ogors’ hulking might?\n\nThe Shaman fell into a brooding silence. Why did the Gulping God permit this carnage to befall his children?\n\nThus began the Shaman’s pilgrimage.\n\nHe ventured deep into Shyish, passing into the Ogors’ Underworld. There, he beheld a cyclopean abyss—a burial place of the Ogors’ most ancient secrets, a truth hauled from the Aetheric Void, an all-devouring eternal presence from that starless expanse… something unnameable!\n\nGorkamorka is but a lie!\n\nMadness seized the Shaman.\n\nReturning to his homeland, he came upon the daughter of Globb Glittermaw—a female Tyrant astride a Huge Monster. This formidable Tyrant had defeated and devoured Globb Glittermaw herself. The now-deranged Shaman proclaimed her the new Overtyrant, the chosen of the True Gulping God!\n\nThrough mutual alliance with the new Overtyrant, the Shaman has secured a sacred monopoly over the faith and canonical authority of the Gulping God, and has promulgated the sacred tenets of the True Gulping God.\n\nGunpowder? Cowardice! The Leadbelchers—too fearful to close in and feast upon their foes!\n\nSoon, masses of Leadbelchers were driven from the Big Mawtribe.\n\nHirelings? Folly! The Maneaters—led by their stomachs, fools all!\n\nThen, the Maneaters too were cast out from the Big Mawtribe. Yet unlike the Leadbelchers, a grizzled and formidable veteran rose as their leader—a legendary Maneater who had fought under Tahlia, her entire right half rebuilt into a colossal artillery piece!"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7867#comment-752371"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-11-13",
+		"resolvedDate": "2026-07-06",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ogor Mawtribes",
+		"text": "Looks like Beastclaw would ride new monsters",
+		"groupUnder": "Ogor Mawtribes refresh",
+		"message": {
+			"contents": [
+				"As for the Beastclaw, they scoffed at these events, deeming the lot utterly mad. Mounted upon new Monsters, they simply pursued their grim hunts, tracking the Skaven beneath frigid gales."
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7867#findComment-752372"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-11-13",
+		"resolvedDate": "2026-06-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ogor Mawtribes",
+		"text": "And the Mongolian look will fully disappear from the Ogors refresh",
+		"groupUnder": "Ogor Mawtribes refresh",
+		"message": {
+			"contents": [
+				"All Gone "
+			],
+			"quotes": [
+				"Ay i ask the question of if they're still doing the pudo-mogolian cossak look\n\n[[image-2025-11-13_2.png]]"
+			],
+			"images": [
+				"image-2025-11-13_2.png"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7867#findComment-752373"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-11-13",
+		"resolvedDate": "2026-06-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Skaven",
+		"text": "Another reference to Eshin",
+		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
+		"message": {
+			"contents": [
+				"Gooood Evening, the storyteller has returned.\n\nMy dear friends, following tonight's revelries, I have gleaned fresh geographical insights from ancient codices.\n\nLet us observe:\n\nArmageddon? In which realm doth this lie? Could this be the site of that man's prophesied Return?\n\nAh! Eye of Terror! A place that echoes the Eightpoints, by the sound of it. Whispers tell of an iron monstrosity soon to emerge with its brood!\n\nMaelstrom? Some sea in Ghyran, perhaps? It seems teeming with Aelves – led by a prince, if one believes the texts. Most remarkable!\n\nBut wait – what is that? The shadows about me... they stir!\n\nNo! Rats! Rats! Rats!\n\nThose cloaked shades! Those Shurikens! That venom!\n\nRun!"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7823#comment-750915"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-11-08",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Sylvaneth",
+		"text": "Kurnothis don't seem to be part of an upcoming AoS release in the near future",
+		"groupUnder": "Sylvaneth 4th edition release",
+		"message": {
+			"contents": [
+				"Anything re Kurnothi? @Boole"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": true
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": true,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7847#findComment-751710"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-11-10",
+		"resolvedDate": "2026-02-14",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Sylvaneth",
+		"text": "Boole dropped a story about Sylvaneths and explicitly mentions Alarielle's Gardener",
+		"groupUnder": "Sylvaneth 4th edition release",
+		"message": {
+			"contents": [
+				"Gooood Evening, the storyteller has returned.\n\nFrom the fringes of the Everspring Swathe, strange tidings have reached mine ears — a most peculiar discourse, mark you. Blast it all, the agents of the Order of Azyr persist in filing these preposterous reports.\n\nPray, lad, dost thou recall how these past decades have witnessed our homelands besieged?\n\nThe Everqueen’s Rite of Life echoes all around the Mortal Realms, those frenzied Sylvaneth warriors now launch expeditions across the Mortal Realms, the wargroves are uprooting and expanding their territory.\n\nYet her dominion remains far from true expansion. Nay — with the coming of The Hour of Ruin, have not her armies been repeatedly thwarted by the rats?\n\nFoolish youth, thou understandest not that mad goddess! She hath long forsaken her former allies. To fulfill the vision of those trees, she would dare any atrocity!\n\nWhat meanest thou? Shall our pastoral idyll be shattered? How can this be? She is but doomed to repeat centuries of failure! I have heard such apocalyptic prophecies countless times, yet never has she breached our homeland — is this not truth?\n\nThou art grievously mistaken, lad. That tree, from the World-that-Was...\n\nThe old man coughed violently, as if the words had stirred ghosts of memory.\n\nSpeakest thou of The Oak of Ages Past?\n\nAye! The Oak of Ages — the Oak’s roots shall pierce through All Realms! None shall be spared! We must unite against the tyranny of this goddess!\n\nThat terrifying Gardener — she wears a crown identical to the Everqueen’s. In her left hand, an amphora overflowing with nectar; in her right, a viridescent pruning-shear. Monstrous roots writhe in her wake, sprouting tender shoots upon battlefields where our fallen kin now blossom with garish pink flowers!\n\nStay — I comprehend thee not! What dost thou speak of?\n\nThe Season of Change is coming! The saplings at the Grove Guardian’s feet are naught but newborn Oak of Ages! The goddess’ wrath spreads through these nascent trees across All Realms! None may escape nature’s vengeance — not even her former allies...\n\nIf thy words hold truth... may the Grandfather preserve us.\n\nMay the Grandfather preserve us all!\n\nThat’s all!\n\nRemember, rumours are rumours, have a great day!"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7853#findComment-751900"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-11-11",
+		"resolvedDate": "2026-02-14",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Sylvaneth",
+		"text": "The gardener could be some sort of Grove guardian",
+		"groupUnder": "Sylvaneth 4th edition release",
+		"message": {
+			"contents": [
+				"Sounds like one hero and a unit, similar to the KO release. The gardener and a unit of grove guardians.\n\nEdit scratch that. I misread the apostrophe. Maybe just a hero known as the Grove Guardian then. "
+			],
+			"quotes": [
+				"This Gardner or Grove Guardian, if they are the same individual, could be the character model with their codex release this edition or an end of edition campaign/story character release.\n\nEither way I'm always keen for more Sylvaneth."
+			],
+			"images": [],
+			"isReaction": true
+		},
+		"isLike": true,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7854#findComment-751916"
+		],
+		"rumourmonger": "Whitefang",
+		"date": "2025-11-11",
+		"resolvedDate": "2026-02-14",
 		"legitRumour": true
 	},
 	{
