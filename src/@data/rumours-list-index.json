@@ -1,126 +1,99 @@
 {
 	"Age of Sigmar": {
 		"New Edition": {
-			"text": "New Edition",
-			"edition": 5
+			"text": "New Edition"
 		},
 		"End of Edition Campaign": {
-			"text": "End of Edition Campaign",
-			"edition": 4
+			"text": "End of Edition Campaign"
 		},
 		"Battletomes": [
 			{
-				"text": "Blades of Khorne",
-				"edition": 4
+				"text": "Battletomes"
 			},
 			{
-				"text": "Cities of Sigmar",
-				"edition": 4
+				"text": "Blades of Khorne"
 			},
 			{
-				"text": "Daughters of Khaine",
-				"edition": 4
+				"text": "Cities of Sigmar"
 			},
 			{
-				"text": "Disciples of Tzeentch",
-				"edition": 4
+				"text": "Daughters of Khaine"
 			},
 			{
-				"text": "Flesh-eater Courts",
-				"edition": 4
+				"text": "Disciples of Tzeentch"
 			},
 			{
-				"text": "Fyreslayers",
-				"edition": 4
+				"text": "Flesh-eater Courts"
 			},
 			{
-				"text": "Gloomspite Gitz",
-				"edition": 4
+				"text": "Fyreslayers"
 			},
 			{
-				"text": "Hedonites of Slaanesh",
-				"edition": 4
+				"text": "Gloomspite Gitz"
 			},
 			{
-				"text": "Helmsmiths of Hashut",
-				"edition": 4
+				"text": "Hedonites of Slaanesh"
 			},
 			{
-				"text": "Idoneth Deepkin",
-				"edition": 4
+				"text": "Helmsmiths of Hashut"
 			},
 			{
-				"text": "Ironjawz",
-				"edition": 4
+				"text": "Idoneth Deepkin"
 			},
 			{
-				"text": "Kharadron Overlords",
-				"edition": 4
+				"text": "Ironjawz"
 			},
 			{
-				"text": "Kruleboyz",
-				"edition": 4
+				"text": "Kharadron Overlords"
 			},
 			{
-				"text": "Lumineth Realm-Lords",
-				"edition": 4
+				"text": "Kruleboyz"
 			},
 			{
-				"text": "Maggotkin of Nurgle",
-				"edition": 4
+				"text": "Lumineth Realm-Lords"
 			},
 			{
-				"text": "Nighthaunt",
-				"edition": 4
+				"text": "Maggotkin of Nurgle"
 			},
 			{
-				"text": "Ogor Mawtribes",
-				"edition": 4
+				"text": "Nighthaunt"
 			},
 			{
-				"text": "Ossiarch Bonereapers",
-				"edition": 4
+				"text": "Ogor Mawtribes"
 			},
 			{
-				"text": "Seraphon",
-				"edition": 4
+				"text": "Ossiarch Bonereapers"
 			},
 			{
-				"text": "Skaven",
-				"edition": 4
+				"text": "Seraphon"
 			},
 			{
-				"text": "Slaves to Darkness",
-				"edition": 4
+				"text": "Skaven"
 			},
 			{
-				"text": "Sons of Behemat",
-				"edition": 4
+				"text": "Slaves to Darkness"
 			},
 			{
-				"text": "Soulblight Gravelords",
-				"edition": 4
+				"text": "Sons of Behemat"
 			},
 			{
-				"text": "Stormcast Eternals",
-				"edition": 4
+				"text": "Soulblight Gravelords"
 			},
 			{
-				"text": "Sylvaneth",
-				"edition": 4
+				"text": "Stormcast Eternals"
 			},
 			{
-				"text": "Ulgurothi",
-				"edition": 4
+				"text": "Sylvaneth"
+			},
+			{
+				"text": "Ulgurothi"
 			}
 		],
 		"Season of War Series": {
-			"text": "Season of War Series",
-			"edition": 3
+			"text": "Season of War Series"
 		},
 		"Weird things happening": {
-			"text": "Weird things happening",
-			"edition": 3
+			"text": "Weird things happening"
 		}
 	},
 	"Warcry": "Warcry",
@@ -128,8 +101,7 @@
 	"Spearhead": "Spearhead",
 	"Warhammer Quest": {
 		"Darkwater": {
-			"text": "Darkwater",
-			"edition": 4
+			"text": "Darkwater"
 		}
 	}
 }

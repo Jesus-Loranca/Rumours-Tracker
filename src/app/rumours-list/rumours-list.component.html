@@ -2,8 +2,8 @@
 	<app-rumours-index [viewMode]="viewMode"></app-rumours-index>
 	<div class="container view-toggle-wrapper">
 		<div class="view-toggle-card" role="group" aria-label="Rumours view selector">
-			<a class="view-toggle-btn" [class.active]="viewMode === 'pending'" [routerLink]="['/rumours-list']" [queryParams]="{ view: null }">Active</a>
-			<a class="view-toggle-btn" [class.active]="viewMode === 'resolved'" [routerLink]="['/rumours-list']" [queryParams]="{ view: 'solved' }">Solved</a>
+			<a class="view-toggle-btn" [class.active]="viewMode === 'active'" [routerLink]="['/rumours-list']" [queryParams]="{ view: null }">Active</a>
+			<a class="view-toggle-btn" [class.active]="viewMode === 'solved'" [routerLink]="['/rumours-list']" [queryParams]="{ view: 'solved' }">Solved</a>
 		</div>
 	</div>
 	<app-rumours-list-items [viewMode]="viewMode"></app-rumours-list-items>

@@ -17,7 +17,7 @@
 
 				@for (category of section.categories; track category.id) {
 				<div class="category-block" [id]="category.id">
-					@if (!(section.section === null && section.categories.length === 1 && category.label === gameGroup.game)) {
+					@if (!(section.section === null && section.categories.length === 1 && category.label === gameGroup.game) && category.label !== "Battletomes") {
 					<div class="category-heading">
 						@if (getCategoryLogoUrl(category.label)) {
 						<img class="category-logo" [src]="getCategoryLogoUrl(category.label)" [alt]="category.label + ' logo'"

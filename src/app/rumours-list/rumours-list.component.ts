@@ -8,12 +8,12 @@ import { ActivatedRoute } from '@angular/router';
   styleUrls: ['./rumours-list.component.scss']
 })
 export class RumoursListComponent {
-  public viewMode: 'pending' | 'resolved' = 'pending';
+  public viewMode: 'active' | 'solved' = 'active';
 
   constructor(private readonly route: ActivatedRoute) {
     this.route.queryParamMap.subscribe(params => {
       const requestedView = params.get('view');
-      this.viewMode = requestedView === 'solved' ? 'resolved' : 'pending';
+      this.viewMode = requestedView === 'solved' ? 'solved' : 'active';
     });
   }
 }

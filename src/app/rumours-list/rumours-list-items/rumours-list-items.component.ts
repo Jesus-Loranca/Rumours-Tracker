@@ -9,7 +9,7 @@ import { RumoursListIndexService, RumourListEntry, RumoursListGameGroup } from '
 	styleUrl: './rumours-list-items.component.scss'
 })
 export class RumoursListItemsComponent {
-	private _viewMode: 'pending' | 'resolved' = 'pending';
+	private _viewMode: 'active' | 'solved' = 'active';
 
 	public rumours: RumourListEntry[] = Array.isArray(rumoursListData)
 		? rumoursListData as RumourListEntry[]
@@ -56,17 +56,17 @@ export class RumoursListItemsComponent {
 	}
 
 	@Input()
-	set viewMode(value: 'pending' | 'resolved') {
+	set viewMode(value: 'active' | 'solved') {
 		this._viewMode = value;
 		this.applyView();
 	}
 
-	get viewMode(): 'pending' | 'resolved' {
+	get viewMode(): 'active' | 'solved' {
 		return this._viewMode;
 	}
 
 	private applyView(): void {
-		this.groupedRumoursByGame = this.rumoursListIndexService.createGroupedRumoursByGame(this.rumours, this.viewMode === 'resolved');
+		this.groupedRumoursByGame = this.rumoursListIndexService.createGroupedRumoursByGame(this.rumours, this.viewMode === 'solved');
 	}
 
 	public getCategoryLogoUrl(label: string): string | null {

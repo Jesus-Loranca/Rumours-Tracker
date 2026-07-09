@@ -7,6 +7,7 @@ import { RumoursListItemsComponent } from './rumours-list-items/rumours-list-ite
 import { RumoursListItemComponent } from './rumours-list-item/rumours-list-item.component';
 import { SectionTitleComponent } from '../common/section-title/section-title.component';
 import { OrdinalPipe } from './ordinal.pipe';
+import { ListUrlPipe } from './listUrl.pipe';
 
 const routes: Routes = [
   { path: '', component: RumoursListComponent }
@@ -18,7 +19,8 @@ const routes: Routes = [
     CommonModule,
     RouterModule.forChild(routes),
     SectionTitleComponent,
-		OrdinalPipe
+		OrdinalPipe,
+		ListUrlPipe
   ]
 })
 export class RumoursListModule { }
