@@ -4214,6 +4214,122 @@
 		"legitRumour": true
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Battletomes",
+		"text": "The order of the upcoming preview tomes will be Tzeentch and Lumineth in February, and OBR after that",
+		"groupUnder": "Battletomes",
+		"message": {
+			"contents": [
+				"Lumineth and Tzeentch are next 2 tomes. February release. "
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8059#findComment-759527"
+		],
+		"rumourmonger": "Black_Hat",
+		"date": "2026-01-07",
+		"resolvedDate": "2026-01-16",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Lumineth Realm-Lords",
+		"text": "The new hero released in the 4th edition will be a Vanari foot hero",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"It is sadly a Vanari foot hero. "
+			],
+			"quotes": [
+				"If the information we have about Boole and Reformation is clear, no one doubts that. My comment is whether or not we go a little further. Because that seems to indicate that Lumineth is only bringing one hero... and if it's true that the one mentioned, \"Daixo,\" is a reality, it's very hard for me to believe they'd leave the Water Temple unfinished for lack of a single mage. I don't know, my opinion is that Lumineth could release a couple of kits and complete the Water Temple."
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8060#findComment-759553"
+		],
+		"rumourmonger": "Black_Hat",
+		"date": "2026-01-08",
+		"resolvedDate": "2026-01-30",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Disciples of Tzeentch",
+		"text": "The upcoming Spearhead will have more Tzaangors",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"Tzaangor spearhead "
+			],
+			"quotes": [
+				"Such Confidence!\n\nA possible new leaker/rumourmonger?\n\nAnything more?"
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8059#comment-759535"
+		],
+		"rumourmonger": "Black_Hat",
+		"date": "2026-01-08",
+		"resolvedDate": "2026-01-30",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Disciples of Tzeentch",
+		"text": "The new upcoming hero won't be a Tzaangor",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"As cool as a named Tzaangor hero would be. Its not what the hero is"
+			],
+			"quotes": [
+				"It would be really funny.\n\nEven better its named."
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8064#comment-759694"
+		],
+		"rumourmonger": "Black_Hat",
+		"date": "2026-01-08",
+		"resolvedDate": "2026-01-30",
+		"legitRumour": true
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
