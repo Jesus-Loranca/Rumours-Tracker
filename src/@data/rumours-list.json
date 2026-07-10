@@ -4067,6 +4067,153 @@
 		"legitRumour": true
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Fyreslayers",
+		"text": "Boole is back with new FS rumours. A new spearhead containing a Magmadroth (a new one?!) is coming!",
+		"groupUnder": "Khazalid Holds",
+		"message": {
+			"contents": [
+				"A gift? Strictly speaking, keeping secrets is a virtue\n\nBut...\n\nWell, I'm shamelessly lacking in morals\n\nWhat if I told you the new FS Spearhead might include a Magmadroth?"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8000#comment-757358"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-12-17",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Warhammer Underworlds",
+		"edition": 0,
+		"category": "",
+		"text": "The OBR warband will contain five miniatures",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"Btw, spoke with the same dude about the OBR warband. Five minis, \"nothing outstanding\". \"Just more OBR\"."
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8011#comment-757812"
+		],
+		"rumourmonger": "Ejecutor",
+		"date": "2025-12-22",
+		"resolvedDate": "2026-02-09",
+		"legitRumour": true
+	},
+	{
+		"game": "Warhammer Underworlds",
+		"edition": 0,
+		"category": "",
+		"text": "The OBR warband will be released in February",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"Next UW warband is OBR. Around Feb will be released."
+			],
+			"quotes": [
+				"Wait what warband? Its not the 4 new units we had rumoured right? That those 4 units only are 4 models? Pls tell me thats not the case."
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8012#findComment-757852"
+		],
+		"rumourmonger": "Ejecutor",
+		"date": "2025-12-22",
+		"resolvedDate": "2026-02-09",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ossiarch Bonereapers",
+		"text": "It seems that the rumour engine from the 23rd of December 2025 is part of the OBR archers",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"Having been cast down by the Lumineth, and now faltering before the tide of Skaven, hast thou gleaned any lesson from these trials?\n\nKatakros: Those Auralan Sentinels struck deep into the skulls of our commanders, and they remain a bane to legions of infantry. Indeed — we require more archers, who loose arrows kindled with soulfire."
+			],
+			"quotes": [
+				"[[image-2025-12-26_1.jpg]]\n\nFire, fire, pants on liar?\n\nSomething for Ogors maybe? The bottom of the picture looks like bone, but the spikes seem more Destruction than Death."
+			],
+			"images": [
+				"image-2025-12-26_1.jpg"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8021#findComment-758152"
+		],
+		"rumourmonger": "Boole",
+		"date": "2025-12-26",
+		"resolvedDate": "2026-01-16",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Battletomes",
+		"text": "The upcoming tomes that will be previewed in the New Year Preview will be OBR, LRL and Tzeentch",
+		"groupUnder": "Battletomes",
+		"message": {
+			"contents": [
+				"I wonder what the new Ossiarch, Lumineth and Tzeench teasers will be this preview?\n\nOr if people will like the Bloodbowl High Elves? "
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8037#findComment-758789"
+		],
+		"rumourmonger": "Whitefang back me up",
+		"date": "2026-01-01",
+		"resolvedDate": "2026-01-16",
+		"legitRumour": true
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
