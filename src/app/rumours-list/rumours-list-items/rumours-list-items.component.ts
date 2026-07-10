@@ -46,7 +46,7 @@ export class RumoursListItemsComponent {
 		'stormcast-eternals.png',
 		'sylvaneth.png',
 		'ulgurothi.png',
-		'underworlds.png',
+		'warhammer-underworlds.png',
 		'warcry.png',
 		'warhammer-quest.png'
 	];

@@ -2839,6 +2839,1234 @@
 		"legitRumour": true
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Blades of Khorne",
+		"text": "Khul is coming soon",
+		"groupUnder": "Ascended Khorgos Khul",
+		"message": {
+			"contents": [
+				"soon"
+			],
+			"quotes": [
+				"Maybe today will You bring any info about future Khul the ascended model? Amount of legs... Amount of axes... Does the end of his tail have stinger... Anything..."
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7906#comment-753751"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-21",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "A picture showing Jorvan's miniature",
+		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
+		"message": {
+			"contents": [
+				"Jorvan\n\n[[image-2025-11-20_1.png]]"
+			],
+			"quotes": [
+				""
+			],
+			"images": [
+				"image-2025-11-20_1.png"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7896#comment-753464"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-20",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "A more detailed list of the contents of the CoS Spearhead",
+		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
+		"message": {
+			"contents": [
+				"Sentinels Of Embergard:\n\nJorvan Kreel – Heir Of The Kraken\n\nMallus Forgepriest (a battlepriest bearing a massive polearm warhammer, a mask shrouds his visage)\n\n10 Freeguild Gallants (knights afoot, encased head-to-toe in plate, bearing shield and blade)\n\n10 Freeguild Grenadiers (clad in full panoply of war, all cloaked, armed with melee weapons and firearms — among them the one called Cindergout, wielding a mighty flamethrower)"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7899#comment-753542"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-21",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "Reformation contradicts Boole and says the Cogfort will be released in 2026",
+		"groupUnder": "A cogfort model is coming!",
+		"message": {
+			"contents": [
+				"Boole's information is inaccurate\n\nCogfort will release in 2026"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7900#comment-753577"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-21",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "CoS will also get faction terrain, three mages and gargants",
+		"groupUnder": "Cities of Sigmar will receive love",
+		"message": {
+			"contents": [
+				"CoS will get Cogfort, Gargants, Light Battlemage, Bright Battlemage, Amethyst Battlemage, and Faction Terrain ..."
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7900#comment-753578"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-21",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "Cogfort will be bigger than the Mega Gargant, and we might need four for listbuilding",
+		"groupUnder": "A cogfort model is coming!",
+		"message": {
+			"contents": [
+				"Cogfort model will exceed the scale of Mega-Gargants\n\nYou may need four Cogforts for list building"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7900#comment-753579"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-21",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "A picture of the Cogfort",
+		"groupUnder": "A cogfort model is coming!",
+		"message": {
+			"contents": [
+				"The Biggest\n\n[[image-2025-11-21_1.webp]]"
+			],
+			"quotes": [
+				""
+			],
+			"images": [
+				"image-2025-11-21_1.webp"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7901#comment-753598"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-21",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "The above picture shows multiple miniatures over the Cogfort",
+		"groupUnder": "A cogfort model is coming!",
+		"message": {
+			"contents": [
+				"This pic's had multiple Freeguild commanders, several dozen Freeguild troops, a super cannon, flamethrowers, and heavy gatling guns"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7901#comment-753607"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-21",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "Duardins and Aelves will still be usable in the new CoS tome",
+		"groupUnder": "Cities of Sigmar multiculturality",
+		"message": {
+			"contents": [
+				"i think so\n\nbut you can still use aelves and duardins in New CoS Battletome\n\nalright\n\ni need to go to sleep"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7903#comment-753652"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-21",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "Flagellants will be legended, but they could come back soon (5th edition?)",
+		"groupUnder": "Flagellants",
+		"message": {
+			"contents": [
+				"legends but soon ..."
+			],
+			"quotes": [
+				"@Reformation and our Flagellants? New miniatures or in legends?"
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7906#comment-753756"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-21",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "A description and an image of the Grenadiers",
+		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
+		"message": {
+			"contents": [
+				"Freeguild Grenadiers\n\nHe hefts his greatbore musket upon the haft of his pole-axe to loose its shot\n\nYou can see the intricate helm and battleplate that adorn him, and the greatcloak that shrouds his form from crown to heel\n\n[[image-2025-11-22_1.webp]]"
+			],
+			"quotes": [
+				""
+			],
+			"images": [
+				"image-2025-11-22_1.webp"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7910#comment-753849"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-22",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "Another image of the Cogfort and an image of the Freeguild Gargant",
+		"groupUnder": "A cogfort model is coming!",
+		"message": {
+			"contents": [
+				"She gave me last 2 pics\n\nmight be CoS?\n\n[[image-2025-11-22_2.webp]]\n\n[[image-2025-11-22_3.webp]]"
+			],
+			"quotes": [
+				""
+			],
+			"images": [
+				"image-2025-11-22_2.webp",
+				"image-2025-11-22_3.webp"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7912#comment-753938"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-22",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "A description of the Freeguild Gargant",
+		"groupUnder": "Cities of Sigmar multiculturality",
+		"message": {
+			"contents": [
+				"this is a Gargant in full panoply of war\n\nIn one fist he brandishes a colossal melee weapon, in the other a wrenched city gate",
+				"Upon his back rests a mighty platform, manned by knights afoot in full plate who crew the heavy cannon"
+			],
+			"quotes": [
+				"",
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7915#comment-754022",
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7915#comment-754023"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-22",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "Freeguild Gargant has more than one model",
+		"groupUnder": "Cities of Sigmar multiculturality",
+		"message": {
+			"contents": [
+				"Not gonna lie, that's a solid question. But the answer's already in the question — I'm not touching that one.\n\nTell you what though, as a consolation prize: Freeguild Gargants aren’t 1 model"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7915#comment-754041"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-22",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "A new mage unit is described! Erasmus Zonn",
+		"groupUnder": "Cities of Sigmar will receive love",
+		"message": {
+			"contents": [
+				"Erasmus Zonn - The Enlightened One\n\nFounder and Master of The Lucid Fellows\n\nThe mightiest of mortal mages, Keeper of Forbidden Lore, Great Sage of the Illuminated\n\nHe mounts a chimera of fell cunning, leading the uprising of humankind against Lumineth hypocrisy and tyranny",
+				"Wrought from Settler's Gain, his sovereign mastery of the arcane proved such that neither Teclis nor the Tzeentch could turn their gaze from him. His renown echoes throughout Hysh, and upon this foundation he has raised an order to defy the Lumineth.\n\nThough the Lumineth have woven many a scheme to see him undone, each has been unraveled by his wisdom. He bears an Artifact of terrible might — the Lantern of All-Knowledge.\n\nNow the Lumineth seek to unseat him through a ploy of peaceful subversion — a design that plays directly into his stratagems. He has compelled them to treat justly with the other races of Settler's Gain, and taught them a measure of humility — or at the least, the semblance of it in his presence.",
+				"He alone of mortal kind may tread the Edge of Realms unscathed, plucking ancient lore and secrets even gods struggle to fathom\n\nPerhaps others can enter the Edge of Realms, but that's what she told me\n\nI'm just relaying it"
+			],
+			"quotes": [
+				"",
+				"",
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7919#comment-754064",
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7920#comment-754102",
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7920#comment-754103"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-22",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "The humans in Settler's Gain will revolt against the Lumineth because of the way the Aelves treated them",
+		"groupUnder": "Cities of Sigmar will receive love",
+		"message": {
+			"contents": [
+				"Erasmus Zonn - The Enlightened One\n\nFounder and Master of The Lucid Fellows\n\nThe mightiest of mortal mages, Keeper of Forbidden Lore, Great Sage of the Illuminated\n\nHe mounts a chimera of fell cunning, leading the uprising of humankind against Lumineth hypocrisy and tyranny"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7916#comment-754064"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-22",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "Rules from Erasmus Zonn",
+		"groupUnder": "Cities of Sigmar will receive love",
+		"message": {
+			"contents": [
+				"Lantern of All-Knowledge:\n\nIf he is wholly within 9'' of a corner of the battlefield\n\nHe can use four effects\n\n1: All friendly CoS units which wholly within 6'' of him are not visible to enemy units more than 6'' from them\n\n2: Power Level 1 → 2\n\n3: Add 2 to his casting rolls\n\n4: Add 3 to his ranged weapon Attacks, and make his ranged weapon Dmg to 3",
+				"His Ranged Weapon: Crit 2Hits\n\nRng10 Atk5 Hit3+ Wnd3+ Rnd2 DmgD3"
+			],
+			"quotes": [
+				"",
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7920#comment-754184",
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7920#comment-754187"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-22",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "Cogforts can be used in four GA, usable by all factions. It has 6 different warscrolls",
+		"groupUnder": "A cogfort model is coming!",
+		"message": {
+			"contents": [
+				"It has dedicated rules assigned to the Four Great Alliance, usable by all factions\n\nOh, and it comes with 6 different Warscrolls\n\nI'm afraid CoS armies should probably get at least 4 Cogforts — gotta say\n\nH25?\n\nSave3+? "
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7921#comment-754205"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-23",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "What's in the core of a Cogfort is a secret, even for the other gods who covet to know it. They are forged by the Ironweld Arsenal",
+		"groupUnder": "A cogfort model is coming!",
+		"message": {
+			"contents": [
+				"They were all forged by Ironweld Arsenal, with their cores being top secret, coveted even by the gods"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7924#comment-754221"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-23",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "A couple of new pictures. The first one looks to be part of the Cogfort crew (because of the transfer), and the second one could be the Gallants",
+		"groupUnder": "A cogfort model is coming!",
+		"message": {
+			"contents": [
+				"I realized I forgot to post these two pictures\n\nI'm not quite sure what they are\n\nmaybe they're gallants\n\n[[image-2025-11-23_1.jpg]]\n\n[[image-2025-11-23_2.webp]]"
+			],
+			"quotes": [
+				""
+			],
+			"images": [
+				"image-2025-11-23_1.jpg",
+				"image-2025-11-23_2.webp"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7925#comment-754243"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-23",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Daughters of Khaine",
+		"text": "Krethusa will bend her knee to Morathi",
+		"groupUnder": "Daughters of Khaine will get love in 4th edition",
+		"message": {
+			"contents": [
+				"Krethusa? No\n\nShe hath bent her knee to Morathi — every rebellion shattered, every defiance undone\n\nThe Aelf Gods stir in their slumber, and she must now choose her allegiance"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7899#comment-753552"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-21",
+		"resolvedDate": "2026-03-16",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Daughters of Khaine",
+		"text": "The new DoK minis will have dual builds to be built for Morathi or Krethusa",
+		"groupUnder": "Daughters of Khaine will get love in 4th edition",
+		"message": {
+			"contents": [
+				"She and she — their coven shall unveil some new miniatures\n\nYou can choose two variants when building: Krethusa or Morathi"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7899#comment-753556"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-21",
+		"resolvedDate": "2026-03-02",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Daughters of Khaine",
+		"text": "DoK won't get kits replaced with the upcoming tome",
+		"groupUnder": "Daughters of Khaine will get love in 4th edition",
+		"message": {
+			"contents": [
+				"Non"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7909#findComment-753757"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-21",
+		"resolvedDate": "2026-03-02",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Disciples of Tzeentch",
+		"text": "Tzeentch will receive a Silver Tower as their terrain, and it will be huge",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"i think…\n\nSliver Tower?",
+				"Just confirmed\n\nHuge terrain"
+			],
+			"quotes": [
+				"",
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7914#comment-753920",
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7916#comment-753981"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-22",
+		"resolvedDate": "2026-01-30",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Fyreslayers",
+		"text": "Khazalid holds will be the last tome of the edition",
+		"groupUnder": "Khazalid Holds",
+		"message": {
+			"contents": [
+				"Khazalid will be the last one"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7899#comment-753544"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-21",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Fyreslayers",
+		"text": "Khazalid could have new demigod miniatures like Thorgrim",
+		"groupUnder": "Khazalid Holds",
+		"message": {
+			"contents": [
+				"-"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7902#comment-753620"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-21",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Fyreslayers",
+		"text": "Gotrek will join FS officially, and they will have new FS units",
+		"groupUnder": "Khazalid Holds",
+		"message": {
+			"contents": [
+				"No\n\nGotrek will be together with new FS units"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7902#comment-753627"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-21",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Fyreslayers",
+		"text": "A blurry picture of a Magmadroth",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"I think...\n\nthis might be FS\n\nI'm not sure\n\n[[image-2025-11-22_4.png]]",
+				"I asked the provider\n\nit might be a Magmadroth\n\nthat's all I know"
+			],
+			"quotes": [
+				"",
+				""
+			],
+			"images": [
+				"image-2025-11-22_4.png"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7914#comment-753911",
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7914#comment-753918"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-22",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Hedonites of Slaanesh",
+		"text": "Slaanesh will have only a foot hero this edition",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"No\n\nfoot hero"
+			],
+			"quotes": [
+				"@Reformation\n\nWill we finally have the chance to have a Sybarite hero on a mount for the Hedonites of Slaanesh?"
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7904#comment-753619"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-21",
+		"resolvedDate": "2026-05-25",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Kruleboyz",
+		"text": "Nothing on the pipe known for the KB",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"No"
+			],
+			"quotes": [
+				"Anything for KB in the queue? @Reformation"
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7902#comment-753630"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-21",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Lumineth Realm-Lords",
+		"text": "Hoeth gets mentioned",
+		"groupUnder": "Aelven Pantheon",
+		"message": {
+			"contents": [
+				"Hoeth"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7899#comment-753557"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-21",
+		"resolvedDate": "2026-01-30",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ogor Mawtribes",
+		"text": "A new Ogors picture dropped",
+		"groupUnder": "Ogor Mawtribes refresh",
+		"message": {
+			"contents": [
+				"new ogor\n\n[[image-2025-11-18_1.png]]"
+			],
+			"quotes": [
+				"Do you have some juicy aos rumours?"
+			],
+			"images": [
+				"image-2025-11-18_1.png"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7890#comment-753158"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-18",
+		"resolvedDate": "2026-07-06",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ossiarch Bonereapers",
+		"text": "It seems they will get 4 kits. Two single miniature kits, one with 5 miniatures and another one with 10",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"1\n\n1\n\n5\n\n10"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7906#comment-753750"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-21",
+		"resolvedDate": "2026-01-16",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Skaven",
+		"text": "A picture from Crixxit's miniature",
+		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
+		"message": {
+			"contents": [
+				"Deathmaster Crixxit\n\n[[image-2025-11-20_2.webp]]"
+			],
+			"quotes": [
+				""
+			],
+			"images": [
+				"image-2025-11-20_2.webp"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7895#comment-753442"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-20",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Skaven",
+		"text": "We have the full list of the spearhead minis",
+		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
+		"message": {
+			"contents": [
+				"Crixxit’s Kill-Pack:\n\nDeathmaster Crixxit\n\nDeathmaster\n\n10 Gutter Runners\n\n10 Night Runners"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7905#comment-753728"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-21",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ulgurothi",
+		"text": "Reformation reassures Malerion coming soon",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"Soon"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7900#comment-753581"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-21",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Warcry",
+		"edition": 0,
+		"category": "",
+		"text": "Spearhead could replace Warcry",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"I think......\n\nReplaced by Spearhead?\n\nMaybe......"
+			],
+			"quotes": [
+				"Hi, some info about warcry future / reincarnation?"
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7908#findComment-753749"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-21",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Warhammer Underworlds",
+		"edition": 0,
+		"category": "",
+		"text": "OBR maybe has a new warband coming",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"-"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7902#comment-753620"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-21",
+		"resolvedDate": "2026-02-09",
+		"legitRumour": true
+	},
+	{
+		"game": "Warhammer Underworlds",
+		"edition": 0,
+		"category": "",
+		"text": "Nighthaunt Noob (our in-house Underworlds oracle) is back and posted another hint towards the OBR warband via a post and a like when OBR was mentioned regarding his own post",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"[[image-2025-11-27_2.png]]"
+			],
+			"quotes": [
+				"We need to summon him!\n\n[[image-2025-11-27_1.gif]]"
+			],
+			"images": [
+				"image-2025-11-27_1.gif",
+				"image-2025-11-27_2.png"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7946#findComment-755191"
+		],
+		"rumourmonger": "Nighthaunt Noob",
+		"date": "2025-11-27",
+		"resolvedDate": "2026-02-09",
+		"legitRumour": true
+	},
+	{
+		"game": "Warhammer Underworlds",
+		"edition": 0,
+		"category": "",
+		"text": "More info gets dropped, looks like the next UW warband will be OBR",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"Btw, unusual kind of message from me, but I got confirmation from someone about the OBR UW warband. I even got a date, but I cannot share it just in case."
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7951#comment-755377"
+		],
+		"rumourmonger": "Ejecutor",
+		"date": "2025-11-29",
+		"resolvedDate": "2026-02-09",
+		"legitRumour": true
+	},
+	{
+		"game": "Spearhead",
+		"edition": 0,
+		"category": "",
+		"text": "Spearhead miniatures count could be lowered and follow the number of minis of the CoS vs Eshin ones",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"-"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=7909#findComment-753755"
+		],
+		"rumourmonger": "Reformation",
+		"date": "2025-11-21",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
