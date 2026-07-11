@@ -4564,6 +4564,272 @@
 		"legitRumour": true
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "Maybe a subtle hint about Nagash coming back in the 5th edition?",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"WOW\n\nRATS\n\nI HATE THEM ALL\n\n- NAGASH "
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8190#findComment-764086"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-02-13",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "Boole confirms that Cities will receive more units than the Skavens, their spearhead starter set counterpart",
+		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
+		"message": {
+			"contents": [
+				"Of course\n\nCoS will have more new units than Skaven\n\nWait, i heard some voices under my bed?"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8191#comment-764099"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-02-13",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "We also have an image as a hint about how the Cities of Sigmar terrain will look",
+		"groupUnder": "Cities of Sigmar will receive love",
+		"message": {
+			"contents": [
+				"I don't think I said that\n\nHmm…\n\nWho said that?\n\nWell, actually…\n\nENLARGE THEM\n\n[[image-2026-02-13_1.jpg]]"
+			],
+			"quotes": [
+				"I remembered something to ask. Any clues on what the cities terrain is?"
+			],
+			"images": [
+				"image-2026-02-13_1.jpg"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8191#comment-764119"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-02-13",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "The faction terrain could be something similar in concept to the Guardian Idol",
+		"groupUnder": "Cities of Sigmar will receive love",
+		"message": {
+			"contents": [
+				"I'm thinking a guardian Idol type deal."
+			],
+			"quotes": [
+				"A barricade made of shields or something?"
+			],
+			"images": [],
+			"isReaction": true
+		},
+		"isLike": false,
+		"isThanks": true,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8192#comment-764127"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-02-13",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Skaven",
+		"text": "A new addition: The description of the units on the Skaven side of the spearhead starter",
+		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
+		"message": {
+			"contents": [
+				"Rumour with real warpstone bits in it 🐀\n\nA guy on my french forum knows someone who is working on a project related to AoS, and he showed him the new Eshin spearhead contents (description below is taken from his own words) :\n\nA box set containing two troops : night runners and Eshin skaven assassins.\n\n- Night runners with slingshots and melee weapons, accompanied by swarms of small rats carrying bombs (same base size as the gutter runners).\n\n- As for the gutter runners, I mainly saw the leader or the special guy in the gang :\n\nHe wears a rat skull as a helmet. On his back, he has a generator (a sphere containing warpstone) connected to blades.\n\nThe rest of the troop wear fairly basic hoods."
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8188#comment-764004"
+		],
+		"rumourmonger": "Draznak",
+		"date": "2026-02-12",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Skaven",
+		"text": "Rats swarm minis will be part of the spearhead",
+		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
+		"message": {
+			"contents": [
+				"So, I asked our informant if his source had seen anything for COS, but unfortunately, no. He hadn't worked on it. 😭\n\nOtherwise, the poses of skaven minis are fairly simple : some are running, others are leaping. And there are two rats swarms in the box."
+			],
+			"quotes": [
+				"Sadly, nothing more than what I have relayed so far."
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8188#findComment-764028"
+		],
+		"rumourmonger": "Draznak",
+		"date": "2026-02-13",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Skaven",
+		"text": "Boole confirms the description given by Draznak and throws his own description",
+		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
+		"message": {
+			"contents": [
+				"Alright, so here's the deal with the Gutter Runners — they're absolutely decked out\n\nEvery single one's got their face covered up (gas masks, bandages, you name it), all draped in these massive black cloaks\n\nTwo of them really stand out:\n\n· The Leader's lurking on a wooden plank from a collapsed building, weeping blade in his right hand, helmet on — straight-up giving off Deathmaster vibes \n\n· Another one's rocking a skull helmet, hauling a green poison tank on his back, tubes running down to what look like katar(?) on both hands\n\nThe rest are no slouch either:\n\n· Five with short blades (two of them dual-wielding)\n\n· One with a bladed tonfa\n\n· One lunging forward, holding two tekko kagi\n\n· And there's this gas-mask guy — honestly no clue what weapon he's carrying\n\nOh, and they also come with two giant rats tokens — each token's a base with a couple of giant rats strapped with bombs on their backs\n\nYep, two of those"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8190#findComment-764087"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-02-13",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Skaven",
+		"text": "More descriptions for the units on the Skaven side of the Spearhead starter set",
+		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
+		"message": {
+			"contents": [
+				"Night Runners — they're basically ninjas\n\nNo capes. Instead, they're decked out in full-body black bodysuits (hands and feet exposed though)\n\nTwo types of masks: one that just shows the eyes, and the classic Skaven mask (eyes and mouth exposed)\n\nTheir Leader's wearing a helmet, dual-wielding a Kusarigama — scythe on the left end, Meteor Hammer as the counterweight on the right\n\nThey've got a ton of weapon loadouts:\n\nBoth hands with Kusarigama like the Leader's, short blade in left hand + sling in right, just a sling in one hand, just a dagger in one hand, just a Shuriken in one hand, Shuriken in left + dagger in right, Nunchaku in one hand... you get the idea\n\nAnd most of them, like the Gutter Runners, also have weapons strapped to their tails\n\nPretty clear they're a whole different thing from Gutter Runners\n\nThese guys are Shin Ninjas",
+				"-"
+			],
+			"quotes": [
+				"",
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8193#findComment-764155",
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8193#findComment-764157"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-02-14",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Warhammer Underworlds",
+		"edition": 0,
+		"category": "",
+		"text": "The next UW warband will be made out of aelves",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"Basically the guy who told me details about the last UW OBR warband told me the next one is about aelves, but without details.\n\nHe thinks they are Lumineth, but because of the same we think it is Lumi, because they are the ones lacking one."
+			],
+			"quotes": [
+				"I'm also curious, what are the things pointing towards aelves? And do we have any idea what flavour of aelf? Lumineth still only have the one warband afaik, idoneth have 2, DoK do have quite a bit, and sylvaneth just got a new one. Lumineth seems the most likely then?"
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8280#findComment-766941"
+		],
+		"rumourmonger": "Ejecutor",
+		"date": "2026-03-02",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
