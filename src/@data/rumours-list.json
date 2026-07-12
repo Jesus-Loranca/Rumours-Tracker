@@ -5333,6 +5333,125 @@
 		"legitRumour": true
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "Confirmation about the Cannonade Cogfort and the Conqueror Cogfort, and some other details",
+		"groupUnder": "A cogfort model is coming!",
+		"message": {
+			"contents": [
+				"Have ye heard tell of the Cannonade Cogfort? Or the Conqueror Cogfort?\n\nAye, I have heard the tales — these Cogforts have levelled countless lands. No foe can withstand the first's Godbreaker Cannon, nor be spared being crushed to dust beneath the second's Realmscorcher Flame Cannon after being burnt to ash!\n\nThou hast only heard the tales — I have faced them myself and torn one asunder! This very door — ah, I remember it well. I marched then in the retinue of a Chaos Lord, when that Cogfort manifested before us wreathed in arcane light. After its flames of Rend2 had consumed the charging Chaos Chosen in a storm of 6D6 Attacks, this door swung open, and forth poured a host of Freeguild Gallants. They hammered the Chaos Lord into the dust with their warhammers — a grim sight it was, most grievous…"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8329#comment-768453"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-03-10",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "We already know Gallants would have sword and shield, but they can also have warhammers!",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"They bear Weapons of Gallantry — aye, in one hand a warhammer or longsword, in the other a towering shield held high. And when any warrior pours forth from the Conqueror Cogfort, they gain +1 Damage — a fearsome thing it is!"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8329#comment-768475"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-03-10",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "Two more names for the Cogfort: Immolator and Linebreaker",
+		"groupUnder": "A cogfort model is coming!",
+		"message": {
+			"contents": [
+				"Which number do you guys prefer?\n\n2?\n\n3?\n\nNah\n\nI prefer 4!\n\nOh wait\n\nMaybe 6?\n\nImmolator!\n\nLinebreaker!"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8333#comment-768580"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-03-11",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "Looks like all factions will be able to use the Cogfort via RoR",
+		"groupUnder": "A cogfort model is coming!",
+		"message": {
+			"contents": [
+				"I was the one who felled that fortress-cogfort and claimed it as my own — that is why I am a Chaos Lord, boy. Mark well and learn. This very cogfort upon which we now ride, I took by strength of arm!\n\nThough it has since suffered sundry minor alterations at the hands of Skaven, yet the rat-things' repairs have at least set it once more upon its legs. The Realmscorcher Flame Cannon functions still. We shall soon reach Hammerhal, boy — take up your arms. Once we have shattered their lines, we shall burst forth from this very cogfort!\n\n(Yes, even the forces of Slaves to Darkness shall enjoy +1 Damage, and Rat Ogors, Bladegheists, Ironguts alike may claim this boon from the cogforts.)",
+				"Well, actually…\n\nThis ability only works on infantry units from the following factions:\n\nBlades of Khorne\n\nDisciples of Tzeentch\n\nHedonites of Slaanesh\n\nMaggotkin of Nurgle\n\nFlesh-Eater Courts\n\nNighthaunt\n\nOssiarch Bonereapers\n\nSkaventide\n\nSlaves to Darkness\n\nHelsmiths of Hashut\n\nSoulblight Gravelords\n\nGloomspite Gitz\n\nOgor Mawtribes\n\nKharadron Overlords\n\nLumineth Realm-lords\n\nSeraphon\n\nStormcast Eternals\n\nIronjawz\n\nKruleboyz\n\nCities of Sigmar\n\nDaughters of Khaine\n\nFyreslayers\n\nIdoneth Deepkin\n\nSylvaneth\n\nSons of Behemat (yes, even them)"
+			],
+			"quotes": [
+				"",
+				"So, all the infantry can get +1 damege, right?"
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8333#findComment-768583",
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8333#findComment-768587"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-03-11",
+		"resolvedDate": "2026-03-26",
+		"legitRumour": true
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
