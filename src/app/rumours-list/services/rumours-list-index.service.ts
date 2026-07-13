@@ -19,6 +19,7 @@ export interface RumourListEntry {
   isLoveIt: boolean;
   isSadFace: boolean;
 	isConfusedFace: boolean;
+	isLaughFace: boolean;
   source: string[];
   rumourmonger: string;
   date: string;

@@ -22,6 +22,8 @@ export class RumoursListItemComponent {
 				return '😢';
 			case rumour.isConfusedFace:
 				return '😕';
+			case rumour.isLaughFace:
+				return '​😄​';
 			default:
 				return '❤️';
 		}
