@@ -28,4 +28,13 @@ export class RumoursListItemComponent {
 				return '❤️';
 		}
 	}
+
+	isRecentRumour(rumour: RumourListEntry): boolean {
+		const rumourDate = new Date(rumour.date);
+		const now = new Date();
+		const diffMs = now.getTime() - rumourDate.getTime();
+		const diffDays = diffMs / (1000 * 60 * 60 * 24);
+
+		return diffDays <= 31;
+	}
 }

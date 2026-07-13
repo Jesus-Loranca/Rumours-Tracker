@@ -11,6 +11,9 @@
 			@if (rumour.edition) {
 				<span class="edition-pill">{{ rumour.edition | ordinal }} Edition</span>
 			}
+			@if (isRecentRumour(rumour)) {
+				<span class="recent-badge">- RECENT 🔥</span>
+			}
 		</a>
 	} @else {
 		<span>
@@ -23,6 +26,9 @@
 			}
 			@if (rumour.edition) {
 				<span class="edition-pill">{{ rumour.edition | ordinal }} Edition</span>
+			}
+			@if (isRecentRumour(rumour)) {
+				<span class="recent-badge">- RECENT 🔥</span>
 			}
 		</span>
 	}
