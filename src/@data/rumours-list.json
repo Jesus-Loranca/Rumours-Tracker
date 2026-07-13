@@ -6914,6 +6914,122 @@
 		"legitRumour": true
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "Boole gives more information about the 5 brand new \"factions\" and about other rule changes",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"We've been buried in all sorts of work the past couple weeks — prices on goods and fuel keep climbing, so we've had to pick up extra shifts, you know how it is…\n\nWe noticed a lot of you are really interested in one thing, so we figured we should explain — about those 5 new factions\n\nThey've got one illustration, a short lore paragraph, and a pin on the map — nothing else special\n\nGotta say, their situation's a bit better than the silent people, but that's about it\n\nAs for the 5th core rules — we think there are some big changes\n\nObviously it's still built on AoS 4th, but we definitely see some 40K 10th and WHFB 8E in there\n\nHard to say if that's good or bad\n\nBut about the double turn…\n\nhaha, good luck to it"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=221#findComment-783520"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-04-13",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "It looks like the magic rules will change a bit in 5th edition",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"yeah\n\nMagic\n\nPrayers\n\nI can't quite describe it exactly — but it's undoubtedly completely different from the current AoS Spell and Prayer rules"
+			],
+			"quotes": [
+				"@Boole What on earth could come from Fantasy 8th?\n\nThe only possibilities I can even think of that could be in the game at all are around dice pools for magic or the return of some form of psychology.\n\nEdit - I guess a stretch could be some incentive/army building around larger blocks of less-elite infantry."
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=223#findComment-783623"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-04-13",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 5,
+		"category": "New Edition",
+		"text": "It seems Ulgurothi's (Malerion's army) were ready some time ago, but there's no mention of them in TLW",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"Here is his full message:\n\n“That's something I've been wondering about too — there's currently no mention of Malerion anywhere in the text\n\nOver in Ulguroth, they only introduce Morathi, which is kind of strange, since the Umbraneth were basically ready to go a long time ago...”\n\nI don't know anything else. I won't say his username, as I promised, but he is one of our biggest rumour‑mongers — you all know him.😉"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/43348-central-thread-about-malerion-and-shadow-aelves/?page=8#findComment-782252"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-04-07",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Ulgurothi",
+		"text": "It seems Ulgurothi's (Malerion's army) were ready some time ago, but there's no mention of them in TLW",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"Here is his full message:\n\n“That's something I've been wondering about too — there's currently no mention of Malerion anywhere in the text\n\nOver in Ulguroth, they only introduce Morathi, which is kind of strange, since the Umbraneth were basically ready to go a long time ago...”\n\nI don't know anything else. I won't say his username, as I promised, but he is one of our biggest rumour‑mongers — you all know him.😉"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/43348-central-thread-about-malerion-and-shadow-aelves/?page=8#findComment-782252"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-04-07",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
