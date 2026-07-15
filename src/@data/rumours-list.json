@@ -7093,7 +7093,7 @@
 		"game": "Warhammer Underworlds",
 		"edition": 0,
 		"category": "",
-		"text": "The upcoming Underworlds box cotaining 2 warbands will be released in September",
+		"text": "The upcoming Underworlds box cotaining two warbands will be released in September",
 		"groupUnder": "",
 		"message": {
 			"contents": [
@@ -7464,6 +7464,66 @@
 		],
 		"rumourmonger": "Whitefang",
 		"date": "2026-07-10",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Sons of Behemat",
+		"text": "Boole confirms a new unique gargant with two monsters (matriarch?) and an army set with two mega gargants",
+		"groupUnder": "Sons of Behemat 4th edition release",
+		"message": {
+			"contents": [
+				"we were planning to wait until the end of the year to come back, but didn't expect leaks to happen — so let us also share some interesting rumours\n\nthese contents aren't entirely accurate, you know 😜\n\nsons of behemat army sets\n\nIncludes two complete Mega-Gargants\n\nnew mancrusher gargants\n\nas you can see now, taller and bigger, models more refined, with plenty of kits\n\nNEWUNIQUE GARGANT with two monsters\n\nyes, it will be a separate box of models\n\nRemember, rumours are rumours, have a great day!"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8971#findComment-797858"
+		],
+		"rumourmonger": "Boole",
+		"date": "202-07-15",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Fyreslayers",
+		"text": "A new unique FS hero riding a named magmadroth is coming for Fyreslayers!",
+		"groupUnder": "Khazalid Holds",
+		"message": {
+			"contents": [
+				"Well\n\nWe've already mentioned some rumours, like\n\nFyreslayers and Khazalid being combined into the same battletome, similar to how Skaven have different clans \n\nAnd Fyreslayers will be getting a new unique hero who fights alongside his unique magmadroth \n\nRemember, rumours are rumours AGAIN"
+			],
+			"quotes": [
+				"Hi @boole - I'm sure you can see from the thread a lot of discussion on the fyreslayers / Khazalid.\n\nPlease can you drop in just 1 small something for us duardin fans to tide us over? Its proving a long wait for us"
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8972#findComment-797884"
+		],
+		"rumourmonger": "Boole",
+		"date": "202-07-15",
 		"resolvedDate": "",
 		"legitRumour": true
 	},
