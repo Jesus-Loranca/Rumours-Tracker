@@ -7092,8 +7092,8 @@
 	{
 		"game": "Warhammer Underworlds",
 		"edition": 0,
-		"category": "The upcoming Underworlds box cotaining 2 warbands will be released in September",
-		"text": "",
+		"category": "",
+		"text": "The upcoming Underworlds box cotaining 2 warbands will be released in September",
 		"groupUnder": "",
 		"message": {
 			"contents": [
