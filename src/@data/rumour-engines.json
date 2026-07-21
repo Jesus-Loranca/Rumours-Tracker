@@ -12078,5 +12078,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2026-07-21",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/dz7jzsva/the-rumour-engine-21st-of-july/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2026-07-21.jpg",
+			"cdn": "https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/rumourengine-jul21-0-content-57wbvbkndv.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2026-07-21-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
