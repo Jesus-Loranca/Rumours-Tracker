@@ -12001,23 +12001,23 @@
 	},
 	{
 		"date": "2026-06-23",
-		"resolvedDate": "",
+		"resolvedDate": "2026-07-24",
 		"link": "https://www.warhammer-community.com/en-gb/articles/fnkjbbfu/the-rumour-engine-23rd-of-june/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/uhr5gtx8/new-warhammer-miniatures-revealed-subscribers-now-get-both/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2026-06-23.jpg",
 			"cdn": "https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/rumourengine-jun23-0-content-czsfs3om4g.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "The Plague Knight's Burden",
 			"link": "",
 			"image": {
 				"url": "2026-06-23-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/image2-uqd3omgkvj.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Chaos", "Maggotkin of Nurgle"]
 	},
 	{
 		"date": "2026-06-30",
