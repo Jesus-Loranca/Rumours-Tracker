@@ -12021,63 +12021,63 @@
 	},
 	{
 		"date": "2026-06-30",
-		"resolvedDate": "",
+		"resolvedDate": "2026-07-27",
 		"link": "https://www.warhammer-community.com/en-gb/articles/fnkjbbfu/the-rumour-engine-30th-of-june/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/jgxqfhcz/cleanse-the-mortal-realms-with-the-new-warhammer-heroes/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2026-06-30.jpg",
 			"cdn": "https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/rumourengine-jun30-0-content-rr5wememea.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Warhammer Heroes: Serie 7",
 			"link": "",
 			"image": {
 				"url": "2026-06-30-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/27-07_image1-0r3spiiork.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Order", "Cities of Sigmar"]
 	},
 	{
 		"date": "2026-07-07",
-		"resolvedDate": "",
+		"resolvedDate": "2026-07-27",
 		"link": "https://www.warhammer-community.com/en-gb/articles/oeyrac1k/the-rumour-engine-7th-of-july/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/jgxqfhcz/cleanse-the-mortal-realms-with-the-new-warhammer-heroes/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2026-07-07.jpg",
 			"cdn": "https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/rumourengine-jul07-0-content-rryonhnapk.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Warhammer Heroes: Serie 7",
 			"link": "",
 			"image": {
-				"url": "2026-07-07-miniature.jpg",
-				"cdn": ""
+				"url": "2026-06-30-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/27-07_image1-0r3spiiork.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Order", "Cities of Sigmar"]
 	},
 	{
 		"date": "2026-07-14",
-		"resolvedDate": "",
+		"resolvedDate": "2026-07-27",
 		"link": "https://www.warhammer-community.com/en-gb/articles/2ypwivjr/the-rumour-engine-14th-of-july/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/jgxqfhcz/cleanse-the-mortal-realms-with-the-new-warhammer-heroes/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2026-07-14.jpg",
 			"cdn": "https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/rumourengine-jul14-0-content-oevvka6jhk.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Warhammer Heroes: Serie 7",
 			"link": "",
 			"image": {
-				"url": "2026-07-14-miniature.jpg",
-				"cdn": ""
+				"url": "2026-06-30-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/27-07_image1-0r3spiiork.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Order", "Cities of Sigmar"]
 	},
 	{
 		"date": "2026-07-21",
