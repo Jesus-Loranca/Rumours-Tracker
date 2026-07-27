@@ -7528,6 +7528,36 @@
 		"legitRumour": true
 	},
 	{
+		"game": "Warhammer Underworlds",
+		"edition": 0,
+		"category": "",
+		"text": "There's no Cities of Sigmar warband among the ones releasing in September.",
+		"groupUnder": "",
+		"message": {
+			"contents": [
+				"I've been told it is not CoS.\n\nMy next bet is either the store/ event mini for 2027, or the wizard cogfort rumours by @75hastings69 are real."
+			],
+			"quotes": [
+				"Good call, a CoS warband seems very likely"
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=9011#findComment-799776"
+		],
+		"rumourmonger": "Ejecutor",
+		"date": "2026-07-27",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
