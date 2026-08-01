@@ -11931,10 +11931,10 @@
 		},
 		"miniature": {
 			"name": "Goliath Forge Smelters",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/necromunda-skirmish-core-set-2026-eng",
 			"image": {
-				"url": "2026-05-26-miniature.png",
-				"cdn": "https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/26-06_10_carouselb2-k70ngb3mcg.png"
+				"url": "2026-05-26-miniature.jpg",
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/60010599006_ENGNecromundaSkirmishGame3.jpg"
 			}
 		},
 		"tags": ["40.000", "Necromunda", "Goliath"]
@@ -12030,7 +12030,7 @@
 			"cdn": "https://assets.warhammer-community.com/articles/0-2026/june/wc29-06/rumourengine-jun30-0-content-rr5wememea.jpg"
 		},
 		"miniature": {
-			"name": "Warhammer Heroes: Serie 7",
+			"name": "Warhammer Heroes: Series 7",
 			"link": "",
 			"image": {
 				"url": "2026-06-30-miniature.jpg",
@@ -12050,7 +12050,7 @@
 			"cdn": "https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/rumourengine-jul07-0-content-rryonhnapk.jpg"
 		},
 		"miniature": {
-			"name": "Warhammer Heroes: Serie 7",
+			"name": "Warhammer Heroes: Series 7",
 			"link": "",
 			"image": {
 				"url": "2026-06-30-miniature.jpg",
@@ -12070,7 +12070,7 @@
 			"cdn": "https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/rumourengine-jul14-0-content-oevvka6jhk.jpg"
 		},
 		"miniature": {
-			"name": "Warhammer Heroes: Serie 7",
+			"name": "Warhammer Heroes: Series 7",
 			"link": "",
 			"image": {
 				"url": "2026-06-30-miniature.jpg",
