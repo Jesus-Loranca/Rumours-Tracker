@@ -1,10 +1,13 @@
 import { Component, HostListener, ChangeDetectionStrategy, ChangeDetectorRef } from '@angular/core';
+import { CommonModule } from '@angular/common';
 
 @Component({
   selector: 'back-to-top',
   templateUrl: './back-to-top.component.html',
+  styleUrls: ['./back-to-top.component.scss'],
   changeDetection: ChangeDetectionStrategy.OnPush,
-  standalone: false
+  standalone: true,
+  imports: [CommonModule]
 })
 export class BackToTopComponent {
 	showScrollBtn: boolean = false;
