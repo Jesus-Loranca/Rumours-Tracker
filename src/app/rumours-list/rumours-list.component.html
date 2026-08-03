@@ -1,11 +1,14 @@
 <section class="rumours-list-page py-4">
-	<app-rumours-index [viewMode]="viewMode"></app-rumours-index>
+	<app-rumours-index [viewMode]="viewMode" [recentOnly]="recentOnly"></app-rumours-index>
 	<div class="container view-toggle-wrapper">
 		<div class="view-toggle-card" role="group" aria-label="Rumours view selector">
 			<a class="view-toggle-btn" [class.active]="viewMode === 'active'" [routerLink]="['/rumours-list']" [queryParams]="{ view: null }">Active</a>
 			<a class="view-toggle-btn" [class.active]="viewMode === 'solved'" [routerLink]="['/rumours-list']" [queryParams]="{ view: 'solved' }">Solved</a>
 		</div>
+		<button *ngIf="viewMode === 'active'" type="button" class="recent-toggle-btn" [class.active]="recentOnly" (click)="toggleRecentOnly()">
+			Recent
+		</button>
 	</div>
-	<app-rumours-list-items [viewMode]="viewMode"></app-rumours-list-items>
+	<app-rumours-list-items [viewMode]="viewMode" [recentOnly]="recentOnly"></app-rumours-list-items>
 <back-to-top></back-to-top>
 </section>

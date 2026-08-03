@@ -11,6 +11,7 @@ import type { TextObject } from '../../../@types/RumoursIndex';
 })
 export class RumoursIndexComponent {
 	private _viewMode: 'active' | 'solved' = 'active';
+	private _recentOnly = false;
 
 	public rumours: RumourListEntry[] = Array.isArray(rumoursListData)
 		? rumoursListData as RumourListEntry[]
@@ -35,8 +36,22 @@ export class RumoursIndexComponent {
 		return this._viewMode;
 	}
 
+	@Input()
+	set recentOnly(value: boolean) {
+		this._recentOnly = value;
+		this.refreshCounts();
+	}
+
+	get recentOnly(): boolean {
+		return this._recentOnly;
+	}
+
 	private refreshCounts(): void {
-		this.rumoursIndexCounts = this.rumoursListIndexService.getRumourCountsByIndexLabel(this.rumours, this.viewMode === 'solved');
+		this.rumoursIndexCounts = this.rumoursListIndexService.getRumourCountsByIndexLabel(
+			this.rumours,
+			this.viewMode === 'solved',
+			this.recentOnly
+		);
 	}
 
 	public isArray(value: unknown): value is unknown[] {

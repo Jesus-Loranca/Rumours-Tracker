@@ -10,6 +10,7 @@ import { RumoursListIndexService, RumourListEntry, RumoursListGameGroup } from '
 })
 export class RumoursListItemsComponent {
 	private _viewMode: 'active' | 'solved' = 'active';
+	private _recentOnly = false;
 
 	public rumours: RumourListEntry[] = Array.isArray(rumoursListData)
 		? rumoursListData as RumourListEntry[]
@@ -65,8 +66,22 @@ export class RumoursListItemsComponent {
 		return this._viewMode;
 	}
 
+	@Input()
+	set recentOnly(value: boolean) {
+		this._recentOnly = value;
+		this.applyView();
+	}
+
+	get recentOnly(): boolean {
+		return this._recentOnly;
+	}
+
 	private applyView(): void {
-		this.groupedRumoursByGame = this.rumoursListIndexService.createGroupedRumoursByGame(this.rumours, this.viewMode === 'solved');
+		this.groupedRumoursByGame = this.rumoursListIndexService.createGroupedRumoursByGame(
+			this.rumours,
+			this.viewMode === 'solved',
+			this.recentOnly
+		);
 	}
 
 	public getCategoryLogoUrl(label: string): string | null {

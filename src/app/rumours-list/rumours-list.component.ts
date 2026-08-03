@@ -9,11 +9,24 @@ import { ActivatedRoute } from '@angular/router';
 })
 export class RumoursListComponent {
   public viewMode: 'active' | 'solved' = 'active';
+  public recentOnly = false;
 
   constructor(private readonly route: ActivatedRoute) {
     this.route.queryParamMap.subscribe(params => {
       const requestedView = params.get('view');
-      this.viewMode = requestedView === 'solved' ? 'solved' : 'active';
+      if (requestedView === 'solved') {
+        this.viewMode = 'solved';
+        this.recentOnly = false;
+        return;
+      }
+      this.viewMode = 'active';
     });
+  }
+
+  public toggleRecentOnly(): void {
+    if (this.viewMode !== 'active') {
+      return;
+    }
+    this.recentOnly = !this.recentOnly;
   }
 }

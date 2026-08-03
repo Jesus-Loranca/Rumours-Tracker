@@ -67,14 +67,28 @@ export class RumoursListIndexService {
     return Object.entries(value as Record<string, TextObject | TextObject[]>).map(([key, val]) => ({ key, value: val }));
   }
 
-  public filterRumours(rumours: RumourListEntry[], includeResolved = false): RumourListEntry[] {
+  public filterRumours(rumours: RumourListEntry[], includeResolved = false, onlyRecent = false): RumourListEntry[] {
+    const now = new Date();
+
     return rumours.filter(rumour => {
       const hasResolvedDate = !!(rumour.resolvedDate && rumour.resolvedDate.trim() !== '');
-      return includeResolved ? hasResolvedDate : !hasResolvedDate;
+      const shouldInclude = includeResolved ? hasResolvedDate : !hasResolvedDate;
+      if (!shouldInclude) {
+        return false;
+      }
+
+      if (!onlyRecent) {
+        return true;
+      }
+
+      const rumourDate = new Date(rumour.date);
+      const diffMs = now.getTime() - rumourDate.getTime();
+      const diffDays = diffMs / (1000 * 60 * 60 * 24);
+      return !Number.isNaN(diffDays) && diffDays <= 31;
     });
   }
 
-  public getRumourCountsByIndexLabel(rumours: RumourListEntry[], includeResolved = false): Map<string, number> {
+  public getRumourCountsByIndexLabel(rumours: RumourListEntry[], includeResolved = false, onlyRecent = false): Map<string, number> {
     const counts = new Map<string, number>();
     const lookup = new Map<string, string>();
     const gameFallback = new Map<string, string>();
@@ -113,7 +127,7 @@ export class RumoursListIndexService {
       }
     }
 
-    for (const rumour of this.filterRumours(rumours, includeResolved)) {
+    for (const rumour of this.filterRumours(rumours, includeResolved, onlyRecent)) {
       const lookupValue = (rumour.category || rumour.groupUnder || '').trim();
       const key = this.slugify(lookupValue);
       let target = lookup.get(key);
@@ -138,7 +152,7 @@ export class RumoursListIndexService {
       .replace(/^-+|-+$/g, '');
   }
 
-  public createGroupedRumoursByGame(rumours: RumourListEntry[], includeResolved = false): RumoursListGameGroup[] {
+  public createGroupedRumoursByGame(rumours: RumourListEntry[], includeResolved = false, onlyRecent = false): RumoursListGameGroup[] {
     const groups: RumourCategoryGroup[] = [];
     const lookup = new Map<string, number>();
     const gameFallback = new Map<string, number>();
@@ -182,7 +196,7 @@ export class RumoursListIndexService {
       }
     }
 
-    for (const rumour of this.filterRumours(rumours, includeResolved)) {
+    for (const rumour of this.filterRumours(rumours, includeResolved, onlyRecent)) {
       const lookupValue = (rumour.category || rumour.groupUnder || '').trim();
       const key = this.slugify(lookupValue);
       let index = lookup.get(key);

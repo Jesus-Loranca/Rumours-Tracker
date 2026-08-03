@@ -20,6 +20,19 @@ describe('RumoursListIndexService', () => {
     expect(resolvedRumours.every(rumour => !!rumour.resolvedDate)).toBeTrue();
   });
 
+  it('filters only recent active rumours when requested', () => {
+    const rumours = Array.isArray(rumoursListData)
+      ? rumoursListData as Array<Record<string, unknown>>
+      : Object.values(rumoursListData as Record<string, Record<string, unknown>>);
+
+    const recentRumours = service.filterRumours(rumours as any[], false, true);
+    expect(recentRumours.every(rumour => !rumour.resolvedDate)).toBeTrue();
+    expect(recentRumours.every(rumour => {
+      const diffMs = Date.now() - new Date((rumour as any).date).getTime();
+      return diffMs >= 0 && diffMs <= 31 * 24 * 60 * 60 * 1000;
+    })).toBeTrue();
+  });
+
   it('builds index counts from the currently selected view', () => {
     const rumours = Array.isArray(rumoursListData)
       ? rumoursListData as Array<Record<string, unknown>>
