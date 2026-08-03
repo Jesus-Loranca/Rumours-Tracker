@@ -1,6 +1,7 @@
 import { Component, EventEmitter, Input, Output } from '@angular/core';
 import type { RumourListEntry } from '../services/rumours-list-index.service';
 import { ScoreService, type RumourMongerScoreSummary } from '../services/score.service';
+import { RUMOURMONGER_PROFILES } from '../services/rumourmonger-profiles';
 
 @Component({
 	selector: 'app-rumours-list-item-content',
@@ -85,6 +86,13 @@ export class RumoursListItemContentComponent {
 		return Array.isArray(this.rumour.source) && this.rumour.source.length > 0
 			? this.rumour.source[this.currentIndex] ?? this.rumour.source[0]
 			: null;
+	}
+
+	public get rumourmongerProfileUrl(): string | null {
+		if (!this.rumour?.rumourmonger) {
+			return null;
+		}
+		return RUMOURMONGER_PROFILES[this.rumour.rumourmonger] || null;
 	}
 
 	public get scoreColorClass(): string {

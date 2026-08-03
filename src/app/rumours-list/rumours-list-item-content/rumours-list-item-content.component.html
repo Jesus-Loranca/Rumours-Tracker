@@ -17,10 +17,24 @@
 					<div class="post-counter">Post {{ currentIndex + 1 }} / {{ totalMessages }}</div>
 					}
 					@if (!isReaction) {
-					<h3>{{ rumour.rumourmonger }}</h3>
+					<h3>
+						{{ rumour.rumourmonger }}
+						@if (rumourmongerProfileUrl) {
+						<a class="rumourmonger-link" href="{{ rumourmongerProfileUrl }}" target="_blank" rel="noopener noreferrer" aria-label="Open rumourmonger profile in a new tab">
+							<i class="bi bi-box-arrow-up-right rumourmonger-icon" aria-hidden="true"></i>
+						</a>
+						}
+					</h3>
 					}
 					@if (isReaction) {
-					<h3>{{ rumour.rumourmonger }} reacted with {{ reactionEmoji }}</h3>
+					<h3>
+						{{ rumour.rumourmonger }} reacted with {{ reactionEmoji }}
+						@if (rumourmongerProfileUrl) {
+						<a class="rumourmonger-link" href="{{ rumourmongerProfileUrl }}" target="_blank" rel="noopener noreferrer" aria-label="Open rumourmonger profile in a new tab">
+							<i class="bi bi-box-arrow-up-right rumourmonger-icon" aria-hidden="true"></i>
+						</a>
+						}
+					</h3>
 					}
 					<p class="rumour-item-date">
 						{{ rumourDate }}

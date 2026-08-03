@@ -130,6 +130,21 @@
     vertical-align: middle;
 }
 
+.rumourmonger-link {
+	display: inline-flex;
+	align-items: center;
+	margin-left: 0.5rem;
+	color: #0f172a;
+	text-decoration: none;
+}
+
+.rumourmonger-icon {
+	font-size: 0.8em;
+	line-height: 1;
+	color: #6b7280;
+	transform: translateY(-0.25em);
+}
+
 .rumour-item-body {
 	margin-top: 1.5rem;
 }
@@ -230,8 +245,6 @@
 	width: 100%;
 	max-width: 100%;
 	object-fit: contain;
-	border-radius: 0.75rem;
-	box-shadow: 0 10px 20px rgba(15, 23, 42, 0.12);
 }
 
 .post-counter {
