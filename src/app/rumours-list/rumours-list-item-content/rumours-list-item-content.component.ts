@@ -12,23 +12,27 @@ export class RumoursListItemContentComponent {
 	@Input() public visible = false;
 	@Output() public close = new EventEmitter<void>();
 
+	public currentIndex = 0;
+
 	public openUrl(): void {
-		if (!this.sourceUrl) {
+		const url = this.currentSourceUrl;
+		if (!url) {
 			return;
 		}
-		window.open(this.sourceUrl, '_blank', 'noopener,noreferrer');
+		window.open(url, '_blank', 'noopener,noreferrer');
 	}
 
 	public closeDialog(): void {
+		this.currentIndex = 0;
 		this.close.emit();
+	}
+
+	public get totalMessages(): number {
+		return Array.isArray(this.rumour?.message?.contents) ? this.rumour.message.contents.length : 0;
 	}
 
 	public get rumourDate(): string {
 		return this.formatDate(this.rumour.date);
-	}
-
-	public get sourceUrl(): string | null {
-		return this.rumour.source?.[0] ?? null;
 	}
 
 	public get isReaction(): boolean {
@@ -54,39 +58,57 @@ export class RumoursListItemContentComponent {
 		}
 	}
 
-	public get quote(): string | null {
-		return Array.isArray(this.rumour.message.quotes) && this.rumour.message.quotes.length > 0
-			? this.rumour.message.quotes[0]
+	public get currentMessage(): string | null {
+		return Array.isArray(this.rumour.message?.contents) && this.rumour.message.contents.length > 0
+			? this.rumour.message.contents[this.currentIndex] ?? null
 			: null;
+	}
+
+	public get currentQuote(): string | null {
+		return Array.isArray(this.rumour.message?.quotes) && this.rumour.message.quotes.length > 0
+			? this.rumour.message.quotes[this.currentIndex] ?? this.rumour.message.quotes[0]
+			: null;
+	}
+
+	public get currentSourceUrl(): string | null {
+		return Array.isArray(this.rumour.source) && this.rumour.source.length > 0
+			? this.rumour.source[this.currentIndex] ?? this.rumour.source[0]
+			: null;
+	}
+
+	public nextMessage(): void {
+		if (this.currentIndex < this.totalMessages - 1) {
+			this.currentIndex += 1;
+		}
+	}
+
+	public prevMessage(): void {
+		if (this.currentIndex > 0) {
+			this.currentIndex -= 1;
+		}
 	}
 
 	public get quoteLines(): string[] {
-		return this.quote?.split('\n') ?? [];
-	}
-
-	public get message(): string | null {
-		return Array.isArray(this.rumour.message.contents) && this.rumour.message.contents.length > 0
-			? this.rumour.message.contents[0]
-			: null;
+		return this.currentQuote?.split('\n') ?? [];
 	}
 
 	public get messageImageNames(): string[] {
-		if (!this.message) {
+		if (!this.currentMessage) {
 			return [];
 		}
 
 		const imageRegex = /\[\[([^\]]+)\]\]/g;
-		const matches = Array.from(this.message.matchAll(imageRegex));
+		const matches = Array.from(this.currentMessage.matchAll(imageRegex));
 		return matches.map(match => match[1].trim()).filter(name => name);
 	}
 
 	public get messageLines(): string[] {
-		if (!this.message) {
+		if (!this.currentMessage) {
 			return [];
 		}
 
 		const imageRegex = /\[\[[^\]]+\]\]/g;
-		const cleaned = this.message.replace(imageRegex, '').trimEnd();
+		const cleaned = this.currentMessage.replace(imageRegex, '').trimEnd();
 		return cleaned.split('\n');
 	}
 
@@ -95,7 +117,7 @@ export class RumoursListItemContentComponent {
 	}
 
 	public get hasQuote(): boolean {
-		return this.quote !== null && this.quote.trim() !== '';
+		return this.currentQuote !== null && this.currentQuote.trim() !== '';
 	}
 
 	public get resolvedAfterText(): string | null {

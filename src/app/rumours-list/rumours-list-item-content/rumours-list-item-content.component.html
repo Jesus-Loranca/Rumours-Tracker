@@ -1,26 +1,54 @@
-<div class="rumour-item-content-overlay" *ngIf="visible" (click)="closeDialog()">
+@if (visible) {
+<div class="rumour-item-content-overlay" (click)="closeDialog()">
 	<div class="rumour-item-content-panel" (click)="$event.stopPropagation()">
 		<button type="button" class="close-button" (click)="closeDialog()">×</button>
+		@if (totalMessages > 1) {
+		<button type="button" class="pager-button nav-prev" (click)="prevMessage()" [disabled]="currentIndex===0"
+			aria-label="Previous message">‹</button>
+		}
+		@if (totalMessages > 1) {
+		<button type="button" class="pager-button nav-next" (click)="nextMessage()"
+			[disabled]="currentIndex+1>=totalMessages" aria-label="Next message">›</button>
+		}
 		<div class="rumour-item-content-inner">
 			<div class="rumour-item-main">
 				<div class="rumour-item-meta">
-					<h3 *ngIf="!isReaction">{{ rumour.rumourmonger }}</h3>
-					<h3 *ngIf="isReaction">{{ rumour.rumourmonger }} reacted with {{ reactionEmoji }}</h3>
+					@if (totalMessages > 1) {
+					<div class="post-counter">Post {{ currentIndex + 1 }} / {{ totalMessages }}</div>
+					}
+					@if (!isReaction) {
+					<h3>{{ rumour.rumourmonger }}</h3>
+					}
+					@if (isReaction) {
+					<h3>{{ rumour.rumourmonger }} reacted with {{ reactionEmoji }}</h3>
+					}
 					<p class="rumour-item-date">
 						{{ rumourDate }}
 						<span *ngIf="resolvedAfterText" class="resolved-text">{{ resolvedAfterText }}</span>
 					</p>
 				</div>
 				<div class="rumour-item-body">
-					<div *ngIf="hasQuote" class="rumour-quote">
-						<p *ngFor="let line of quoteLines; let last = last" class="quote-line" [class.last-line]="last">{{ line }}</p>
+					@if (hasQuote) {
+					<div class="rumour-quote">
+						@for (line of quoteLines; track line) {
+						<p class="quote-line">{{ line }}</p>
+						}
 					</div>
-					<div *ngIf="messageLines.length > 0" class="rumour-message">
-						<p *ngFor="let line of messageLines; let last = last" class="message-line" [class.last-line]="last">{{ line }}</p>
-						<div class="message-images" *ngIf="messageImageUrls.length > 0">
-							<img *ngFor="let imageUrl of messageImageUrls" [src]="imageUrl" [alt]="imageUrl" />
+					}
+					@if (messageLines.length > 0) {
+					<div class="rumour-message">
+						@for (line of messageLines; track line) {
+						<p class="message-line">{{ line }}</p>
+						}
+						@if (messageImageUrls.length > 0) {
+						<div class="message-images">
+							@for (imageUrl of messageImageUrls; track imageUrl) {
+							<img [src]="imageUrl" [alt]="imageUrl" />
+							}
 						</div>
+						}
 					</div>
+					}
 				</div>
 			</div>
 			<div class="rumour-item-sidebar">
@@ -28,10 +56,11 @@
 					<p class="score-label">Rumourmonger Score</p>
 					<p class="score-value">TBD</p>
 				</div>
-				<button type="button" class="source-button" (click)="openUrl()" [disabled]="!sourceUrl">
+				<button type="button" class="source-button" (click)="openUrl()" [disabled]="!currentSourceUrl">
 					Go to the Original Message
 				</button>
 			</div>
 		</div>
 	</div>
 </div>
+}
