@@ -21,6 +21,8 @@
 	max-height: 90vh;
 	overflow: hidden;
 	position: relative;
+	display: flex;
+	flex-direction: column;
 }
 
 .close-button {
@@ -51,6 +53,8 @@
 	grid-template-columns: 1.8fr 1fr;
 	gap: 3rem;
 	padding: 4rem 2rem 2rem;
+	overflow: auto;
+	max-height: calc(90vh - 3rem);
 }
 
 .rumour-item-main {
@@ -114,6 +118,18 @@
 
 .rumour-message {
 	padding-top: 0.15rem;
+}
+
+.message-images {
+	display: grid;
+	gap: 1rem;
+	margin-top: 1rem;
+}
+
+.message-images img {
+	width: 100%;
+	max-width: 100%;
+	object-fit: contain;
 }
 
 .rumour-item-sidebar {

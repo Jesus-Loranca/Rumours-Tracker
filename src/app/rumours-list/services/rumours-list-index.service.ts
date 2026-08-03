@@ -7,7 +7,6 @@ export interface RumourListEntry {
   edition: number;
   category: string;
   text: string;
-  groupUnder: string;
   message: {
     contents: string[];
     quotes: string[];
@@ -128,7 +127,7 @@ export class RumoursListIndexService {
     }
 
     for (const rumour of this.filterRumours(rumours, includeResolved, onlyRecent)) {
-      const lookupValue = (rumour.category || rumour.groupUnder || '').trim();
+      const lookupValue = (rumour.category || '').trim();
       const key = this.slugify(lookupValue);
       let target = lookup.get(key);
       if (target === undefined && rumour.category.trim() === '') {
@@ -197,7 +196,7 @@ export class RumoursListIndexService {
     }
 
     for (const rumour of this.filterRumours(rumours, includeResolved, onlyRecent)) {
-      const lookupValue = (rumour.category || rumour.groupUnder || '').trim();
+      const lookupValue = (rumour.category || '').trim();
       const key = this.slugify(lookupValue);
       let index = lookup.get(key);
       if (index === undefined && rumour.category.trim() === '') {

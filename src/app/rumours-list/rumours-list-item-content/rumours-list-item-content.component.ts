@@ -31,6 +31,29 @@ export class RumoursListItemContentComponent {
 		return this.rumour.source?.[0] ?? null;
 	}
 
+	public get isReaction(): boolean {
+		return !!this.rumour.message?.isReaction;
+	}
+
+	public get reactionEmoji(): string {
+		switch (true) {
+			case this.rumour.isLike:
+				return '❤️';
+			case this.rumour.isThanks:
+				return '🏆';
+			case this.rumour.isLoveIt:
+				return '😍';
+			case this.rumour.isSadFace:
+				return '😢';
+			case this.rumour.isConfusedFace:
+				return '😕';
+			case this.rumour.isLaughFace:
+				return '😄';
+			default:
+				return '❤️';
+		}
+	}
+
 	public get quote(): string | null {
 		return Array.isArray(this.rumour.message.quotes) && this.rumour.message.quotes.length > 0
 			? this.rumour.message.quotes[0]
@@ -47,8 +70,28 @@ export class RumoursListItemContentComponent {
 			: null;
 	}
 
+	public get messageImageNames(): string[] {
+		if (!this.message) {
+			return [];
+		}
+
+		const imageRegex = /\[\[([^\]]+)\]\]/g;
+		const matches = Array.from(this.message.matchAll(imageRegex));
+		return matches.map(match => match[1].trim()).filter(name => name);
+	}
+
 	public get messageLines(): string[] {
-		return this.message?.split('\n') ?? [];
+		if (!this.message) {
+			return [];
+		}
+
+		const imageRegex = /\[\[[^\]]+\]\]/g;
+		const cleaned = this.message.replace(imageRegex, '').trimEnd();
+		return cleaned.split('\n');
+	}
+
+	public get messageImageUrls(): string[] {
+		return this.messageImageNames.map(name => `assets/images/rumours-list/rumours/optimized/${encodeURIComponent(name)}`);
 	}
 
 	public get hasQuote(): boolean {

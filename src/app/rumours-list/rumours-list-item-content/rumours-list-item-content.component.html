@@ -4,7 +4,8 @@
 		<div class="rumour-item-content-inner">
 			<div class="rumour-item-main">
 				<div class="rumour-item-meta">
-					<h3>{{ rumour.rumourmonger }}</h3>
+					<h3 *ngIf="!isReaction">{{ rumour.rumourmonger }}</h3>
+					<h3 *ngIf="isReaction">{{ rumour.rumourmonger }} reacted with {{ reactionEmoji }}</h3>
 					<p class="rumour-item-date">
 						{{ rumourDate }}
 						<span *ngIf="resolvedAfterText" class="resolved-text">{{ resolvedAfterText }}</span>
@@ -16,6 +17,9 @@
 					</div>
 					<div *ngIf="messageLines.length > 0" class="rumour-message">
 						<p *ngFor="let line of messageLines; let last = last" class="message-line" [class.last-line]="last">{{ line }}</p>
+						<div class="message-images" *ngIf="messageImageUrls.length > 0">
+							<img *ngFor="let imageUrl of messageImageUrls" [src]="imageUrl" [alt]="imageUrl" />
+						</div>
 					</div>
 				</div>
 			</div>
