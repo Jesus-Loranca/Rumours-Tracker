@@ -4,7 +4,6 @@
 		"edition": 4,
 		"category": "Blades of Khorne",
 		"text": "Ascended Khorgos Khul model would be coming later than we would like to",
-		"groupUnder": "Ascended Khorgos Khul",
 		"message": {
 			"contents": [
 				"much later than you would like"
@@ -32,7 +31,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Cities of Sigmar will receive love in their 4th edition release",
-		"groupUnder": "Cities of Sigmar will receive love",
 		"message": {
 			"contents": [
 				"Yes"
@@ -60,7 +58,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Should we have hope about the upcoming release?",
-		"groupUnder": "Cities of Sigmar will receive love",
 		"message": {
 			"contents": [
 				"Have hope"
@@ -88,7 +85,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "The Dark Elves kits will be moved to legends",
-		"groupUnder": "Cities of Sigmar kits from Warhammer Fantasy will be moved to legends",
 		"message": {
 			"contents": [
 				""
@@ -116,7 +112,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "A Cogfort model could be released, but it could be joke",
-		"groupUnder": "A cogfort model is coming!",
 		"message": {
 			"contents": [
 				"Why don't they mention the Cogfort?"
@@ -144,7 +139,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Cities of Sigmar could lose Tempest Eye",
-		"groupUnder": "Cities of Sigmar destroyed Cities",
 		"message": {
 			"contents": [
 				"It’s not a joke you think it is…"
@@ -172,7 +166,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Cities of Sigmar could lose more than one city",
-		"groupUnder": "Cities of Sigmar destroyed Cities",
 		"message": {
 			"contents": [
 				"The good news is it doesn’t have to be Tempest Eye.\nThe bad news is it doesn’t have to be Tempest Eye only."
@@ -200,7 +193,6 @@
 		"edition": 4,
 		"category": "Daughters of Khaine",
 		"text": "Daughters of Khaine will get some love in their 4th edition release ",
-		"groupUnder": "Daughters of Khaine will get love in 4th edition",
 		"message": {
 			"contents": [
 				""
@@ -228,7 +220,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "Fyreslayers won't receive a battletome during the 4th edition",
-		"groupUnder": "Fyreslayers won't receive a battletome during the 4th edition",
 		"message": {
 			"quotes": [
 				""
@@ -256,7 +247,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "Fyreslayers will come back in a different way",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"KO heroe + unique warband. + Terrain, Hellforgers of Hashut and dont worry about Fyreslayers, they are coming in a different way. That was the conversation with beers and dawi games."
@@ -284,7 +274,6 @@
 		"edition": 4,
 		"category": "Maggotkin of Nurgle",
 		"text": "Maggotkin of Nurgle 4th edition release is not going to be just decent sized, it is going to be magnificent",
-		"groupUnder": "A Magnificent Release for Maggotkin of Nurgle",
 		"message": {
 			"contents": [
 				"Decent？Magnificent！"
@@ -312,7 +301,6 @@
 		"edition": 4,
 		"category": "Maggotkin of Nurgle",
 		"text": "New Pestigors are coming",
-		"groupUnder": "New Pestigors are coming",
 		"message": {
 			"contents": [
 				"Ho ho ho, Nurgle loves everyone. "
@@ -340,7 +328,6 @@
 		"edition": 4,
 		"category": "Maggotkin of Nurgle",
 		"text": "Maybe a refresh of existing units is coming as well",
-		"groupUnder": "Maybe a refresh of existing units is coming as well",
 		"message": {
 			"contents": [
 				"The only place where the Nurgle range is bloated is the named Mortal Characters. For the rest, especially common units, Nurgle is relatively behind the other Chaos Gods.\nFor example, Khorne Infantry has \"named\" Warcry Unit, Bloodreavers, Blood Warriors, Skulltakers, Wrathmongers and Bloodletters. Tzeentch has \"named\" Warcry Unit, Kairic Acolytes, Tzaangors Warriors (ev. Enlightened on foot), Blue, Brimstone and Pink Horrors.\nNurgle Infantry only has Plaguebearer and \"named\" Warcry Unit, and Putrid Blightkings.",
@@ -370,7 +357,6 @@
 		"edition": 4,
 		"category": "Maggotkin of Nurgle",
 		"text": "Nurgle could be the next release after HoH",
-		"groupUnder": "Nurgle could be the next release after HoH",
 		"message": {
 			"contents": [
 				""
@@ -398,7 +384,6 @@
 		"edition": 4,
 		"category": "Ogor Mawtribes",
 		"text": "Ogors won't leave AoS to join ToW during the 4th edition",
-		"groupUnder": "Ogors won't leave AoS to join ToW",
 		"message": {
 			"contents": [
 				"Can't see that happening in the coming 3 years\nbut there is always uncertainty for weird things. "
@@ -426,7 +411,6 @@
 		"edition": 3,
 		"category": "Weird things happening",
 		"text": "Whitefang mentioned weird things happening during the 4th edition three times",
-		"groupUnder": "Weird things happening during the 4th edition",
 		"message": {
 			"contents": [
 				"never say never, cuz things sometimes get positively weird",
@@ -460,7 +444,6 @@
 		"edition": 0,
 		"category": "",
 		"text": "It is very likely Warcry will remain silent and disappear. Something will replace it (Whitefang guessing)",
-		"groupUnder": "Warcry will disappear",
 		"message": {
 			"contents": [
 				"However regarding Warcry, my guess*** is it will either keep silent or just go at the moment. Something will replace its role."
@@ -488,7 +471,6 @@
 		"edition": 4,
 		"category": "Ogor Mawtribes",
 		"text": "Globb Glittermaw could be a descendant of Greasus or linked to it. The refresh is coming?",
-		"groupUnder": "Globb Glittermaw",
 		"message": {
 			"contents": [
 				"Regrading that, maybe not as different as you think."
@@ -516,7 +498,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Boole gave a small list of upcoming minis for CoS",
-		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
 		"message": {
 			"contents": [
 				"I have no interest whatsoever in plump women wearing silly iron hats\nPerhaps Unique Marshal? (harbour a blood feud with DoK?\nPerhaps Warpriest?\nerhaps Arch-Knight battleline?\nOh!\nOne am now\nLet’s see something in shadow?\nCrixxit"
@@ -544,7 +525,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "A follow-up by Boole giving more details about the Unique Marshal",
-		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
 		"message": {
 			"contents": [
 				"No\nUnique Marshal is a chad guy who looks like he'd kill every DoK, yeah, EVERYONE, especially Morathi "
@@ -572,7 +552,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "A new post by Boole, maybe pointing to Halflings in the Cities of Sigmar?",
-		"groupUnder": "Halfings in the Cities of Sigmar",
 		"message": {
 			"contents": [
 				"It's Wednesday now\nThe diminutive fellows without the thick cannon barrel and bushy beard has officially joined AOS\nBrilliant!\nSomehow, I've noticed you guys believe 5Edition belongs to the Death Alliance\nWell then, allow me to rule out one possibility for you all\nRemember, rumours are rumours, have a great day!\nOssiarch\nFor example\nThey are truly perfect models\n[[image-2025-09-03_1.jpg]]\n[[image-2025-09-03_2.jpg]]"
@@ -603,7 +582,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "A new Order faction will appear by the end of the edition",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"Why Cities is bigger instead a medium size? The end of edition will have a new Order new faction."
@@ -631,7 +609,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "A New Faction, but the game will have the same number of battletomes. The sum of rumours point to the speculated mix of Duardins faction?",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"New faction, same number of battletomes. 👌"
@@ -659,7 +636,6 @@
 		"edition": 4,
 		"category": "Maggotkin of Nurgle",
 		"text": "Boole posted a list of new units for the upcoming Maggotkin of Nurgle release",
-		"groupUnder": "Maggotkin of Nurgle new units",
 		"message": {
 			"contents": [
 				"I realise I've made a mistake and may even be fined $10,000 😓\nwell,well,well…\nBut since the damage is done, let me just publish one last rumour 😅\nCities of Sigmar VS Maggotkin of Nurgle\nFestus(Monster, so fxxking huge)\nUnique Nurgle Daemon Prince\nPestigor Shaman\nRealmgore Ritualist but Nurgle\nPestigors\nBloodreavers but Nurgle\nBlood Warriors but Nurgle\nSkullcrushers but Nurgle\nRockguts Troggoths but Nurgle\nRefesh Putrid Blightkings\nAll these things have Heavy Plate Armour, far thicker than Chaos Chosen\nAnd more sexy heavy armour guys\n(Yes, the Newest AOS Nurgle style is fxxking Heavy Armour Warriors)\nIf you guys are familiar with Blades of Khorne or Slaves to Darkness, you will immediately understand what I mean"
@@ -687,7 +663,6 @@
 		"edition": 4,
 		"category": "Ogor Mawtribes",
 		"text": "A leaked list of what's going to happen with the Ogors refresh in terms of models",
-		"groupUnder": "Ogor Mawtribes refresh",
 		"message": {
 			"contents": [
 				"Ogors, my lord!\nHuge Refresh!\n3 Unique heroes:\nUnique Tyrant (Monster, Daughter of Globb Glittermaw)\nUnique Butcher (War Machine)\nUnique Maneater (Female Maneaters Warmaster)\nNew Hunters\nNew Mournfangs\nNew Butchers\nNew Tyrant\nNew Ogor Gluttons\nNew Iornguts\nAND MORE FATTY THINGS\nRIP Icebrow Hunter\nRIP Frost Sabres\nRIP Firebelly\nRIP Icefall Yhetees\nRIP Leadbelchers\nRIP Great Mawpot\nRIP Tyrant(2019)"
@@ -715,7 +690,6 @@
 		"edition": 4,
 		"category": "Ogor Mawtribes",
 		"text": "It seems that Ogors won't have gunpowder or would have a more prehistoric look",
-		"groupUnder": "Ogor Mawtribes refresh",
 		"message": {
 			"contents": [
 				"Time to reject modernity."
@@ -743,7 +717,6 @@
 		"edition": 4,
 		"category": "Ogor Mawtribes",
 		"text": "New Ogor Mawtribes minis won't look like the Cities of Sigmar Ogor Warhulk",
-		"groupUnder": "Ogor Mawtribes refresh",
 		"message": {
 			"contents": [
 				"No.\n”City ogors ain’t true ogors.”\n——Great Maw probably"
@@ -773,7 +746,6 @@
 		"edition": 4,
 		"category": "Ogor Mawtribes",
 		"text": "A new rumour in the shape of a tale that gives us a bit more idea about the Ogors refresh ",
-		"groupUnder": "Ogor Mawtribes refresh",
 		"message": {
 			"contents": [
 				"Good evening, the storyteller is back\nLong long ago, there was a devout believer who prayed to Gorkamorka to save his people in the doom, but it was all in vain. After all, the two-headed God did not care\nNO! That is NOT Great Maw!\nIn despair, believers woke up and realised that the Gulping God was just a lie of Gorkamorka. The Ogors were deceived. Our true faith should not be like this\nUpon discovering this truth, the believer became a seeker, embarking upon a journey to find the Great Maw\nAt the journey's end, the seeker, having endured countless trials and tribulations, finally beheld the truth—the hidden Great Maw\nWhen the seeker returned to his people, he brought back the true faith and promulgated the authentic doctrine\nManeaters are sacrilegious\nWe should not be employed by food, these cunning employers are our feast!\nBlackpowder is sacrilegious\nWe should just swallow our enemies!\nCity Ogor is sacrilegious\nTheir emaciated bodies prove they are not real Ogors at all!\nThat's all\nThe entire story is entirely my own creation, I hope you all enjoy reading it\nHave a great day!"
@@ -801,7 +773,6 @@
 		"edition": 4,
 		"category": "Ogor Mawtribes",
 		"text": "Maneaters will be updated after the Ogors refresh",
-		"groupUnder": "Maneaters refresh",
 		"message": {
 			"contents": [
 				"Maybe Maneaters will be an expansion further down the line?"
@@ -829,7 +800,6 @@
 		"edition": 4,
 		"category": "Ogor Mawtribes",
 		"text": "Ogors will be released by the end of 2026",
-		"groupUnder": "Ogor Mawtribes refresh",
 		"message": {
 			"contents": [
 				"Don't worry 🤫\nOgors will be released much later, hmm…maybe…at the earliest in the latter part of next year?"
@@ -857,7 +827,6 @@
 		"edition": 4,
 		"category": "Ossiarch Bonereapers",
 		"text": "Another post by Boole. It included images of Settra's Chariot and Ushabti with bows titled under OBR ",
-		"groupUnder": "Ogor Mawtribes refresh",
 		"message": {
 			"contents": [
 				"It's Wednesday now\nThe diminutive fellows without the thick cannon barrel and bushy beard has officially joined AOS\nBrilliant!\nSomehow, I've noticed you guys believe 5Edition belongs to the Death Alliance\nWell then, allow me to rule out one possibility for you all\nRemember, rumours are rumours, have a great day!\nOssiarch\nFor example\nThey are truly perfect models\n[[image-2025-09-03_1.jpg]]\n[[image-2025-09-03_2.jpg]]"
@@ -888,7 +857,6 @@
 		"edition": 4,
 		"category": "Skaven",
 		"text": "The same post that was mentioned with the CoS list has a small mention to Crixxit, which is a deathmaster",
-		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
 		"message": {
 			"contents": [
 				"I have no interest whatsoever in plump women wearing silly iron hats\nPerhaps Unique Marshal? (harbour a blood feud with DoK?\nPerhaps Warpriest?\nerhaps Arch-Knight battleline?\nOh!\nOne am now\nLet’s see something in shadow?\nCrixxit"
@@ -916,7 +884,6 @@
 		"edition": 4,
 		"category": "Darkwater",
 		"text": "A post by Boole mentioning a new Warhammer Quest: Nurgle.",
-		"groupUnder": "Warhammer Quest: Nurgle",
 		"message": {
 			"contents": [
 				"I used to work for 40K, and I prefer WHFB over AOS, so I'm not particularly familiar with the content of AOS.\nBut at least I can understand this rumour.\nAOS Warhammer Quest Nurgle"
@@ -944,7 +911,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "A new cryptic message in the form of a gif. Is this referring to the FS, to duardins that look closer to the ones from LOTR or just a joke? ",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"[[image-2025-09-18_1.gif]]"
@@ -974,7 +940,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "Another hint by bool about a possible alliance between a new Dispossessed army and FS",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"Why fret over FS's future? 😵‍💫\nDo you guys remember the first story I told?\nIf you recall my story of the Khazalid Ruins, you'll know there was a great deal of [REDACTED] that had been temporarily shelved 🤫\nWell, I mean…\nYou will understand…\nThis is merely a hypothesis, merely my conjecture\nUnder the threat of the Skaven and HoH, they shall rise under Grungni's leadership, forging a mighty alliance with the FS, and together with the formidable and numerous SUPER-ARMY of the CoS (yeah, they were once good companions who lived together)\nYou know who they are, right?\nThat's all\nRemember, rumours are rumours, have a great day!"
@@ -1002,7 +967,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "Boole has confirmed that the Fyreslayers will share a faction with the Dispossessed rather than being two factions sharing a tome",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"[[image-2025-09-21_1.png]]"
@@ -1032,7 +996,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "Also, their possible faction name could be Khazalid Holds",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"Hmm…"
@@ -1060,7 +1023,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "Has been confirmed that the new army will have four ancestor gods. Girmnir, Grungni, Valaya and Gazul",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"I've already said that\nWhy fret over FS's future?\nGrungni、Gazul、Valaya\nThey will lead FS out of the predicament "
@@ -1088,7 +1050,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "Apparently, the new Khazalid Holds army would be released quite soon",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"And AOS is going to keep getting better, too\nWe originally borrowed the Dwarfen Mountain Holds content from AOS, tweaked it, and released a few models\nNow those are going back to AOS, and you’ll be seeing them again before long "
@@ -1116,7 +1077,6 @@
 		"edition": 4,
 		"category": "Sons of Behemat",
 		"text": "A new tale by Boole, this time about Gargant Matriarchs",
-		"groupUnder": "Gargant Matriarch",
 		"message": {
 			"contents": [
 				"Have you ever heard of gargants?\nThose towering, powerful giants who live in tribes\nMaybe you have witnessed their giant footprints, or even seen their appearance with your own eyes, but have you ever wondered where the female gargants are?\nIf you've read Battletome released in 2020, and Battletome released in 2022, you might have some ideas\nAfter all, the tribes formed by these gargants are led by older and more powerful female gargants\nThe Gargant Matriarch\nYou might ask, why am I raising this question about these female gargants?\nWell,well,well…\nDo you still remember this name?\nRENEGADE"
@@ -1144,7 +1104,6 @@
 		"edition": 0,
 		"category": "",
 		"text": "A sad face reaction that was followed up by another post liked pointing to a bright future for ToW. So the future is not that bright for Warcry",
-		"groupUnder": "Warcry will disappear",
 		"message": {
 			"contents": [
 				""
@@ -1172,7 +1131,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "A new storytelling about Cogforts for 2027. Also, Freeguild Gargants?",
-		"groupUnder": "A cogfort model is coming!",
 		"message": {
 			"contents": [
 				"Gooood Morning, storyteller's back\nY’all ever heard the stories of Ironweld Arsenal?\nWord is, after the Realmgate Wars, they straight-up engineered miracles of tech—whole small walking cities rose from nothing, rolling onto the battlefield to crush every last one of Sigmar’s enemies\nYou know the names of those moving fortresses, right?\nWell, I’ve seen ’em with my own eyes while crossing through a Realmgate 🧐\nAnd let me tell you, those things were bigger than Freeguild Gargants—freaking huge!\nAnd get this: there were, like, twelve different variants? 🤨\nOh, and guess what? Rumour has it Chaos got their hands on one of those colossal machines too\nEven Death and Destruction scored their own\nMaybe we’ll see ’em in 2027?\nThat's all\nThe entire story is entirely my own creation, the plot bears no relation to any real events. I hope you all enjoy reading it\nRemember, rumours are rumours, have a great day! "
@@ -1200,7 +1158,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "The twelve different variants bit seems to be wrong",
-		"groupUnder": "A cogfort model is coming!",
 		"message": {
 			"contents": [
 				""
@@ -1229,7 +1186,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "It could be a new army instead of part of Cities of Sigmar",
-		"groupUnder": "A cogfort model is coming!",
 		"message": {
 			"contents": [
 				"What the hell... CoS imperial knights?"
@@ -1258,7 +1214,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "After Whitefang reacted with a sad face to the twelve variants, Boole edited it. Could it be talking about the number of legs?",
-		"groupUnder": "A cogfort model is coming!",
 		"message": {
 			"contents": [
 				"Four or eight or twelve? 🤨"
@@ -1287,7 +1242,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "It looks like the Cogfort would be usable for other GAs via a RoR",
-		"groupUnder": "A cogfort model is coming!",
 		"message": {
 			"contents": [
 				"At least it look like it would be just a RoR. It is not that bad, and it makes sense lorewise as we saw how the enemy can take over a Cogfort."
@@ -1316,7 +1270,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "Khazalid Holds will have a look similar to the WHFB duardins",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"[[image-2025-10-02_1.jpeg]]"
@@ -1347,7 +1300,6 @@
 		"edition": 4,
 		"category": "Ogor Mawtribes",
 		"text": "Frost Sabres will not disappear, but will be included with the Hunters models ",
-		"groupUnder": "Ogor Mawtribes refresh",
 		"message": {
 			"contents": [
 				"In Boole’s Rumors it mentions “new hunters.” What if these come with their additional sabertooths, just like the new Space Wolves.[[image-2025-09-30_1.jpg]][[image-2025-09-30_2.jpg]]"
@@ -1379,7 +1331,6 @@
 		"edition": 3,
 		"category": "Season of War Series",
 		"text": "Whitefang back me up confirms in two different posts that the Spider Incarnate and the finished Dawnbringer buildings were supposed to come with the cancelled box accompanying the Season of War: Gallet book",
-		"groupUnder": "Season of War Series",
 		"message": {
 			"contents": [
 				"These were the fully built buildings you can see in the CoS battletome.\nBelieve what you want though!",
@@ -1411,7 +1362,6 @@
 		"edition": 3,
 		"category": "Season of War Series",
 		"text": "Season of War: Gallet had a tale involving Duardins and Skavens",
-		"groupUnder": "Season of War Series",
 		"message": {
 			"contents": [
 				"And maybe dwarf and Skaven. If you knew you knew."
@@ -1440,7 +1390,6 @@
 		"edition": 3,
 		"category": "Season of War Series",
 		"text": "Boole gave us a series of posts detailing what happened in the unreleased book of Season of War: Gallet and Season of War: Andtor",
-		"groupUnder": "Season of War Series",
 		"message": {
 			"contents": [
 				"Good evening. From this day forward, I shall be nothing but a storyteller\nI will tell you a little story that I made up and there is absolutely no truth in it\nLong long ago, perhaps in 2021?\nThere was once a series of stories, originally intended to be published in multiple volumes\nIn the first volume, the main character - shaman successfully mastered the method of summoning Incarnates and forged an alliance with the Orruks. Though the Incarnate he summoned was slain by a powerful woman, he remained undaunted and proceeded to summon further Incarnates of different kinds\nIn the second and subsequent volumes, the Shaman led his pallid Gor-kin companions in summoning Spider Incarnate\nMeanwhile, the Dispossessed, leading the Dawnbringers, discovered the Khazalid ruins buried deep beneath the Ghur. This discovery held the potential to revive the lost civilisation of the Dispossessed\nThey also discovered countless ley lines stretching vertically and plunging deep into the Ghur. While battling the Spider Incarnate summoned by the Shaman and the new Gor-kin threat, they pressed onward with their excavation\nFinally, the truth that astonished everyone was revealed: these vertically extending ley lines had long been targeted by rats. For centuries, these repulsive creatures had been executing some sinister scheme, and it was here they encountered a dreadful rat daemon - the daemon who orchestrated the entire stories\nHowever, this story series was cancelled because the vast majority of its main characters were required to appear in another product line launched subsequently. Consequently, the models that had already been produced were unfortunately shelved"
@@ -1469,7 +1418,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "The multicultural aspect of the CoS will be slightly different to Humans - Duardins - Aelves. Maybe something closer to Humans - Ogors - Gargants - Halflings",
-		"groupUnder": "Cities of Sigmar multiculturality",
 		"message": {
 			"contents": [
 				"Eh, no? Like, never.",
@@ -1507,7 +1455,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Cogforts will look like walking castles",
-		"groupUnder": "A cogfort model is coming!",
 		"message": {
 			"contents": [
 				"More like mobile castles in lore tbh."
@@ -1536,7 +1483,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "We have info about two possible units with multiple builds. A ram and an Avatar of Grimnir automata",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				" friend who left GW a little while back has been winding me up with the promise of either OW Slayers or their misbegotten descendants getting an Idol/Automata of Grimnir and some kind of \"Very dwarven\" battering ram with Slayers riding it. Their role means its just something they saw rather than deep info, so it might also be just someone else's models.\n(They could also be trolling me, they wouldnt confirm which kind of slayer for example! :P )",
@@ -1567,7 +1513,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "Khazalid Holds will get more than 9 kits in their release (Bear in mind that kits in the past, by Whitefang, included multiple builds)",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"Dwarf won’t lose to elves."
@@ -1596,7 +1541,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "The release will have more Dispossessed kits than Fyreslayer kits",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"I would expect the opposite. Fyreslayers do have an existing range, but classic dwarves need to be developed from nothing, basically. If the two groups are supposed to be roughly equal in the army, there have to be more classic dwarves in the release.\nI agree that kind of sucks for existing Fyreslayers players, though. After nearly 10 years of basically just foot heroes."
@@ -1625,7 +1569,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "List of what could be the FS units surviving a removal",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"Auric Runefather\nAuric Runeson\nAuric Runesmiter\nBattlesmith\nAuric Flamekeeper\nGrimhold Exile\nAuric Runefather on Magmadroth\nAuric Runeson on Magmadroth\nAuric Runesmiter on Magmadroth\nHearthguards\nVulkyn Flameseeker"
@@ -1654,7 +1597,6 @@
 		"edition": 4,
 		"category": "Skaven",
 		"text": "A post pointing out that Night Runners, Gutter Runners, and Pestilens units could be refreshed",
-		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
 		"message": {
 			"contents": [
 				"Night Runners\nGutter Runners\nAnd way out in the future, Pestilens?\nMan, this is just plain unfair\nAnd here's the really scary part:\nThe Skaven have been the most popular evil faction since the old WHFB days, hands down 😅"
@@ -1683,7 +1625,6 @@
 		"edition": 4,
 		"category": "Skaven",
 		"text": "A post pointing out that Pestilens units could be refreshed",
-		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
 		"message": {
 			"contents": [
 				"Night Runners\nGutter Runners\nAnd way out in the future, Pestilens?\nMan, this is just plain unfair\nAnd here's the really scary part:\nThe Skaven have been the most popular evil faction since the old WHFB days, hands down 😅"
@@ -1712,7 +1653,6 @@
 		"edition": 4,
 		"category": "Skaven",
 		"text": "A new post reassuring about Crixxit, Night Runners, Gutter Runners, and Pestilens coming for Skavens",
-		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
 		"message": {
 			"contents": [
 				"The truth is - New Model:\nCrixxit of Clan Nictus\nNight Runner\nGutter Runner\nFuture:\nPestilens"
@@ -1741,7 +1681,6 @@
 		"edition": 4,
 		"category": "Skaven",
 		"text": "A new post reassuring Pestilens coming for Skavens",
-		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
 		"message": {
 			"contents": [
 				"The truth is - New Model:\nCrixxit of Clan Nictus\nNight Runner\nGutter Runner\nFuture:\nPestilens"
@@ -1770,7 +1709,6 @@
 		"edition": 3,
 		"category": "Season of War Series",
 		"text": "The discarded Dispossessed miniatures weren't thought to be released as part of the Cities of Sigmar range",
-		"groupUnder": "Cities of Sigmar multiculturality",
 		"message": {
 			"contents": [
 				"Eh, no? Like, never."
@@ -1799,7 +1737,6 @@
 		"edition": 4,
 		"category": "Darkwater",
 		"text": "We have two of the heroes of the upcoming Warhammer Quest: A \"Manticore Flame Knight\" and a \"Lakes Druidia\"",
-		"groupUnder": "Warhammer Quest: Nurgle",
 		"message": {
 			"contents": [
 				"Let’s go!\nManticore Flame Knight!\nLakes Druidia!\nRise!\nSons of Rotigus!\n[[image-2025-10-06_1.jpeg]]"
@@ -1830,7 +1767,6 @@
 		"edition": 4,
 		"category": "Darkwater",
 		"text": "Two more heroes. A Jade wizard with a familiar and a Kurnothi Stag",
-		"groupUnder": "Warhammer Quest: Nurgle",
 		"message": {
 			"contents": [
 				"There is indeed a Jade Wizard with a cute little familiar.",
@@ -1866,7 +1802,6 @@
 		"edition": 4,
 		"category": "Darkwater",
 		"text": "The druid lady from the cover doesn't have a sickle",
-		"groupUnder": "Warhammer Quest: Nurgle",
 		"message": {
 			"contents": [
 				"Close but no cigar(sickle)."
@@ -1897,7 +1832,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "A new list of CoS units posted by Boole, that then received a Whitefang like, as being part of a new Spearhead starter set",
-		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
 		"message": {
 			"contents": [
 				"Methought a vision dread: the Mortal Realms' end draweth nigh, whence no mortal soul shall find deliverance!\nFreeguild Marshal (i love little kitty!)\nFreeguild Warpriest\nFreeguild Gallant\nFreeguild Shooter\nEven More…\nVS\nDeath Master (i hate shadows!)\nNight Runner\nGutter Runner\nEven More…"
@@ -1926,7 +1860,6 @@
 		"edition": 4,
 		"category": "Skaven",
 		"text": "A new list of Skaven units posted by Boole, that then received a Whitefang like, as being part of a new Spearhead starter set",
-		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
 		"message": {
 			"contents": [
 				"Methought a vision dread: the Mortal Realms' end draweth nigh, whence no mortal soul shall find deliverance!\nFreeguild Marshal (i love little kitty!)\nFreeguild Warpriest\nFreeguild Gallant\nFreeguild Shooter\nEven More…\nVS\nDeath Master (i hate shadows!)\nNight Runner\nGutter Runner\nEven More…"
@@ -1955,7 +1888,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Freeguild Gallants is the unit of Arch-Knights",
-		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
 		"message": {
 			"contents": [
 				"Gallant as in knights. Gallantry and whatnot. Probably the \"arch-knight battleline\" from previous rumours."
@@ -1984,7 +1916,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "Looks like Golems will be part of the new Khazalid Holds roster",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"i like Golem "
@@ -2013,7 +1944,6 @@
 		"edition": 4,
 		"category": "Lumineth Realm-Lords",
 		"text": "Boole gave us a storytelling time about the elven pantheon and their possible comeback",
-		"groupUnder": "Aelven Pantheon",
 		"message": {
 			"contents": [
 				"Gooood Morning, storyteller's back\nI heard that the goddess's followers donned armour forged from shadows and erected one new altar after another.\nHold on, what's that?\nReturned ye be, O Mathlann, Khaine, and Kurnous!\nThou tarriest overlong, Morai-Hag!\nMy heart foretold thy coming, Hoeth!\nAsuryan! Can it be thou too art restored?\nRemember, rumours are rumours, have a great day!"
@@ -2042,7 +1972,6 @@
 		"edition": 4,
 		"category": "Lumineth Realm-Lords",
 		"text": "This refers very likely to shards or souls scaping from Slaneesh during the Broken Realms Morathi plot",
-		"groupUnder": "Aelven Pantheon",
 		"message": {
 			"contents": [
 				"It is worth noting that the cycle of reincarnation is an established lore of the elven pantheon.\nThat said, I personally don't think the elven deities of old will return or return exactly as they were.\nYet, sparkles of Morai-Heg indeed escaped. Is it that surprising if someone else also escaped?"
@@ -2071,7 +2000,6 @@
 		"edition": 4,
 		"category": "Ulgurothi",
 		"text": "Boole gave us a storytelling time about the elven pantheon and their possible comeback",
-		"groupUnder": "Aelven Pantheon",
 		"message": {
 			"contents": [
 				"Gooood Morning, storyteller's back\nI heard that the goddess's followers donned armour forged from shadows and erected one new altar after another.\nHold on, what's that?\nReturned ye be, O Mathlann, Khaine, and Kurnous!\nThou tarriest overlong, Morai-Hag!\nMy heart foretold thy coming, Hoeth!\nAsuryan! Can it be thou too art restored?\nRemember, rumours are rumours, have a great day!"
@@ -2100,7 +2028,6 @@
 		"edition": 4,
 		"category": "Ulgurothi",
 		"text": "This refers very likely to shards or souls scaping from Slaneesh during the Broken Realms Morathi plot",
-		"groupUnder": "Aelven Pantheon",
 		"message": {
 			"contents": [
 				"It is worth noting that the cycle of reincarnation is an established lore of the elven pantheon.\nThat said, I personally don't think the elven deities of old will return or return exactly as they were.\nYet, sparkles of Morai-Heg indeed escaped. Is it that surprising if someone else also escaped?"
@@ -2129,7 +2056,6 @@
 		"edition": 4,
 		"category": "Ulgurothi",
 		"text": "All the above seem to indicate that Malerion will come soon! (5th edition?)",
-		"groupUnder": "Aelven Pantheon",
 		"message": {
 			"contents": [
 				"It's opposite."
@@ -2158,7 +2084,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "A new tale by Boole talking about the upcoming Marshall Jorvan, the Freeguild Gargants, Cogforts, Crixxt and his deal with Bel'akor!",
-		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
 		"message": {
 			"contents": [
 				"Tahlia: Jorvan, d'you remember those battlemages? If we turn 'em into four new allies, d'you reckon our lads'll accept 'em?\nJorvan: Bloody hell, anythin's better than those Aelves what wrecked my homeland! Four new battlemages ain't nearly enough to drive out those sodding Aelves! We need more gargants, I swear on me sword and shield I'll wipe every last one of 'em out!\nTahlia: Steady on! It's the Skaven you should be after!\nJorvan: Right then, get me some Corgforts! That blighter Crixxit's got hold of Daemon Prince Be’lakor’s Shadow Power! Elsewise the little ****** could take down me whole army single-handed! Embergard needs more reinforcements, and sharpish!\nTahlia: You will get them……"
@@ -2187,7 +2112,6 @@
 		"edition": 4,
 		"category": "Ossiarch Bonereapers",
 		"text": "Storytelling time for OBR by Boole. This time he hinted at four possible new units: Ossiarch Ruststalker, Golden Chariot/ Ossiarchstrike Chariot, Shooters with a third eye, and Blacktoof (Arkhan the Black?!)",
-		"groupUnder": "Ossiarch release",
 		"message": {
 			"contents": [
 				"Gooood Evening, the storyteller has returned.\nIn the distant realm of Shyish, legions beyond counting are being committed to the production lines — nay, verily, in numbers most prodigious!\nThey say the decapitation strike remains the most efficacious stratagem in all Warhammer lore, and Katakros has gained newfound insight into this art — perchance you have witnessed the Ossiarch Ruststalker?\nDo you recall the tale of Katakros' own demise?\nWere you to possess a formidable Ossiarchstrike Chariot, every difficulty would find its solution! Indeed — let that golden Chariot be rendered grander and more magnificent!\nWhy, pray tell, do so many in the Mortal Realms resort to the use of firearms? 'Tis most vexing! Had our warriors but the gift of a third eye, these wretched gunslingers would pose no threat!\nThe Blacktoof shall return — yet how distant lies that future? That, my friends, remains a secret veiled in shadow!\nFor the Tithe of Bones!\nRemember, rumours are rumours, have a great day!\n[[image-2025-11-04_1.jpeg]]"
@@ -2218,7 +2142,6 @@
 		"edition": 4,
 		"category": "Ossiarch Bonereapers",
 		"text": "The above got a confirmation about the archers having three eyes and the \"Ruststalker\" being its own kit that would work as assassins",
-		"groupUnder": "Ossiarch release",
 		"message": {
 			"contents": [
 				"I think he means the new OBR archers will literally have 3 eyes.",
@@ -2250,7 +2173,6 @@
 		"edition": 4,
 		"category": "Ossiarch Bonereapers",
 		"text": " Storytelling time for OBR by Boole. This time he could have hinted Blacktoof (Arkhan the Black?!)",
-		"groupUnder": "Arkhan the Black",
 		"message": {
 			"contents": [
 				"Gooood Evening, the storyteller has returned.\nIn the distant realm of Shyish, legions beyond counting are being committed to the production lines — nay, verily, in numbers most prodigious!\nThey say the decapitation strike remains the most efficacious stratagem in all Warhammer lore, and Katakros has gained newfound insight into this art — perchance you have witnessed the Ossiarch Ruststalker?\nDo you recall the tale of Katakros' own demise?\nWere you to possess a formidable Ossiarchstrike Chariot, every difficulty would find its solution! Indeed — let that golden Chariot be rendered grander and more magnificent!\nWhy, pray tell, do so many in the Mortal Realms resort to the use of firearms? 'Tis most vexing! Had our warriors but the gift of a third eye, these wretched gunslingers would pose no threat!\nThe Blacktoof shall return — yet how distant lies that future? That, my friends, remains a secret veiled in shadow!\nFor the Tithe of Bones!\nRemember, rumours are rumours, have a great day!\n[[image-2025-11-04_1.jpeg]]"
@@ -2281,7 +2203,6 @@
 		"edition": 4,
 		"category": "Battletomes",
 		"text": "All the remaining battletomes will be released before 2026 ends",
-		"groupUnder": "Battletomes",
 		"message": {
 			"contents": [
 				"For all the people are speculating wich books are coming in 2026... All of them, the only point to knoe is the order of them, but at the end of 2026 we should have all of them in a pre-ordered status."
@@ -2310,7 +2231,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Freeguild Shooters aren't aelves",
-		"groupUnder": "Cities of Sigmar multiculturality",
 		"message": {
 			"contents": [
 				"Nope "
@@ -2341,7 +2261,6 @@
 		"edition": 4,
 		"category": "Daughters of Khaine",
 		"text": "The new DoK won't be only a couple of hero kits, like the IDK release",
-		"groupUnder": "Daughters of Khaine will get love in 4th edition",
 		"message": {
 			"contents": [
 				"No"
@@ -2370,7 +2289,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "Another tale about Khazalid Holds. It seems like their main colour is going to be green",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"Gooood Evening, the storyteller has returned.\nI once heard a conversation on Barak-Nar that I found very interesting, so I'd like to share it with you all:\nAfter Garaktormun, never have I witnessed tragedy of such magnitude. What in Grungni's name befell our kins on the volcano?\nListen well, son. The doom of Barak-Urbaz — remember you that? This was no different. A rolling fire curtain of rocket barrages laid down in carpet bombing pattern, followed by wave-type assaults of thaggoraki swarming the volcanic slopes. They breached the Magmaholds, already shattered by bombardment and rad-waste. Blood and screaming... everywhere.\nAre we to stand idle while our kins are butchered? If we watch from the skies as thaggoraki slaughter them, this fate will be ours soon enough!\nNegative, son. We're powerless. They turned away our ancestors' pleas during the Age of Chaos! Left them to die! We ceased being kins long ago. The Khazalid Empires' glory is dust! Their downfall? Foolishness. Rigidity. Clinging to old ways — demanding all realms-leaders gather in one location! A single strike wiped the slate clean.\nBut intelligence reports suggest Grungni's return! How could he permit this?\nStow that talk, lad. Where those city-dwelling kins went is above our clearance. Forget it!\nI have intel! Valaya, Gazul, Grombrindal, Thorgrim — the Ancestor Gods are active! They'll rise in the mountains and reinforce our volcanic kins!\nHalt your speculation! Their Vulkite Berzerkers! All their leaders — all lying cold on the earth! Only the Ancestor Gods can extract them now!\nHold on — contacts emerging from the mountain range. Green-uniformed formations. Are those our kins?\nThat's all, all of this was just a conversation I overheard. What will happen in the future?\nRemember, rumours are rumours, have a great day!"
@@ -2399,7 +2317,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "New Magmadroths or other new specimens will emerge with the upcoming Khazalid Holds release",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"Not to worry, my friend😉"
@@ -2428,7 +2345,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "The new release kits count or the number of FS miniatures in the release would be 12",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"12"
@@ -2457,7 +2373,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "Those 12 kits won't be dual builds between FS and Dispossessed",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"That’s not true."
@@ -2486,7 +2401,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "The teaser FS image could be a baby droth herder",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Technically Flameseekers have a droth."
@@ -2515,7 +2429,6 @@
 		"edition": 4,
 		"category": "Ogor Mawtribes",
 		"text": "Looks like the new Ogors kit won't have more Gnoblars as pets. \"Their legacy shall persist, merely assuming another form in the grand tapestry\"",
-		"groupUnder": "Ogor Mawtribes refresh",
 		"message": {
 			"contents": [
 				"in New Ogor Kits?\nFarewell then, my diminutive little friends — you shall be commemorated with genuine affection, I assure you.\nThough let us be clear: their legacy shall persist, merely assuming another form in the grand tapestry"
@@ -2544,7 +2457,6 @@
 		"edition": 4,
 		"category": "Ogor Mawtribes",
 		"text": "A new user, @Reformation, has posted a really small picture of what seems to be an Ogor Tyrant cave drawing",
-		"groupUnder": "Ogor Mawtribes refresh",
 		"message": {
 			"contents": [
 				"[[image-2025-11-12_1.jpeg]]"
@@ -2575,7 +2487,6 @@
 		"edition": 4,
 		"category": "Ogor Mawtribes",
 		"text": "We know it is a tyrant because of a thanks reaction",
-		"groupUnder": "Ogor Mawtribes refresh",
 		"message": {
 			"contents": [
 				"perchance it is a new ogor/ tyrant *wink"
@@ -2604,7 +2515,6 @@
 		"edition": 4,
 		"category": "Ogor Mawtribes",
 		"text": "And later, Boole mentioned it was a new Tyrant with multiple poses, but also made a drawing that looks like Golgfag",
-		"groupUnder": "Ogor Mawtribes refresh",
 		"message": {
 			"contents": [
 				"This picture actually depicts the New Tyrant — it has numerous poses in its repertoire, and this happens to be one of them.",
@@ -2638,7 +2548,6 @@
 		"edition": 4,
 		"category": "Ogor Mawtribes",
 		"text": "Boole finished with a new storytelling about Ogors. A Shaman proclaimed their new religion and got away from Gorkamorka, Globb Glittermaw has eater her father's and is now the new Overtyrant, Leadbelchers have been kicked from this new Ogors society. Maneaters also have left, but they managed to adapt under the lead of a new legendary Maneater who had fought under Tahlia, which has her entire right half rebuilt into a colossal artillery piece",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Gooood Evening, the storyteller has returned.\nAs the Hour of Ruin dawned, the Ogors were ruthlessly slaughtered by the Skaven, suffering repeated and grievous defeats. How could such frail, meagre beings overcome the Ogors’ hulking might?\nThe Shaman fell into a brooding silence. Why did the Gulping God permit this carnage to befall his children?\nThus began the Shaman’s pilgrimage.\nHe ventured deep into Shyish, passing into the Ogors’ Underworld. There, he beheld a cyclopean abyss—a burial place of the Ogors’ most ancient secrets, a truth hauled from the Aetheric Void, an all-devouring eternal presence from that starless expanse… something unnameable!\nGorkamorka is but a lie!\nMadness seized the Shaman.\nReturning to his homeland, he came upon the daughter of Globb Glittermaw—a female Tyrant astride a Huge Monster. This formidable Tyrant had defeated and devoured Globb Glittermaw herself. The now-deranged Shaman proclaimed her the new Overtyrant, the chosen of the True Gulping God!\nThrough mutual alliance with the new Overtyrant, the Shaman has secured a sacred monopoly over the faith and canonical authority of the Gulping God, and has promulgated the sacred tenets of the True Gulping God.\nGunpowder? Cowardice! The Leadbelchers—too fearful to close in and feast upon their foes!\nSoon, masses of Leadbelchers were driven from the Big Mawtribe.\nHirelings? Folly! The Maneaters—led by their stomachs, fools all!\nThen, the Maneaters too were cast out from the Big Mawtribe. Yet unlike the Leadbelchers, a grizzled and formidable veteran rose as their leader—a legendary Maneater who had fought under Tahlia, her entire right half rebuilt into a colossal artillery piece!"
@@ -2667,7 +2576,6 @@
 		"edition": 4,
 		"category": "Ogor Mawtribes",
 		"text": "Looks like Beastclaw would ride new monsters",
-		"groupUnder": "Ogor Mawtribes refresh",
 		"message": {
 			"contents": [
 				"As for the Beastclaw, they scoffed at these events, deeming the lot utterly mad. Mounted upon new Monsters, they simply pursued their grim hunts, tracking the Skaven beneath frigid gales."
@@ -2696,7 +2604,6 @@
 		"edition": 4,
 		"category": "Ogor Mawtribes",
 		"text": "And the Mongolian look will fully disappear from the Ogors refresh",
-		"groupUnder": "Ogor Mawtribes refresh",
 		"message": {
 			"contents": [
 				"All Gone "
@@ -2727,7 +2634,6 @@
 		"edition": 4,
 		"category": "Skaven",
 		"text": "Another reference to Eshin",
-		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
 		"message": {
 			"contents": [
 				"Gooood Evening, the storyteller has returned.\nMy dear friends, following tonight's revelries, I have gleaned fresh geographical insights from ancient codices.\nLet us observe:\nArmageddon? In which realm doth this lie? Could this be the site of that man's prophesied Return?\nAh! Eye of Terror! A place that echoes the Eightpoints, by the sound of it. Whispers tell of an iron monstrosity soon to emerge with its brood!\nMaelstrom? Some sea in Ghyran, perhaps? It seems teeming with Aelves – led by a prince, if one believes the texts. Most remarkable!\nBut wait – what is that? The shadows about me... they stir!\nNo! Rats! Rats! Rats!\nThose cloaked shades! Those Shurikens! That venom!\nRun!"
@@ -2756,7 +2662,6 @@
 		"edition": 4,
 		"category": "Sylvaneth",
 		"text": "Kurnothis don't seem to be part of an upcoming AoS release in the near future",
-		"groupUnder": "Sylvaneth 4th edition release",
 		"message": {
 			"contents": [
 				"Anything re Kurnothi? @Boole"
@@ -2785,7 +2690,6 @@
 		"edition": 4,
 		"category": "Sylvaneth",
 		"text": "Boole dropped a story about Sylvaneths and explicitly mentions Alarielle's Gardener",
-		"groupUnder": "Sylvaneth 4th edition release",
 		"message": {
 			"contents": [
 				"Gooood Evening, the storyteller has returned.\nFrom the fringes of the Everspring Swathe, strange tidings have reached mine ears — a most peculiar discourse, mark you. Blast it all, the agents of the Order of Azyr persist in filing these preposterous reports.\nPray, lad, dost thou recall how these past decades have witnessed our homelands besieged?\nThe Everqueen’s Rite of Life echoes all around the Mortal Realms, those frenzied Sylvaneth warriors now launch expeditions across the Mortal Realms, the wargroves are uprooting and expanding their territory.\nYet her dominion remains far from true expansion. Nay — with the coming of The Hour of Ruin, have not her armies been repeatedly thwarted by the rats?\nFoolish youth, thou understandest not that mad goddess! She hath long forsaken her former allies. To fulfill the vision of those trees, she would dare any atrocity!\nWhat meanest thou? Shall our pastoral idyll be shattered? How can this be? She is but doomed to repeat centuries of failure! I have heard such apocalyptic prophecies countless times, yet never has she breached our homeland — is this not truth?\nThou art grievously mistaken, lad. That tree, from the World-that-Was...\nThe old man coughed violently, as if the words had stirred ghosts of memory.\nSpeakest thou of The Oak of Ages Past?\nAye! The Oak of Ages — the Oak’s roots shall pierce through All Realms! None shall be spared! We must unite against the tyranny of this goddess!\nThat terrifying Gardener — she wears a crown identical to the Everqueen’s. In her left hand, an amphora overflowing with nectar; in her right, a viridescent pruning-shear. Monstrous roots writhe in her wake, sprouting tender shoots upon battlefields where our fallen kin now blossom with garish pink flowers!\nStay — I comprehend thee not! What dost thou speak of?\nThe Season of Change is coming! The saplings at the Grove Guardian’s feet are naught but newborn Oak of Ages! The goddess’ wrath spreads through these nascent trees across All Realms! None may escape nature’s vengeance — not even her former allies...\nIf thy words hold truth... may the Grandfather preserve us.\nMay the Grandfather preserve us all!\nThat’s all!\nRemember, rumours are rumours, have a great day!"
@@ -2814,7 +2718,6 @@
 		"edition": 4,
 		"category": "Sylvaneth",
 		"text": "The gardener could be some sort of Grove guardian",
-		"groupUnder": "Sylvaneth 4th edition release",
 		"message": {
 			"contents": [
 				"Sounds like one hero and a unit, similar to the KO release. The gardener and a unit of grove guardians.\nEdit scratch that. I misread the apostrophe. Maybe just a hero known as the Grove Guardian then. "
@@ -2843,7 +2746,6 @@
 		"edition": 4,
 		"category": "Blades of Khorne",
 		"text": "Khul is coming soon",
-		"groupUnder": "Ascended Khorgos Khul",
 		"message": {
 			"contents": [
 				"soon"
@@ -2872,7 +2774,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "A picture showing Jorvan's miniature",
-		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
 		"message": {
 			"contents": [
 				"Jorvan\n[[image-2025-11-20_1.png]]"
@@ -2903,7 +2804,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "A more detailed list of the contents of the CoS Spearhead",
-		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
 		"message": {
 			"contents": [
 				"Sentinels Of Embergard:\nJorvan Kreel – Heir Of The Kraken\nMallus Forgepriest (a battlepriest bearing a massive polearm warhammer, a mask shrouds his visage)\n10 Freeguild Gallants (knights afoot, encased head-to-toe in plate, bearing shield and blade)\n10 Freeguild Grenadiers (clad in full panoply of war, all cloaked, armed with melee weapons and firearms — among them the one called Cindergout, wielding a mighty flamethrower)"
@@ -2932,7 +2832,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Reformation contradicts Boole and says the Cogfort will be released in 2026",
-		"groupUnder": "A cogfort model is coming!",
 		"message": {
 			"contents": [
 				"Boole's information is inaccurate\nCogfort will release in 2026"
@@ -2961,7 +2860,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "CoS will also get faction terrain, three mages and gargants",
-		"groupUnder": "Cities of Sigmar will receive love",
 		"message": {
 			"contents": [
 				"CoS will get Cogfort, Gargants, Light Battlemage, Bright Battlemage, Amethyst Battlemage, and Faction Terrain ..."
@@ -2990,7 +2888,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Cogfort will be bigger than the Mega Gargant, and we might need four for listbuilding",
-		"groupUnder": "A cogfort model is coming!",
 		"message": {
 			"contents": [
 				"Cogfort model will exceed the scale of Mega-Gargants\nYou may need four Cogforts for list building"
@@ -3019,7 +2916,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "A picture of the Cogfort",
-		"groupUnder": "A cogfort model is coming!",
 		"message": {
 			"contents": [
 				"The Biggest\n[[image-2025-11-21_1.webp]]"
@@ -3050,7 +2946,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "The above picture shows multiple miniatures over the Cogfort",
-		"groupUnder": "A cogfort model is coming!",
 		"message": {
 			"contents": [
 				"This pic's had multiple Freeguild commanders, several dozen Freeguild troops, a super cannon, flamethrowers, and heavy gatling guns"
@@ -3079,7 +2974,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Duardins and Aelves will still be usable in the new CoS tome",
-		"groupUnder": "Cities of Sigmar multiculturality",
 		"message": {
 			"contents": [
 				"i think so\nbut you can still use aelves and duardins in New CoS Battletome\nalright\ni need to go to sleep"
@@ -3108,7 +3002,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Flagellants will be legended, but they could come back soon (5th edition?)",
-		"groupUnder": "Flagellants",
 		"message": {
 			"contents": [
 				"legends but soon ..."
@@ -3137,7 +3030,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "A description and an image of the Grenadiers",
-		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
 		"message": {
 			"contents": [
 				"Freeguild Grenadiers\nHe hefts his greatbore musket upon the haft of his pole-axe to loose its shot\nYou can see the intricate helm and battleplate that adorn him, and the greatcloak that shrouds his form from crown to heel\n[[image-2025-11-22_1.webp]]"
@@ -3168,7 +3060,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Another image of the Cogfort and an image of the Freeguild Gargant",
-		"groupUnder": "A cogfort model is coming!",
 		"message": {
 			"contents": [
 				"She gave me last 2 pics\nmight be CoS?\n[[image-2025-11-22_2.webp]]\n[[image-2025-11-22_3.webp]]"
@@ -3200,7 +3091,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "A description of the Freeguild Gargant",
-		"groupUnder": "Cities of Sigmar multiculturality",
 		"message": {
 			"contents": [
 				"this is a Gargant in full panoply of war\nIn one fist he brandishes a colossal melee weapon, in the other a wrenched city gate",
@@ -3232,7 +3122,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Freeguild Gargant has more than one model",
-		"groupUnder": "Cities of Sigmar multiculturality",
 		"message": {
 			"contents": [
 				"Not gonna lie, that's a solid question. But the answer's already in the question — I'm not touching that one.\nTell you what though, as a consolation prize: Freeguild Gargants aren’t 1 model"
@@ -3261,7 +3150,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "A new mage unit is described! Erasmus Zonn",
-		"groupUnder": "Erasmus Zonn",
 		"message": {
 			"contents": [
 				"Erasmus Zonn - The Enlightened One\nFounder and Master of The Lucid Fellows\nThe mightiest of mortal mages, Keeper of Forbidden Lore, Great Sage of the Illuminated\nHe mounts a chimera of fell cunning, leading the uprising of humankind against Lumineth hypocrisy and tyranny",
@@ -3296,7 +3184,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "The humans in Settler's Gain will revolt against the Lumineth because of the way the Aelves treated them",
-		"groupUnder": "Erasmus Zonn",
 		"message": {
 			"contents": [
 				"Erasmus Zonn - The Enlightened One\nFounder and Master of The Lucid Fellows\nThe mightiest of mortal mages, Keeper of Forbidden Lore, Great Sage of the Illuminated\nHe mounts a chimera of fell cunning, leading the uprising of humankind against Lumineth hypocrisy and tyranny"
@@ -3325,7 +3212,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Rules from Erasmus Zonn",
-		"groupUnder": "Erasmus Zonn",
 		"message": {
 			"contents": [
 				"Lantern of All-Knowledge:\nIf he is wholly within 9'' of a corner of the battlefield\nHe can use four effects\n1: All friendly CoS units which wholly within 6'' of him are not visible to enemy units more than 6'' from them\n2: Power Level 1 → 2\n3: Add 2 to his casting rolls\n4: Add 3 to his ranged weapon Attacks, and make his ranged weapon Dmg to 3",
@@ -3357,7 +3243,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Cogforts can be used in four GA, usable by all factions. It has 6 different warscrolls",
-		"groupUnder": "A cogfort model is coming!",
 		"message": {
 			"contents": [
 				"It has dedicated rules assigned to the Four Great Alliance, usable by all factions\nOh, and it comes with 6 different Warscrolls\nI'm afraid CoS armies should probably get at least 4 Cogforts — gotta say\nH25?\nSave3+? "
@@ -3386,7 +3271,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "What's in the core of a Cogfort is a secret, even for the other gods who covet to know it. They are forged by the Ironweld Arsenal",
-		"groupUnder": "A cogfort model is coming!",
 		"message": {
 			"contents": [
 				"They were all forged by Ironweld Arsenal, with their cores being top secret, coveted even by the gods"
@@ -3415,7 +3299,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "A couple of new pictures. The first one looks to be part of the Cogfort crew (because of the transfer), and the second one could be the Gallants",
-		"groupUnder": "A cogfort model is coming!",
 		"message": {
 			"contents": [
 				"I realized I forgot to post these two pictures\nI'm not quite sure what they are\nmaybe they're gallants\n[[image-2025-11-23_1.jpeg]]\n[[image-2025-11-23_2.webp]]"
@@ -3447,7 +3330,6 @@
 		"edition": 4,
 		"category": "Daughters of Khaine",
 		"text": "Krethusa will bend her knee to Morathi",
-		"groupUnder": "Daughters of Khaine will get love in 4th edition",
 		"message": {
 			"contents": [
 				"Krethusa? No\nShe hath bent her knee to Morathi — every rebellion shattered, every defiance undone\nThe Aelf Gods stir in their slumber, and she must now choose her allegiance"
@@ -3476,7 +3358,6 @@
 		"edition": 4,
 		"category": "Daughters of Khaine",
 		"text": "The new DoK minis will have dual builds to be built for Morathi or Krethusa",
-		"groupUnder": "Daughters of Khaine will get love in 4th edition",
 		"message": {
 			"contents": [
 				"She and she — their coven shall unveil some new miniatures\nYou can choose two variants when building: Krethusa or Morathi"
@@ -3505,7 +3386,6 @@
 		"edition": 4,
 		"category": "Daughters of Khaine",
 		"text": "DoK won't get kits replaced with the upcoming tome",
-		"groupUnder": "Daughters of Khaine will get love in 4th edition",
 		"message": {
 			"contents": [
 				"Non"
@@ -3534,7 +3414,6 @@
 		"edition": 4,
 		"category": "Disciples of Tzeentch",
 		"text": "Tzeentch will receive a Silver Tower as their terrain, and it will be huge",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"i think…\nSliver Tower?",
@@ -3566,7 +3445,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "Khazalid holds will be the last tome of the edition",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"Khazalid will be the last one"
@@ -3595,7 +3473,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "Khazalid could have new demigod miniatures like Thorgrim",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"-"
@@ -3624,7 +3501,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "Gotrek will join FS officially, and they will have new FS units",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"No\nGotrek will be together with new FS units"
@@ -3653,7 +3529,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "A blurry picture of a Magmadroth",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"I think...\nthis might be FS\nI'm not sure\n[[image-2025-11-22_4.png]]",
@@ -3687,7 +3562,6 @@
 		"edition": 4,
 		"category": "Hedonites of Slaanesh",
 		"text": "Slaanesh will have only a foot hero this edition",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"No\nfoot hero"
@@ -3716,7 +3590,6 @@
 		"edition": 4,
 		"category": "Kruleboyz",
 		"text": "Nothing on the pipe known for the KB",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"No"
@@ -3745,7 +3618,6 @@
 		"edition": 4,
 		"category": "Lumineth Realm-Lords",
 		"text": "Hoeth gets mentioned",
-		"groupUnder": "Aelven Pantheon",
 		"message": {
 			"contents": [
 				"Hoeth"
@@ -3774,7 +3646,6 @@
 		"edition": 4,
 		"category": "Ogor Mawtribes",
 		"text": "A new Ogors picture dropped",
-		"groupUnder": "Ogor Mawtribes refresh",
 		"message": {
 			"contents": [
 				"new ogor\n[[image-2025-11-18_1.png]]"
@@ -3805,7 +3676,6 @@
 		"edition": 4,
 		"category": "Ossiarch Bonereapers",
 		"text": "It seems they will get 4 kits. Two single miniature kits, one with 5 miniatures and another one with 10",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"1\n1\n5\n10"
@@ -3834,7 +3704,6 @@
 		"edition": 4,
 		"category": "Skaven",
 		"text": "A picture from Crixxit's miniature",
-		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
 		"message": {
 			"contents": [
 				"Deathmaster Crixxit\n[[image-2025-11-20_2.webp]]"
@@ -3865,7 +3734,6 @@
 		"edition": 4,
 		"category": "Skaven",
 		"text": "We have the full list of the spearhead minis",
-		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
 		"message": {
 			"contents": [
 				"Crixxit’s Kill-Pack:\nDeathmaster Crixxit\nDeathmaster\n10 Gutter Runners\n10 Night Runners"
@@ -3894,7 +3762,6 @@
 		"edition": 4,
 		"category": "Ulgurothi",
 		"text": "Reformation reassures Malerion coming soon",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Soon"
@@ -3923,7 +3790,6 @@
 		"edition": 0,
 		"category": "",
 		"text": "Spearhead could replace Warcry",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"I think......\nReplaced by Spearhead?\nMaybe......"
@@ -3952,7 +3818,6 @@
 		"edition": 0,
 		"category": "",
 		"text": "OBR maybe has a new warband coming",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"-"
@@ -3981,7 +3846,6 @@
 		"edition": 0,
 		"category": "",
 		"text": "Nighthaunt Noob (our in-house Underworlds oracle) is back and posted another hint towards the OBR warband via a post and a like when OBR was mentioned regarding his own post",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"[[image-2025-11-27_2.png]]"
@@ -4013,7 +3877,6 @@
 		"edition": 0,
 		"category": "",
 		"text": "More info gets dropped, looks like the next UW warband will be OBR",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Btw, unusual kind of message from me, but I got confirmation from someone about the OBR UW warband. I even got a date, but I cannot share it just in case."
@@ -4042,7 +3905,6 @@
 		"edition": 0,
 		"category": "",
 		"text": "Spearhead miniatures count could be lowered and follow the number of minis of the CoS vs Eshin ones",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"-"
@@ -4071,7 +3933,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "Boole is back with new FS rumours. A new spearhead containing a Magmadroth (a new one?!) is coming!",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"A gift? Strictly speaking, keeping secrets is a virtue\nBut...\nWell, I'm shamelessly lacking in morals\nWhat if I told you the new FS Spearhead might include a Magmadroth?"
@@ -4100,7 +3961,6 @@
 		"edition": 0,
 		"category": "",
 		"text": "The OBR warband will contain five miniatures",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Btw, spoke with the same dude about the OBR warband. Five minis, \"nothing outstanding\". \"Just more OBR\"."
@@ -4129,7 +3989,6 @@
 		"edition": 0,
 		"category": "",
 		"text": "The OBR warband will be released in February",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Next UW warband is OBR. Around Feb will be released."
@@ -4158,7 +4017,6 @@
 		"edition": 4,
 		"category": "Ossiarch Bonereapers",
 		"text": "It seems that the rumour engine from the 23rd of December 2025 is part of the OBR archers",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Having been cast down by the Lumineth, and now faltering before the tide of Skaven, hast thou gleaned any lesson from these trials?\nKatakros: Those Auralan Sentinels struck deep into the skulls of our commanders, and they remain a bane to legions of infantry. Indeed — we require more archers, who loose arrows kindled with soulfire."
@@ -4189,7 +4047,6 @@
 		"edition": 4,
 		"category": "Battletomes",
 		"text": "The upcoming tomes that will be previewed in the New Year Preview will be OBR, LRL and Tzeentch",
-		"groupUnder": "Battletomes",
 		"message": {
 			"contents": [
 				"I wonder what the new Ossiarch, Lumineth and Tzeench teasers will be this preview?\nOr if people will like the Bloodbowl High Elves? "
@@ -4218,7 +4075,6 @@
 		"edition": 4,
 		"category": "Battletomes",
 		"text": "The order of the upcoming preview tomes will be Tzeentch and Lumineth in February, and OBR after that",
-		"groupUnder": "Battletomes",
 		"message": {
 			"contents": [
 				"Lumineth and Tzeentch are next 2 tomes. February release. "
@@ -4247,7 +4103,6 @@
 		"edition": 4,
 		"category": "Lumineth Realm-Lords",
 		"text": "The new hero released in the 4th edition will be a Vanari foot hero",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"It is sadly a Vanari foot hero. "
@@ -4276,7 +4131,6 @@
 		"edition": 4,
 		"category": "Disciples of Tzeentch",
 		"text": "The upcoming Spearhead will have more Tzaangors",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Tzaangor spearhead "
@@ -4305,7 +4159,6 @@
 		"edition": 4,
 		"category": "Disciples of Tzeentch",
 		"text": "The new upcoming hero won't be a Tzaangor",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"As cool as a named Tzaangor hero would be. Its not what the hero is"
@@ -4334,7 +4187,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "The Starter Faction won't be OBR",
-		"groupUnder": "5th Edition Starter",
 		"message": {
 			"contents": [
 				"It's Wednesday now\nThe diminutive fellows without the thick cannon barrel and bushy beard has officially joined AOS\nBrilliant!\nSomehow, I've noticed you guys believe 5Edition belongs to the Death Alliance\nWell then, allow me to rule out one possibility for you all\nRemember, rumours are rumours, have a great day!\nOssiarch\nFor example\nThey are truly perfect models\n[[image-2025-09-03_1.jpg]]\n[[image-2025-09-03_2.jpg]]"
@@ -4363,7 +4215,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "The Starter Faction that opposed the Stormcast Eternals would be Vampirates",
-		"groupUnder": "5th Edition Starter",
 		"message": {
 			"contents": [
 				"And so, at the end of 2026 we will be seeing our sinx-month narrative kind of clonclusion as well. Right? And we will start to see that. And the big question is, what do we think that narrative campaign will be? And it really triggers into what we think we're going to see from fifth editio. So that is quite interesting.\nBut I think the fifth edition starter box, I am putting down a Stormcast versus Soulblight Gravelords. I am putting that down. That's my hoy take. It's pretty crazt.\nNow a death faction kind of makes sense. The last army, the last edition box set was... well, this one was Skaven, so it was chaos. The one before that was Kurleboyz, so it was destruction. So it would make sense if we are going to see a death faction as the main new bad guy.\nWe previously ad Nagash and Nighthaunt in second edition, and before that we had chaos. So if it follows that tradicion of it being chaos and then death, then death is what is going to be. And there is where I could see it being Vampirates being released."
@@ -4392,7 +4243,6 @@
 		"edition": 4,
 		"category": "Battletomes",
 		"text": "After Tzeentch, Lumineth and OBR, it could be the time of CoS, or just the next big release",
-		"groupUnder": "Battletomes",
 		"message": {
 			"contents": [
 				"looks familiar?\n🤪\nNext one\nCoS"
@@ -4421,7 +4271,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Cities of Sigmar have high chances of being previewed during the Adepticon 2026",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"On its way to Adepticon.... Most likely.\n[[image-2026-01-22_1.png]]"
@@ -4452,7 +4301,6 @@
 		"edition": 4,
 		"category": "Daughters of Khaine",
 		"text": "DoK will get terrain and a new infantry box",
-		"groupUnder": "Daughters of Khaine will get love in 4th edition",
 		"message": {
 			"contents": [
 				"Folks, I told you this ages ago — shame nobody picked up on the Lumineth hints I dropped before\nAnyway, DoK will get a New Terrain and a box of New Infantry\nBut the real bombshell is CoS. Aside from the Eshin showdown, the CoS Battletome is shaping up to be…\nWell, nuts"
@@ -4481,7 +4329,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "Khazalid Holds seems to be one of the last, if not the last, of the battletomes for the 4th edition. The post also includes some more details about its Spearhead",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"The new FS Spearhead will launch bundled with Khazalid Holds\nI did say there'd be a Magmadroth\nBut Khazalid Holds is still a fair bit away — not really something that should be teased now\nAnd I did mention that, didn't I?"
@@ -4510,7 +4357,6 @@
 		"edition": 4,
 		"category": "Ogor Mawtribes",
 		"text": "Another mention about a unique ogor lady hero",
-		"groupUnder": "Ogor Mawtribes refresh",
 		"message": {
 			"contents": [
 				"Unique\nOgor\nHero "
@@ -4539,7 +4385,6 @@
 		"edition": 4,
 		"category": "Sylvaneth",
 		"text": "Boole confirms just a single hero for Sylvaneth on 4th edition",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Just One Hero "
@@ -4568,7 +4413,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "Maybe a subtle hint about Nagash coming back in the 5th edition?",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"WOW\nRATS\nI HATE THEM ALL\n- NAGASH "
@@ -4597,7 +4441,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Boole confirms that Cities will receive more units than the Skavens, their spearhead starter set counterpart",
-		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
 		"message": {
 			"contents": [
 				"Of course\nCoS will have more new units than Skaven\nWait, i heard some voices under my bed?"
@@ -4626,7 +4469,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "We also have an image as a hint about how the Cities of Sigmar terrain will look",
-		"groupUnder": "Cities of Sigmar will receive love",
 		"message": {
 			"contents": [
 				"I don't think I said that\nHmm…\nWho said that?\nWell, actually…\nENLARGE THEM\n[[image-2026-02-13_1.jpeg]]"
@@ -4657,7 +4499,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "The faction terrain could be something similar in concept to the Guardian Idol",
-		"groupUnder": "Cities of Sigmar will receive love",
 		"message": {
 			"contents": [
 				"I'm thinking a guardian Idol type deal."
@@ -4686,7 +4527,6 @@
 		"edition": 4,
 		"category": "Skaven",
 		"text": "A new addition: The description of the units on the Skaven side of the spearhead starter",
-		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
 		"message": {
 			"contents": [
 				"Rumour with real warpstone bits in it 🐀\nA guy on my french forum knows someone who is working on a project related to AoS, and he showed him the new Eshin spearhead contents (description below is taken from his own words) :\nA box set containing two troops : night runners and Eshin skaven assassins.\n- Night runners with slingshots and melee weapons, accompanied by swarms of small rats carrying bombs (same base size as the gutter runners).\n- As for the gutter runners, I mainly saw the leader or the special guy in the gang :\nHe wears a rat skull as a helmet. On his back, he has a generator (a sphere containing warpstone) connected to blades.\nThe rest of the troop wear fairly basic hoods."
@@ -4715,7 +4555,6 @@
 		"edition": 4,
 		"category": "Skaven",
 		"text": "Rats swarm minis will be part of the spearhead",
-		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
 		"message": {
 			"contents": [
 				"So, I asked our informant if his source had seen anything for COS, but unfortunately, no. He hadn't worked on it. 😭\nOtherwise, the poses of skaven minis are fairly simple : some are running, others are leaping. And there are two rats swarms in the box."
@@ -4744,7 +4583,6 @@
 		"edition": 4,
 		"category": "Skaven",
 		"text": "Boole confirms the description given by Draznak and throws his own description",
-		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
 		"message": {
 			"contents": [
 				"Alright, so here's the deal with the Gutter Runners — they're absolutely decked out\nEvery single one's got their face covered up (gas masks, bandages, you name it), all draped in these massive black cloaks\nTwo of them really stand out:\n· The Leader's lurking on a wooden plank from a collapsed building, weeping blade in his right hand, helmet on — straight-up giving off Deathmaster vibes\n· Another one's rocking a skull helmet, hauling a green poison tank on his back, tubes running down to what look like katar(?) on both hands\nThe rest are no slouch either:\n· Five with short blades (two of them dual-wielding)\n· One with a bladed tonfa\n· One lunging forward, holding two tekko kagi\n· And there's this gas-mask guy — honestly no clue what weapon he's carrying\nOh, and they also come with two giant rats tokens — each token's a base with a couple of giant rats strapped with bombs on their backs\nYep, two of those"
@@ -4773,7 +4611,6 @@
 		"edition": 4,
 		"category": "Skaven",
 		"text": "More descriptions for the units on the Skaven side of the Spearhead starter set",
-		"groupUnder": "Cities of Sigmar vs Eshin Spearhead",
 		"message": {
 			"contents": [
 				"Night Runners — they're basically ninjas\nNo capes. Instead, they're decked out in full-body black bodysuits (hands and feet exposed though)\nTwo types of masks: one that just shows the eyes, and the classic Skaven mask (eyes and mouth exposed)\nTheir Leader's wearing a helmet, dual-wielding a Kusarigama — scythe on the left end, Meteor Hammer as the counterweight on the right\nThey've got a ton of weapon loadouts:\nBoth hands with Kusarigama like the Leader's, short blade in left hand + sling in right, just a sling in one hand, just a dagger in one hand, just a Shuriken in one hand, Shuriken in left + dagger in right, Nunchaku in one hand... you get the idea\nAnd most of them, like the Gutter Runners, also have weapons strapped to their tails\nPretty clear they're a whole different thing from Gutter Runners\nThese guys are Shin Ninjas",
@@ -4805,7 +4642,6 @@
 		"edition": 0,
 		"category": "",
 		"text": "The next UW warband will be made out of aelves",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Basically the guy who told me details about the last UW OBR warband told me the next one is about aelves, but without details.\nHe thinks they are Lumineth, but because of the same we think it is Lumi, because they are the ones lacking one."
@@ -4834,7 +4670,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "Rob, The Honest Wargamer, hinted during one of his streams that a new Nagash miniature is coming",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"The honest wargamer on twitch said: You didnt hear this from me but dont buy the CURRENT Nagash model. Just look at the game he will come to.\nWhat does this mean???? New model? Will Nagash in total war evolve mid game?"
@@ -4863,7 +4698,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Looks like all the WHFB kits from the current CoS range will be gone with the new tome",
-		"groupUnder": "Cities of Sigmar will receive love",
 		"message": {
 			"contents": [
 				"Wait, I never mentioned this?\nYeah — both war machines for the Battlemage and the Griffon are gone\nSpeaking of war machines, Steam Tank's out too\nAnd all the Aelves and Duardins, as well\nBut when you look at what you're getting — Gate Gargants, Cogforts, Dawner's Triumph — suddenly everything makes sense\nHaha, take it easy — they're coming soon enough "
@@ -4892,7 +4726,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Dawner's Triumph is the name of the faction terrain kit",
-		"groupUnder": "Cities of Sigmar will receive love",
 		"message": {
 			"contents": [
 				"Hauled To War!\nFury Of The Faithful!\n[[image-2026-02-13_1.jpeg]]"
@@ -4923,7 +4756,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Erasmus Zonn will have only a named variant, not a generic build",
-		"groupUnder": "Erasmus Zonn",
 		"message": {
 			"contents": [
 				"No\nOnly one\nNamed"
@@ -4952,7 +4784,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "Khazalids could be the ones ending the Vermindoom",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"Fyreslayers?\nYou might have mispronounced the name\nAll I know is Khazalid Holds\nThey will be The Savior of Mortal Realms"
@@ -4981,7 +4812,6 @@
 		"edition": 4,
 		"category": "Ogor Mawtribes",
 		"text": "More details about the Ogors release, including a size increase",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Nah\nidk\nOne thing at a time — ogors permanently losing their Mongolian flair?\nTyrant getting a lot of builds?\nAll ogors ending up much, much bigger than rat ogors?\nHaha, easy now — they're still a ways off"
@@ -5010,7 +4840,6 @@
 		"edition": 4,
 		"category": "Ogor Mawtribes",
 		"text": "Ironblasters and Scraplauncher would disappear, but they could be refreshed in the next edition. This was quickly contradicted by a third message saying they are safe",
-		"groupUnder": "Ogor Mawtribes refresh",
 		"message": {
 			"contents": [
 				"I can assure you that I absolutely said that\nYeah\nironblaster and the gnoblars artillery\nJust as you thought",
@@ -5045,7 +4874,6 @@
 		"edition": 5,
 		"category": "Lumineth Realm-Lords",
 		"text": "Looks like a Lumineth Realm-Lords release could be ready for the 5th edition?",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"With all the best intentions\nAnd the forbidden knowledge I can't exactly share with you\nI've got a feeling\nThose big guys who've stepped out for now will be back in 5th?\nKind of like Lumineth, or Slaanesh, right?"
@@ -5074,7 +4902,6 @@
 		"edition": 5,
 		"category": "Hedonites of Slaanesh",
 		"text": "Looks like an Hedonites of Slaanesh release could be ready for the 5th edition?",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"With all the best intentions\nAnd the forbidden knowledge I can't exactly share with you\nI've got a feeling\nThose big guys who've stepped out for now will be back in 5th?\nKind of like Lumineth, or Slaanesh, right?"
@@ -5103,7 +4930,6 @@
 		"edition": 5,
 		"category": "Ogor Mawtribes",
 		"text": "Boole has the feeling that Ogors will have a decent release in the 5th edition",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"With all the best intentions\nAnd the forbidden knowledge I can't exactly share with you\nI've got a feeling\nThose big guys who've stepped out for now will be back in 5th?\nKind of like Lumineth, or Slaanesh, right?"
@@ -5132,7 +4958,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "More Erasmus rules",
-		"groupUnder": "Erasmus Zonn",
 		"message": {
 			"contents": [
 				"REALMSPHERE MASTERY\nDeclare: Pick a visible enemy Manifestation within 12\" of this unit and that was not set up this turn to be the target.\nEffect: Make an arcane manipulation roll of 2D6. If the roll equals or exceeds the target's manifestation value, set up an Endless Spell that this unit can cast within 6\" of the target and more than 3\" from all enemy units and other enemy Manifestations. This unit has summoned that Endless Spell. Then, the target is banished and removed from play."
@@ -5161,7 +4986,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Boole throws some \"guesses\" about the upcoming release and their stats",
-		"groupUnder": "Cities of Sigmar will receive love",
 		"message": {
 			"contents": [
 				"Pretty fun guess — and hey, we're just passing time here anyway, so let's toss a few more details on there and make it even better\n(My additions are also guesses, you know the drill)\nCogfort: 3+ save, 23 wounds, 18\" range, 4 damage\nErasmus: 4+ save, 9 wounds\nFreeguild Gate Gargants: 2 models, 3+ save, 10 wounds, 5 attacks, 3 damage\nJorvan and his cat: 6 attacks, 2 damage\nGrenadiers: 10\" range, rend 2, 2 damage\nFreeguild Gallants: 3+ save, 2 wounds, 3 attacks\nWarpriest: one friendly war machine gets a 5+ ward (Cogforts included, obviously)\nCrixxit: 13 attacks, mortal damage"
@@ -5190,7 +5014,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "First sneak peek at the battle mages rules, it also includes a bit about the freeguild gargants",
-		"groupUnder": "Cities of Sigmar will receive love",
 		"message": {
 			"contents": [
 				"Maybe we could add some more guesses — too bad we're still in France, and all those good stories didn't follow us here\nSo yeah, you're stuck with these total guesses to keep you entertained!\nDeath Battlemage: pick an enemy unit within 18\" that unit can not command\nFire Battlemage: pick an enemy unit within 18\", deal 3 damage — and hey, no ward rolls allowed\nCannon Man On Freeguild Gate Gargants: 6+ ward\n10\" range, 5 attacks, D3 damage\n3 friendly units can shoot/charge after retreat\n1 war machine unit charge +3"
@@ -5219,7 +5042,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Rules from the Cogfort",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Cogforts are that huge, right?\nGotta pack 'em with people — like, one Infantry Hero and one non-hero Infantry Unit?\nThen yeet both units straight in combat next to enemy units within 6\"\nSounds absolutely insane — in a good way, yeah?"
@@ -5248,7 +5070,6 @@
 		"edition": 4,
 		"category": "Seraphon",
 		"text": "A hint about the upcoming Seraphon release including some sort of mount. Is it a unit? A hero? Or maybe an incarnate or a spell?",
-		"groupUnder": "Seraphon 4th edition release",
 		"message": {
 			"contents": [
 				"Aside from Terradon, what else do Seraphon ride up in the air?\nLet me think…\nIs it that one?\n[[image-2026-03-02_1.jpeg]]"
@@ -5279,7 +5100,6 @@
 		"edition": 4,
 		"category": "Seraphon",
 		"text": "Another post, this time mentioning Tepok, Skinks and Wizard",
-		"groupUnder": "Seraphon 4th edition release",
 		"message": {
 			"contents": [
 				"Tepok\nSkink\nWizard\nAlways with the crazy stories, huh? "
@@ -5308,7 +5128,6 @@
 		"edition": 4,
 		"category": "Sons of Behemat",
 		"text": "Sons of Behemat would get more than a hero this edition",
-		"groupUnder": "Sons of Behemat 4th edition release",
 		"message": {
 			"contents": [
 				"One Foot Hero — I mean, pretty sure I already mentioned that one\nOr maybe I forgot?\nGuess they're just not as fun as Gargants\n😄"
@@ -5337,7 +5156,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Confirmation about the Cannonade Cogfort and the Conqueror Cogfort, and some other details",
-		"groupUnder": "A cogfort model is coming!",
 		"message": {
 			"contents": [
 				"Have ye heard tell of the Cannonade Cogfort? Or the Conqueror Cogfort?\nAye, I have heard the tales — these Cogforts have levelled countless lands. No foe can withstand the first's Godbreaker Cannon, nor be spared being crushed to dust beneath the second's Realmscorcher Flame Cannon after being burnt to ash!\nThou hast only heard the tales — I have faced them myself and torn one asunder! This very door — ah, I remember it well. I marched then in the retinue of a Chaos Lord, when that Cogfort manifested before us wreathed in arcane light. After its flames of Rend2 had consumed the charging Chaos Chosen in a storm of 6D6 Attacks, this door swung open, and forth poured a host of Freeguild Gallants. They hammered the Chaos Lord into the dust with their warhammers — a grim sight it was, most grievous…"
@@ -5366,7 +5184,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "We already know Gallants would have sword and shield, but they can also have warhammers!",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"They bear Weapons of Gallantry — aye, in one hand a warhammer or longsword, in the other a towering shield held high. And when any warrior pours forth from the Conqueror Cogfort, they gain +1 Damage — a fearsome thing it is!"
@@ -5395,7 +5212,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Two more names for the Cogfort: Immolator and Linebreaker",
-		"groupUnder": "A cogfort model is coming!",
 		"message": {
 			"contents": [
 				"Which number do you guys prefer?\n2?\n3?\nNah\nI prefer 4!\nOh wait\nMaybe 6?\nImmolator!\nLinebreaker!"
@@ -5424,7 +5240,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "Looks like all factions will be able to use the Cogfort via RoR",
-		"groupUnder": "A cogfort model is coming!",
 		"message": {
 			"contents": [
 				"I was the one who felled that fortress-cogfort and claimed it as my own — that is why I am a Chaos Lord, boy. Mark well and learn. This very cogfort upon which we now ride, I took by strength of arm!\nThough it has since suffered sundry minor alterations at the hands of Skaven, yet the rat-things' repairs have at least set it once more upon its legs. The Realmscorcher Flame Cannon functions still. We shall soon reach Hammerhal, boy — take up your arms. Once we have shattered their lines, we shall burst forth from this very cogfort!\n(Yes, even the forces of Slaves to Darkness shall enjoy +1 Damage, and Rat Ogors, Bladegheists, Ironguts alike may claim this boon from the cogforts.)",
@@ -5456,7 +5271,6 @@
 		"edition": 4,
 		"category": "End of Edition Campaign",
 		"text": "Enigmatic words about the Skavens always winning. Could they even beat Archaon? Or is this made by someone else?",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Take it easy — I just think Skaven are different from the other evil guys, you know?\nThey always come out on top\nalways win-win\nnLooks like Archaon got beaten too\nAnyway, gotta get back to some ToW works"
@@ -5485,7 +5299,6 @@
 		"edition": 4,
 		"category": "End of Edition Campaign",
 		"text": "Looks like the Skavens will win during the end-of-edition campaign and will keep being a threat during the 5th edition",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"We've all been sitting around wondering — what if, just maybe, hypothetically, Skaven end up being the big winners of 4th Edition and keep showing up in 5th\nWhat would that even mean?\nHas Warhammer history ever seen anything like that before?\nIs this really possible?"
@@ -5514,7 +5327,6 @@
 		"edition": 4,
 		"category": "End of Edition Campaign",
 		"text": "An alliance of Khazalid, Seraphon and Cities of Sigmar will fight the Skavens, but it will fail. Skaventide will go even to Azyr, and it will kick Archaon in the process. Beastmen's comeback would be the result of all of this",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"From what we heard, the Cities, Khazalid, and Sotek all rolled out a counterattack against the Skaven and it went pretty well — right up until they thought victory was in sight\nThen the Great Horned Rat showed up\nThe alliance straight-up collapsed\nThe Skaventide swept through everything, pushing all the way into Azyr — even Archaon got taken down\nAnd then the Chaos tide swept across the all realms, and the Beastmen’s howling and screaming kicked off all over again\nThat's all we can say for now — honestly, I feel like something about this whole situation is a bit off"
@@ -5543,7 +5355,6 @@
 		"edition": 4,
 		"category": "Seraphon",
 		"text": "More Seraphon mentions. This time about someone called Tetexi",
-		"groupUnder": "Seraphon 4th edition release",
 		"message": {
 			"contents": [
 				"Tetexi: I have seen the passing of ten-thousand-thousand stars\nA billion souls cry out in shared anguish, their screams and lamentations rising as one\nThe shape of things to come was foreseen long ago — yet we can do nothing\nWe cannot stay it\nWe cannot turn it aside\nIt must be embraced\nSotek! What am I to do?"
@@ -5572,7 +5383,6 @@
 		"edition": 0,
 		"category": "",
 		"text": "A new skirmish game could replace both UW and Warcry",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Just in case no one read it elsewhere I did post something interesting on WOS a few days ago now.\ntheres a new AoS skirmish game coming, I do not know the timeframe for release, but its coming.  I was told its a replacement for warcry and WHU (I’m guessing that means as an entry into the AoS setting rather than as a system) as WHU will be wrapping up soon (tm).\nalso I saw some chat about mordheim a few pages back, interested fact but before WHToW went into development there was almost a new version of Mordheim pushed, it was canned and shot down by one person though, who shall remain nameless, AND there was also a version of the old inquisitor game (but using same scale as 40k) that got as far as playtesting, maybe this will pop up again in the future?"
@@ -5601,7 +5411,6 @@
 		"edition": 0,
 		"category": "",
 		"text": "Boole reassures that WHU won't be discontinued and that it has plenty of kits waiting in the pipeline!",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Wait, wait — why are people shouting that Underworlds is ending?\nDid someone say something?\nUHW still has at least 10+ boxes on the way\nI mean, this line was once the best-selling boxed game out there — and it's still sitting comfortably in the top two "
@@ -5630,7 +5439,6 @@
 		"edition": 0,
 		"category": "",
 		"text": "A hint about the upcoming warband pointing to Lumineth",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"I personally can't see very far into the future with this bright light in my eyes."
@@ -5659,7 +5467,6 @@
 		"edition": 0,
 		"category": "",
 		"text": "Whitefang Jr have heard the same about the future of UW as 75hastings69",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"I hear the same. Whatever boxes are currently designed and coming for WHU will be the last.\nLike the mini wind spirit in the upcoming box."
@@ -5688,7 +5495,6 @@
 		"edition": 0,
 		"category": "",
 		"text": "The Lumineth warband would include a small wind spirit",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"I hear the same. Whatever boxes are currently designed and coming for WHU will be the last.\nLike the mini wind spirit in the upcoming box."
@@ -5717,7 +5523,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "There's new information pointing to Chaos, but not Skavens, as the 5th ed starter rather than Death",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Skaven aren’t the Chaos faction in the starter set. "
@@ -5746,7 +5551,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "A like from WFBMU to a \"End of times 2.0\" post. What could it mean? An event so big that it is comparable, or maybe it is Khorne the Chaos starter for the 5th edition, like in AoS 1?",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Or End of Times 2.0..."
@@ -5775,7 +5579,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "Boole says the 5th edition starters could be Skavens + Beastmen",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Honestly, it's way too confusing, so we might as well just say it — looks like 5th Edition might be setting things up for Skaven and Beastmen as the evil faction in the starter set\nI don't really get it — like, how does that even make sense?\nWhy Skaven and Beastmen?\nWhat? "
@@ -5804,7 +5607,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "Confirmation about Beastmen coming back during the 5th edition",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"No\nI mean\nBeastmen will return in 5th\nYou might not believe it, and I find it unbelievable too, but what should ToW do?\nwtf "
@@ -5833,7 +5635,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "Looks like the Beastmen won't be related to the previous Beast of Chaos",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"We don’t think they’re BoC, but they’re definitely Beastmen\nWe’re gonna go quiet for a bit — got a lot of work piling up\nThe 11th Edition Codex are what we really gotta focus on, so catch you all later "
@@ -5862,7 +5663,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "Now Boole mentions that it could be that it is not Beastmen, but Slaanesh breaking free",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"My friend just got off work and sent us a few pictures — very, very, very interesting pictures\nSo interesting we almost thought someone her age had suddenly picked up AI art generation\nMaybe Beastmen aren't the 5th starter set after all\nMaybe Slaanesh has regained freedom\nWho knows\nToo good\nMight go over what happened in detail after AdeptiCon\n[[image-2026-03-21_1.gif]]"
@@ -5893,7 +5693,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "Most of the cities we know will be around during the 5th edition",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"The continents things we know — the places on the maps, the Cities of CoS, the Chorfs' cities, Blight City, all that — they'll be safe and sound in 5th Edition\nStill around"
@@ -5922,7 +5721,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "Boole talks about a soft reboot where the mortal realms join into \"The Last World\", Sigmar dies, and a lot of changes happen",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"We received word about this a while back — but along with it came a flood of conflicting information.\nIn hindsight, those inconsistencies were probably just staffers throwing up smoke because they were in shock themselves.\nThe worst version of the story is one we’d rather not post here. It wouldn’t accomplish anything — just break the hearts of fans and undo years of AoS’s momentum.\nBut after getting some images and transcriptions of the actual text from the PDFs, we had a discussion internally and can confirm: Rob on YouTube, and the Discord member were accurate.\nI’ll be upfront — the people behind this account, meaning us, were never fans of AoS. More than a decade ago, we were outright hostile to it. But even we are furious at how this turned out. The dumbest scenario imaginable is happening all over again. WHFB fans won’t pay for this, and AoS fans will be absolutely livid.\nWhat makes it worse is that AoS has never been a commercial failure. Last time something like this went down — and you all know what I’m talking about — it was because WHFB had become a genuine commercial disaster by a certain point. That’s what pushed the higher-ups into making a reckless decision.\nAoS, though? It’s never fallen that low. From what we know, since 2018, it’s been Games Workshop’s second-biggest product line after 40K, for WHFB fans like us, is wild. Even if we don’t like admitting AoS counts as Warhammer Fantasy Miniatures, internally it’s been labeled as the “Greatest Warhammer Fantasy” product.\nSo none of this makes sense. The people still at GW who gave us info don’t get it either. Most of the people who’ve worked on AoS are baffled. But maybe Phil Kelly leaving was the first sign of what was coming.\nWe were going to wait until after AdeptiCon to announce any of this — because this is definitely going to trigger internal investigations at GW — but we just can’t hold it in anymore. We think it’s time to lay everything out.\nAs we posted a few days ago:\n“Slaanesh is free. The Realms that have been mapped, the Cities of Sigmar, the Chorfs’ cities — they’re not gone.”\nBecause all of those known locations are being merged into a single planet!\nA Battleworld!\nThe Realms have been combined!\nEighty percent of what AoS has spent over a decade building is gone!\nAnd yes — this is all thanks to Archaon and the Skaven. Again.\nAfter all of it, only the Skaven can call themselves winners. Their lore and their new model range stay exactly as they are — and they definitely come out on top.\nAfter the gates of Azyr were breached, Archaon destroyed everything. Anything you can think of in that realm was utterly annihilated by the Everchosen.\nBut at the last moment, Sigmar pulled the trigger on a Big Plan he’d been preparing for centuries. He always wanted to merge the Realms into a single new planet, and in the final hour, he went through with it. So here we are.\nAs for what happened to Sigmar? Archaon killed him like you’d crush a child. His death is written to be even more infuriating than The Death of Sanguinius in <The End and the Death>.\nYou can tell whoever wrote this had it out for Sigmar — and maybe for AoS in general.\nWhat about the SCE? I don’t think they can reforge anymore. Their god is dead.\nThe Aelven Pantheon?\nNagash?\nThe Ancestor Gods?\nGorkamorka?\nAll unaccounted for. Maybe Archaon killed them too.\nWith the Realms destroyed, Slaanesh is back among the Dark Gods, and they’ve accepted the Great Horned Rat as one of them. The Five Gods stand eternal.\nThis new world is called  The Last World.\nIts continents are made up of the regions that had maps in the Eight Realms, stitched together. And the whole thing is a blatant, low-quality rehash of WHFB.\nFor example: the Great Nations of Hysh, home of the Lumineth, now exist as an island nation in the middle of an ocean…\nCoS have basically turned back into The Empire — fragmented, ignorant, religiously fanatical, and racially divided.\nWe’re pretty sure a lot of the characters AoS fans know and love died in The Last World. They’re not coming back.\nAs for Archaon — I’m not sure. The information we got about him was almost comical.\n“The Everchosen is gathering a Chaos army at a portal in the far north of The Last World.”\nWe’re not even sure if that “Everchosen” is Archaon. But it sure sounds familiar.\nWho’s actually going to pay for this?\nAoS fans — will you?\nThe only advice I can give right now is: if after all these lore changes you’re still willing to buy into AoS, 5th Edition will have way more SCE models with a grimmer, darker aesthetic than 4th — and a ton of Chaos Warriors covered in spikes and Chaos monsters.\nAs for the rest? We don’t know. That’s all we wanted to say. We’re exhausted, and we’re still figuring out if we should scrap this account. This is so big it’s definitely going to come back on us. We have no idea if GW will change anything about Fifth Edition over the next two years, but the first draft is done, and we’ve seen plenty of concept art. So odds of a major rewrite are probably low.\nThe one silver lining — and I mean the only one — is that The Last World will have several new human factions.\nAoS-Not Grand Cathay\nAoS-Not Nippon\nAoS-Not Bretonnia"
@@ -5951,7 +5749,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "A new user, Kurб, appeared and said that Archaon won't die, and the 5th edition starter is S2D",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"You're wrong. The 5th Starter Set is Slaves to Darkness.\nBeastmen are not returning.\nArchaon was not defeated.\nThe Realms will cease to exist."
@@ -5980,7 +5777,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "He also assures no models will be removed and no other gods apart from Sigmar will die",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"There won’t be any models removed, and familiar characters won’t be going anywhere — it’s just a soft reboot of the setting. If you’re a model player, there’s no need to be especially upset about it.\nBoole got the gods’ fates wrong. Among all the deities in AoS, only Sigmar passed away — the others (Nagash, for example) were mostly unaffected."
@@ -6009,7 +5805,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "We will see pictures of Sigmar's death in the 5th edition Core Book",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"No — he's dead. You'll see two illustrations in the 5th Core Book: one shows Sigmar being killed by Archaon, the other one shows Sigmar's faithful believing he defeated Archaon and is just missing in action."
@@ -6038,7 +5833,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "Kurб assures he is reading the book and that some characters won't remember what happened after the worlds joined together",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Yes\nI'm proofreading this book right now, so I can confirm — it reads a lot like 1st Edition. A bunch of characters in the TLW temporarily can't remember what happened before AoS."
@@ -6067,7 +5861,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "Why do we give credibility to Kurб? He got a Whitefang thanks to this message",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"I honestly don't get why Boole did this. Dropping so much info this early doesn't do anything except stir up panic in the community — and honestly, it might end up making my work here a total waste. Kinda like what happened with Season of War."
@@ -6096,7 +5889,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "He gave us an example of what is going to happen during \"The Last World\". CoS will break into two factions",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Boole painted things way too grim and blew it way out of proportion.\nHonestly, I think TLW is not nearly as bad as people are worried about. I just happen to be working on that section right now, so let me use CoS as an example — in the 5th Core Book, CoS is split into two major nations, each covering the existing CoS cities.\nOne nation has Hammerhal Ghyra as its capital, the other is built around Hammerhal Aqsha. One of them still worships Sigmar (even though he's dead), while the other — more open and progressive — worships Taal.\nThere's a ton of pretty interesting and new lore in there.\nIt's honestly not nearly as bad as Boole made it sound"
@@ -6125,7 +5917,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "Whitefang also gave credibility to all this, liking this comment",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"So it's Warhammer Fantasy: Age of Sigmar - The Last World now?\nBut without Sigmar?"
@@ -6154,7 +5945,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "It looks like Stormcast will be closer to Marines in The Last World",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Just assume it'll be basically like Space Marines and you're probably not far off. "
@@ -6183,7 +5973,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "There's more weight to the S2D being the starter of the 5th edition",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Adding him as a proper source. Just throwin this in case we forgot. It seems the starter is S2D."
@@ -6212,7 +6001,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "WFBMU says all related to The Last World is true",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"It’s true. "
@@ -6241,7 +6029,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "It looks like named characters like Tahlia will die",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"What will happen to our characters? For example, is Tahlia gonna just die in all this? "
@@ -6270,7 +6057,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "Even if characters could die, no minis will be removed",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Thanks for the concern — I really don’t think I should say anything more ❤️\nDropping these heavy rumors a whole year early, I guess I did it because, well, we’ve all been through the End Times before, and this news hit too close to home\nMaybe it’s not as bad as it sounds though? Probably best to leave this topic for next year — I really don’t want to get into it anymore 😢\nI’ve seen some of you asking if it’s still safe to buy models — I honestly think your models will be fine\nAnd\nThere’s still plenty of great new stuff coming this year — Ogors, Khazalid, and so on 😉\nSpeaking of which, what do you all think of the Gate Gargants today?\nPersonally, I think Mancrushers might end up performing better\nWhether that’s a guess or a lie — well, we’ll find out this year. We’ll just have to wait and see"
@@ -6299,7 +6085,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "We have more information regarding The Last World recopiled from a source that wants to be kept in anonymity",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Hi all,\nThanks to @Snarff who reached out to me with the info about where to look, we found out a series of The Last World information that we think is quite solid and worth sharing, so everyone can have a better view of the bigger picture or even create some interaction with proper rumourmongers.\nWe've summarised it in the following bullet points:\n-Archaon will kill Sigmar (again, our source also said in a way that's 'disgusting', more than what Boole let on).\n-This leads to Stormcast going crazy, and even fighting a civil war against CoS. Celestant Prime also potentially dies here. Due to Sigmar's death they can no longer reforge.\n-Azyr is gone, but before his death Sigmar merged the rest of the realms.\n-1000 Year timeskip, mortal characters will be dead. Some will be brought back (no details on how) or we will find new characters that coincidentally are too similar. Others will become generic models. Models will be fine, no squatting.\n-Game will be called Age of Sigmar: The Last World\n-This change is done to make the setting more approachable to 40K/WHFB fans, and to sell us new models with the new aesthetic.\n-Previous lore will be largely ignored. It's a hopeless new world (a la 40K). It's not a 'soft reboot', it's a new world that will coincidentally share armies with the old realms.\n-Most characters will not remember what happened during the transition.\n-It's not '8 realms on a map', it's them all stitched together into something resembling Medieval Europe and the WFB world. Some landmarks will remain, but mostly in terms of name. They're bringing in a lot of WHFB-like locations like 'Nine Peaks, a Duardin hold overrun by Gitz and Skaven'. Current Cities of Sigmar will be placed on the Europe continent and populated by medieval Germans.\n-Stormcast Eternels can no longer reforge, so instead of reforging, they will inject Sigmarite/Sigmar's essence into highly trained mortals to refill their ranks. They will also burn hundreds of wizards every day, but we don't know the purpose.\n-CoS is fully empire/imperium. Xenophobic against all other species, religiously fanatic and split into Aqsha/Ghyra who worship Sigmar (he's dead) and Taal respectively.\n-Both CoS and SCE will be searching for pieces of Sigmar and Sigmarite (think Ur-Gold). New Stormcast will have more skulls, litanies, candles, soul-fire, purity seals, and loincloths like Grey Knights or Black Templars\n-No real mention of Beastmen/Beasts of Chaos\n-The 'not-Cathay' faction are potentially evil nomadic snake-worshippers who worship an Eastern divine Snake\nThat said, please, don't reach out to us privately or ping us because this is all we know, and it would be hard for us to find something else at all.\nAlso, don't shoot the messenger, please. In the end, we share this because we think it is solid and handy, but rumours are rumours and the only way to know what is going to happen is waiting for a year until we get the proper reveal by GW.\nThanks!\nNote: The timing might not be the best, but this is not an April Fool's joke."
@@ -6328,7 +6113,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "Then Boole joins and expands in the rumours with two posts",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Thanks for adding to the rumors — happy to fill in some of the gaps too:\nSCE still have the ability to Reforge, but it works completely differently now\nThey’ve become more like the Crusaders from Diablo — when an SCE dies, their weapons and armor are shattered by a thunderbolt, and the power is transferred into a successor, along with their hopes and legacy\nSo when an SCE dies now, it’s a permanent death \nAt some point in The Last World, SCE and CoS did come into conflict\nBut after that, they grew closer, enduring The Dark Time together\nThe SCE are now revered by the CoS, mainly because the people no longer fully understand what the SCE really are\nThey don’t live among them, but the SCE still act as the shield of Order, fighting on every front, for the CoS and for Sigmar\nIn The Last World, the Age of Sigmar is now remembered as the Age of Myth\nPeople barely believe that there were once eight Old Realms\nAfter those realms were destroyed, The Last World fell under the rule of Chaos — a period known as The Dark Time\nIt wasn’t until the Cities of Sigmar on different continents reestablished contact and unified again that The Dark Time came to an end\nThat’s when the Sigmarite Calendar began \nDuring The Dark Time, humanity reforged alliances with the Duardin, Aelves, and Seraphon, standing together ever since\nAs for Sigmar’s death — that’s really just a claim made by Chaos cultists\nWe’ve gone back and reviewed that part, and we’re pretty sure Sigmar is not dead\nThe 5th Edition Core Book actually devotes an entire chapter to what happened to him, complete with illustrations:\nAccording to Sigmar’s followers, he created The Last World and then vanished — but before that, he defeated Archaon\nThere’s a detailed illustration of this \nAccording to Chaos cultists, Sigmar created The Last World and vanished — but in their version, Archaon found him and killed him in the most brutal way possible\nAlso has an illustration \nWhat both versions agree on is this: Sigmar disappeared right after creating The Last World\nThe only thing they confirm is that he met Archaon before vanishing\nBut in the later parts of the book, Archaon is just as absent — he’s gone into hiding for unknown reasons.\nWhat really convinces us Sigmar is still alive are the events in the book\nMultiple times, he directly intervenes through divine miracles, wiping out Chaos forces and protecting the CoS and SCE\nArchaon refuses to show himself whenever these miracles occur\nClassic storytelling — sure sign he’s still around\nThe CoS are now split into two nations — one of which is called the Sigmarite Protectorates — but that’s mostly because they’re located on different continents\nBy the time the narrative of The Last World begins, the CoS have already reunited across the seas, functioning again as a unified faction\nThey’re collectively called the Sigmarite, and both continents are home to many of the cities we know — some have been renamed, but they’re still the same cities:\nOn the continent made up of Aqshy, Ghur, and Chamon:\nHammerhal\nHallowheart\nTempest’s Mourn\nEmbergard\nPort Misthavn\nSturmcrag\nUlfenkarn \nOn the continent formed from Shyish and Ghyran:\nWyld Holme (which was Hammerhal Ghyran)\nGreywater Fastness\nLethis\nRealmstone and Endless Spells still exist — no changes there\nThere’s also a new resource called Blessed Godstone, which comes from the shattered fragments of Azyr\nDuring The Dark Time, huge amounts of Godstone fell as meteors across The Last World\nMost of it was originally statues of Sigmar from Azyr\nNow these fragments hold immense power, and the CoS swarm to wherever they land, mining them and hauling them back to their cities\nThey see it as proof that Sigmar’s will still walks the world — that he’s not dead and continues to protect his people\nNaturally, every time a new Godstone deposit is discovered, it sparks a war \nFor the enemies of CoS, Godstone is just as valuable\nIt can banish Daemons and the Undead, serve as the core component for rituals, or let a mortal wield powerful magic with just a small fragment\nPilgrim-navigators also rely on it — they carve it into symbols they believe represent Sigmar’s guidance, using it to lead armies through Realmgates without falling to Chaos \nFunny thing, though: even though Sigmar is gone, he can still send down meteor showers of Godstone to help the CoS and SCE push back their enemies. Archaon clearly knows what’s going on, which is why in The Last World, the Everchosen has pulled back to the Eightpoints in the Northern Ruinlands, gathering Chaos forces\nAs for The Last World feeling a bit too much like WHFB — there are plenty of differences:\nFor starters, even the humblest peasant can use magic\nAnd the Small Spirits of CoS still show up everywhere, helping people with their tasks\nThe map of The Last World also doesn’t match the real world — the continents are literally just the original Eight Realms maps cut up and stitched together\nHonestly, it’s actually pretty cool\nIn addition to the two main continents, there are three islands:\nUlguroth (with the Umbral Veil) （DoK)\nJungles of Izta（Seraphon）\nHyshia（CoS Settler’s Gain and Lumineth）\nAnd finally, four new factions appear on different parts of the map, each with their own concept art:\nKarujin (not-Grand Cathay) (We believe this is the Yuan Dynasty of China)\nKingdom of Lorennar (not-Bretonnia)\nHanzor Fiefdoms (not-Nippon)\nUrsal Chiefdoms (not-Kislev)",
@@ -6360,7 +6144,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "And those posts are validated by WF with another couple of posts",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"https://m.youtube.com/watch?v=K_03kFqWfqs",
@@ -6392,7 +6175,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "WF hints five or more new factions coming with The Last World",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Five, if not more."
@@ -6421,7 +6203,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "There's a name for the 5th human faction, a chaotic one, Blacksteel Autarchy",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Thanks\nYeah, there's actually a fifth one — there's a new Chaos faction in the 5th Core Book called the Blacksteel Autarchy\nThey specialize in using guns and even have their own dedicated illustrations\nHonestly, though, they feel a bit like they overlap with Helsmith and Skaven\nStill, the main race in this faction is humans"
@@ -6450,7 +6231,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "It seems the new 5 factions won't be solely humans, or there's some sort of description inaccuracy",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Not really"
@@ -6479,7 +6259,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "We have a rough approximation to how the TLW map will be",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"[[image-2026-04-01_1.webp]]"
@@ -6510,7 +6289,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "More details about TLW map",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"In the Northern Ruinlands where Archaon is, further north leads to the Eightpoints, and the Silver Towers are also located in the Northern Ruinlands\nDown at the southern edge of the Northern Ruinlands, Varangrast sits across the sea from Heldenlands further south — Chaos forces are basically breathing down the continent's neck\nOver on Be'lakor's side in the Southern Ruinlands, it's a similar deal — beyond the coast, where Be'lakor's mortal servants march out from Castle Spite to board their ships…\nTo the east of Heldenlands, the Skaven in the Gnaw — that massive, sprawling territory — are getting ready to launch a war against the Sigmarite Protectorates\nAt the heart of the Gnaw, where the seething swarms of the Skaven dwell, rises the cathedral city of Hexeneste — a dizzying spire of rickety wood, brass, iron, and stone that spears the poisoned sky\nHexeneste is the temple of the Horned Rat\nFrom its malevolent altars, the daemon prophet Vizzik Skour and his minions preach to frenzied congregations of the desolate world to come, their orations conducted to the endless clanging of bells "
@@ -6539,7 +6317,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "Most of the gods will be present in TLW (Malerion is missing so far), and Vizzik and Tahlia are alive",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Dear friends, I can’t give you a 100% accurate answer on the named characters — since this is the core book, it obviously won’t cover all of them\nSo far we’ve only seen the gods of each faction (Malerion not included), along with Vizzik Skour and Tahlia\nThat said, I’m leaning towards all the named characters eventually making it to The Last World"
@@ -6568,7 +6345,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "This is an extract from the timeline where it explains why Tahlia is alive",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Here's a description that might sound absurd — try to stay calm, because they used this kind of narrative a lot back in AoS 1E:\nSC 83.\nTahlia Vedra, a warrior known to none born in the Last World, is suddenly named — or, as the official order claims, ‘reinstated’ — as the First Marshal of Hammerhal."
@@ -6597,7 +6373,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "Tyrion is active, but Boole couldn't find anything about Malerion",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"No, Tyrion is pretty active\nAs for Malerion… we really haven't found any trace of him yet, at least not so far\nWe spent three days going through the timeline and the world maps\nI still think he's out there — we're all hoping so!"
@@ -6626,7 +6401,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "It looks like we could have a new Cogfort coming. One with a crescent shape and a wizard tower",
-		"groupUnder": "Wizard Cogfort",
 		"message": {
 			"contents": [
 				"[[image-2026-03-27_1.jpeg]]"
@@ -6657,7 +6431,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "The crescent-shaped Cogfort (aka mage tower) would be bigger",
-		"groupUnder": "Wizard Cogfort",
 		"message": {
 			"contents": [
 				"Bigger"
@@ -6686,7 +6459,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "The mage tower is not an upgrade sprue, but a fully brand new Cogfort and can fit a gate gargant in its courtyard",
-		"groupUnder": "Wizard Cogfort",
 		"message": {
 			"contents": [
 				"Different entirely, 99.99% sure it's a totally different mini(maxi?) rather than any kind of upgrade sprue, with a crescent of tall (spindly) towers around a central courtyard, the gargant can fit in the courtyard.  I didn't hear about a laser option for any of them."
@@ -6715,7 +6487,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "The mage cogfort is not crescent-shaped, but it has towers arranged in crescent shape with a central courtyard",
-		"groupUnder": "Wizard Cogfort",
 		"message": {
 			"contents": [
 				"Yea sorry, just to clarify the TOWERS are arranged in a cresent shape around a central \"courtyard\", the thing itself isn't cresent shaped."
@@ -6744,7 +6515,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "It has multiple towers",
-		"groupUnder": "Wizard Cogfort",
 		"message": {
 			"contents": [
 				"multiple towers"
@@ -6773,7 +6543,6 @@
 		"edition": 4,
 		"category": "Cities of Sigmar",
 		"text": "The mage towers from the new cogfort are so big that they could fit spiral stairwells going up to the top of each tower",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"I did not, but I was told about it at exactly the same time as I was told about the cogfort that got revealed.   I don't know if it uses the same legs, however, if the legs of the shown cogfort are on just one sprue then I imagine it is very possible as it saves costs for GW.  The model itself is bigger than the cogfort shown, bigger and taller, when I say spindly towers I don't mean like drainpipe spindly, I mean they could conceivably contain a spiral stairwell going up to the top of each tower.  There are multiple towers arranged in a crescent shape around a central courtyard, the front centre of which is clear of towers.  The person that told me this, again in the same conversation as the shown cogfort which I teased several months ago on WoS, said the gargant could fit in the courtyard area, so it must be pretty big.\nIf I had to GUESS as to the purpose I can quite imagine that these towers descriptions could quite easily make them wizards towers, perhaps it's crewed by wizards who \"fire\" for want of a better word from each tower??"
@@ -6802,7 +6571,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "Gotrek is the main character of the Khazalid Holds",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"Of course\nyes\nHe is the main character in Khazalid Holds"
@@ -6831,7 +6599,6 @@
 		"edition": 4,
 		"category": "Sons of Behemat",
 		"text": "We could get new Mancrushers",
-		"groupUnder": "Sons of Behemat 4th edition release",
 		"message": {
 			"contents": [
 				"Thanks for the concern — I really don’t think I should say anything more ❤️\nDropping these heavy rumors a whole year early, I guess I did it because, well, we’ve all been through the End Times before, and this news hit too close to home\nMaybe it’s not as bad as it sounds though? Probably best to leave this topic for next year — I really don’t want to get into it anymore 😢\nI’ve seen some of you asking if it’s still safe to buy models — I honestly think your models will be fine\nAnd\nThere’s still plenty of great new stuff coming this year — Ogors, Khazalid, and so on 😉\nSpeaking of which, what do you all think of the Gate Gargants today?\nPersonally, I think Mancrushers might end up performing better\nWhether that’s a guess or a lie — well, we’ll find out this year. We’ll just have to wait and see"
@@ -6860,7 +6627,6 @@
 		"edition": 0,
 		"category": "",
 		"text": "Warcry is \"officially\" on hold",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"This is so quiet lately... but I have UW and Warcry news.\nUW: 3 warbands on the pipe. A lonely one and then a vs box with 2 warbands.\nWarcry: Officially on hold, sorry :("
@@ -6889,7 +6655,6 @@
 		"edition": 0,
 		"category": "",
 		"text": "There's one warband coming and then a box of two warbands fighting",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"This is so quiet lately... but I have UW and Warcry news.\nUW: 3 warbands on the pipe. A lonely one and then a vs box with 2 warbands.\nWarcry: Officially on hold, sorry :("
@@ -6918,7 +6683,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "Boole gives more information about the 5 brand new \"factions\" and about other rule changes",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"We've been buried in all sorts of work the past couple weeks — prices on goods and fuel keep climbing, so we've had to pick up extra shifts, you know how it is…\nWe noticed a lot of you are really interested in one thing, so we figured we should explain — about those 5 new factions\nThey've got one illustration, a short lore paragraph, and a pin on the map — nothing else special\nGotta say, their situation's a bit better than the silent people, but that's about it\nAs for the 5th core rules — we think there are some big changes\nObviously it's still built on AoS 4th, but we definitely see some 40K 10th and WHFB 8E in there\nHard to say if that's good or bad\nBut about the double turn…\nhaha, good luck to it"
@@ -6947,7 +6711,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "It looks like the magic rules will change a bit in 5th edition",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"yeah\nMagic\nPrayers\nI can't quite describe it exactly — but it's undoubtedly completely different from the current AoS Spell and Prayer rules"
@@ -6976,7 +6739,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "It seems Ulgurothi's (Malerion's army) were ready some time ago, but there's no mention of them in TLW",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Here is his full message:\n“That's something I've been wondering about too — there's currently no mention of Malerion anywhere in the text\nOver in Ulguroth, they only introduce Morathi, which is kind of strange, since the Umbraneth were basically ready to go a long time ago...”\nI don't know anything else. I won't say his username, as I promised, but he is one of our biggest rumour‑mongers — you all know him.😉"
@@ -7005,7 +6767,6 @@
 		"edition": 4,
 		"category": "Ulgurothi",
 		"text": "It seems Ulgurothi's (Malerion's army) were ready some time ago, but there's no mention of them in TLW",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Here is his full message:\n“That's something I've been wondering about too — there's currently no mention of Malerion anywhere in the text\nOver in Ulguroth, they only introduce Morathi, which is kind of strange, since the Umbraneth were basically ready to go a long time ago...”\nI don't know anything else. I won't say his username, as I promised, but he is one of our biggest rumour‑mongers — you all know him.😉"
@@ -7034,7 +6795,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "This Chaos units are very likely pointing to ToW, but they could be also about the 5th edition launch box",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"We're not really sure what this is about, but we really like Chaos models — would love to see more new Chaos models\nLike Chaos Warriors with hand weapon+shield loadout (yeah, all battle axes)\nAnd Chaos Knights — they could also use lance+shield combos\nAnd Chaos Aspiring Champion — a Battle Standard with a Daemonic Mount would definitely suit the battle axes they're swinging\nOh, and also Chaos Dragon, Manticore, Chimera, Chaos Gargant, Chaos Warshrine — they're great too\nWe love highly detailed and massive models"
@@ -7065,7 +6825,6 @@
 		"edition": 4,
 		"category": "Sons of Behemat",
 		"text": "The new SoB release won't be a sprue added to the current Mega Gargants kit",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Over the past few weeks, one of our group moved back to the UK\nLife's been a bit rough, but there's always some hope when you're back in your homeland\nSo we've also heard some interesting news\nFor example — does SoB have more than one box of new models?\nThat's right — it's no longer just adding new poses to a single model\nLet's look forward to it properly\n💅"
@@ -7094,7 +6853,6 @@
 		"edition": 0,
 		"category": "",
 		"text": "The upcoming Underworlds box cotaining two warbands will be released in September",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"I've asked about UW. Thought it would be fitting an Ogors warband as part of the preview.\nAs far as I was told, time ago, a lonely warband is coming and then after that a vs box.\nI've been expanded. The vs box is coming in September.\nAlso, there's a non confirmed chance of another Sylvaneth band coming focused around trees, but it is uncertain."
@@ -7123,7 +6881,6 @@
 		"edition": 4,
 		"category": "Ogor Mawtribes",
 		"text": "There's more models (plural) than the ones shown in the summer preview",
-		"groupUnder": "Ogor Mawtribes refresh",
 		"message": {
 			"contents": [
 				"Where have all the other new models gone? 🤔"
@@ -7152,7 +6909,6 @@
 		"edition": 4,
 		"category": "Weird things happening",
 		"text": "The \"Weird things happening\" post from Whitefang could be talking about The last world",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"This was a long time ago. Over a year? But @Whitefangbasically said that at some point, \"something against all logic\" was coming for AoS. At the time people thought that maybe meant a Tzeentch release, but now people think the post was about Last World. There was not really any other info or context to Whitefang's post."
@@ -7181,7 +6937,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "WF confirms there will be Realmgates, but they will be harder to travel across",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"There will still be Realm Gates but I'd wager there are fewer of them.\nThere was also talk of them being more like the 'Warp'. With Gate walkers guiding people through them so they don't get lost."
@@ -7210,7 +6965,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "WF laughs about the idea of Boole confusing the Old World chaos warriors with the 5th ed launch box that contains S2D minis",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"How do we feel about the 5th edition launch box rumors now?\nI know it was rumored to be stormcast vs Slaves. But it feels like a lot of the stuff that was predicted, chaos warriors with more spikes etc. came out with TOW.\nCould it be possible they saw these models and assumed they were for AOS?\nIf so that opens up a lot of interesting options to be in the 5th edition launch box."
@@ -7240,7 +6994,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "And with the following reaction reasures the S2D side of the launch box for the 5th edition",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"No not at all, the same source also talked about this TOW release, wether true or not, its 100% a seperate thing, nothing changed there."
@@ -7269,7 +7022,6 @@
 		"edition": 4,
 		"category": "Ogor Mawtribes",
 		"text": "There's still one more miniature to be revealed from the Ogors refresh that will be shown the next Monday",
-		"groupUnder": "Ogor Mawtribes refresh",
 		"message": {
 			"contents": [
 				"Where is the last one?\nNext Monday?\n🤔"
@@ -7298,7 +7050,6 @@
 		"edition": 4,
 		"category": "Battletomes",
 		"text": "After all the Ogor reveals, we should see something unexpected. Maybe the End of Edition will start? Or would be one of the pending battletomes (Seraphon, Sons of Behemat and Khazalid Holds)",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"We didn't expect these models to be released across multiple weeks 🤨\nWell, hopefully we'll see something even more unexpected in the coming weeks"
@@ -7327,7 +7078,6 @@
 		"edition": 4,
 		"category": "Seraphon",
 		"text": "Another mention to Tetaxi - Prophet of Tepok. Could this be someone so powerful that could replace Lord Kroak?",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"Blessed Tetaxi - Prophet Of Tepok\nBring Balance To The Stricken Realms\nWhen Lord Kroak is defeated, he will take the place of all Slanns, and his Cult will lead all the skinks"
@@ -7356,7 +7106,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "A very cryptic message with negative tints about the Fyreslayers",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"Hard to say 🤐"
@@ -7385,7 +7134,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "WF points to the core of the info about The last world given by Boole being correct, but missing the details",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"My assumption is the core of what Boole says is true, details are up in the air, he’s been amazingly accurate with predictions in wide strokes but the details are always a bit messy (especially with Ogors)"
@@ -7414,7 +7162,6 @@
 		"edition": 5,
 		"category": "New Edition",
 		"text": "A post giving a rough summary about the info we know about The last world received a WF like",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"I think you slightly misunderstood what I mean/I didnt clearly bring across the context of my post. It wasnt so much a subjective take.\nI didnt mean ALL Boole's rumors where positive or his takes optimistic. ( nor do I share either the assertive view people have to him nor the prophet view others do.)\nBut by pure \"coincedence\" of Boole sharing a lot more detail, there are more rumors from Boole that are taken here as positive than rumors from whitefang that are taken as positive. ( simply because wf doesnt go into details, there are also more negative Boole rumors )\nYet, when people throw salt at boole's rumors in the posts before mine they throw it at the one thing collaborated by whitefang; the changing of the realms. And use it as some sort of evidence that that is not whats going to happen at all.\nWith Whitefang its always guessing exact meaning, but whitefang rumors on the topic ;\n-- The Future for factions might be uncertain ( way before TLW rumors dropped )\n-- the Eldenring video wasnt about a dark aesthic, WF usually carefully choses the references, and it was a video talking about a world fallen in darkness where all the gods are death. This doesnt mean that WF means to say all the gods are death, but it also doesnt say the opposite. I think this mostly references Sigmar (wich is also in boole's rumors)\n-- Whitefangs likes also emphasize comments about the grimdarkening of the setting, not so much about the aesthic**\nFrom both;\n-- Starterset will be SCE vs StD.\n-- Merging of the realms into a single map\n-- Realmgates still exist\n-- Even the 4 factions was collaborated by whitefang, corrected to be 5 instead. ( however upon someone listing them the way Boole called them as in ; Not-cathay, Not-kislev etc. WF did say its not quite true... leaving more questions than answers.)\nSome of the things just from Boole's rumors, not collaborated but also not specifically countered by whitefang;\n-- All locations we know are still present ( with descriptions of some of them )\n-- All factions are still present ( with descriptions of whats going on with some of them.)\n-- Almost no gods or characters have died, except for sigmar.\n-- SCE radically changed ( both visually** and lorewise ) with no reforging etc.\n-- 1000 year timeskip\n-- Sacrificing 1000 wizards everyday\n-- There was some rules talk even, but I have forgotten.\nAnd yes, these could be taken as being not exactly as said if you think like that, but that goes for all his rumors then ( and it really, always goes for any rumors by anyone ), the positive and the negative ( wich seems to be different for each person.)\nAnd to reiterate, I attempt it to be an objective listing. I have no opinion on the rumormongers themselves, it is not intended as a \"my rumormonger is better than your rumormonger\" as some posts go on this topic and as your reaction seems to approach my post. ( though that might be a misunderstanding on my part.)\n** The aesthic as you said, is already there and imho, in a way has always been there, apart from early SCE all miniatures focus on darker elements thematically, but the paintjobs and detailing didnt translate it, Sylvaneth, Idoneth and DoK are all rather dark takes on elves. Fyreslayers are also much darker than Dwarfs where in Wfb with runes brandished in their skin.. even the initial facelessness of KO was much darker in a way.. but thats just opinion."
@@ -7443,7 +7190,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "A negative message about the Vostarg lodge succession. Will Bael Grimnir die? Or will the full lodge disappear?",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"Careful what you wish for."
@@ -7472,7 +7218,6 @@
 		"edition": 4,
 		"category": "Sons of Behemat",
 		"text": "Boole confirms a new unique gargant with two monsters (matriarch?) and an army set with two mega gargants",
-		"groupUnder": "Sons of Behemat 4th edition release",
 		"message": {
 			"contents": [
 				"we were planning to wait until the end of the year to come back, but didn't expect leaks to happen — so let us also share some interesting rumours\nthese contents aren't entirely accurate, you know 😜\nsons of behemat army sets\nIncludes two complete Mega-Gargants\nnew mancrusher gargants\nas you can see now, taller and bigger, models more refined, with plenty of kits\nNEWUNIQUE GARGANT with two monsters\nyes, it will be a separate box of models\nRemember, rumours are rumours, have a great day!"
@@ -7502,7 +7247,6 @@
 		"edition": 4,
 		"category": "Fyreslayers",
 		"text": "A new unique FS hero riding a named magmadroth is coming for Fyreslayers!",
-		"groupUnder": "Khazalid Holds",
 		"message": {
 			"contents": [
 				"Well\nWe've already mentioned some rumours, like\nFyreslayers and Khazalid being combined into the same battletome, similar to how Skaven have different clans \nAnd Fyreslayers will be getting a new unique hero who fights alongside his unique magmadroth \nRemember, rumours are rumours AGAIN"
@@ -7532,7 +7276,6 @@
 		"edition": 0,
 		"category": "",
 		"text": "There's no Cities of Sigmar warband among the ones releasing in September",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				"I've been told it is not CoS.\nMy next bet is either the store/ event mini for 2027, or the wizard cogfort rumours by @75hastings69 are real."
@@ -7562,7 +7305,6 @@
 		"edition": 0,
 		"category": "",
 		"text": "",
-		"groupUnder": "",
 		"message": {
 			"contents": [
 				""
