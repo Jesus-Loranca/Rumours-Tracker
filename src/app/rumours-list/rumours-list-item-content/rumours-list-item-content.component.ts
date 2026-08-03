@@ -1,5 +1,6 @@
 import { Component, EventEmitter, Input, Output } from '@angular/core';
 import type { RumourListEntry } from '../services/rumours-list-index.service';
+import { ScoreService, type RumourMongerScoreSummary } from '../services/score.service';
 
 @Component({
 	selector: 'app-rumours-list-item-content',
@@ -11,6 +12,10 @@ export class RumoursListItemContentComponent {
 	@Input() public rumour!: RumourListEntry;
 	@Input() public visible = false;
 	@Output() public close = new EventEmitter<void>();
+
+	public scoreSummary: RumourMongerScoreSummary | null = null;
+
+	constructor(private readonly scoreService: ScoreService) {}
 
 	public currentIndex = 0;
 
@@ -25,6 +30,12 @@ export class RumoursListItemContentComponent {
 	public closeDialog(): void {
 		this.currentIndex = 0;
 		this.close.emit();
+	}
+
+	public ngOnChanges(): void {
+		if (this.rumour?.rumourmonger) {
+			this.scoreSummary = this.scoreService.getRumourMongerScore(this.rumour.rumourmonger);
+		}
 	}
 
 	public get totalMessages(): number {
@@ -74,6 +85,28 @@ export class RumoursListItemContentComponent {
 		return Array.isArray(this.rumour.source) && this.rumour.source.length > 0
 			? this.rumour.source[this.currentIndex] ?? this.rumour.source[0]
 			: null;
+	}
+
+	public get scoreColorClass(): string {
+		if (!this.scoreSummary) {
+			return '';
+		}
+
+		const percent = this.scoreSummary.percent;
+		if (percent < 20) {
+			return 'score-value--danger';
+		}
+		if (percent < 40) {
+			return 'score-value--warning';
+		}
+		if (percent < 60) {
+			return 'score-value--caution';
+		}
+		if (percent < 80) {
+			return 'score-value--good';
+		}
+
+		return 'score-value--great';
 	}
 
 	public nextMessage(): void {

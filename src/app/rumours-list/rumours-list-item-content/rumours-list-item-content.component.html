@@ -24,7 +24,14 @@
 					}
 					<p class="rumour-item-date">
 						{{ rumourDate }}
-						<span *ngIf="resolvedAfterText" class="resolved-text">{{ resolvedAfterText }}</span>
+						@if (resolvedAfterText) {
+						<span class="resolved-text">
+							{{ resolvedAfterText }}
+							<span class="resolved-emoji" aria-hidden="true">
+								{{ rumour.legitRumour ? '✅' : '❌' }}
+							</span>
+						</span>
+						}
 					</p>
 				</div>
 				<div class="rumour-item-body">
@@ -54,7 +61,15 @@
 			<div class="rumour-item-sidebar">
 				<div class="score-box">
 					<p class="score-label">Rumourmonger Score</p>
-					<p class="score-value">TBD</p>
+					@if (scoreSummary) {
+						<p class="score-value">
+					<span class="score-value__percent {{ scoreColorClass }}">{{ scoreSummary.percent }}%</span>
+					<span class="score-value__meta">({{ scoreSummary.legit }}/{{ scoreSummary.total }})</span>
+				</p>
+					}
+					@if (!scoreSummary) {
+						<p class="score-value">No score available</p>
+					}
 				</div>
 				<button type="button" class="source-button" (click)="openUrl()" [disabled]="!currentSourceUrl">
 					Go to the Original Message
