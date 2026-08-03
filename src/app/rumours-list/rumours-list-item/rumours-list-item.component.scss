@@ -8,7 +8,6 @@
   margin-top: 0.35rem;
 }
 
-.rumours-list-item a,
 .rumours-list-item span {
   display: block;
   color: #0f172a;
@@ -17,8 +16,18 @@
   text-decoration: none;
 }
 
-.rumours-list-item a {
-  font-weight: 600;
+.rumour-list-item-text {
+  cursor: default;
+}
+
+.rumour-list-item-text.clickable {
+  cursor: pointer;
+  color: #1d4ed8;
+  text-decoration: underline;
+}
+
+.rumour-list-item-text.clickable:hover {
+  color: #1240a4;
 }
 
 .rumours-list-item i.bi-box-arrow-up-right {

@@ -1,0 +1,33 @@
+<div class="rumour-item-content-overlay" *ngIf="visible" (click)="closeDialog()">
+	<div class="rumour-item-content-panel" (click)="$event.stopPropagation()">
+		<button type="button" class="close-button" (click)="closeDialog()">×</button>
+		<div class="rumour-item-content-inner">
+			<div class="rumour-item-main">
+				<div class="rumour-item-meta">
+					<h3>{{ rumour.rumourmonger }}</h3>
+					<p class="rumour-item-date">
+						{{ rumourDate }}
+						<span *ngIf="resolvedAfterText" class="resolved-text">{{ resolvedAfterText }}</span>
+					</p>
+				</div>
+				<div class="rumour-item-body">
+					<div *ngIf="hasQuote" class="rumour-quote">
+						<p *ngFor="let line of quoteLines; let last = last" class="quote-line" [class.last-line]="last">{{ line }}</p>
+					</div>
+					<div *ngIf="messageLines.length > 0" class="rumour-message">
+						<p *ngFor="let line of messageLines; let last = last" class="message-line" [class.last-line]="last">{{ line }}</p>
+					</div>
+				</div>
+			</div>
+			<div class="rumour-item-sidebar">
+				<div class="score-box">
+					<p class="score-label">Rumourmonger Score</p>
+					<p class="score-value">TBD</p>
+				</div>
+				<button type="button" class="source-button" (click)="openUrl()" [disabled]="!sourceUrl">
+					Go to the Original Message
+				</button>
+			</div>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,158 @@
+.rumour-item-content-overlay {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	background: rgba(15, 23, 42, 0.55);
+	backdrop-filter: blur(5px);
+	z-index: 2000;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 1.5rem;
+}
+
+.rumour-item-content-panel {
+	background: #ffffff;
+	border-radius: 1rem;
+	box-shadow: 0 30px 80px rgba(15, 23, 42, 0.25);
+	width: min(1080px, 100%);
+	max-height: 90vh;
+	overflow: hidden;
+	position: relative;
+}
+
+.close-button {
+	position: absolute;
+	top: 0.75rem;
+	right: 0.75rem;
+	width: 2.4rem;
+	height: 2.4rem;
+	border: none;
+	border-radius: 50%;
+	background: rgba(15, 23, 42, 0.08);
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 1.2rem;
+	line-height: 1;
+	cursor: pointer;
+	color: #0f172a;
+	transition: background-color 0.2s ease;
+}
+
+.close-button:hover {
+	background: rgba(15, 23, 42, 0.14);
+}
+
+.rumour-item-content-inner {
+	display: grid;
+	grid-template-columns: 1.8fr 1fr;
+	gap: 3rem;
+	padding: 4rem 2rem 2rem;
+}
+
+.rumour-item-main {
+	min-height: 300px;
+}
+
+.rumour-item-meta {
+	margin-bottom: 1rem;
+}
+
+.rumour-item-body {
+	margin-top: 1.5rem;
+	padding-top: 1.25rem;
+	border-top: 1px solid #e2e8f0;
+}
+
+.rumour-item-meta h3 {
+	margin: 0;
+	font-size: 1.3rem;
+	font-weight: 700;
+	color: #0f172a;
+}
+
+.rumour-item-date {
+	margin: 0.5rem 0 0;
+	font-size: 0.95rem;
+	color: #475569;
+}
+
+.resolved-text {
+	display: block;
+	margin-top: 0.4rem;
+	font-size: 0.9rem;
+	color: #0f172a;
+	font-weight: 600;
+}
+
+.rumour-item-body {
+	margin-top: 1.5rem;
+}
+
+.rumour-quote {
+	border-left: 4px solid #0f172a;
+	padding-left: 1rem;
+	margin-bottom: 1rem;
+	color: #0f172a;
+	font-style: italic;
+}
+
+.quote-line,
+.message-line {
+	margin: 0 0 1rem;
+	line-height: 1.45;
+	color: #0f172a;
+	white-space: pre-wrap;
+}
+
+.last-line {
+	margin-bottom: 0;
+}
+
+.rumour-message {
+	padding-top: 0.15rem;
+}
+
+.rumour-item-sidebar {
+	display: grid;
+	gap: 1rem;
+	align-content: start;
+}
+
+.score-box {
+	background: #f8fafc;
+	padding: 1rem;
+	border-radius: 0.85rem;
+	border: 1px solid #e2e8f0;
+}
+
+.score-label {
+	margin: 0;
+	font-size: 0.9rem;
+	color: #475569;
+}
+
+.score-value {
+	margin: 0.6rem 0 0;
+	font-size: 1.2rem;
+	font-weight: 700;
+	color: #0f172a;
+}
+
+.source-button {
+	padding: 0.9rem 1.2rem;
+	border-radius: 999px;
+	border: none;
+	background: #0f172a;
+	color: #ffffff;
+	font-weight: 600;
+	cursor: pointer;
+}
+
+.source-button[disabled] {
+	background: #cbd5e1;
+	cursor: not-allowed;
+}

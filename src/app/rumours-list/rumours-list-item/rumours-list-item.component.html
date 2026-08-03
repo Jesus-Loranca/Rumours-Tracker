@@ -1,35 +1,29 @@
 <li class="rumours-list-item">
-	@if (rumour.source.length && rumour.source[0]) {
-		<a [href]="rumour.source[0]" target="_blank" rel="noopener noreferrer">
-			{{ rumour.text }}
-			@if (!rumour.message.isReaction) {
-				<span class="edition-pill">By {{ rumour.rumourmonger }}</span>
-			}
-			@else {
-				<span class="edition-pill">{{ rumour.rumourmonger }} {{ showRumourReactionIcon(rumour) }}</span>
-			}
-			@if (rumour.edition) {
-				<span class="edition-pill">{{ rumour.edition | ordinal }} Edition</span>
-			}
-			@if (isRecentRumour(rumour)) {
-				<span class="recent-badge">- RECENT 🔥</span>
-			}
-		</a>
-	} @else {
-		<span>
-			{{ rumour.text }}
-			@if (!rumour.message.isReaction) {
-				<span class="edition-pill">By {{ rumour.rumourmonger }}</span>
-			}
-			@else {
-				<span class="edition-pill">{{ rumour.rumourmonger }} {{ showRumourReactionIcon(rumour) }}</span>
-			}
-			@if (rumour.edition) {
-				<span class="edition-pill">{{ rumour.edition | ordinal }} Edition</span>
-			}
-			@if (isRecentRumour(rumour)) {
-				<span class="recent-badge">- RECENT 🔥</span>
-			}
-		</span>
-	}
+	<span
+		class="rumour-list-item-text"
+		[ngClass]="{ 'clickable': canOpenContent }"
+		(role)="canOpenContent ? 'button' : null"
+		[tabindex]="canOpenContent ? 0 : null"
+		(click)="openContentModal()"
+	>
+		{{ rumour.text }}
+		@if (!rumour.message.isReaction) {
+			<span class="edition-pill">By {{ rumour.rumourmonger }}</span>
+		}
+		@else {
+			<span class="edition-pill">{{ rumour.rumourmonger }} {{ showRumourReactionIcon(rumour) }}</span>
+		}
+		@if (rumour.edition) {
+			<span class="edition-pill">{{ rumour.edition | ordinal }} Edition</span>
+		}
+		@if (isRecentRumour(rumour)) {
+			<span class="recent-badge">- RECENT 🔥</span>
+		}
+	</span>
+
+	<app-rumours-list-item-content
+		[rumour]="rumour"
+		[visible]="showContentModal"
+		(close)="closeContentModal()"
+	></app-rumours-list-item-content>
 </li>
