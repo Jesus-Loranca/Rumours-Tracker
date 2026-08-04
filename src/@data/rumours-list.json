@@ -7533,6 +7533,64 @@
 		"legitRumour": true
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "New Edition",
+		"text": "Boole confirms that the rumours about Skavens and Beasts of Chaos being part of the new starter were false information",
+		"message": {
+			"contents": [
+				"No, we have no news of Morghur 😢\nA long time ago, we said that 5E would be BoC and Skaven, but later we learned that was false information meant to mock us. When we actually got the real news about 5E, we were very angry and sad"
+			],
+			"quotes": [
+				"There was a sad react from you about Morghur being there with Kragnos and Yndrasta, have you heard anything else about him in 5E? Perchance"
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=9034#findComment-800931"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-08-04",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Seraphon",
+		"text": "Boole believes that Seraphon will be the last tome of the edition",
+		"message": {
+			"contents": [
+				"We believe Seraphon is placed last\nIn the meantime, I've also finished painting the last FS model on my desk, so we'll be disappearing for a while again\nGoodbye!"
+			],
+			"quotes": [
+				"I know about no specific details, but do you maybe know the order the next tomes will be in? Seraphon into SoB into FS into end of edition?"
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=9034#findComment-800939"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-08-04",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
