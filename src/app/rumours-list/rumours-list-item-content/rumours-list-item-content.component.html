@@ -54,14 +54,14 @@
 					@if (hasQuote) {
 					<div class="rumour-quote">
 						@for (line of quoteLines; track line) {
-						<p class="quote-line">{{ line }}</p>
+						<p class="quote-line" [innerHTML]="formatTextForDisplay(line)"></p>
 						}
 					</div>
 					}
 					@if (messageLines.length > 0) {
 					<div class="rumour-message">
 						@for (line of messageLines; track line) {
-						<p class="message-line">{{ line }}</p>
+						<p class="message-line" [innerHTML]="formatTextForDisplay(line)"></p>
 						}
 						@if (messageImageUrls.length > 0) {
 						<div class="message-images">

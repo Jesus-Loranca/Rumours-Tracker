@@ -158,6 +158,14 @@ export class RumoursListItemContentComponent {
 		return cleaned.split('\n');
 	}
 
+	public formatTextForDisplay(value: string | null | undefined): string {
+		if (!value) {
+			return '';
+		}
+
+		return value.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+	}
+
 	public get messageImageUrls(): string[] {
 		return this.messageImageNames.map(name => `assets/images/rumours-list/rumours/optimized/${encodeURIComponent(name)}`);
 	}
