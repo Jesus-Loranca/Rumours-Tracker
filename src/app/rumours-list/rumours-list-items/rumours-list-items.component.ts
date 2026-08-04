@@ -20,6 +20,7 @@ export class RumoursListItemsComponent {
 
 	private readonly categoryLogoFiles = [
 		'age-of-sigmar.png',
+		'beasts-of-chaos.png',
 		'blades-of-khorne.png',
 		'cities-of-sigmar.png',
 		'daughters-of-khaine.png',
