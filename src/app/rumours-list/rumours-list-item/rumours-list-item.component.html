@@ -1,4 +1,4 @@
-<li class="rumours-list-item">
+<li class="rumours-list-item" [ngClass]="{ 'rumours-list-item--resolved': rumour.resolvedDate }">
 	<span
 		class="rumour-list-item-text"
 		[ngClass]="{ 'clickable': canOpenContent }"
@@ -6,6 +6,16 @@
 		[tabindex]="canOpenContent ? 0 : null"
 		(click)="openContentModal()"
 	>
+		@if (rumour.resolvedDate) {
+			<span
+				class="rumour-status-marker"
+				[ngClass]="{ 'rumour-status-marker--legit': rumour.legitRumour, 'rumour-status-marker--wrong': !rumour.legitRumour }"
+				aria-label="{{ rumour.legitRumour ? 'Legit Rumour' : 'Wrong Rumour' }}"
+				title="{{ rumour.legitRumour ? 'Legit Rumour' : 'Wrong Rumour' }}"
+			>
+				{{ rumour.legitRumour ? '✓' : '✕' }}
+			</span>
+		}
 		{{ rumour.text }}
 		@if (!rumour.message.isReaction) {
 			<span class="edition-pill">By {{ rumour.rumourmonger }}</span>

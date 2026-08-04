@@ -40,14 +40,6 @@
 					}
 					<p class="rumour-item-date">
 						{{ rumourDate }}
-						@if (resolvedAfterText) {
-						<span class="resolved-text">
-							{{ resolvedAfterText }}
-							<span class="resolved-emoji" aria-hidden="true">
-								{{ rumour.legitRumour ? '✅' : '❌' }}
-							</span>
-						</span>
-						}
 					</p>
 				</div>
 				<div class="rumour-item-body">

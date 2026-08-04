@@ -4,12 +4,16 @@
   color: #0f172a;
 }
 
+.rumours-list-item--resolved {
+  list-style-type: none;
+  margin-left: 0;
+}
+
 .rumours-list-item + .rumours-list-item {
   margin-top: 0.35rem;
 }
 
 .rumours-list-item span {
-  display: block;
   color: #0f172a;
   font-size: 1rem;
   line-height: 1.75;
@@ -17,7 +21,9 @@
 }
 
 .rumour-list-item-text {
+  display: inline-block;
   cursor: default;
+  margin-left: 0.2rem;
 }
 
 .rumour-list-item-text.clickable {
@@ -59,4 +65,20 @@
 	display: inline-block !important;
   width: fit-content;
   font-weight: 650;
+}
+
+.rumour-status-marker {
+  display: inline-block !important;
+  margin-right: 0.35rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.rumour-status-marker--legit {
+  color: #16a34a !important;
+}
+
+.rumour-status-marker--wrong {
+  color: #dc2626 !important;
 }
