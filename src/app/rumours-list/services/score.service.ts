@@ -17,6 +17,11 @@ export class ScoreService {
 		? rumoursListData as RumourListEntry[]
 		: Object.values(rumoursListData as Record<string, RumourListEntry>);
 
+	public getRumourMongerPendingCount(rumourmonger: string): number {
+		const rumours = this.rumours.filter(rumour => rumour.rumourmonger === rumourmonger);
+		return rumours.filter(rumour => !rumour.resolvedDate || rumour.resolvedDate.trim() === '').length;
+	}
+
 	public getRumourMongerScore(rumourmonger: string): RumourMongerScoreSummary | null {
 		const rumours = this.rumours.filter(rumour => rumour.rumourmonger === rumourmonger);
 		const resolvedRumours = rumours.filter(rumour => rumour.resolvedDate && rumour.resolvedDate.trim() !== '');

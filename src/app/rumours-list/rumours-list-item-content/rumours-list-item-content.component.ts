@@ -15,6 +15,7 @@ export class RumoursListItemContentComponent {
 	@Output() public close = new EventEmitter<void>();
 
 	public scoreSummary: RumourMongerScoreSummary | null = null;
+	public pendingRumoursCount = 0;
 
 	constructor(private readonly scoreService: ScoreService) {}
 
@@ -36,6 +37,10 @@ export class RumoursListItemContentComponent {
 	public ngOnChanges(): void {
 		if (this.rumour?.rumourmonger) {
 			this.scoreSummary = this.scoreService.getRumourMongerScore(this.rumour.rumourmonger);
+			this.pendingRumoursCount = this.scoreService.getRumourMongerPendingCount(this.rumour.rumourmonger);
+		} else {
+			this.scoreSummary = null;
+			this.pendingRumoursCount = 0;
 		}
 	}
 

@@ -20,7 +20,8 @@
 					<h3>
 						{{ rumour.rumourmonger }}
 						@if (rumourmongerProfileUrl) {
-						<a class="rumourmonger-link" href="{{ rumourmongerProfileUrl }}" target="_blank" rel="noopener noreferrer" aria-label="Open rumourmonger profile in a new tab">
+						<a class="rumourmonger-link" href="{{ rumourmongerProfileUrl }}" target="_blank" rel="noopener noreferrer"
+							aria-label="Open rumourmonger profile in a new tab">
 							<i class="bi bi-box-arrow-up-right rumourmonger-icon" aria-hidden="true"></i>
 						</a>
 						}
@@ -30,7 +31,8 @@
 					<h3>
 						{{ rumour.rumourmonger }} reacted with {{ reactionEmoji }}
 						@if (rumourmongerProfileUrl) {
-						<a class="rumourmonger-link" href="{{ rumourmongerProfileUrl }}" target="_blank" rel="noopener noreferrer" aria-label="Open rumourmonger profile in a new tab">
+						<a class="rumourmonger-link" href="{{ rumourmongerProfileUrl }}" target="_blank" rel="noopener noreferrer"
+							aria-label="Open rumourmonger profile in a new tab">
 							<i class="bi bi-box-arrow-up-right rumourmonger-icon" aria-hidden="true"></i>
 						</a>
 						}
@@ -76,14 +78,17 @@
 				<div class="score-box">
 					<p class="score-label">Rumourmonger Score</p>
 					@if (scoreSummary) {
-						<p class="score-value">
-					<span class="score-value__percent {{ scoreColorClass }}">{{ scoreSummary.percent }}%</span>
-					<span class="score-value__meta">({{ scoreSummary.legit }}/{{ scoreSummary.total }})</span>
-				</p>
+					<p class="score-value">
+						<span class="score-value__percent {{ scoreColorClass }}">{{ scoreSummary.percent }}%</span>
+						<span class="score-value__meta">({{ scoreSummary.legit }}/{{ scoreSummary.total }})</span>
+					</p>
 					}
 					@if (!scoreSummary) {
-						<p class="score-value">No score available</p>
+					<p class="score-value">No score available</p>
 					}
+					<p class="pending-rumours">
+						Pending Rumours: {{ pendingRumoursCount }}
+					</p>
 				</div>
 				<button type="button" class="source-button" (click)="openUrl()" [disabled]="!currentSourceUrl">
 					Go to the Original Message
