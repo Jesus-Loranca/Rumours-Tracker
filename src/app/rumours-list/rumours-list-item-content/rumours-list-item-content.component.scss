@@ -240,13 +240,15 @@
 	padding-top: 0.15rem;
 }
 
-.message-images {
+.message-images,
+.quote-images {
 	display: grid;
 	gap: 1rem;
 	margin-top: 1rem;
 }
 
-.message-images img {
+.message-images img,
+.quote-images img {
 	width: 100%;
 	max-width: 100%;
 	object-fit: contain;

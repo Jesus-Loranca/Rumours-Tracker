@@ -48,12 +48,21 @@
 						@for (line of quoteLines; track line) {
 						<p class="quote-line" [innerHTML]="formatTextForDisplay(line)"></p>
 						}
+						@if (quoteImageUrls.length > 0) {
+						<div class="quote-images">
+							@for (imageUrl of quoteImageUrls; track imageUrl) {
+							<img [src]="imageUrl" [alt]="imageUrl" />
+							}
+						</div>
+						}
 					</div>
 					}
-					@if (messageLines.length > 0) {
+					@if (messageLines.length > 0 || messageImageUrls.length > 0) {
 					<div class="rumour-message">
-						@for (line of messageLines; track line) {
-						<p class="message-line" [innerHTML]="formatTextForDisplay(line)"></p>
+						@if (messageLines.length > 0) {
+							@for (line of messageLines; track line) {
+							<p class="message-line" [innerHTML]="formatTextForDisplay(line)"></p>
+							}
 						}
 						@if (messageImageUrls.length > 0) {
 						<div class="message-images">

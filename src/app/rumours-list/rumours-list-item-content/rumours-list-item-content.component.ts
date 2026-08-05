@@ -134,18 +134,32 @@ export class RumoursListItemContentComponent {
 		}
 	}
 
-	public get quoteLines(): string[] {
-		return this.currentQuote?.split('\n') ?? [];
-	}
+	private readonly imageMarkerRegex = /\[\[([^\]]+)\]\]/g;
+	private readonly imageMarkerRemovalRegex = /\[\[[^\]]+\]\]/g;
 
-	public get messageImageNames(): string[] {
-		if (!this.currentMessage) {
+	public get quoteLines(): string[] {
+		if (!this.currentQuote) {
 			return [];
 		}
 
-		const imageRegex = /\[\[([^\]]+)\]\]/g;
-		const matches = Array.from(this.currentMessage.matchAll(imageRegex));
-		return matches.map(match => match[1].trim()).filter(name => name);
+		const cleaned = this.currentQuote.replace(this.imageMarkerRemovalRegex, '').trimEnd();
+		if (cleaned === '') {
+			return [];
+		}
+
+		return cleaned.split('\n').map(line => line.trim()).filter(line => line !== '');
+	}
+
+	public get quoteImageNames(): string[] {
+		return this.extractImageNames(this.currentQuote);
+	}
+
+	public get quoteImageUrls(): string[] {
+		return this.quoteImageNames.map(name => `assets/images/rumours-list/rumours/optimized/${encodeURIComponent(name)}`);
+	}
+
+	public get messageImageNames(): string[] {
+		return this.extractImageNames(this.currentMessage);
 	}
 
 	public get messageLines(): string[] {
@@ -153,9 +167,24 @@ export class RumoursListItemContentComponent {
 			return [];
 		}
 
-		const imageRegex = /\[\[[^\]]+\]\]/g;
-		const cleaned = this.currentMessage.replace(imageRegex, '').trimEnd();
-		return cleaned.split('\n');
+		const cleaned = this.currentMessage.replace(this.imageMarkerRemovalRegex, '').trimEnd();
+		return cleaned === '' ? [] : cleaned.split('\n');
+	}
+
+	private extractImageNames(value: string | null | undefined): string[] {
+		if (!value) {
+			return [];
+		}
+
+		const results: string[] = [];
+		const regex = new RegExp(this.imageMarkerRegex);
+		let match: RegExpExecArray | null;
+
+		while ((match = regex.exec(value)) !== null) {
+			results.push(match[1].trim());
+		}
+
+		return results.filter(name => name);
 	}
 
 	public formatTextForDisplay(value: string | null | undefined): string {
