@@ -18,6 +18,16 @@
 		padding: 3.5rem;
 	}
 
+	@media (max-width: 767.98px) {
+		.container {
+			padding-inline: 0.75rem;
+		}
+
+		.index-card {
+			padding: 1.5rem;
+		}
+	}
+
 	.section-title {
 		font-size: 2rem;
 		font-weight: 700;

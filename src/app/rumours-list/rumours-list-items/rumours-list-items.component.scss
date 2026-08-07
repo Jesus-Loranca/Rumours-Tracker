@@ -13,6 +13,16 @@
     border: 1px solid rgba(15, 23, 42, 0.08);
   }
 
+  @media (max-width: 767.98px) {
+    .container {
+      padding-inline: 0.75rem;
+    }
+
+    .content-card {
+      padding: 1.5rem;
+    }
+  }
+
   h2,
   h3,
   h4 {
@@ -72,6 +82,16 @@
 		margin: 3rem 0;
 		max-height: 8rem;
 		max-width: 35rem;
+		width: auto;
+	}
+
+	@media (max-width: 767.98px) {
+		.game-logo {
+			max-width: 100%;
+			width: 100%;
+			height: auto;
+			margin: 2rem 0;
+		}
 	}
 
 	.category-logo {
@@ -85,5 +105,11 @@
     margin: 0;
     padding-left: 1.4rem;
     list-style: disc;
+  }
+
+  ul.resolved-list {
+    padding-left: 0;
+    list-style: none;
+    margin-left: 0;
   }
 }
