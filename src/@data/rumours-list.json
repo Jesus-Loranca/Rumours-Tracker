@@ -5599,8 +5599,8 @@
 		],
 		"rumourmonger": "Boole",
 		"date": "2026-03-21",
-		"resolvedDate": "",
-		"legitRumour": true
+		"resolvedDate": "2026-08-04",
+		"legitRumour": false
 	},
 	{
 		"game": "Age of Sigmar",
