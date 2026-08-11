@@ -8,7 +8,13 @@
 		<button *ngIf="viewMode === 'active'" type="button" class="recent-toggle-btn" [class.active]="recentOnly" (click)="toggleRecentOnly()">
 			Recent
 		</button>
+		<button *ngIf="viewMode === 'solved'" type="button" class="recent-toggle-btn" [class.active]="showLegitRumours" (click)="toggleLegitRumours()">
+			Legit Rumours
+		</button>
+		<button *ngIf="viewMode === 'solved'" type="button" class="recent-toggle-btn" [class.active]="showWrongRumours" (click)="toggleWrongRumours()">
+			Wrong Rumours
+		</button>
 	</div>
-	<app-rumours-list-items [viewMode]="viewMode" [recentOnly]="recentOnly"></app-rumours-list-items>
+	<app-rumours-list-items [viewMode]="viewMode" [recentOnly]="recentOnly" [legitRumourFilter]="showLegitRumours" [wrongRumourFilter]="showWrongRumours"></app-rumours-list-items>
 <back-to-top></back-to-top>
 </section>

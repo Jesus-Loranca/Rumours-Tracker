@@ -11,6 +11,8 @@ import { RumoursListIndexService, RumourListEntry, RumoursListGameGroup } from '
 export class RumoursListItemsComponent {
 	private _viewMode: 'active' | 'solved' = 'active';
 	private _recentOnly = false;
+	private _legitRumourFilter = false;
+	private _wrongRumourFilter = false;
 
 	public rumours: RumourListEntry[] = Array.isArray(rumoursListData)
 		? rumoursListData as RumourListEntry[]
@@ -77,11 +79,33 @@ export class RumoursListItemsComponent {
 		return this._recentOnly;
 	}
 
+	@Input()
+	set legitRumourFilter(value: boolean) {
+		this._legitRumourFilter = value;
+		this.applyView();
+	}
+
+	get legitRumourFilter(): boolean {
+		return this._legitRumourFilter;
+	}
+
+	@Input()
+	set wrongRumourFilter(value: boolean) {
+		this._wrongRumourFilter = value;
+		this.applyView();
+	}
+
+	get wrongRumourFilter(): boolean {
+		return this._wrongRumourFilter;
+	}
+
 	private applyView(): void {
 		this.groupedRumoursByGame = this.rumoursListIndexService.createGroupedRumoursByGame(
 			this.rumours,
 			this.viewMode === 'solved',
-			this.recentOnly
+			this.recentOnly,
+			this.legitRumourFilter,
+			this.wrongRumourFilter
 		);
 	}
 
