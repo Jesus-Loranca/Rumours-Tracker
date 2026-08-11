@@ -1,381 +1,179 @@
+$dark: #0f172a;
+$slate: #475569;
+$border: #e2e8f0;
+
 .rumour-item-content-overlay {
-	position: fixed;
-	top: 0;
-	left: 0;
-	width: 100vw;
-	height: 100vh;
-	background: rgba(15, 23, 42, 0.55);
-	backdrop-filter: blur(5px);
-	z-index: 2000;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	padding: 1.5rem;
+  position: fixed;
+  inset: 0;
+  background: rgba(15, 23, 42, .55);
+  backdrop-filter: blur(5px);
+  z-index: 2000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
 }
 
 .rumour-item-content-panel {
-	background: #ffffff;
-	border-radius: 1rem;
-	box-shadow: 0 30px 80px rgba(15, 23, 42, 0.25);
-	width: min(1080px, 100%);
-	max-height: 90vh;
-	overflow: visible;
-	position: relative;
-	display: flex;
-	flex-direction: column;
+  background: #fff;
+  border-radius: 1rem;
+  box-shadow: 0 30px 80px rgba(15, 23, 42, .25);
+  width: min(1080px, 100%);
+  max-height: 90vh;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.close-button, .pager-button {
+  position: absolute;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: $dark;
 }
 
 .close-button {
-	position: absolute;
-	top: 0.75rem;
-	right: 1.5rem;
-	width: 2.4rem;
-	height: 2.4rem;
-	border: none;
-	border-radius: 50%;
-	background: rgba(15, 23, 42, 0.08);
-	display: inline-flex;
-	align-items: center;
-	justify-content: center;
-	font-size: 1.2rem;
-	line-height: 1;
-	cursor: pointer;
-	color: #0f172a;
-	transition: background-color 0.2s ease;
-}
-
-.close-button:hover {
-	background: rgba(15, 23, 42, 0.14);
+  top: .75rem;
+  right: 1.5rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  border: none;
+  border-radius: 50%;
+  background: rgba(15, 23, 42, .08);
+  font-size: 1.2rem;
+  transition: background-color .2s;
+  &:hover { background: rgba(15, 23, 42, .14); }
 }
 
 .pager-button {
-	position: absolute;
-	top: 50%;
-	transform: translateY(-50%);
-	width: 3rem;
-	height: 3rem;
-	border-radius: 9999px;
-	border: 1px solid rgba(15,23,42,0.08);
-	background: #ffffff;
-	display: inline-flex;
-	align-items: center;
-	justify-content: center;
-	cursor: pointer;
-	font-size: 1.4rem;
-	color: #0f172a;
-	box-shadow: 0 8px 18px rgba(15,23,42,0.12);
-	z-index: 2100;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 3rem;
+  height: 3rem;
+  border-radius: 9999px;
+  border: 1px solid rgba(15, 23, 42, .08);
+  background: #fff;
+  font-size: 1.4rem;
+  box-shadow: 0 8px 18px rgba(15, 23, 42, .12);
+  z-index: 2100;
+  &:disabled { opacity: .45; cursor: default; }
 }
 
-.pager-button:disabled {
-	opacity: 0.45;
-	cursor: default;
-}
-
-.pager-controls.mobile-only {
-	display: none;
-}
-
-.nav-prev {
-	left: -5rem;
-}
-
-.nav-next {
-	right: -5rem;
-}
+.desktop-only { display: block; }
+.mobile-only { display: none; }
+.nav-prev { left: -5rem; }
+.nav-next { right: -5rem; }
 
 .rumour-item-content-inner {
-	display: grid;
-	grid-template-columns: 1.8fr 1fr;
-	gap: 3rem;
-	padding: 4rem 2rem 2rem;
-	overflow: auto;
-	max-height: calc(90vh - 3rem);
+  display: grid;
+  grid-template-columns: 1.8fr 1fr;
+  gap: 3rem;
+  padding: 4rem 2rem 2rem;
+  overflow: auto;
+  max-height: calc(90vh - 3rem);
 }
 
-.rumour-item-main {
-	min-height: 300px;
-}
-
-@media (max-width: 767.98px) {
-	.rumour-item-content-overlay {
-		flex-direction: column;
-		align-items: center;
-		justify-content: center;
-	}
-
-	.rumour-item-content-inner {
-		grid-template-columns: 1fr;
-		gap: 1.5rem;
-		padding: 2rem 1rem 1rem;
-	}
-
-	.rumour-item-sidebar {
-		width: 100%;
-	}
-
-	.pager-controls.desktop-only {
-		display: none;
-	}
-
-	.pager-controls.mobile-only {
-		display: flex;
-		justify-content: center;
-		gap: 1rem;
-		width: auto;
-		margin: 1rem 0 0;
-		padding-bottom: 1rem;
-	}
-
-	.pager-controls.mobile-only .pager-button {
-		position: static;
-		top: auto;
-		left: auto;
-		right: auto;
-		transform: none;
-	}
-}
-
-@media (min-width: 768px) and (max-width: 1024px) {
-	.rumour-item-content-overlay {
-		flex-direction: column !important;
-		align-items: center !important;
-		justify-content: center !important;
-	}
-
-	.pager-controls.desktop-only {
-		display: none !important;
-		visibility: hidden !important;
-		opacity: 0 !important;
-	}
-
-	.pager-controls.mobile-only {
-		display: flex !important;
-		justify-content: center !important;
-		gap: 1rem !important;
-		width: auto !important;
-		margin: 1rem 0 0 !important;
-		padding-bottom: 1rem !important;
-	}
-
-	.pager-controls.mobile-only .pager-button {
-		position: static !important;
-		top: auto !important;
-		left: auto !important;
-		right: auto !important;
-		transform: none !important;
-	}
-
-	.pager-button {
-		position: static !important;
-	}
-}
+.rumour-item-main { min-height: 300px; }
+.rumour-item-sidebar { display: grid; gap: 1rem; align-content: start; }
 
 .rumour-item-meta {
-	margin-bottom: 1rem;
+  margin-bottom: 1rem;
+  h3 { margin: 0; font-size: 1.3rem; font-weight: 700; color: $dark; }
 }
 
-.rumour-item-body {
-	margin-top: 1.5rem;
-	padding-top: 1.25rem;
-	border-top: 1px solid #e2e8f0;
-}
+.rumour-item-date { margin: .5rem 0 0; font-size: .95rem; color: $slate; }
+.resolved-text { display: block; margin-top: .4rem; font-size: .9rem; color: $dark; font-weight: 600; }
+.resolved-emoji { margin-left: .5rem; font-size: .95rem; vertical-align: middle; }
 
-.rumour-item-meta h3 {
-	margin: 0;
-	font-size: 1.3rem;
-	font-weight: 700;
-	color: #0f172a;
-}
+.rumourmonger-link { display: inline-flex; align-items: center; margin-left: .5rem; color: $dark; text-decoration: none; }
+.rumourmonger-icon { font-size: .8em; color: #6b7280; transform: translateY(-.25em); }
 
-.rumour-item-date {
-	margin: 0.5rem 0 0;
-	font-size: 0.95rem;
-	color: #475569;
-}
-
-.resolved-text {
-	display: block;
-	margin-top: 0.4rem;
-	font-size: 0.9rem;
-	color: #0f172a;
-	font-weight: 600;
-}
-
-.resolved-emoji {
-    margin-left: 0.5rem;
-    font-size: 0.95rem;
-    vertical-align: middle;
-}
-
-.rumourmonger-link {
-	display: inline-flex;
-	align-items: center;
-	margin-left: 0.5rem;
-	color: #0f172a;
-	text-decoration: none;
-}
-
-.rumourmonger-icon {
-	font-size: 0.8em;
-	line-height: 1;
-	color: #6b7280;
-	transform: translateY(-0.25em);
-}
-
-.rumour-item-body {
-	margin-top: 1.5rem;
-}
+.rumour-item-body { margin-top: 1.5rem; padding-top: 1.25rem; border-top: 1px solid $border; }
 
 .score-box {
-	padding: 1rem;
-	border-radius: 1rem;
-	background: #f8fafc;
-	border: 1px solid #e2e8f0;
-	margin-bottom: 1rem;
-}
+  padding: 1rem;
+  border-radius: 1rem;
+  background: #f8fafc;
+  border: 1px solid $border;
+  margin-bottom: 1rem;
 
-.score-box .score-label {
-	margin: 0 0 0.5rem;
-	font-size: 0.9rem;
-	font-weight: 700;
-	color: #334155;
-}
-
-.score-value {
-	margin: 0;
-	padding: 0;
-	font-size: 1.4rem;
-	font-weight: 800;
-	line-height: 1.2;
+  .score-label { margin: 0 0 .5rem; font-size: .9rem; font-weight: 700; color: #334155; }
+  .score-value { display: inline-flex; align-items: center; font-size: 1.4rem; font-weight: 800; color: $dark; }
 }
 
 .score-value__percent {
-	display: inline-block;
-	font-size: inherit;
-	font-weight: inherit;
+  font-size: inherit; font-weight: inherit;
+  &.score-value--danger { color: #b91c1c; }
+  &.score-value--warning { color: #ea580c; }
+  &.score-value--caution { color: #f59e0b; }
+  &.score-value--good { color: #16a34a; }
+  &.score-value--great { color: #15803d; }
 }
 
-.score-value__meta {
-	margin-left: 0.6rem;
-	font-size: 0.95rem;
-	font-weight: 600;
-	color: #475569;
-}
-
-.score-value__percent.score-value--danger {
-	color: #b91c1c !important;
-}
-
-.score-value__percent.score-value--warning {
-	color: #ea580c !important;
-}
-
-.score-value__percent.score-value--caution {
-	color: #f59e0b !important;
-}
-
-.score-value__percent.score-value--good {
-	color: #16a34a !important;
-}
-
-.score-value__percent.score-value--great {
-	color: #15803d !important;
-}
-
-.score-box .score-value {
-	display: inline-flex;
-	align-items: center;
-}
-
-.pending-rumours {
-	margin-top: 1rem;
-	margin-bottom: 0;
-}
+.score-value__meta { margin-left: .6rem; font-size: .95rem; font-weight: 600; color: $slate; }
+.pending-rumours { margin-top: 1rem; }
 
 .rumour-quote {
-	border-left: 4px solid #0f172a;
-	padding-left: 1rem;
-	margin-bottom: 1rem;
-	color: #0f172a;
-	font-style: italic;
+  border-left: 4px solid $dark;
+  padding-left: 1rem;
+  margin-bottom: 1rem;
+  color: $dark;
+  font-style: italic;
 }
 
-.quote-line,
-.message-line {
-	margin: 0 0 1rem;
-	line-height: 1.45;
-	color: #0f172a;
-	white-space: pre-wrap;
+.quote-line, .message-line {
+  margin-bottom: 1rem;
+  line-height: 1.45;
+  color: $dark;
+  white-space: pre-wrap;
+  &:last-child { margin-bottom: 0; }
 }
 
-.rumour-quote .quote-line:last-child,
-.rumour-message .message-line:last-child {
-	margin-bottom: 0;
+.rumour-message { padding-top: .15rem; }
+
+.message-images, .quote-images {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1rem;
+  img { width: 100%; object-fit: contain; }
 }
 
-.rumour-message {
-	padding-top: 0.15rem;
-}
-
-.message-images,
-.quote-images {
-	display: grid;
-	gap: 1rem;
-	margin-top: 1rem;
-}
-
-.message-images img,
-.quote-images img {
-	width: 100%;
-	max-width: 100%;
-	object-fit: contain;
-}
-
-.post-counter {
-	font-size: 0.85rem;
-	color: #475569;
-	margin-bottom: 0.5rem;
-	font-weight: 600;
-}
-
-.rumour-item-sidebar {
-	display: grid;
-	gap: 1rem;
-	align-content: start;
-}
-
-.score-box {
-	background: #f8fafc;
-	padding: 1rem;
-	border-radius: 0.85rem;
-	border: 1px solid #e2e8f0;
-}
-
-.score-label {
-	margin: 0;
-	font-size: 0.9rem;
-	color: #475569;
-}
-
-.score-value {
-	margin: 0.6rem 0 0;
-	font-size: 1.2rem;
-	font-weight: 700;
-	color: #0f172a;
-}
+.post-counter { font-size: .85rem; color: $slate; margin-bottom: .5rem; font-weight: 600; }
 
 .source-button {
-	padding: 0.9rem 1.2rem;
-	border-radius: 999px;
-	border: none;
-	background: #0f172a;
-	color: #ffffff;
-	font-weight: 600;
-	cursor: pointer;
+  padding: .9rem 1.2rem;
+  border-radius: 999px;
+  border: none;
+  background: $dark;
+  color: #fff;
+  font-weight: 600;
+  cursor: pointer;
+  &[disabled] { background: #cbd5e1; cursor: not-allowed; }
 }
 
-.source-button[disabled] {
-	background: #cbd5e1;
-	cursor: not-allowed;
+@media (max-width: 1024px) {
+  .rumour-item-content-overlay { flex-direction: column; }
+  .desktop-only { display: none; }
+  .mobile-only {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 1rem;
+    padding-bottom: 1rem;
+    .pager-button { position: static; transform: none; }
+  }
+}
+
+@media (max-width: 767.98px) {
+  .rumour-item-content-inner {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding: 2rem 1rem 1rem;
+    overflow-y: auto;
+  }
+  .rumour-item-main { min-height: auto; }
+  .rumour-item-sidebar { width: 100%; margin-top: 1rem; padding-bottom: 1rem; }
 }

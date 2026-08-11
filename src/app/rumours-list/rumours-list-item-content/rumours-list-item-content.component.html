@@ -4,8 +4,8 @@
 		<button type="button" class="close-button" (click)="closeDialog()">×</button>
 		@if (totalMessages > 1) {
 		<div class="pager-controls desktop-only">
-			<button type="button" class="pager-button nav-prev" (click)="$event.stopPropagation(); prevMessage()" [disabled]="currentIndex===0"
-				aria-label="Previous message">‹</button>
+			<button type="button" class="pager-button nav-prev" (click)="$event.stopPropagation(); prevMessage()"
+				[disabled]="currentIndex===0" aria-label="Previous message">‹</button>
 			<button type="button" class="pager-button nav-next" (click)="$event.stopPropagation(); nextMessage()"
 				[disabled]="currentIndex+1>=totalMessages" aria-label="Next message">›</button>
 		</div>
@@ -60,9 +60,9 @@
 					@if (messageLines.length > 0 || messageImageUrls.length > 0) {
 					<div class="rumour-message">
 						@if (messageLines.length > 0) {
-							@for (line of messageLines; track line) {
-							<p class="message-line" [innerHTML]="formatTextForDisplay(line)"></p>
-							}
+						@for (line of messageLines; track line) {
+						<p class="message-line" [innerHTML]="formatTextForDisplay(line)"></p>
+						}
 						}
 						@if (messageImageUrls.length > 0) {
 						<div class="message-images">
@@ -75,6 +75,7 @@
 					}
 				</div>
 			</div>
+
 			<div class="rumour-item-sidebar">
 				<div class="score-box">
 					<p class="score-label">Rumourmonger Score</p>
@@ -99,8 +100,8 @@
 	</div>
 	@if (totalMessages > 1) {
 	<div class="pager-controls mobile-only">
-		<button type="button" class="pager-button nav-prev" (click)="$event.stopPropagation(); prevMessage()" [disabled]="currentIndex===0"
-			aria-label="Previous message">‹</button>
+		<button type="button" class="pager-button nav-prev" (click)="$event.stopPropagation(); prevMessage()"
+			[disabled]="currentIndex===0" aria-label="Previous message">‹</button>
 		<button type="button" class="pager-button nav-next" (click)="$event.stopPropagation(); nextMessage()"
 			[disabled]="currentIndex+1>=totalMessages" aria-label="Next message">›</button>
 	</div>
