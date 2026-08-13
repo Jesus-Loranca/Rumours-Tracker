@@ -159,7 +159,8 @@
 		"rumourmonger": "Whitefang",
 		"date": "2025-07-15",
 		"resolvedDate": "2026-05-16",
-		"legitRumour": false
+		"legitRumour": false,
+		"wrongRumourReason": "Tempest Eye wasn't destroyed"
 	},
 	{
 		"game": "Age of Sigmar",
@@ -186,7 +187,8 @@
 		"rumourmonger": "Whitefang",
 		"date": "2025-07-16",
 		"resolvedDate": "2026-05-16",
-		"legitRumour": false
+		"legitRumour": false,
+		"wrongRumourReason": "Cities of Sigmar didn't lose any city"
 	},
 	{
 		"game": "Age of Sigmar",
@@ -1151,7 +1153,8 @@
 		"rumourmonger": "Boole",
 		"date": "2025-09-26",
 		"resolvedDate": "2026-03-26",
-		"legitRumour": false
+		"legitRumour": false,
+		"wrongRumourReason": "The Cogfort was released in 2026"
 	},
 	{
 		"game": "Age of Sigmar",
@@ -5600,7 +5603,8 @@
 		"rumourmonger": "Boole",
 		"date": "2026-03-21",
 		"resolvedDate": "2026-08-04",
-		"legitRumour": false
+		"legitRumour": false,
+		"wrongRumourReason": "Boole confirmed later that this was a false rumnour given to him as fake data to mock them"
 	},
 	{
 		"game": "Age of Sigmar",
@@ -7733,6 +7737,7 @@
 		"rumourmonger": "",
 		"date": "",
 		"resolvedDate": "",
-		"legitRumour": true
+		"legitRumour": true,
+		"wrongRumourReason": ""
 	}
 ]
