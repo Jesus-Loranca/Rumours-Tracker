@@ -7620,6 +7620,35 @@
 		"legitRumour": true
 	},
 	{
+		"game": "Warhammer Underworlds",
+		"edition": 0,
+		"category": "",
+		"text": "There's four warbands and six decks coming for Underworlds",
+		"message": {
+			"contents": [
+				"Update on UWs.\nGot hinted about something for UW being pretty close to being released while I was listing what is pending to be released from the last preview.\nI've been told there are 4 warbands and 6 decks pretty close. Two lonely warbands and a vs box with another two, so I wouldn't be surprised if the next Monday or so is an UW reveal."
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=9059#findComment-802243"
+		],
+		"rumourmonger": "Ejecutor",
+		"date": "2026-08-13",
+		"resolvedDate": "",
+		"legitRumour": true
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
