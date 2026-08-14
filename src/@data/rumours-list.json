@@ -7831,6 +7831,51 @@
 		"wrongRumourReason": ""
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "End of Edition Campaign",
+		"text": "Boole checks with their sources and confirms that the info provided by The Enlightened One is correct on its core, but with slightly different details",
+		"message": {
+			"contents": [
+				"We've checked with a few contacts and got similar but not identical results—for instance, not as many people died, Sigmar isn't dead, and Teclis… well, we're not sure",
+				"We've found some pretty cool stuff—the mega-gargant kit is for Death Alliance, and every faction is getting a really beautiful monster kit",
+				"We know this sounds absolutely mental, but the version we've got has Sigmar coming out on top in the end—Chaos gets driven out of every corner of the Mortal Realms, the tragedy at Azyr wasn't for nothing, and it looks like the only SCE actually dead is the Celestant-Prime\nWell, well, well…\nIt's that familiar feeling again—similar bits, but with the details flipped. Don't take it too seriously, mates, no need to let it spoil your day\nWe can promise that the version we've got is a good ending",
+				"Yes?",
+				"Tahlia Vedra isn't dead\nThe CoS characters all went underground with her into Hammerhal\nBe'lakor was killed by Olynder\nSkarbrand was killed by Bastian\nGlutos was killed by Ushoran\nNurgle's army was wiped out by Alarielle\nTzeentch's army was wiped out by Gordrakk\nWhen it came down to Archaon and Sigmar, both had already been pushed to the brink",
+				"Folks, neither the friend who deleted their post nor what we've posted here is 100% reliable—so please don't be upset about it!\nWe've already got clear contradictions between his version and ours, and now we're not sure what's actually true either—they're rumours, after all \nIf a certain part makes you happy, go ahead and believe it. If a certain part bothers you, just treat it like it doesn't exist\nIf a mortal character dies, there's always a chance they could come back in the future — after all, it's AoS, so nothing's really impossible \nTake care of yourselves, our friends!"
+			],
+			"quotes": [
+				"",
+				"",
+				"",
+				"But the end result is the same - mortal realms destroyed and battle world?",
+				"",
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=331#findComment-802493",
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=331#findComment-802496",
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=332#findComment-802507",
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=332#findComment-802512",
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=333#findComment-802550",
+			"https://www.tga.community/forums/topic/44679-age-of-sigmar-the-last-world-rumour-thread/?page=334#findComment-802582"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-08-14",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
