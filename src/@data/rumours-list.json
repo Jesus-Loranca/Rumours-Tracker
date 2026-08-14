@@ -7711,6 +7711,36 @@
 		"legitRumour": true
 	},
 	{
+		"game": "Warcry",
+		"edition": 0,
+		"category": "",
+		"text": "Warcry could have a new rulesbook coming for the next summer",
+		"message": {
+			"contents": [
+				"Now that you are around, I would say something else I was told. I was doubtful because I personally don't believe it.\nI was talking (thinking about Boole when he said there were 10 warbands in the pipe, and another rumour we got about a new game replacing both UW and Warcry) that maybe in a year from now, those 10 warbands would be done and UW end.\nAs I mentioned Warcry, I was told that a new Warcry rulesbook is coming in around a year or less. Looks like it would be for next summer.\nHave you heard anything like this?"
+			],
+			"quotes": [
+				"This isn't true i'm afraid - the Lumineth Warband was the last release for Underworlds. Nothing else will be released.\nBut I won't leave you on a low note.\nWhilst Fyreslayers will be rolled into Khazalite Holds (Told you they wouldn't get a Battletome) and many kits will be going - the new Fyreslayer Character with accompanying Magmadroth companion look amazing."
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=9060#findComment-802262"
+		],
+		"rumourmonger": "Ejecutor",
+		"date": "2026-08-14",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
