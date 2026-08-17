@@ -11661,23 +11661,23 @@
 	},
 	{
 		"date": "2026-02-17",
-		"resolvedDate": "",
+		"resolvedDate": "2026-08-17",
 		"link": "https://www.warhammer-community.com/en-gb/articles/pxw1txcq/the-rumour-engine-17th-of-february/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/zarljpll/revealed-new-gargant-miniatures/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2026-02-17.jpg",
 			"cdn": "https://assets.warhammer-community.com/rumourengine-feb17-0-content-e8nxf4xzc6.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Rock-hurlers",
 			"link": "",
 			"image": {
-				"url": "2026-02-17-miniature.jpg",
-				"cdn": ""
+				"url": "2026-02-17-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/17-08-carousel2b-odqyuae9bn.png"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Destruction", "Sons of Behemat"]
 	},
 	{
 		"date": "2026-02-24",
@@ -12081,43 +12081,43 @@
 	},
 	{
 		"date": "2026-07-21",
-		"resolvedDate": "",
+		"resolvedDate": "2026-08-17",
 		"link": "https://www.warhammer-community.com/en-gb/articles/dz7jzsva/the-rumour-engine-21st-of-july/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/zarljpll/revealed-new-gargant-miniatures/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2026-07-21.jpg",
 			"cdn": "https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/rumourengine-jul21-0-content-57wbvbkndv.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Ma Maegran, Chooser of the Mighty",
 			"link": "",
 			"image": {
 				"url": "2026-07-21-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/17-08-image1_wide-spkupzomhp.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Destruction", "Sons of Behemat"]
 	},
 	{
 		"date": "2026-07-28",
-		"resolvedDate": "",
+		"resolvedDate": "2026-08-17",
 		"link": "https://www.warhammer-community.com/en-gb/articles/dz7jzsva/the-rumour-engine-28th-of-july/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/zarljpll/revealed-new-gargant-miniatures/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2026-07-28.jpg",
 			"cdn": "https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/rumourengine-jul28-0-content-ayqdlkbpfk.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Ma Maegran, Chooser of the Mighty",
 			"link": "",
 			"image": {
-				"url": "2026-07-28-miniature.jpg",
-				"cdn": ""
+				"url": "2026-07-21-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/17-08-image1_wide-spkupzomhp.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Destruction", "Sons of Behemat"]
 	},
 	{
 		"date": "2026-08-04",

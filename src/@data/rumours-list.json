@@ -1098,7 +1098,7 @@
 		],
 		"rumourmonger": "Boole",
 		"date": "2025-09-16",
-		"resolvedDate": "",
+		"resolvedDate": "2026-08-17",
 		"legitRumour": true
 	},
 	{
@@ -5151,7 +5151,7 @@
 		],
 		"rumourmonger": "Boole",
 		"date": "2026-03-02",
-		"resolvedDate": "",
+		"resolvedDate": "2026-08-17",
 		"legitRumour": true
 	},
 	{
@@ -6623,8 +6623,9 @@
 		],
 		"rumourmonger": "Boole",
 		"date": "2026-03-26",
-		"resolvedDate": "",
-		"legitRumour": true
+		"resolvedDate": "2026-08-17",
+		"legitRumour": false,
+		"wrongRumourReason": "The new Sons of Behemath units weren't Mancrushers, but a bigger version of Gargants"
 	},
 	{
 		"game": "Warcry",
@@ -6849,7 +6850,7 @@
 		],
 		"rumourmonger": "Boole",
 		"date": "2026-06-14",
-		"resolvedDate": "",
+		"resolvedDate": "2026-08-17",
 		"legitRumour": true
 	},
 	{
