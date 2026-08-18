@@ -12158,5 +12158,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2026-08-18",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/zdofpdp6/the-rumour-engine-18th-of-august/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2026-08-18.jpg",
+			"cdn": "https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/rumourengine-aug18-0-content-mmlghnbsa8.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2026-08-18-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
