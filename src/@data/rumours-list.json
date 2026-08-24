@@ -6624,7 +6624,7 @@
 		"rumourmonger": "Boole",
 		"date": "2026-03-26",
 		"resolvedDate": "2026-08-17",
-		"legitRumour": false,
+		"legitRumour": true,
 		"wrongRumourReason": "The new Sons of Behemat units weren't Mancrushers, but a bigger version of Gargants"
 	},
 	{
@@ -7244,7 +7244,7 @@
 		],
 		"rumourmonger": "Boole",
 		"date": "2026-07-15",
-		"resolvedDate": "",
+		"resolvedDate": "2026-08-24",
 		"legitRumour": true
 	},
 	{
