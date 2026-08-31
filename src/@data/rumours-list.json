@@ -8060,6 +8060,36 @@
 		"wrongRumourReason": ""
 	},
 	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Fyreslayers",
+		"text": "It looks like the Khazalids army set could be similar in composition to the Helsmiths one",
+		"message": {
+			"contents": [
+				"Going back to our glorious duardin rumours...\nWere there any rumours on the starting box for Khasalid?\nConsidering they ought to have an artilery and they are rumoured to have a golem I think it would be amazing form them to do a mirror HoH box sith Leader, unit (maybe shooting one?) Golem and Artilery. Also getting a shooting unit a monster and an altilery would be perfect for existing FS mele infantry armies.\nBut the above is just me daydreaming, do we have rumours on that?"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": true
+		},
+		"isLike": true,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=9113#findComment-804990"
+		],
+		"rumourmonger": "Whitefang back me up",
+		"date": "08-29-2026",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
 		"game": "",
 		"edition": 0,
 		"category": "",
