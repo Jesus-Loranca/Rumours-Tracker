@@ -11673,8 +11673,8 @@
 			"name": "Rock-hurlers",
 			"link": "",
 			"image": {
-				"url": "2026-02-17-miniature.png",
-				"cdn": "https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/17-08-carousel2b-odqyuae9bn.png"
+				"url": "2026-02-17-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/sundaypreview-sep06-aos-bossstompers-yuthop5ln4.jpg"
 			}
 		},
 		"tags": ["Age of Sigmar", "Destruction", "Sons of Behemat"]
@@ -12094,7 +12094,7 @@
 			"link": "",
 			"image": {
 				"url": "2026-07-21-miniature.jpg",
-				"cdn": "https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/17-08-image1_wide-spkupzomhp.jpg"
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/sundaypreview-sep06-aos_01-mamaegran-tlnrs9fyms.jpg"
 			}
 		},
 		"tags": ["Age of Sigmar", "Destruction", "Sons of Behemat"]
@@ -12114,7 +12114,7 @@
 			"link": "",
 			"image": {
 				"url": "2026-07-21-miniature.jpg",
-				"cdn": "https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/17-08-image1_wide-spkupzomhp.jpg"
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/sundaypreview-sep06-aos_01-mamaegran-tlnrs9fyms.jpg"
 			}
 		},
 		"tags": ["Age of Sigmar", "Destruction", "Sons of Behemat"]
@@ -12214,6 +12214,26 @@
 			"link": "",
 			"image": {
 				"url": "2026-09-01-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
+	},
+	{
+		"date": "2026-09-08",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/ibkg5wrj/the-rumour-engine-8th-of-september/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2026-09-08.jpg",
+			"cdn": "https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/rumourengine-sep08-0-content-ytbfjeksx4.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2026-09-08-miniature.jpg",
 				"cdn": ""
 			}
 		},
