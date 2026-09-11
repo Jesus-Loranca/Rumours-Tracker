@@ -10,7 +10,7 @@ import { DateService } from '../services/date.service';
 })
 
 export class GridViewComponent {
-	@Input() rumourEngines!: Array<RumourEngine>;
+	@Input() rumourEngines: Array<RumourEngine> = [];
 
 	constructor(private dateService: DateService) {}
 

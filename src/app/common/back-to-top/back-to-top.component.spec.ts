@@ -8,7 +8,7 @@ describe('BackToTopComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ BackToTopComponent ]
+      imports: [ BackToTopComponent ]
     })
     .compileComponents();
   });

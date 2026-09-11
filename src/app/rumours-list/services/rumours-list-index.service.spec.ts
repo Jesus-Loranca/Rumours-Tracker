@@ -56,4 +56,23 @@ describe('RumoursListIndexService', () => {
     expect([...legitCounts.values()].reduce((total, count) => total + count, 0)).toBe(legitRumours.length);
     expect([...wrongCounts.values()].reduce((total, count) => total + count, 0)).toBe(wrongRumours.length);
   });
+
+  it('filters active and solved rumours by rumourmonger and updates index counts', () => {
+    const rumours = Array.isArray(rumoursListData)
+      ? rumoursListData as Array<Record<string, unknown>>
+      : Object.values(rumoursListData as Record<string, Record<string, unknown>>);
+    const rumourmonger = 'Whitefang';
+
+    const activeRumours = service.filterRumours(rumours as any[], false, false, false, false, rumourmonger);
+    const solvedRumours = service.filterRumours(rumours as any[], true, false, false, false, rumourmonger);
+    const activeCounts = service.getRumourCountsByIndexLabel(rumours as any[], false, false, false, false, rumourmonger);
+    const solvedCounts = service.getRumourCountsByIndexLabel(rumours as any[], true, false, false, false, rumourmonger);
+
+    expect(activeRumours.length).toBeGreaterThan(0);
+    expect(solvedRumours.length).toBeGreaterThan(0);
+    expect(activeRumours.every(rumour => rumour.rumourmonger === rumourmonger)).toBeTrue();
+    expect(solvedRumours.every(rumour => rumour.rumourmonger === rumourmonger)).toBeTrue();
+    expect([...activeCounts.values()].some(count => count > 0)).toBeTrue();
+    expect([...solvedCounts.values()].some(count => count > 0)).toBeTrue();
+  });
 });
