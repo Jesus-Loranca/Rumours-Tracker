@@ -1,6 +1,6 @@
 <section class="rumours-list-page py-4">
 	<app-rumours-index [viewMode]="viewMode" [recentOnly]="recentOnly" [legitRumourFilter]="showLegitRumours"
-		[wrongRumourFilter]="showWrongRumours"></app-rumours-index>
+		[wrongRumourFilter]="showWrongRumours" [rumourmongerFilter]="selectedRumourmonger"></app-rumours-index>
 	<div class="container view-toggle-wrapper">
 		<div class="view-toggle-card" role="group" aria-label="Rumours view selector">
 			<a class="view-toggle-btn" [class.active]="viewMode === 'active'" [routerLink]="['/rumours-list']" [queryParams]="{ view: null }">Active</a>
@@ -17,7 +17,26 @@
 				Wrong Rumours
 			</button>
 		</div>
+		<div class="rumourmonger-filter">
+			<span>Rumourmonger:</span>
+			<button type="button" class="rumourmonger-trigger" [title]="selectedRumourmonger || 'All rumourmongers'"
+				[attr.aria-expanded]="rumourmongerMenuOpen" (click)="toggleRumourmongerMenu()">
+				{{ selectedRumourmonger ? getRumourmongerLabel(selectedRumourmonger) : 'All' }}
+				<i class="bi bi-chevron-down" aria-hidden="true"></i>
+			</button>
+			@if (rumourmongerMenuOpen) {
+			<div class="rumourmonger-menu" role="listbox">
+				<button type="button" role="option" [attr.aria-selected]="!selectedRumourmonger"
+					(click)="selectRumourmonger('')">All</button>
+				@for (rumourmonger of rumourmongers; track rumourmonger) {
+				<button type="button" role="option" [attr.aria-selected]="selectedRumourmonger === rumourmonger"
+					(click)="selectRumourmonger(rumourmonger)">{{ rumourmonger }}</button>
+				}
+			</div>
+			}
+		</div>
 	</div>
-	<app-rumours-list-items [viewMode]="viewMode" [recentOnly]="recentOnly" [legitRumourFilter]="showLegitRumours" [wrongRumourFilter]="showWrongRumours"></app-rumours-list-items>
+	<app-rumours-list-items [viewMode]="viewMode" [recentOnly]="recentOnly" [legitRumourFilter]="showLegitRumours"
+		[wrongRumourFilter]="showWrongRumours" [rumourmongerFilter]="selectedRumourmonger"></app-rumours-list-items>
 <back-to-top></back-to-top>
 </section>

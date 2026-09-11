@@ -1,6 +1,9 @@
 <section class="rumours-list-items py-4">
 	<div class="container">
 		<div class="content-card">
+			@if (groupedRumoursByGame.length === 0) {
+			<p class="empty-results" role="status">There's nothing to see here.</p>
+			}
 			@for (gameGroup of groupedRumoursByGame; track gameGroup.game) {
 			<div>
 				@if (getCategoryLogoUrl(gameGroup.game)) {

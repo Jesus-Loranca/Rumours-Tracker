@@ -13,6 +13,7 @@ export class RumoursListItemsComponent {
 	private _recentOnly = false;
 	private _legitRumourFilter = false;
 	private _wrongRumourFilter = false;
+	private _rumourmongerFilter = '';
 
 	public rumours: RumourListEntry[] = Array.isArray(rumoursListData)
 		? rumoursListData as RumourListEntry[]
@@ -99,13 +100,24 @@ export class RumoursListItemsComponent {
 		return this._wrongRumourFilter;
 	}
 
+	@Input()
+	set rumourmongerFilter(value: string) {
+		this._rumourmongerFilter = value;
+		this.applyView();
+	}
+
+	get rumourmongerFilter(): string {
+		return this._rumourmongerFilter;
+	}
+
 	private applyView(): void {
 		this.groupedRumoursByGame = this.rumoursListIndexService.createGroupedRumoursByGame(
 			this.rumours,
 			this.viewMode === 'solved',
 			this.recentOnly,
 			this.legitRumourFilter,
-			this.wrongRumourFilter
+			this.wrongRumourFilter,
+			this.rumourmongerFilter
 		);
 	}
 

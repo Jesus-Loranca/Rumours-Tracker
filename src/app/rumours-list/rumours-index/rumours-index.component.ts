@@ -14,6 +14,7 @@ export class RumoursIndexComponent {
 	private _recentOnly = false;
 	private _legitRumourFilter = false;
 	private _wrongRumourFilter = false;
+	private _rumourmongerFilter = '';
 
 	public rumours: RumourListEntry[] = Array.isArray(rumoursListData)
 		? rumoursListData as RumourListEntry[]
@@ -68,13 +69,24 @@ export class RumoursIndexComponent {
 		return this._wrongRumourFilter;
 	}
 
+	@Input()
+	set rumourmongerFilter(value: string) {
+		this._rumourmongerFilter = value;
+		this.refreshCounts();
+	}
+
+	get rumourmongerFilter(): string {
+		return this._rumourmongerFilter;
+	}
+
 	private refreshCounts(): void {
 		this.rumoursIndexCounts = this.rumoursListIndexService.getRumourCountsByIndexLabel(
 			this.rumours,
 			this.viewMode === 'solved',
 			this.recentOnly,
 			this.legitRumourFilter,
-			this.wrongRumourFilter
+			this.wrongRumourFilter,
+			this.rumourmongerFilter
 		);
 	}
 
