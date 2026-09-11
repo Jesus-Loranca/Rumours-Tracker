@@ -24,6 +24,7 @@ export interface RumourListEntry {
 	date: string;
 	resolvedDate: string;
 	legitRumour: boolean;
+	wrongRumourReason?: string;
 }
 
 export interface RumourCategoryGroup {

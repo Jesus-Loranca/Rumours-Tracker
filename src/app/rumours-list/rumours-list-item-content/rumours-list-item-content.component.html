@@ -41,6 +41,11 @@
 					<p class="rumour-item-date">
 						{{ rumourDate }}
 					</p>
+					@if (wrongRumourReason) {
+					<div class="wrong-rumour-notice" role="status">
+						<strong>Wrong rumour:</strong> {{ wrongRumourReason }}
+					</div>
+					}
 				</div>
 				<div class="rumour-item-body">
 					@if (hasQuote) {

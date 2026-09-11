@@ -52,6 +52,11 @@ export class RumoursListItemContentComponent {
 		return this.formatDate(this.rumour.date);
 	}
 
+	public get wrongRumourReason(): string | null {
+		const reason = this.rumour?.wrongRumourReason?.trim();
+		return reason || null;
+	}
+
 	public get isReaction(): boolean {
 		return !!this.rumour.message?.isReaction;
 	}

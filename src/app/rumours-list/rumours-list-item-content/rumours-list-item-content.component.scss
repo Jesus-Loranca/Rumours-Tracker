@@ -87,6 +87,8 @@ $border: #e2e8f0;
 .resolved-text { display: block; margin-top: .4rem; font-size: .9rem; color: $dark; font-weight: 600; }
 .resolved-emoji { margin-left: .5rem; font-size: .95rem; vertical-align: middle; }
 
+.wrong-rumour-notice { margin-top: 1rem; padding: .85rem 1rem; background: #fef2f2; color: #7f1d1d; }
+
 .rumourmonger-link { display: inline-flex; align-items: center; margin-left: .5rem; color: $dark; text-decoration: none; }
 .rumourmonger-icon { font-size: .8em; color: #6b7280; transform: translateY(-.25em); }
 
