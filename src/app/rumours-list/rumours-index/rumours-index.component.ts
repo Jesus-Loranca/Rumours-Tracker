@@ -12,6 +12,8 @@ import type { TextObject } from '../../../@types/RumoursIndex';
 export class RumoursIndexComponent {
 	private _viewMode: 'active' | 'solved' = 'active';
 	private _recentOnly = false;
+	private _legitRumourFilter = false;
+	private _wrongRumourFilter = false;
 
 	public rumours: RumourListEntry[] = Array.isArray(rumoursListData)
 		? rumoursListData as RumourListEntry[]
@@ -46,11 +48,33 @@ export class RumoursIndexComponent {
 		return this._recentOnly;
 	}
 
+	@Input()
+	set legitRumourFilter(value: boolean) {
+		this._legitRumourFilter = value;
+		this.refreshCounts();
+	}
+
+	get legitRumourFilter(): boolean {
+		return this._legitRumourFilter;
+	}
+
+	@Input()
+	set wrongRumourFilter(value: boolean) {
+		this._wrongRumourFilter = value;
+		this.refreshCounts();
+	}
+
+	get wrongRumourFilter(): boolean {
+		return this._wrongRumourFilter;
+	}
+
 	private refreshCounts(): void {
 		this.rumoursIndexCounts = this.rumoursListIndexService.getRumourCountsByIndexLabel(
 			this.rumours,
 			this.viewMode === 'solved',
-			this.recentOnly
+			this.recentOnly,
+			this.legitRumourFilter,
+			this.wrongRumourFilter
 		);
 	}
 

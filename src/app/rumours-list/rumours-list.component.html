@@ -1,5 +1,6 @@
 <section class="rumours-list-page py-4">
-	<app-rumours-index [viewMode]="viewMode" [recentOnly]="recentOnly"></app-rumours-index>
+	<app-rumours-index [viewMode]="viewMode" [recentOnly]="recentOnly" [legitRumourFilter]="showLegitRumours"
+		[wrongRumourFilter]="showWrongRumours"></app-rumours-index>
 	<div class="container view-toggle-wrapper">
 		<div class="view-toggle-card" role="group" aria-label="Rumours view selector">
 			<a class="view-toggle-btn" [class.active]="viewMode === 'active'" [routerLink]="['/rumours-list']" [queryParams]="{ view: null }">Active</a>

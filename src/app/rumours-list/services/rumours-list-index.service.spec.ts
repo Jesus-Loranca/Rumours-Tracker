@@ -42,4 +42,18 @@ describe('RumoursListIndexService', () => {
 
     expect([...counts.values()].some(value => value > 0)).toBeTrue();
   });
+
+  it('applies legit and wrong rumour filters to index counts', () => {
+    const rumours = Array.isArray(rumoursListData)
+      ? rumoursListData as Array<Record<string, unknown>>
+      : Object.values(rumoursListData as Record<string, Record<string, unknown>>);
+
+    const legitRumours = service.filterRumours(rumours as any[], true, false, true, false);
+    const wrongRumours = service.filterRumours(rumours as any[], true, false, false, true);
+    const legitCounts = service.getRumourCountsByIndexLabel(rumours as any[], true, false, true, false);
+    const wrongCounts = service.getRumourCountsByIndexLabel(rumours as any[], true, false, false, true);
+
+    expect([...legitCounts.values()].reduce((total, count) => total + count, 0)).toBe(legitRumours.length);
+    expect([...wrongCounts.values()].reduce((total, count) => total + count, 0)).toBe(wrongRumours.length);
+  });
 });
