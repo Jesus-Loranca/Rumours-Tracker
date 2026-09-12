@@ -11671,10 +11671,10 @@
 		},
 		"miniature": {
 			"name": "Rock-hurlers",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/sons-of-behemat-boss-stompers-2026",
 			"image": {
 				"url": "2026-02-17-miniature.jpg",
-				"cdn": "https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/sundaypreview-sep06-aos-bossstompers-yuthop5ln4.jpg"
+				"cdn": "https://www.warhammer.com/app/resources/catalog/product/920x950/99120231002_SonsofBehematBossstompers02.jpg"
 			}
 		},
 		"tags": ["Age of Sigmar", "Destruction", "Sons of Behemat"]
@@ -12091,7 +12091,7 @@
 		},
 		"miniature": {
 			"name": "Ma Maegran, Chooser of the Mighty",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/sons-of-behemat-ma-maegran-chooser-of-the-mighty-2026",
 			"image": {
 				"url": "2026-07-21-miniature.jpg",
 				"cdn": "https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/sundaypreview-sep06-aos_01-mamaegran-tlnrs9fyms.jpg"
@@ -12111,7 +12111,7 @@
 		},
 		"miniature": {
 			"name": "Ma Maegran, Chooser of the Mighty",
-			"link": "",
+			"link": "https://www.warhammer.com/en-GB/shop/sons-of-behemat-ma-maegran-chooser-of-the-mighty-2026",
 			"image": {
 				"url": "2026-07-21-miniature.jpg",
 				"cdn": "https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/sundaypreview-sep06-aos_01-mamaegran-tlnrs9fyms.jpg"
