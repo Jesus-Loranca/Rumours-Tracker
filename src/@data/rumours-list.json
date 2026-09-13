@@ -241,7 +241,7 @@
 		],
 		"rumourmonger": "Whitefang back me up",
 		"date": "2025-02-19",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-13",
 		"legitRumour": true
 	},
 	{
@@ -268,7 +268,7 @@
 		],
 		"rumourmonger": "Nezzhil",
 		"date": "2025-07-18",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-13",
 		"legitRumour": true
 	},
 	{
@@ -603,7 +603,7 @@
 		],
 		"rumourmonger": "Nezzhil",
 		"date": "2025-09-03",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-13",
 		"legitRumour": true
 	},
 	{
@@ -630,7 +630,7 @@
 		],
 		"rumourmonger": "Nezzhil",
 		"date": "2025-09-03",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-13",
 		"legitRumour": true
 	},
 	{
@@ -934,7 +934,7 @@
 		],
 		"rumourmonger": "Whitefang",
 		"date": "2025-09-18",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-13",
 		"legitRumour": true
 	},
 	{
@@ -961,7 +961,7 @@
 		],
 		"rumourmonger": "Boole",
 		"date": "2025-09-18",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-13",
 		"legitRumour": true
 	},
 	{
@@ -990,7 +990,7 @@
 		],
 		"rumourmonger": "Boole",
 		"date": "2025-09-21",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-13",
 		"legitRumour": true
 	},
 	{
@@ -1017,7 +1017,7 @@
 		],
 		"rumourmonger": "Boole",
 		"date": "2025-09-21",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-13",
 		"legitRumour": true
 	},
 	{
@@ -1071,7 +1071,7 @@
 		],
 		"rumourmonger": "Boole",
 		"date": "2025-09-23",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-13",
 		"legitRumour": true
 	},
 	{
@@ -1295,7 +1295,7 @@
 		],
 		"rumourmonger": "Whitefang",
 		"date": "2025-10-02",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-13",
 		"legitRumour": true
 	},
 	{
@@ -1939,7 +1939,7 @@
 		],
 		"rumourmonger": "Boole",
 		"date": "2025-10-17",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-13",
 		"legitRumour": true
 	},
 	{
@@ -2312,7 +2312,7 @@
 		],
 		"rumourmonger": "Boole",
 		"date": "2025-11-09",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-13",
 		"legitRumour": true
 	},
 	{
@@ -3468,8 +3468,9 @@
 		],
 		"rumourmonger": "Reformation",
 		"date": "2025-11-21",
-		"resolvedDate": "",
-		"legitRumour": true
+		"resolvedDate": "2026-09-13",
+		"legitRumour": false,
+		"wrongRumourReason": "Khazalite Holds weren't the last tome of the edition, but the ones before last"
 	},
 	{
 		"game": "Age of Sigmar",
@@ -8084,7 +8085,37 @@
 			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=9113#findComment-804990"
 		],
 		"rumourmonger": "Whitefang back me up",
-		"date": "08-29-2026",
+		"date": "2026-08-29",
+		"resolvedDate": "2026-09-13",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Khazalite Holds",
+		"text": "After the Khazalite Holds official page leaked, Boole gave us more context about what we were seeing in the banner (very likely the army set box) and the rest of the army",
+		"message": {
+			"contents": [
+				"Storyteller's back!\nHaha, yay! I love them so much — even though they ditched the horns on their helmets, they're basically the Dwarf we all know and love!\nThose Cannon we all like are also coming back in two even bigger and fancier forms!\nHero can be Male or female — like in this picture, he's Thrynn — and whether male or female, they can all sit on a massive War Throne, a land-going dragon-headed warship far bigger than you can imagine, carrying heroes far more intricate than Katakros\nAh, and the classic Runewright!\nDon't forget these huge Gholems — these Orestone-powered creations are far more complex than you'd think. They can get completely different kits depending on whether they belong to Valaya or Gazul. We've heard that back in the Age of Myth, duardin lived alongside these gholemkind. By mining aether-veins, the two races built orestone together, which serves as the core of the gholems, providing animus and making them truly \"alive.\" At the same time, the animus also strengthens the surrounding duardin, making them even more valiant in battle. As long as the orestone isn't destroyed, the gholems can be reborn again and again with the help of the duardin.\nSo in this day and age, Kharzalites will stop at nothing to recover orestone to help their kin be reborn — they're as close as kins!\nFinally, Battlelines are split into Clanshield and Clangunner, and we guarantee you'll be blown away by the Clangunner!"
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=9155#findComment-806731"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-09-13",
 		"resolvedDate": "",
 		"legitRumour": true,
 		"wrongRumourReason": ""
