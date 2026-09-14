@@ -6858,13 +6858,15 @@
 		"game": "Warhammer Underworlds",
 		"edition": 0,
 		"category": "",
-		"text": "The upcoming Underworlds box cotaining two warbands will be released in September",
+		"text": "The upcoming Underworlds box cotaining two warbands would be released in September, but they are now delayed potentially to Christmas",
 		"message": {
 			"contents": [
-				"I've asked about UW. Thought it would be fitting an Ogors warband as part of the preview.\nAs far as I was told, time ago, a lonely warband is coming and then after that a vs box.\nI've been expanded. The vs box is coming in September.\nAlso, there's a non confirmed chance of another Sylvaneth band coming focused around trees, but it is uncertain."
+				"I've asked about UW. Thought it would be fitting an Ogors warband as part of the preview.\nAs far as I was told, time ago, a lonely warband is coming and then after that a vs box.\nI've been expanded. The vs box is coming in September.\nAlso, there's a non confirmed chance of another Sylvaneth band coming focused around trees, but it is uncertain.",
+				"I was asking about the UW rumours I was told (vs box for September), and then we talked about Darkwater.\nIn terms of UW he was surprised, but told me it is not the first time something has been delayed, so he is thinking about Xmas now."
 			],
 			"quotes": [
-				""
+				"",
+				"Did your anonymous source jump back in?\nIn any case, maybe they‘re the type of expansions Cursed City had or rather was supposed to have."
 			],
 			"images": [],
 			"isReaction": false
@@ -6875,7 +6877,8 @@
 		"isSadFace": false,
 		"isConfusedFace": false,
 		"source": [
-			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8848#findComment-793164"
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=8848#findComment-793164",
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=9173#findComment-807241"
 		],
 		"rumourmonger": "Ejecutor",
 		"date": "2026-06-22",
@@ -8179,6 +8182,126 @@
 			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=9162#findComment-806930"
 		],
 		"rumourmonger": "Boole",
+		"date": "2026-09-14",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
+		"game": "Warhammer Quest",
+		"edition": 4,
+		"category": "Darkwater",
+		"text": "Darkwater is going to have two expansions with minis and maps",
+		"message": {
+			"contents": [
+				"Apparently, there are two Darkwater expansions.\nOne is the one that is going to be announced in the preview, and there's another one pending.\nBoth of them have new maps and baddies."
+			],
+			"quotes": [
+				"Darkwater was used as an excuse to refresh a bunch of AoS minis.\nIf the new Warhammer Quest is Gloomspite flavoured ... what AoS minis would people expect to get replaced?"
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=9173#findComment-807226"
+		],
+		"rumourmonger": "Ejecutor",
+		"date": "2026-09-14",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
+		"game": "Warhammer Quest",
+		"edition": 4,
+		"category": "Darkwater",
+		"text": "Darkwater's first expansion would incluse some of the CoS 'Warhammer Heroes Series 7' miniatures",
+		"message": {
+			"contents": [
+				"From what i hear the WQ:Darkwater expansion is going to be some of the Cities of Sigmar blind box heroes with no extra baddies, and the Barnes and Noble set is the old Underworlds Witchunters in a starter set/beginner thing.\nSquigs are part of a Night Goblins Blood Bowl team."
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=9174#findComment-807301"
+		],
+		"rumourmonger": "Whitefang back me up",
+		"date": "2026-09-14",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Cities of Sigmar",
+		"text": "WF back me up thinks Cities of Sigmar could take the posterboys role from Stormcasts, but later than the 5th edition",
+		"message": {
+			"contents": [
+				"Not for next edition, but I think that its going that way."
+			],
+			"quotes": [
+				"Does cities of sigmar became the new AoS poster boys ?"
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=9175#findComment-807324"
+		],
+		"rumourmonger": "Whitefang back me up",
+		"date": "2026-09-14",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Khazalite Holds",
+		"text": "WF back me up confirms that the Khazalite Holds banner is a picture from the army box",
+		"message": {
+			"contents": [
+				"Are we assuming that the picture we have seen is the army box for Khazalites. Including the cannon in the background\nI wonder how points that is. I would assume that 3 golems is more points than one dominator engine from HoH. So hopefully it's a bit more elite than HoH ended up being\nI'm also wondering how Khazalites will be different from HoH."
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": true
+		},
+		"isLike": true,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=9175#findComment-807338"
+		],
+		"rumourmonger": "Whitefang back me up",
 		"date": "2026-09-14",
 		"resolvedDate": "",
 		"legitRumour": true,
