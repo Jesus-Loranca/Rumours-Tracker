@@ -8097,12 +8097,14 @@
 		"text": "After the Khazalite Holds official page leaked, Boole gave us more context about what we were seeing in the banner (very likely the army set box) and the rest of the army",
 		"message": {
 			"contents": [
-				"Storyteller's back!\nHaha, yay! I love them so much — even though they ditched the horns on their helmets, they're basically the Dwarf we all know and love!\nThose Cannon we all like are also coming back in two even bigger and fancier forms!\nHero can be Male or female — like in this picture, he's Thrynn — and whether male or female, they can all sit on a massive War Throne, a land-going dragon-headed warship far bigger than you can imagine, carrying heroes far more intricate than Katakros\nAh, and the classic Runewright!\nDon't forget these huge Gholems — these Orestone-powered creations are far more complex than you'd think. They can get completely different kits depending on whether they belong to Valaya or Gazul. We've heard that back in the Age of Myth, duardin lived alongside these gholemkind. By mining aether-veins, the two races built orestone together, which serves as the core of the gholems, providing animus and making them truly \"alive.\" At the same time, the animus also strengthens the surrounding duardin, making them even more valiant in battle. As long as the orestone isn't destroyed, the gholems can be reborn again and again with the help of the duardin.\nSo in this day and age, Kharzalites will stop at nothing to recover orestone to help their kin be reborn — they're as close as kins!\nFinally, Battlelines are split into Clanshield and Clangunner, and we guarantee you'll be blown away by the Clangunner!"
+				"Storyteller's back!\nHaha, yay! I love them so much — even though they ditched the horns on their helmets, they're basically the Dwarf we all know and love!\nThose Cannon we all like are also coming back in two even bigger and fancier forms!\nHero can be Male or female — like in this picture, he's Thrynn — and whether male or female, they can all sit on a massive War Throne, a land-going dragon-headed warship far bigger than you can imagine, carrying heroes far more intricate than Katakros\nAh, and the classic Runewright!\nDon't forget these huge Gholems — these Orestone-powered creations are far more complex than you'd think. They can get completely different kits depending on whether they belong to Valaya or Gazul. We've heard that back in the Age of Myth, duardin lived alongside these gholemkind. By mining aether-veins, the two races built orestone together, which serves as the core of the gholems, providing animus and making them truly \"alive.\" At the same time, the animus also strengthens the surrounding duardin, making them even more valiant in battle. As long as the orestone isn't destroyed, the gholems can be reborn again and again with the help of the duardin.\nSo in this day and age, Kharzalites will stop at nothing to recover orestone to help their kin be reborn — they're as close as kins!\nFinally, Battlelines are split into Clanshield and Clangunner, and we guarantee you'll be blown away by the Clangunner!\n[[image-2025-09-13_1.webp]]"
 			],
 			"quotes": [
 				""
 			],
-			"images": [],
+			"images": [
+				"image-2025-09-13_1.webp"
+			],
 			"isReaction": false
 		},
 		"isLike": false,
@@ -8146,6 +8148,38 @@
 		],
 		"rumourmonger": "Boole",
 		"date": "2026-09-13",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
+		"game": "Age of Sigmar",
+		"edition": 4,
+		"category": "Khazalite Holds",
+		"text": "Boole give us some rules and the detail of another unit",
+		"message": {
+			"contents": [
+				"My-my lord! Those short-things seem to have a new army, and they are war-waging against the bad short-things!\nYes-yes, I have already heard-heard. Those short-things use something called Grudge Marks to give themselves power\nSounds disgusting-disgusting!\nThe Eshin assassins say those short-things have a strange unit called Valayan Guardians\nAll of them are female, and they look similar to the one in this image\nThese defense-focused elite infantry have incredibly strong defensive ability, close-close to those bad short-things’ dominator engine. It is said they also have ward 4+\nWhat is ward?\nDon’t know-know. Maybe some terrible short-things weapon\nAt least I have never seen it on any other skaven  \nAs for those short-things gunners, these gunner units of 10 carry something that looks a lot like laser rifles\nLaser? What is that? Sounds like something human-things from another universe would use\nThese guns have power almost identical to warplock jezzails!\nAlso range18?\nCorrect-correct, and there are far-far more of them\nHow is that possible-possible?!\n[[image-2025-09-14_1.jpg]]"
+			],
+			"quotes": [
+				""
+			],
+			"images": [
+				"image-2025-09-14_1.jpg"
+			],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=9162#findComment-806930"
+		],
+		"rumourmonger": "Boole",
+		"date": "2026-09-14",
 		"resolvedDate": "",
 		"legitRumour": true,
 		"wrongRumourReason": ""
