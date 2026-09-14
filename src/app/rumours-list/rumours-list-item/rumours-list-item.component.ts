@@ -1,4 +1,4 @@
-import { Component, Input } from '@angular/core';
+import { Component, Input, OnDestroy } from '@angular/core';
 import type { RumourListEntry } from '../services/rumours-list-index.service';
 
 @Component({
@@ -7,7 +7,7 @@ import type { RumourListEntry } from '../services/rumours-list-index.service';
 	templateUrl: './rumours-list-item.component.html',
 	styleUrls: ['./rumours-list-item.component.scss']
 })
-export class RumoursListItemComponent {
+export class RumoursListItemComponent implements OnDestroy {
 	@Input() public rumour!: RumourListEntry;
 	public showContentModal = false;
 
@@ -34,10 +34,16 @@ export class RumoursListItemComponent {
 			return;
 		}
 		this.showContentModal = true;
+		document.body.classList.add('modal-open');
 	}
 
 	public closeContentModal(): void {
 		this.showContentModal = false;
+		document.body.classList.remove('modal-open');
+	}
+
+	public ngOnDestroy(): void {
+		document.body.classList.remove('modal-open');
 	}
 
 	showRumourReactionIcon(rumour: RumourListEntry): string {
