@@ -8336,5 +8336,35 @@
 		"resolvedDate": "",
 		"legitRumour": true,
 		"wrongRumourReason": ""
+	},
+	{
+		"game": "Warcry",
+		"edition": 0,
+		"category": "",
+		"text": "Rob, The Honest Wargamer, speaks about a new skirmish game for AoS whose lead designer would be Jay Clare",
+		"message": {
+			"contents": [
+				"The rumours are, and this are my rumours, not Boole's rumours, uh, that there is a Warhammer skirmish game coming pout for AoS. Uh, which is pretty great news. Think Mordheim, I guess. Um, and it is great knows because one of the best designers GW has went from MESBG over to the AoS design studio a couple of years ago. Uh, so he would have be working on something similar, and that's really exciting. Everyone says MESBG is an amazing game, super fun. So having a designer with years of experiencie, years of experience, going over to AoS to design a new game system for everyone to play, super fun. Yeah. Age of Sigmarheim or something."
+			],
+			"quotes": [
+				""
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://youtu.be/Z-f-DpAT16o?si=0_Pf3dtBqhtD3rPq&t=1220"
+		],
+		"rumourmonger": "Rob, the Honest Wargamer",
+		"date": "2026-09-14",
+		"resolvedDate": "",
+		"legitRumour": true,
+		"wrongRumourReason": ""
 	}
 ]
