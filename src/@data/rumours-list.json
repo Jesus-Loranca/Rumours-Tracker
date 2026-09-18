@@ -1044,7 +1044,7 @@
 		],
 		"rumourmonger": "Boole",
 		"date": "2025-09-21",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-18",
 		"legitRumour": true
 	},
 	{
@@ -1508,8 +1508,9 @@
 		],
 		"rumourmonger": "Noserenda",
 		"date": "2025-10-13",
-		"resolvedDate": "",
-		"legitRumour": true
+		"resolvedDate": "2026-09-18",
+		"legitRumour": false,
+		"wrongRumourReason": "They didn't release such units"
 	},
 	{
 		"game": "Age of Sigmar",
@@ -1536,7 +1537,7 @@
 		],
 		"rumourmonger": "Whitefang",
 		"date": "2025-10-13",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-18",
 		"legitRumour": true
 	},
 	{
@@ -1564,7 +1565,7 @@
 		],
 		"rumourmonger": "Whitefang",
 		"date": "2025-10-13",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-18",
 		"legitRumour": true
 	},
 	{
@@ -2226,7 +2227,7 @@
 		],
 		"rumourmonger": "Nezzhil",
 		"date": "2025-11-09",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-18",
 		"legitRumour": true
 	},
 	{
@@ -2340,7 +2341,7 @@
 		],
 		"rumourmonger": "Boole",
 		"date": "2025-11-10",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-18",
 		"legitRumour": true
 	},
 	{
@@ -2368,7 +2369,7 @@
 		],
 		"rumourmonger": "Boole",
 		"date": "2025-11-10",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-18",
 		"legitRumour": true
 	},
 	{
@@ -2396,7 +2397,7 @@
 		],
 		"rumourmonger": "Whitefang",
 		"date": "2025-11-10",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-18",
 		"legitRumour": true
 	},
 	{
@@ -2424,7 +2425,7 @@
 		],
 		"rumourmonger": "Whitefang",
 		"date": "2025-11-10",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-18",
 		"legitRumour": true
 	},
 	{
@@ -3497,7 +3498,7 @@
 		],
 		"rumourmonger": "Reformation",
 		"date": "2025-11-21",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-18",
 		"legitRumour": true
 	},
 	{
@@ -3525,7 +3526,7 @@
 		],
 		"rumourmonger": "Reformation",
 		"date": "2025-11-21",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-18",
 		"legitRumour": true
 	},
 	{
@@ -3558,7 +3559,7 @@
 		],
 		"rumourmonger": "Reformation",
 		"date": "2025-11-22",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-18",
 		"legitRumour": true
 	},
 	{
@@ -3957,7 +3958,7 @@
 		],
 		"rumourmonger": "Boole",
 		"date": "2025-12-17",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-18",
 		"legitRumour": true
 	},
 	{
@@ -4353,7 +4354,7 @@
 		],
 		"rumourmonger": "Boole",
 		"date": "2026-01-16",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-18",
 		"legitRumour": true
 	},
 	{
@@ -7079,7 +7080,7 @@
 		],
 		"rumourmonger": "Boole",
 		"date": "2026-07-06",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-18",
 		"legitRumour": true
 	},
 	{
@@ -7135,7 +7136,7 @@
 		],
 		"rumourmonger": "Boole",
 		"date": "2026-07-06",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-18",
 		"legitRumour": true
 	},
 	{
@@ -7277,7 +7278,7 @@
 		],
 		"rumourmonger": "Boole",
 		"date": "2026-07-15",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-18",
 		"legitRumour": true
 	},
 	{
@@ -7712,7 +7713,7 @@
 		],
 		"rumourmonger": "Whitefang back me up",
 		"date": "2026-08-13",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-18",
 		"legitRumour": true
 	},
 	{
@@ -7906,7 +7907,7 @@
 		],
 		"rumourmonger": "Whitefang back me up",
 		"date": "2026-08-14",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-18",
 		"legitRumour": true,
 		"wrongRumourReason": ""
 	},
@@ -7936,7 +7937,7 @@
 		],
 		"rumourmonger": "Whitefang back me up",
 		"date": "2026-08-14",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-18",
 		"legitRumour": true,
 		"wrongRumourReason": ""
 	},
@@ -7969,7 +7970,7 @@
 		],
 		"rumourmonger": "Whitefang back me up",
 		"date": "2026-08-14",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-18",
 		"legitRumour": true,
 		"wrongRumourReason": ""
 	},
@@ -8121,7 +8122,7 @@
 		],
 		"rumourmonger": "Boole",
 		"date": "2026-09-13",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-18",
 		"legitRumour": true,
 		"wrongRumourReason": ""
 	},
@@ -8151,7 +8152,7 @@
 		],
 		"rumourmonger": "Boole",
 		"date": "2026-09-13",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-18",
 		"legitRumour": true,
 		"wrongRumourReason": ""
 	},
@@ -8183,7 +8184,7 @@
 		],
 		"rumourmonger": "Boole",
 		"date": "2026-09-14",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-18",
 		"legitRumour": true,
 		"wrongRumourReason": ""
 	},
@@ -8194,7 +8195,37 @@
 		"text": "Darkwater is going to have two expansions with minis and maps",
 		"message": {
 			"contents": [
-				"Apparently, there are two Darkwater expansions.\nOne is the one that is going to be announced in the preview, and there's another one pending.\nBoth of them have new maps and baddies."
+				"Apparently, there are two Darkwater expansions.\nOne is the one that is going to be announced in the preview, and there's another one pending.\nBoth of them have new maps and minis."
+			],
+			"quotes": [
+				"Darkwater was used as an excuse to refresh a bunch of AoS minis.\nIf the new Warhammer Quest is Gloomspite flavoured ... what AoS minis would people expect to get replaced?"
+			],
+			"images": [],
+			"isReaction": false
+		},
+		"isLike": false,
+		"isThanks": false,
+		"isLoveIt": false,
+		"isSadFace": false,
+		"isConfusedFace": false,
+		"isLaughFace": false,
+		"source": [
+			"https://www.tga.community/forums/topic/22826-the-rumour-thread/?page=9173#findComment-807226"
+		],
+		"rumourmonger": "Ejecutor",
+		"date": "2026-09-14",
+		"resolvedDate": "2026-09-18",
+		"legitRumour": true,
+		"wrongRumourReason": ""
+	},
+	{
+		"game": "Warhammer Quest",
+		"edition": 4,
+		"category": "Darkwater",
+		"text": "Darkwater is going to have a second expansion",
+		"message": {
+			"contents": [
+				"Apparently, there are two Darkwater expansions.\nOne is the one that is going to be announced in the preview, and there's another one pending.\nBoth of them have new maps and minis."
 			],
 			"quotes": [
 				"Darkwater was used as an excuse to refresh a bunch of AoS minis.\nIf the new Warhammer Quest is Gloomspite flavoured ... what AoS minis would people expect to get replaced?"
@@ -8243,7 +8274,7 @@
 		],
 		"rumourmonger": "Whitefang back me up",
 		"date": "2026-09-14",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-18",
 		"legitRumour": true,
 		"wrongRumourReason": ""
 	},
@@ -8303,7 +8334,7 @@
 		],
 		"rumourmonger": "Whitefang back me up",
 		"date": "2026-09-14",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-18",
 		"legitRumour": true,
 		"wrongRumourReason": ""
 	},
