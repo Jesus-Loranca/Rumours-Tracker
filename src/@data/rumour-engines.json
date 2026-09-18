@@ -11001,23 +11001,23 @@
 	},
 	{
 		"date": "2025-09-03",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-19",
 		"link": "https://www.warhammer-community.com/en-gb/articles/bse9qadn/the-future-of-age-of-sigmar-can-you-work-out-whats-coming-next/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/evmkzloa/the-big-autumn-preview-a-new-duardin-faction-revealed/",
+		"resolvedEvent": "The Big Autumn Preview",
 		"rumourEngineImage": {
 			"url": "2025-09-03.jpg",
 			"cdn": "https://assets.warhammer-community.com/aos_nostalgia5-sep3-teasers-dboo697ws3.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Ormyr and Ashtongue",
 			"link": "",
 			"image": {
 				"url": "2025-09-03_3-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/image9-08-1finnmdufp.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Order", "Fyreslayers"]
 	},
 	{
 		"date": "2025-09-03",
@@ -12121,142 +12121,142 @@
 	},
 	{
 		"date": "2026-08-04",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-19",
 		"link": "https://www.warhammer-community.com/en-gb/articles/wy36xf7s/the-rumour-engine-4th-of-august/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/4alvkmwb/the-big-autumn-preview-new-seraphon-sighted/",
+		"resolvedEvent": "The Big Autumn Preview",
 		"rumourEngineImage": {
 			"url": "2026-08-04.jpg",
 			"cdn": "https://assets.warhammer-community.com/articles/0-2026/august/wc03-08/rumourengine-aug04-0-content-ofcvapg6v5.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Blessed Tetaxi, Prophet of Tepok",
 			"link": "",
 			"image": {
 				"url": "2026-08-04-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/image1-10-bvhmy5xuve.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Order", "Seraphon"]
 	},
 	{
 		"date": "2026-08-11",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-19",
 		"link": "https://www.warhammer-community.com/en-gb/articles/zdofpdp6/the-rumour-engine-11th-of-august/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/evmkzloa/the-big-autumn-preview-a-new-duardin-faction-revealed/",
+		"resolvedEvent": "The Big Autumn Preview",
 		"rumourEngineImage": {
 			"url": "2026-08-11.jpg",
 			"cdn": "https://assets.warhammer-community.com/articles/0-2026/august/wc10-08/rumourengine-aug11-0-content-ad6jiiqwjw.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "High Kyng Valankrom",
 			"link": "",
 			"image": {
 				"url": "2026-08-11-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/image5-08-vkcdtn531x.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Order", "Khazalite Holds"]
 	},
 	{
 		"date": "2026-08-18",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-19",
 		"link": "https://www.warhammer-community.com/en-gb/articles/zdofpdp6/the-rumour-engine-18th-of-august/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/6pknf9l6/the-big-autumn-preview-new-tomb-kings-march-out/",
+		"resolvedEvent": "The Big Autumn Preview",
 		"rumourEngineImage": {
 			"url": "2026-08-18.jpg",
 			"cdn": "https://assets.warhammer-community.com/articles/0-2026/august/wc17-08/rumourengine-aug18-0-content-mmlghnbsa8.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Skeleton Chariots",
 			"link": "",
 			"image": {
 				"url": "2026-08-18-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/image4-05-imr6frxikr.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["The Old World", "Tomb Kings of Khemri"]
 	},
 	{
 		"date": "2026-08-25",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-19",
 		"link": "https://www.warhammer-community.com/en-gb/articles/zdofpdp6/the-rumour-engine-25th-of-august/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/evmkzloa/the-big-autumn-preview-a-new-duardin-faction-revealed/",
+		"resolvedEvent": "The Big Autumn Preview",
 		"rumourEngineImage": {
 			"url": "2026-08-25.jpg",
 			"cdn": "https://assets.warhammer-community.com/articles/0-2026/august/wc24-08/rumourengine-aug25-0-content-6iqfkvz3mk.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Oathkeeper Cannon",
 			"link": "",
 			"image": {
 				"url": "2026-08-25-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/image2-08-oml964mfpj.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Order", "Khazalite Holds"]
 	},
 	{
 		"date": "2026-09-01",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-19",
 		"link": "https://www.warhammer-community.com/en-gb/articles/p4xwxdoe/the-rumour-engine-1st-of-september/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/evmkzloa/the-big-autumn-preview-a-new-duardin-faction-revealed/",
+		"resolvedEvent": "The Big Autumn Preview",
 		"rumourEngineImage": {
 			"url": "2026-09-01.jpg",
 			"cdn": "https://assets.warhammer-community.com/articles/0-2026/august/wc31-08/rumourengine-sep01-0-content-ebohzjj4kr.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Thrynn",
 			"link": "",
 			"image": {
 				"url": "2026-09-01-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/image3-08-hry4qsqhxv.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Order", "Khazalite Holds"]
 	},
 	{
 		"date": "2026-09-08",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-19",
 		"link": "https://www.warhammer-community.com/en-gb/articles/ibkg5wrj/the-rumour-engine-8th-of-september/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/ltbqrokb/the-big-autumn-preview-the-legion-of-the-damned-enter-the-killzone/",
+		"resolvedEvent": "The Big Autumn Preview",
 		"rumourEngineImage": {
 			"url": "2026-09-08.jpg",
 			"cdn": "https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/rumourengine-sep08-0-content-ytbfjeksx4.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Legion of the Damned",
 			"link": "",
 			"image": {
-				"url": "2026-09-08-miniature.jpg",
-				"cdn": ""
+				"url": "2026-09-08-miniature.png",
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/carousel1a-12-m2utvuyr0w.png"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Kill Team", "Space Marines", "Legion of the Damned"]
 	},
 	{
 		"date": "2026-09-15",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-19",
 		"link": "https://www.warhammer-community.com/en-gb/articles/ibkg5wrj/the-rumour-engine-15th-of-september/",
-		"resolvedLink": "",
-		"resolvedEvent": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/4alvkmwb/the-big-autumn-preview-new-seraphon-sighted/",
+		"resolvedEvent": "The Big Autumn Preview",
 		"rumourEngineImage": {
 			"url": "2026-09-15.jpg",
 			"cdn": "https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/rumourengine-sep15-0-content-1a5sg8acd5.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Blessed Tetaxi, Prophet of Tepok",
 			"link": "",
 			"image": {
-				"url": "2026-09-15-miniature.jpg",
-				"cdn": ""
+				"url": "2026-08-04-miniature.jpg",
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/big-autumn-preview/image1-10-bvhmy5xuve.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Age of Sigmar", "Order", "Seraphon"]
 	}
 ]
