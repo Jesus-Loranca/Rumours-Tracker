@@ -36,6 +36,7 @@ export class RumoursListItemsComponent {
 		'idoneth-deepkin.png',
 		'ironjawz.png',
 		'kharadron-overlords.png',
+		'khazalite-holds.png',
 		'kruleboyz.png',
 		'lumineth-realm-lords.png',
 		'maggotkin-of-nurgle.png',
