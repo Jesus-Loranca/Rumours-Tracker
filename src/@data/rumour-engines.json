@@ -12261,22 +12261,22 @@
 	},
 	{
 		"date": "2026-09-22",
-		"resolvedDate": "",
+		"resolvedDate": "2026-09-28",
 		"link": "https://www.warhammer-community.com/en-gb/articles/ibkg5wrj/the-rumour-engine-22nd-of-september/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/tuafs5pk/new-orlocks-revealed-for-necromunda/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2026-09-22.jpg",
 			"cdn": "https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/rumourengine-sep22-0-content-wa9eojpajy.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Ogryn Minders",
 			"link": "",
 			"image": {
 				"url": "2026-09-22-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/28-09_nec_image1-j4uy0lphgc.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["40.000", "Necromunda", "Orlocks"]
 	}
 ]
