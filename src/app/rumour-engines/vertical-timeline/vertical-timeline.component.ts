@@ -1,5 +1,5 @@
 import { Component, HostListener, Input, ChangeDetectionStrategy } from '@angular/core';
-import { RumourEngine } from 'src/@types/RumourEngine';
+import { RumourEngine } from '../../../@types/RumourEngine';
 import { DateService } from '../services/date.service';
 
 @Component({

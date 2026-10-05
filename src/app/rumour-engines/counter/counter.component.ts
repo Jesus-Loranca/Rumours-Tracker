@@ -1,5 +1,5 @@
 import { Component, Input, ChangeDetectionStrategy } from '@angular/core';
-import { RumourEngine } from 'src/@types/RumourEngine';
+import { RumourEngine } from '../../../@types/RumourEngine';
 
 @Component({
   selector: 'counter',

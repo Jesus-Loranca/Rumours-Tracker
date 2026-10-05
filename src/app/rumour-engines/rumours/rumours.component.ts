@@ -1,5 +1,5 @@
 import { Component, ChangeDetectionStrategy } from '@angular/core';
-import { RumourEngine } from 'src/@types/RumourEngine';
+import { RumourEngine } from '../../../@types/RumourEngine';
 import { RumourEnginesService } from '../services/rumour-engines.service';
 
 @Component({

@@ -1,6 +1,6 @@
 import { Injectable, signal, computed } from '@angular/core';
 import * as rumourEnginesData from '../../../@data/rumour-engines.json';
-import { RumourEngine } from 'src/@types/RumourEngine';
+import { RumourEngine } from '../../../@types/RumourEngine';
 
 @Injectable({
   providedIn: 'root'
