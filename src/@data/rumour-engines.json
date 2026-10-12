@@ -12281,23 +12281,23 @@
 	},
 	{
 		"date": "2026-09-29",
-		"resolvedDate": "",
+		"resolvedDate": "2026-10-12",
 		"link": "https://www.warhammer-community.com/en-gb/articles/ibkg5wrj/the-rumour-engine-29th-of-september/",
-		"resolvedLink": "",
+		"resolvedLink": "https://www.warhammer-community.com/en-gb/articles/ptpqgwlf/revealed-ripper-bolgrot-and-fungus-take-to-the-gridiron/",
 		"resolvedEvent": "",
 		"rumourEngineImage": {
 			"url": "2026-09-29.jpg",
 			"cdn": "https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/rumourengine-sep29-0-content-0kuwa7wck2.jpg"
 		},
 		"miniature": {
-			"name": "",
+			"name": "Ripper Bolgrot ",
 			"link": "",
 			"image": {
 				"url": "2026-09-29-miniature.jpg",
-				"cdn": ""
+				"cdn": "https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/image1-aefmtjzwfb.jpg"
 			}
 		},
-		"tags": []
+		"tags": ["Blood Bowl", "Goblins"]
 	},
 	{
 		"date": "2026-10-06",
