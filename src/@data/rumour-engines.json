@@ -12318,5 +12318,25 @@
 			}
 		},
 		"tags": []
+	},
+	{
+		"date": "2026-10-13",
+		"resolvedDate": "",
+		"link": "https://www.warhammer-community.com/en-gb/articles/tgjsyusj/the-rumour-engine-13th-of-october/",
+		"resolvedLink": "",
+		"resolvedEvent": "",
+		"rumourEngineImage": {
+			"url": "2026-10-13.jpg",
+			"cdn": "https://assets.warhammer-community.com/articles/0-2026/october/wc12-10/rumourengine-oct13-0-content-cznznomdum.jpg"
+		},
+		"miniature": {
+			"name": "",
+			"link": "",
+			"image": {
+				"url": "2026-10-13-miniature.jpg",
+				"cdn": ""
+			}
+		},
+		"tags": []
 	}
 ]
