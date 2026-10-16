@@ -4,3 +4,13 @@ publish = "dist/rumours-tracker"
 
 [build.environment]
 NODE_VERSION = "24.15.0"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+  force = true
+  [redirects.rate_limit]
+    window_size = 60
+    window_limit = 30
+    aggregate_by = ["ip"]
