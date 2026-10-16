@@ -125,7 +125,7 @@ export class RumoursListItemsComponent {
 	public getCategoryLogoUrl(label: string): string | null {
 		const slug = this.slugify(label);
 		const logoFile = this.categoryLogoFiles.find(file => file.startsWith(`${slug}.`));
-		return logoFile ? `/assets/images/rumours-list/logos/optimized/${logoFile}` : null;
+		return logoFile ? `assets/images/rumours-list/logos/optimized/${logoFile}` : null;
 	}
 
 	public slugify(value: string): string {
